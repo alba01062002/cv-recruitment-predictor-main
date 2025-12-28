@@ -13,7 +13,7 @@ data/selected/*
 data/raw/*
 data/refined/*
 data/processed/*
-!data/labels.csv
+data/labels.csv
 
 # macOS specific files
 .DS_Store
