@@ -27,3 +27,12 @@ output/logs/*
 .env
 .venv/
 *.log
+.venv/
+.vscode/
+output/
+logs/
+models/
+reports/
+*.npz
+*.npy
+*.joblib
