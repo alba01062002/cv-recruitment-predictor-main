@@ -1,0 +1,140 @@
+{
+    "personal_information_normalized": {
+        "full_name": "María Teresa Lallana Saldá",
+        "date_of_birth": "09/02/1994",
+        "gender": "female",
+        "age_reference_year": 2020,
+        "age": 26,
+        "email": "mt.lallana@qmail.com",
+        "phone": "+34 620 234 075",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor in Electromechanical Engineering, specializing in the electrical field",
+            "field": "Electrical and Electronic Engineering",
+            "university": "Superior School of Engineering, Pontifical University of Comillas, ICAI",
+            "location": "Madrid, Spain",
+            "year": "2014-2017",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Master in Industrial Engineering",
+            "field": "",
+            "university": "Superior School of Engineering, Pontifical University of Comillas, ICAI",
+            "location": "Madrid, Spain",
+            "year": "Enrolled",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Final Project in Data Analytics: Convolutional Neural Network Techniques for Monitoring",
+            "field": "",
+            "university": "Superior School of Engineering, Pontifical University of Comillas, ICAI",
+            "location": "Madrid, Spain",
+            "year": "2023",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Fluideco, Fluid Engineering Company",
+            "position": "Intern, Sampling and Dosing Dept.",
+            "description": "Draftsmans work: communication skills with other departments, team work with our own, attention to detail, dealing with suppliers and sending documents for approval to the client.",
+            "start_date": "06/2014",
+            "end_date": "09/2014",
+            "duration_years": 0.25
+        },
+        {
+            "company": "Siemens Madrid, Spain",
+            "position": "Intern, Energy Management Division, Product Department",
+            "description": "Tender preparation for control and protection systems. Documentation process of tender elaboration. Managing and realization of the technical specification tables for each product. Support in the registry of new offers in CRM (Customer Relationship Management).",
+            "start_date": "02/2019",
+            "end_date": "08/2019",
+            "duration_years": 0.5
+        },
+        {
+            "company": "ICAM, French University-level Institute Toulouse, France",
+            "position": "Assistant Engineer, Division of Business Services",
+            "description": "i+d project for Continental: design of a pick and place solution, implantation of the solution in a line of production, programming of a collaborative robot, implementation of a vision system, testing of different prehension devices and electrical and electronical connections between the different parts of the solution.",
+            "start_date": "01/2018",
+            "end_date": "07/2018",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+",
+            "country": "France",
+            "institution_or_company": "ICAM, Toulouse",
+            "start_date": "",
+            "end_date": "",
+            "description": "Not specified in the text",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Word",
+            "Excel",
+            "CRM",
+            "MATLAB",
+            "AutoCAD",
+            "SolidEdge",
+            "SPSS",
+            "StatsGraphics",
+            "In-Sight Explorer",
+            "CATIA",
+            "Arena",
+            "CYPELEC",
+            "GAMS",
+            "RobotDK",
+            "PSSE",
+            "ChemCad",
+            "TIA Portal",
+            "R",
+            "C",
+            "Arduino",
+            "PolyScope UR"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Engineering",
+            "Communication",
+            "Written Communication",
+            "Persuasive Communication"
+        ]
+    },
+    "other_interests_normalized": [
+        "Reading",
+        "Writing",
+        "Skiing",
+        "Hiking",
+        "Swimming",
+        "Travelling"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 1.25,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.4
+}

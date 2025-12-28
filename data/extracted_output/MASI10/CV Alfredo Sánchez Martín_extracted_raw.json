@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "alfredo sánchez martín > edad: > dirección: > movil: > e-mail: 26 c/austria, 10, bajo 8 28943 fuenlabrada (madrid) 0034609456800 alfrsanchez@hotmail.com formación académica > 2002 2007 ingeniería técnica en telecomunicaciones especialidad en sistema electrónicos institución: universidad politécnica de madrid. descripción: se puede ver el plan de estudios en: http://www. euitt.upm.es/estudios/plan2000/electronica escogí el campo de la visión artificial para realizar el proyecto de fin de carrera el cual perseguía como objetivo conseguir la conducción automática de vehículos. el sistema recibía una seal de vídeo en tiempo real, y a través de su procesado se recalculaba la trayectoria del vehículo detectando las líneas de la vía. el sistema se simuló en matlab y se realizó el diseo hardware para ser volcado en una fpa (usada como procesador central). calificación: matrícula de honor. experiencia > 2008 act. empresa: zed puesto: programador júnior. descripción: programador en java - j2me y j2ee, desarrollando aplicaciones para pc y dispositivos móviles. > 2008 (ene jun) empresa: indra > 2006 2007 alfredo sánchez martín puesto: programador júnior. descripción: programador en java, utilizando nacar para desarrollar aplicaciones de la infraestructura del bbva. empresa: atos origin descripción: asesor informático encargado de dar mantenimiento de ordenadores y aplicaciones de la propiedad de icm. formación complementaria > 2008 octubre > 2008 - enero > 2003 2004 curso certificado de scrum, (proceso iterativo incremental de desarrollo software ). 18 horas. institución: zed. 18 horas. curso de java (j2se, j2db y j2ee institución: indra. 130 horas. curso técnico en mantenimiento y reparación de ordenadores. institución: máster-d. 300 horas. % en las prácticas de la universidad he desarrollado diversas aplicaciones a través de la programación de un micro-controlador y una fpga, ambos integrados en una placa base, que a su vez dispone de un teclado, lcd, display, microswitchs, puerto uart, puerto lpt, etc. la duración de estas prácticas fue de dos cursos académicos desarrollando aplicaciones como por ejemplo un generador de frecuencias, una máquina dispensadora, un reloj-cronómetro-alarma y sistemas de control de semáforos entre muchas otras. idiomas inglés: > 2007 2008 espaol: nivel intermedio - avanzado una vez finalizados los estudios de ingeniería, estuve en inglaterra con el fin de mejorar mi inglés. por ello dispongo de un certificado de cuatro meses de clases de inglés. lengua nativa informática lenguajes de programación: alfredo sánchez martín > c, c++: nivel intermedio. > html: nivel alto. > java: j2me: nivel alto. jsp, servlets y jdbc. java script: nivel intermedio > xsl: nivel intermedio.. diseo hardware y simulación: > vhdl: nivel alto. > matlab: nivel intermedio. > labview nivel intermedio. herramientas de gestion: > word, excel y project > racional rouse. descripción del perfil > gran capacidad de aprendizaje. > comprometido con mi trabajo. > formal y trabajador. aficiones > aeromodelismo. me apasiona el vuelo a radio control de helicópteros y aviones. construyo mis propios modelos. > jugar al pádel. > la pesca. otros datos de interés > carné de conducir b. no dispongo de vehículo propio. > disponibilidad en jornada completa. actualización 01/09/2009 alfredo sánchez martín 3",
+    "text_from_header": "ALFREDO SÁNCHEZ MARTÍN",
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

@@ -1,0 +1,94 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge A. Fernández de Casadevante",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "jorgefdezde@gmail.com",
+        "phone": "+34-682398984",
+        "address": "",
+        "LinkedIn": "https://linkedin.com/in/jorge-casadevante/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeronáutica",
+            "field": "Aeroespacial",
+            "university": "Universidad de León",
+            "location": "León, España",
+            "year": "2016-2021",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Ejército del Aire (Prácticas)",
+            "position": "Becario en Prácticas",
+            "description": "Experiencia laboral dentro del Ala 14, grupo de supervisión de mantenimiento del Eurofighter Typhoon.",
+            "start_date": "01/2019",
+            "end_date": "08/2019",
+            "duration_years": 0.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Matlab",
+            "C1"
+        ],
+        [
+            "Autocad/fusion360",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Visual Studio",
+            "C#",
+            "WPF",
+            "Ansys",
+            "OpenFOAM",
+            "Matlab",
+            "AutoCAD",
+            "Fusion360"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Tecnología",
+        "Ciclismo",
+        "Bricolaje",
+        "Simuladores de automovilismo"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.58,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.1
+}

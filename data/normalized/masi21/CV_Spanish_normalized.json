@@ -1,0 +1,116 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Serrano Gaspar",
+        "date_of_birth": "21/03/1991",
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": 30,
+        "email": "daniel.serrano.gaspare(wgmail.com",
+        "phone": "+34 650 250 162",
+        "address": "9 avenida ferrandis salvador 33 3c, Castellón, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Mecánica",
+            "field": "Ingeniería Mecánica",
+            "university": "Universidad Politécnica de Valencia",
+            "location": "Valencia",
+            "year": "2014-2020",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Toyota Motor Europe",
+            "position": "Ingeniero de Calidad en Vehicle Logistics Group",
+            "description": "Trabajando en la Oficina Central de Operaciones de Bruselas, realizando instalación de accesorios post producción, aplicando técnicas de Lean Manufacturing y mejora continua.",
+            "start_date": "01/2019",
+            "end_date": "06/2019",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Toyota Motor Europe",
+            "position": "Ingeniero de Calidad en Vehicle Logistics Group",
+            "description": "Estancia de 14 semanas en la Oficina Central de Operaciones en Bruselas, aprendiendo cómo funciona el Vehicles Logistics y aplicando herramientas Lean Manufacturing.",
+            "start_date": "06/2019",
+            "end_date": "08/2019",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Toyota Motor Europe",
+            "position": "Ingeniero de Calidad en Vehicle Logistics Group",
+            "description": "Estancia de 6 semanas en la Campa de Derby (Reino Unido), implementando y optimizando las reparaciones externas para lograr una trazabilidad óptima.",
+            "start_date": "09/2019",
+            "end_date": "10/2019",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Toyota Motor Europe",
+            "position": "Ingeniero de Calidad en Vehicle Logistics Group",
+            "description": "Estancia de 4 semanas en Valencia (España), implementando técnicas de ahorro de tiempo y seguridad en los dispositivos DTC de los vehículos Toyota y Lexus.",
+            "start_date": "10/2019",
+            "end_date": "11/2019",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus +",
+            "country": "Turquía",
+            "institution_or_company": "Universidad de Gazi",
+            "start_date": "",
+            "end_date": "",
+            "description": "Estancia de un año en la Universidad de Gazi, conociendo y adaptándose a diferentes culturas.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "Word",
+            "PowerPoint",
+            "Access",
+            "AutoCAD",
+            "Inventor",
+            "SAP2000",
+            "Adobe Premiere Pro",
+            "Pinnacle Studio"
+        ],
+        "soft_skills": [
+            "Liderazgo",
+            "Trabajo en Equipo",
+            "Resolutivo",
+            "Responsable de Calidad",
+            "Creatividad",
+            "Organización"
+        ]
+    },
+    "other_interests_normalized": [
+        "Pasión por reconstruir e identificar los fallos en motos de agua"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.75,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 29,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

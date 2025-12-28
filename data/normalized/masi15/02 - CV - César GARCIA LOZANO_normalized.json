@@ -1,0 +1,158 @@
+{
+    "personal_information_normalized": {
+        "full_name": "César García Lozano",
+        "date_of_birth": "19/09/1989",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 26,
+        "email": "cesargl890hotmail.com",
+        "phone": "+34 686 94 21 72",
+        "address": "C/ Angustias 11, 47003 Valladolid (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Title of Aeronautical Engineer",
+            "field": "Aerospace Engineering",
+            "university": "Alcalá de Henares University, Madrid",
+            "location": "Madrid",
+            "year": "2013-2014",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Master's Degree in Professional Development",
+            "field": "",
+            "university": "N/A (Completed final project in July)",
+            "location": "N/A",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Aeronautical Engineering",
+            "field": "Aircraft Specialty",
+            "university": "Aerospace Engineering School, Madrid (ETSI.A)",
+            "location": "Madrid",
+            "year": "2007-2013",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space",
+            "position": "Internship in MRO Quality Department",
+            "description": "Providing support in verification and documentation for a400m, a-310 programs, handling customer discrepancies, staff skills control, easa part 145 certifications, pream 145 certifications, moe maintenance, and a400m accreditations. Using sap system and managing quality costs.",
+            "start_date": "Nov. 2014",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Cadena Ser Spanish Radio Central Studios",
+            "position": "Sound Technician (Part-time)",
+            "description": "Recording events and places, filming and editing the final product using pictures or HD video.",
+            "start_date": "Mar. 2015",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Drogheda Arts Center, Drogheda (Ireland)",
+            "position": "Sound and Lights Technician",
+            "description": "Responsible for sound and lights during shows.",
+            "start_date": "Jan. 2015",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Drogheda Arts Center, Drogheda (Ireland)",
+            "position": "Sound and Lights Technician in Show 'Antonio Castelo Dominate the World'",
+            "description": "Responsible for sound and lights during performances.",
+            "start_date": "May 2013",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Stage Manager and Technical Leader at the Musical of the Fox",
+            "position": "Technical Leader and Stage Manager",
+            "description": "Responsible for technical aspects and management during a musical performance.",
+            "start_date": "May 2013",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Training Week at Michelin Valladolid",
+            "position": "",
+            "description": "Study of tire production.",
+            "start_date": "Jun. 2005",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Training Week at Renault Fasa-Renault Valladolid",
+            "position": "",
+            "description": "Study of the new Modus model.",
+            "start_date": "May. 2005",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Spain (Valladolid)",
+            "institution_or_company": "Lycée Français de Valladolid, Complutense University Orchestra, Zarzuelas Friends, Mozart.deus",
+            "start_date": "",
+            "end_date": "",
+            "description": "Various experiences and activities including orchestra performances, singing in zarzuela groups, and playing violin in children's shows.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Maple",
+            "Fortran 90, Fortran 95",
+            "CATIA, AutoCAD",
+            "SAP, Pelicano+, Airn@v, Sipla, DEMAT, ERS, ETLB",
+            "Inkscape, Photoshop, CorelPhotopaint, CorelDRAW",
+            "LaTeX, LyX",
+            "Word, Excel, PowerPoint, Publisher, Adobe Acrobat Writer",
+            "HTML, CSS"
+        ],
+        "soft_skills": [
+            "Leadership and management",
+            "Technical support and documentation",
+            "Sound and lights control in theatre plays",
+            "Organizational skills (e.g., organizing chess tournaments)"
+        ]
+    },
+    "other_interests_normalized": [
+        "Helicopters, aeromodelling, gliding, handball, football, tennis, ping pong, golf, skiing, movies, music, travel, chess, cooking and gastronomy"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

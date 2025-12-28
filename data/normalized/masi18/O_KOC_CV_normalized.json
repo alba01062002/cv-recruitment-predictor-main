@@ -1,0 +1,102 @@
+{
+    "personal_information_normalized": {
+        "full_name": "dh ozkan koc",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science in Information Technologies",
+            "field": "Network Security, Linux, Software Testing, Database Design and Management",
+            "university": "Istanbul Sabanci University",
+            "location": "Istanbul",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor of Electrical Engineering",
+            "field": "Automation Technologies, TCP/IP, ORCAD, VHDL, Assembly, Pascal, C, C++",
+            "university": "Aachen University of Applied Sciences",
+            "location": "Aachen",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Associate Degree in Aviation",
+            "field": "Avionics Fundamentals, Navigation, Flight Mechanics",
+            "university": "Erciyes University",
+            "location": "Kayseri",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Turkish Airlines",
+            "position": "Senior Engineer in Avionics and Connectivity",
+            "description": "Prepared technical specifications for the selection of avionics & IFE systems, evaluated technical proposals from manufacturers, managed retrofit modification projects, attended ITCM, PDR and CDR meetings.",
+            "start_date": "06/2010",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Work",
+            "country": "Germany, USA",
+            "institution_or_company": "Turkish Airlines, Alcatel Lucent, Teledyne LSE",
+            "start_date": "03/2009",
+            "end_date": "06/2010",
+            "description": "Managed avionics and connectivity systems for Turkish Airlines, performed customer support tasks at Alcatel Lucent in Canada, received training from Teledyne LSE.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "German",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Turkish",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java, Eclipse, MySQL, Apache, Linux, Android Studio",
+            "Network Technologies (Ethernet, TCP/IP Suite)",
+            "Airbus PRM and Airman, Boeing AHM, Panasonic Avionics DART"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "Technical Support",
+            "Customer Awareness Creation",
+            "Proactive Problem Solving"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

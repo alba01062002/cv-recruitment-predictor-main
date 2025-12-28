@@ -1,0 +1,121 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Flores de Dios",
+        "date_of_birth": "09/03/2001",
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": 23,
+        "email": "juanfd100@hotmail.com",
+        "phone": "+34 692465070",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/juan-flores-de-dios/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero aeroespacial en vehículos aeroespaciales",
+            "field": "Aerospace Vehicle Engineering",
+            "university": "Universidad Rey Juan Carlos",
+            "location": "Madrid, España",
+            "year": "2019-2024",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Grado en Ingeniería de helicópteros",
+            "field": "",
+            "university": "Don State Technical University",
+            "location": "Rostov del Don, Rusia",
+            "year": "2022-2022",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachillerato de ciencias y tecnologia",
+            "field": "",
+            "university": "IES Aguadulce",
+            "location": "Roquetas de Mar, Almería, España",
+            "year": "2017-2019",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "The CT Engineering Group",
+            "position": "Ingeniero de Software de Simulación y Desarrollo de Sistemas Integrados",
+            "description": "Diseño integral del simulador: participé en el diseño y desarrollo desde cero de un simulador de vuelo del F-18 en Python, abordando desde la modelación de las superficies de control hasta la implementación de algoritmos para simular diversas condiciones de vuelo con precisión.",
+            "start_date": "09/2023",
+            "end_date": "02/2024",
+            "duration_years": 0.42
+        },
+        {
+            "company": "The CT Engineering Group",
+            "position": "Ingeniero de Flight Performance para Airbus Defence & Space",
+            "description": "Planificación y estudio de misiones: desarrollo y optimización de planes de operaciones militares utilizando el software Mision de Airbus, enfocado en la maximización de la eficiencia operativa y el cumplimiento de los objetivos de vuelo. Coordinación con distintos clientes del sector de defensa para lograr cumplir sus necesidades.",
+            "start_date": "02/2024",
+            "end_date": "12/2025",
+            "duration_years": 1.83
+        },
+        {
+            "company": "The CT Engineering Group",
+            "position": "Verificación y validación (V&V)",
+            "description": "Especializado en el testing del software aeronaútico Iris de Airbus para evaluar y asegurar el cumplimiento de los requisitos técnicos. Implementación efectiva de IBM Doors para la gestión y trazabilidad de requisitos, facilitando análisis detallados y asegurando la integridad y precisión en la fase de prueba.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Estancia internacional",
+            "country": "Rostov del Don, Rusia",
+            "institution_or_company": "Don State Technical University",
+            "start_date": "02/2022",
+            "end_date": "06/2022",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "MATLAB",
+            "Simulink",
+            "CATIA V5",
+            "Ansys Fluids",
+            "Matlab",
+            "Pascal"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 2.25,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

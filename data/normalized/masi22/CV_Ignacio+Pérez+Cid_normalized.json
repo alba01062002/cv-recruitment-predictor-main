@@ -1,0 +1,92 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ignacio Pérez Cid",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "ignaciopcid@hotmail.com",
+        "phone": "+34 684092292",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/ignacio-perez-cid",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería de Tecnologías Industriales",
+            "field": "Ingeniería Industrial",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2014-2021",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Persona con facilidad para involucrarse en el ambiente de trabajo, caracter ambicioso y con ganas de formar parte de una empresa.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Simulink",
+            "C++",
+            "AutoCAD"
+        ],
+        "soft_skills": [
+            "Trabajo en equipo",
+            "Capacidad de análisis",
+            "Proactividad"
+        ]
+    },
+    "other_interests_normalized": [
+        "Disponibilidad para viajar",
+        "Internet"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Lucía Vila Nuño",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "luciavn@gmail.com",
+        "phone": "+34 634 567 693",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/lucia-vilar-nufio/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "University of Cincinnati",
+            "location": "Cincinnati, United States",
+            "year": "2024-2025",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Mention in Aerospace Vehicles",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2020-2025",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Indaer Europe, S.L.",
+            "position": "CAMO Engineer (Professional Internships II)",
+            "description": "Airworthiness management and other aeronautical engineering activities in commercial civil aviation. Support in CAMO certification process and requirements; technical documentation evaluation process.",
+            "start_date": "07/2023",
+            "end_date": "08/2023",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Design, Business & Verifications Services (DBVServices)",
+            "position": "Project Engineer (Professional Internships)",
+            "description": "Use of several programs for multiple jobs including 3D CAD modeling and component design; structural and mechanical calculations; manufacturing costs and orders; drafting reports and declarations of conformity in accordance with current regulations and legislation.",
+            "start_date": "07/2023",
+            "end_date": "08/2023",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work",
+            "country": "United States",
+            "institution_or_company": "University of Cincinnati, iLab Bio Digital Futures",
+            "start_date": "03/2025",
+            "end_date": "08/2024",
+            "description": "Research on the incorporation of AI for enhanced safety in advanced air mobility - concepts: Advanced Air Mobility, True AI, Fuzzy-Logic; Writing a conference paper for NAFIPS 2025.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B1"
+        ],
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "Russian",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "PTC Creo",
+            "Overleaf (LaTeX)",
+            "AutoCAD",
+            "Matlab",
+            "SimSolid",
+            "Abaqus",
+            "Simulink",
+            "ANSYS (Fluent)",
+            "Proosis",
+            "Solid Edge",
+            "XFLR5"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Interpersonal relationships",
+            "Adaptability",
+            "Teamwork"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 1.0,
+    "total_work_years": 0.16,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

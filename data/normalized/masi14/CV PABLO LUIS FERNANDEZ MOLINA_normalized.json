@@ -1,0 +1,126 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pablo Luis Fernández Molina",
+        "date_of_birth": "20/09/1987",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 27,
+        "email": "2taeplfogmail.com",
+        "phone": "+34 638 809 660",
+        "address": "Avda. Quevedo n 27 22b, 24009 León (España)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in MSc Thermal Power: Gas Turbine Technology",
+            "field": "Gas Turbine Technology",
+            "university": "Cranfield University",
+            "location": "Cranfield, UK",
+            "year": "2012-2013",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor of Aeronautical Engineering (Propulsion field)",
+            "field": "Aircraft Propulsion and Technology",
+            "university": "Universidad Politécnica de Valencia",
+            "location": "Spain",
+            "year": "2010-2013",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Bachelor of Aeronautical Engineering (Airframe Engines)",
+            "field": "Aircraft Engines and Maintenance",
+            "university": "Universidad de León",
+            "location": "Spain",
+            "year": "2006-2010",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Spanish Department of Defence",
+            "position": "Aircraft Engineer",
+            "description": "Military aircraft maintenance. Troubleshooting and maintenance schedule with the C-295M aircraft.",
+            "start_date": "07/2013",
+            "end_date": "08/2009",
+            "duration_years": 0.0
+        },
+        {
+            "company": "RMD, Leon",
+            "position": "Tyre Recycling Worker",
+            "description": "Selection of tyres for future processing and recycling.",
+            "start_date": "07/2006",
+            "end_date": "09/2006",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "UK",
+            "institution_or_company": "Cranfield University",
+            "start_date": "",
+            "end_date": "2013-2014",
+            "description": "Master's in MSc Thermal Power: Gas Turbine Technology",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Gasturb",
+            "Calmec",
+            "GSP",
+            "Nastran Patran",
+            "ANSYS",
+            "TurboMatch",
+            "Fortran",
+            "Mathematica",
+            "Matlab",
+            "C++",
+            "CATIA V5",
+            "Microsoft Office",
+            "ATEX"
+        ],
+        "soft_skills": [
+            "Communication skills",
+            "Fast typist",
+            "Oral presentation"
+        ]
+    },
+    "other_interests_normalized": [
+        "Airsoft Leon Commando member since 2006",
+        "Active Member of Leon Cycling Team (Spain) from 2006-2011",
+        "Classic Car Restoration since 2009"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Association Secretary and Infrastructure Team Member of the Engineering School Festival Committee",
+            "role": "Secretary and infrastructure team member of festival committee in engineering school",
+            "duration": "2007-2010",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 0.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

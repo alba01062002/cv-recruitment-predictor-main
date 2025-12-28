@@ -1,0 +1,97 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Javier Abad Rodríguez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "javi.abadsv@gmail.com",
+        "phone": "673010914",
+        "address": "",
+        "LinkedIn": "https://linkedin.com/in/javier-abad-rodríguez-83703a1b6",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Mecánica",
+            "field": "Ingeniería Mecánica",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Leganés, Madrid",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Massimo Dutti",
+            "position": "Mozo de Almacén",
+            "description": "Preparación y verificación de pedidos de forma eficaz y eficiente. Alta motivación para superar los registros previos y mejorar resultados.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Pull & Bear, Zara Home",
+            "position": "Dependiente de Tienda",
+            "description": "Experiencia con atención al cliente. Facilidad para trabajar en equipo con el fin de lograr los mejores resultados a nivel colectivo.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD",
+            "Excel",
+            "Programación MATLAB",
+            "Programación Python"
+        ],
+        "soft_skills": [
+            "Trabajo en equipo",
+            "Atención al cliente",
+            "Facilidad para trabajar en equipo"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.1
+}

@@ -1,0 +1,139 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carlos de Oro Calderon",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "carlos90.oroo@gmail.com",
+        "phone": "+34636470115, +34916941697",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Professional Development (currently ongoing)",
+            "field": "",
+            "university": "Universidad Rey Juan Carlos de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2016-",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Materials Engineering",
+            "field": "Materials/Process Optimization, Mechanical Testing, Failure Analysis",
+            "university": "Universidad Rey Juan Carlos de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2009-2015",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus",
+            "position": "Manufacturing Engineer",
+            "description": "Process improvement projects, SOLs redaction, time management, workshop support, route management. Airbus software: CATIA V5, SAP.",
+            "start_date": "11/2017",
+            "end_date": "12/2025",
+            "duration_years": 8.08
+        },
+        {
+            "company": "Airbus",
+            "position": "Trainee at Airbus Group",
+            "description": "Failure analysis of metallic and composite components based on visual inspection, material characterization, fractographic examination (macro and SEM) and JF metallographic studies. New developments, qualifications of materials, specified items, blanks, manufacturing Airbus processes and FPQs.",
+            "start_date": "01/2017",
+            "end_date": "11/2017",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Hoganas AB",
+            "position": "Junior Project Manager Engineer at Application Development Department",
+            "description": "Optimization of heat treatments applied to structural components. Development of new methods for mechanical testing of sintered gears. Integrated design of sintered parts in collaboration with part producers and final users. As project engineer: development of advanced joining techniques (sinter-brazing) developed in cooperation with customers.",
+            "start_date": "08/2015",
+            "end_date": "08/2016",
+            "duration_years": 1.0
+        },
+        {
+            "company": "Hoganas AB",
+            "position": "Development Engineer at Materials Development Department",
+            "description": "Investigation of new materials for optimizing the performance of sintered components. Design of new materials based on the use of computational tools (ThermoCalc, JMatsPro). Optimization of processing parameters. Evaluation of performance using mechanical testing and microstructural evaluation.",
+            "start_date": "03/2015",
+            "end_date": "08/2015",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Hoganas AB",
+            "position": "Master Thesis Worker at Material Development Department",
+            "description": "Research on the influence of boron as a microalloying element to be used in sintered structural components.",
+            "start_date": "08/2015",
+            "end_date": "08/2016",
+            "duration_years": 1.0
+        },
+        {
+            "company": "Instituto Tecnológico de la Energía - IMDEA Energy",
+            "position": "Internship as Materials Engineer",
+            "description": "Design and testing of thermal sensors used in tunnels. Deposition of semiconductive oxide layers on insulating substrates. Development of materials for electrodes in supercapacitors used in capacitive deionization.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Hoganas AB, Instituto Tecnológico de la Energía - IMDEA Energy",
+            "start_date": "08/2015-08/2016",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Swedish",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "SAP",
+            "ThermoCalc",
+            "JMatsPro",
+            "Design",
+            "Testing",
+            "Customer Support",
+            "Material and Processes",
+            "Lean Manufacturing"
+        ],
+        "soft_skills": [
+            "Adaptability",
+            "Interpersonal Skills",
+            "Problem Solving",
+            "Creative Thinking",
+            "Continuous Learning",
+            "Troubleshooting",
+            "Teamwork Driving"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.3
+}

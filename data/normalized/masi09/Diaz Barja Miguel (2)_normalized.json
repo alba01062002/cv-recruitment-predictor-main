@@ -1,0 +1,102 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Díaz Barja",
+        "date_of_birth": "21/02/1983",
+        "gender": "male",
+        "age_reference_year": 2009,
+        "age": 26,
+        "email": "mdiazbarja@gmail.com",
+        "phone": "914647521, 660244694",
+        "address": "c/Pablo Casals, n12, 9D 28011 Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero aeronáutico",
+            "field": "Aeronaves",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2001-2008",
+            "duration_years": 7.0
+        },
+        {
+            "degree": "",
+            "field": "Bachillerato internacional con calificación matrícula de honor",
+            "university": "Instituto Ramiro de Maeztu (Madrid)",
+            "location": "Madrid",
+            "year": "1999-2001",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Clases particulares de matemáticas a universitarios",
+            "description": "",
+            "start_date": "2006-2007",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "ETSIA Madrid",
+            "position": "Colaboración en el departamento de vehículos aeroespaciales",
+            "description": "",
+            "start_date": "Verano 2002",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "EADS Pegasus Road Show, Euroavia Stuttgart, Euroavia Pisa",
+            "start_date": "Noviembre 2006, Noviembre 2003, Marzo 2003",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fortran",
+            "Matlab",
+            "Solid Edge: Nivel alto",
+            "Catia: Nivel medio"
+        ],
+        "soft_skills": [
+            "Ofimática nivel usuario"
+        ]
+    },
+    "other_interests_normalized": [
+        "Deporte",
+        "Pertenencia a clubes de 2* y 3* regional (Federación de Fútbol de Madrid)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Secretario de la junta directiva de Euroavia Madrid, Miembro del comité de organización de Fly-in Madrid",
+            "duration": "2003-2008",
+            "description": ""
+        }
+    ],
+    "degree_years": 9.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.2
+}

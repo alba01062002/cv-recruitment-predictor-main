@@ -1,0 +1,92 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Javier García Romillo",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": null,
+        "email": "javiergr@bizkaia.eu",
+        "phone": "+34 678890238",
+        "address": "48993 Getxo, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial",
+            "field": "Especialidad en Diseño Mecánico",
+            "university": "Universidad del País Vasco (UPV/EHU)",
+            "location": "Bilbao, España",
+            "year": "2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Asistente de Investigación",
+            "description": "Asistir a doctorandos en investigaciones relacionadas con la aeronáutica, contribuir a la implementación de nuevos avances en el simulador de vuelo y desarrollar y depurar nuevo software para futuras investigaciones.",
+            "start_date": "01/2014",
+            "end_date": "06/2014",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Hungría",
+            "institution_or_company": "Budapest University of Technology and Economics (BME)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Título del proyecto: Evaluation of Stroop Task in Aviation Pilot's Workload Measurement in Flight Simulator.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "Euskera",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CAD (Solid Edge)",
+            "MATLAB",
+            "Mathematica",
+            "Microsoft Office"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Tenis",
+        "Pádel"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Club Barrikako Abaroa",
+            "role": "Monitor Nacional de Tenis y Pádel",
+            "duration": "2006 - Presente",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.42,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.3
+}

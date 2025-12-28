@@ -1,0 +1,91 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Salvador Enguix Riego",
+        "date_of_birth": "24/03/1988",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 26,
+        "email": "s.enguix@gmail.com",
+        "phone": "617 146 115",
+        "address": "c/ Luis Montoto, 150B, Portal E, 32, 41005 Seville (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Engineering",
+            "field": "Aerospace Engineer",
+            "university": "UPM (Polytechnic University of Madrid)",
+            "location": "Madrid, Spain",
+            "year": "2013-2018",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master in Professional Development",
+            "field": "Business Sectors. Corporate Culture. Communication. HR. Negotiation. Legal Aspects of Business.",
+            "university": "UAH (Alcala de Henares University)",
+            "location": "",
+            "year": "2012-2013",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "EADS - Airbus Military",
+            "position": "Internship Production Engineer in Ground System Tests & A/C Completion Area, Final Assembly Line A400M",
+            "description": "Support to ground system tests area (ST35A/B, ST30 and ST 20) in the final assembly line A400M. Knowledge of manufacturing process in the GST A/C completion stations. Knowledge of basics and strategies related with ground tests and their implementation in aircraft systems validation and verification process (GTR-GT]. Management of industrial partners outstanding works, identifying their impact on the process, coordinating the study with manufacturing engineering and assuring the best coordination with the stations, minimizing costs and time. Support to WOs (Work Orders) and HNCs (Non-Conformities) closure. Support to improvement projects and lean philosophy implementation.",
+            "start_date": "11/2012",
+            "end_date": "11/2013",
+            "duration_years": 1.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Lean philosophy implementation"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 1.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

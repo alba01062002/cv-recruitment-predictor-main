@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "ah josé humberto colunga olea mechanical & mechatronics engineer 0 (+52) 622 855 8039 snzjose.colungaoa@udlap.mx ff josehumbertoco experience volkswagen puebla, mx gateway ecu part owner and project leader - btv (r&d) march, 2025 - present (full time) + project management: series support, planning, supplier follow-up, cross-areas coordination, (purchasing, quality, r&d, production). + creation of deviation permits, change requests, problem sheets. + functional tests. + fault analysis: signal and message analysis through canoe traces of all can/ethernet connections of the gateway. also, analyzing faults involving coding, communication, and software issues. + participating in launch and after-sales meetings with managers and board members. automotive electric-electronic specialist (e-house - pilot hall) august, 2023 - march, 2025 (full time) + head of electrical project launch (eam): vw taos my2025 and later. + complete-vehicle electronic commissioning. + weekly escalation of electrical issues to management and board of directors. + problem solving of electronic faults with constant communication between r&d and production departments. + fault analyses involving ecu coding errors, can bus communication issues, harness signal losses or interruptions. + created vehicle commissioning data analysis and reports through sharepoint and power bl integration. tetakawi sonora, mx infrastructure and maintenance - project coordinator june - july, 2022 (seasonal) + implementing predictive maintenance data analysis for over 20 electrical substations. analyzed and categorized 10 years of transformer predictive and preventive tests. it - infrastructure intern feb - june, 2021 (internship) + camera optimization through firmware configuration. + design of a standardized camera classification and naming throughout the entire company. + creation of the operation manual for new it standards of the video surveillance processes. medtronic sonora, mx manufacturing engineer intern may - july, 2019 (internship) + solidworks design, assembly, drawigns, and material choice of stent graft sewing fixture prototypes. + fixture drawing updates on companys documentation system. + stent graft fabric and suture quality testing and statistics generation, working inside iso 14644 clean room and under very rigorous quality standards. skills software microsoft office, jira, power bi, sharepoint, power automate, illustrator, premiere, davinci resolve engineering software pay a] solidworks cswa certified, catia, ansys, robodk, inventor, autocad tia portal, multisim, psim, fluidsim, canoe programming matlab, c++, ladder logic, latex, capl (basics) language = spanish (native), english (c1 - ielts 7.5) education universidad de las américas puebla - udlap puebla, mx bachelor's degree: mechatronics engineering january, 2021 - june, 2023 cum laude. universidad de las américas puebla - udlap puebla, mx bachelor's degree: mechanical engineering august, 2017 - june, 2022 + magna cum laude. + udlap honors program graduate (2018-2022). + best engineering graduates of the country in 2022: reconocimiento por haber sido el mejor egresado de la licenciatura en la escuela de ingeniería udlap. april 15, 2025 jose h. colunga o. + cv 1 mit professional education certificate designing product families: from strategy to implementation stanford university - lagunita course advanced matlab for scientific computing research applied physics on natural phenomena: determination of volcanic risk zones, an approach based on hydrodynamic forces on projectiles and statistical physics honors program (graduated) + development of random initial conditions generation code for a volcaninc explosion scenario (popocatépetl). online february, 2022 - april, 2022 online may - june 2019 udlap august 2018 - 2022 + different volcanic eruption scenario simulations done through numerical methodology to determine possible high-risk zones. + dimensional analysis of variables and conditions for the volcanic eruption. april 15, 2025 jose h. colunga o. - cv",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI25"
+}

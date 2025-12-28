@@ -1,0 +1,168 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Mario Ramos Rubio",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "marioramosrubio96@gmail.com",
+        "phone": "+34 626735722",
+        "address": "C/ Virgen del Amparo 51 3a, Guadalajara, 19002",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Engineering (M.Eng) in Engineering Science",
+            "field": "Engineering Science, Especialización: Ingeniería Aeronáutica",
+            "university": "University of Oxford",
+            "location": "Oxford, Reino Unido",
+            "year": "2014-2018",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "Bachillerato",
+            "university": "The Cherwell School",
+            "location": "Oxford, Reino Unido",
+            "year": "2012-2014",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "ESO (Educación Secundaria Obligatoria)",
+            "university": "IES Castilla",
+            "location": "Guadalajara, España",
+            "year": "2008-2012",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Altran",
+            "position": "Consultor Junior e Ingeniero",
+            "description": "Trabajo en el equipo de sistemas del Eurofighter y A330 MRTT Environmental Control System (ECS). Desarrollo de programas de incremento de capacidades del avión.",
+            "start_date": "06/2019",
+            "end_date": "12/2025",
+            "duration_years": 6.5
+        },
+        {
+            "company": "Altran",
+            "position": "Beca en el departamento de I+D del sector aeronáutico",
+            "description": "Desarrollo de un demostrador de tecnología de una aeronave de propulsión híbrida, centrado en el diseño de equipos de refrigeración.",
+            "start_date": "01/2019",
+            "end_date": "06/2019",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Altran",
+            "position": "Profesor Particular",
+            "description": "",
+            "start_date": "11/2018",
+            "end_date": "06/2019",
+            "duration_years": 0.58
+        },
+        {
+            "company": "Altran",
+            "position": "Beca en el departamento de cadena de suministro del sector aeronáutico",
+            "description": "Formación en gestión de la cadena de suministro y desarrollo de proveedores.",
+            "start_date": "11/2018",
+            "end_date": "12/2018",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Oxford Thermofluids Institute, Engineering Science Department, University of Oxford",
+            "position": "Técnico de Laboratorio",
+            "description": "Investigación experimental y numérica del comportamiento aero-térmico de diferentes tuberías con forma de rifle.",
+            "start_date": "03/2017",
+            "end_date": "08/2016",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Professor of the St Anne's College Boat Club, University of Oxford",
+            "description": "Capitán de remo del St Anne's College Boat Club (Año Académico 2015 - 2016).",
+            "start_date": "2015-2016",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Canadean",
+            "position": "Prácticas en investigación de mercados",
+            "description": "Investigación de mercados en Madrid.",
+            "start_date": "06/2015",
+            "end_date": "07/2015",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Oxford Centre for Industrial and Applied Mathematics, University of Oxford",
+            "position": "Ayudante",
+            "description": "",
+            "start_date": "06/2013",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "EE.UU., Francia, Reino Unido y España",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "He vivido en Houston (Estados Unidos), París (Francia) y Oxford (Reino Unido).",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Ecosimpro",
+            "Amesim",
+            "SolidWorks CAD",
+            "HyperMesh",
+            "AcuConsole",
+            "LaTeX",
+            "SAP"
+        ],
+        "soft_skills": [
+            "Excel",
+            "Visual Basic"
+        ]
+    },
+    "other_interests_normalized": [
+        "Natación",
+        "Esquí",
+        "Remo"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Intermon Oxfam Oxford",
+            "role": "",
+            "duration": "01/2013 - 04/2013",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

@@ -1,0 +1,103 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Linda Moula",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "bq.lindamoula2019@gmail.com",
+        "phone": "+216 27834748",
+        "address": "c. de la isla de ons, 22, 28035 madrid, espagne",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aeronautical Engineering",
+            "field": "Aeronautical Engineering",
+            "university": "ESAT University, Tunisia",
+            "location": "Tunisia",
+            "year": "2020-2023",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Sousse Avionav, Tunisia",
+            "position": "Intern",
+            "description": "",
+            "start_date": "06/2022",
+            "end_date": "07/2022",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ program",
+            "country": "Spain",
+            "institution_or_company": "Universidad Politécnica de Madrid (UPM)",
+            "start_date": "02/2023",
+            "end_date": "06/2023",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Arabic",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "Ansys",
+            "Python",
+            "Arduino",
+            "Catia V5",
+            "Autocad",
+            "STM32 microcontroller",
+            "MATLAB/Simulink Cubemx"
+        ],
+        "soft_skills": [
+            "team work",
+            "fast integration and adaptability",
+            "communication",
+            "end of year project using MATLAB Simulink",
+            "analytic thinking",
+            "negotiation",
+            "travelling and learning new things",
+            "communicating with new people from different cultures",
+            "developing skills and knowledge",
+            "never staying in my comfort zone",
+            "selling",
+            "stress management",
+            "time management"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 3.0,
+    "total_work_years": 0.08,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

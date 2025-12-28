@@ -1,0 +1,128 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francisco Javier Camacho Amaro",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "franjavil9930@gmail.com",
+        "phone": "667352479",
+        "address": "Calle Corregidor Seor de la Elipa 22, 4c Madrid, 28030",
+        "LinkedIn": "https://goo.gl/eww9hkk",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeronáspacial",
+            "field": "Ingeniería Aeronáutica",
+            "university": "Escuela Técnica Superior de Ingeniería, Sevilla",
+            "location": "Sevilla",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Centum Solutions, Madrid",
+            "position": "Ingeniero de Sistemas de Aviónica. Departamento de Comunicaciones",
+            "description": "",
+            "start_date": "marzo 2015",
+            "end_date": "febrero 2018",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Centum Solutions, Madrid",
+            "position": "Ingeniero de Sistemas de Aviónica. Departamento de Controls & Displays",
+            "description": "",
+            "start_date": "junio 2017",
+            "end_date": "octubre 2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Campos Racing, Barcelona",
+            "position": "Ingeniero en Departamento Eléctrico",
+            "description": "",
+            "start_date": "junio 2017",
+            "end_date": "octubre 2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Campos Racing, Valencia",
+            "position": "Ingeniero de Datos en Fórmula 2",
+            "description": "",
+            "start_date": "agosto 2015",
+            "end_date": "marzo 2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Formula Student Sevilla",
+            "position": "Prácticas realizando revisiones completas a coches Fórmula 3",
+            "description": "",
+            "start_date": "febrero 2015",
+            "end_date": "agosto 2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus, Base Aérea de Tablada",
+            "position": "Prácticas Curriculares en Aerodinámica",
+            "description": "",
+            "start_date": "enero 2017",
+            "end_date": "agosto 2016",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "null",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA aeronáutica",
+            "Wintax",
+            "AIM",
+            "Motec Patran-NASTRAN",
+            "ANSYS-Fluent XFLR5 (Nivel Básico)",
+            "DOORS",
+            "VAULT",
+            "SIDE",
+            "PRMS",
+            "DMS Automoción"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.9
+}

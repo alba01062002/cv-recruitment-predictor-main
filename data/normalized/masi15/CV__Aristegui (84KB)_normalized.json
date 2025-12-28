@@ -1,0 +1,111 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jesús Arístegui Prada",
+        "date_of_birth": "08/12/1988",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 27,
+        "email": "jesus.aristegui@outlook.com",
+        "phone": "+34 619 223 319",
+        "address": "Avd Zugazarte 50, 1% 48930 Las Arenas, Vizcaya. España",
+        "LinkedIn": "https://es.linkedin.com/in/aristequiprada/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial",
+            "field": "Especialización en ingeniería térmica y tecnologías energéticas",
+            "university": "Universidad del País Vasco (UPV-EHU)",
+            "location": "Bilbao",
+            "year": "2012-2013",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Master en Sistemas de Energía",
+            "field": "",
+            "university": "Högskolan i Gävle (Sweden)",
+            "location": "Gävle, Suecia",
+            "year": "2013-2014",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Ingeniería Industrial",
+            "field": "",
+            "university": "Universidad del País Vasco (UPV-EHU)",
+            "location": "Bilbao",
+            "year": "2006-2013",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Swedish Energy Agency",
+            "position": "Junior Engineer",
+            "description": "Development of a mathematical model with the aim of predicting the air change rate (ACH) and energy balance in a historical stone church.",
+            "start_date": "03/2014",
+            "end_date": "06/2014",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Sweden",
+            "institution_or_company": "Högskolan i Gävle (Department of Building, Energy and Environmental Engineering)",
+            "start_date": "08/2013",
+            "end_date": "07/2014",
+            "description": "Residence in Gävle, Sweden.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Swedish",
+            "A1"
+        ],
+        [
+            "Basque",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office Suite",
+            "AutoCAD"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 9.0,
+    "total_work_years": 0.25,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

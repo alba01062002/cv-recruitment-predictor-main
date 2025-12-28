@@ -1,0 +1,100 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Susana Pastor Moreno",
+        "date_of_birth": "15/04/1982",
+        "gender": "female",
+        "age_reference_year": 2009,
+        "age": 27,
+        "email": "susana.pastor.moreno@hotmail.com",
+        "phone": "629993836, 913720696",
+        "address": "c/ río bullaque 6 portal 2, 7d, 28034 madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial (Plan de estudios 2000)",
+            "field": "Fabricación",
+            "university": "ETSI Industriales UPM",
+            "location": "Madrid",
+            "year": "2008",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Beca en la unidad docente de informática de la ETSII",
+            "description": "En colaboración con la fundación accenture, organización foro de empleo de la ETSII: induforum07 clases particulares.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Irlanda, Inglaterra y Canadá",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Nivel medio-bajo.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Francia",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Estancia en francia.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Inglés, francés",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Adobe Flash",
+            "CATIA",
+            "Turbo Pascal",
+            "C",
+            "Stat Graphics",
+            "PowerPoint",
+            "Excel",
+            "Word",
+            "Windows XP",
+            "HTML",
+            "ASP",
+            "SQL",
+            "Simplorer",
+            "SolidWorks",
+            "Photoshop",
+            "HomeSite"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Viajar",
+        "Cine",
+        "Natación",
+        "Leer"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

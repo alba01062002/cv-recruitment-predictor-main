@@ -1,0 +1,109 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rocío Castilla Rivera",
+        "date_of_birth": "01/10/1992",
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": 25,
+        "email": "r.castilla.rivera@gmail.com",
+        "phone": "916834635 (3636824255)",
+        "address": "C/Amapola, n5, 3c Getafe (Madrid), Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Aeronautical Engineering",
+            "field": "Aerospace Systems and Air Transport",
+            "university": "Universidad de Alcalá, Madrid",
+            "location": "Madrid",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Master in Professional Development",
+            "field": "",
+            "university": "FUE and Airbus Group (Gaia Program)",
+            "location": "Madrid",
+            "year": "2014-2016",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's Degree in Aerospace Engineering",
+            "field": "Aerospace Vehicles",
+            "university": "Technical University of Madrid (UPM), Madrid",
+            "location": "Madrid",
+            "year": "2010-2015",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Operations, Madrid (Spain)",
+            "position": "Internship in Airframe Engineering at RFE (Rear Fuselage and Empennage)",
+            "description": "",
+            "start_date": "04/2015",
+            "end_date": "04/2016",
+            "duration_years": 1.0
+        },
+        {
+            "company": "Airbus Defence & Space, Madrid (Spain)",
+            "position": "Internship in Flight Test Ground Station",
+            "description": "",
+            "start_date": "04/2014",
+            "end_date": "07/2014",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Airbus Group, Madrid (Spain)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Business management at RFE (Rear Fuselage and Empennage) airframe engineering",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "ESACOMP",
+            "CATIA V5: 2D & 3D Design",
+            "Fortran 90",
+            "AutoCAD",
+            "Microsoft Office",
+            "Driving Licence B"
+        ],
+        "soft_skills": [
+            "Good organizational capacity and punctuality",
+            "Teamwork and communication skills developed through several group projects",
+            "Capacity to work confidently under pressure"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 9.0,
+    "total_work_years": 1.25,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.9
+}

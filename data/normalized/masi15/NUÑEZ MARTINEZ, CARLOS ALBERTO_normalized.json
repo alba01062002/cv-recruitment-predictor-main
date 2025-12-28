@@ -1,0 +1,120 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carlos Alberto Nuez Martinez",
+        "date_of_birth": "24/04/1989",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 26,
+        "email": "nma.carlos@gmail.com",
+        "phone": "+49 15776180598 / +34 645684387",
+        "address": "Weinsbergstrabe, 74 50823 Köln, Germany",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial",
+            "field": "Automática y Sistemas",
+            "university": "Universidad Miguel Hernández (UMH)",
+            "location": "Elche, España",
+            "year": "2013",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Enrique Sanchez Gracia Ingenieria",
+            "position": "Profesor Particular / Diseñador de Planos",
+            "description": "Aplicación y redacción de documentos oficiales en la normativa UNE. Realización y diseño planos de edificaciones mediante AutoCAD y CYPE.",
+            "start_date": "10/2011",
+            "end_date": "06/2012",
+            "duration_years": 0.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Intercambio Erasmus",
+            "country": "Alemania",
+            "institution_or_company": "FH Stralsund, Stralsund",
+            "start_date": "09/2012 - 02/2013",
+            "end_date": "",
+            "description": "Curso de Energías Renovables y Tecnología del Hidrógeno.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Intercambio Erasmus",
+            "country": "Alemania",
+            "institution_or_company": "FH Stralsund, Stralsund",
+            "start_date": "",
+            "end_date": "02/2013",
+            "description": "Trabajo Final de Carrera: Cuantificación de la humedad en las células PEMFC por análisis de impedancia y polarización. Controlado con MATLAB & LabVIEW.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B2"
+        ],
+        [
+            "Ruso",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB/ Simulink Intermedio",
+            "STEP 7 Avanzado",
+            "Diseño ANSYS Básico",
+            "C/C++ Básico",
+            "Programación Microprocesador - Programación Básico LabVIEW Básico",
+            "Prézi Avanzado",
+            "Microsoft Office Avanzado"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Dibujo",
+        "Baloncesto",
+        "Fútbol",
+        "Música",
+        "Natación",
+        "Fitness"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Conservatorio de Música de Elche",
+            "role": "Trompetista",
+            "duration": "1997 - 2005",
+            "description": ""
+        },
+        {
+            "organization": "Escuela Politécnica de Ingeniería, Universidad Miguel Hernández (UMH)",
+            "role": "Delegado Clase de Ingeniería",
+            "duration": "2010 - 2011",
+            "description": ""
+        },
+        {
+            "organization": "Universidad Miguel Hernández (UMH)",
+            "role": "Delegado Escuela Politécnica de Ingeniería",
+            "duration": "2010 - 2011",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.67,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

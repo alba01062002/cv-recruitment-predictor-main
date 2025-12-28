@@ -1,0 +1,92 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Muhammed Suhail",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [],
+    "work_experience_normalized": [
+        {
+            "company": "Indigo Airlines",
+            "position": "Junior Engineer",
+            "description": "Practical experience on aircraft A320-232(IAE V2527-A5), A320-271N(PW1127G-A5), A320-214(CFM56-5B), ATR 72-600(P&W-127) in various scheduled and non-scheduled maintenance tasks (including transit, layover, 8 day check and A-check). In line maintenance including borescopic inspection, APU boro, eco wash of aircraft engines, aircraft marshalling, towing on the aircraft under the supervision of licensed aircraft maintenance engineers.",
+            "start_date": "04/2017",
+            "end_date": "10/2019",
+            "duration_years": 2.5
+        },
+        {
+            "company": "Zadco",
+            "position": "Assistant Engineer",
+            "description": "Having total experience of 2 years in mechanical division which includes overhauling and maintenance of heavy duty and light duty industrial gas turbine engines (GE LM 6000 series) and heat exchangers division as well as mechanical maintenance of various static and rotating equipments.",
+            "start_date": "01/2014",
+            "end_date": "04/2016",
+            "duration_years": 2.25
+        },
+        {
+            "company": "AMMROC",
+            "position": "Lead Aircraft Technician",
+            "description": "Job profile included transit checks, daily checks, and calendar inspections, snag rectifications, component replacements, scheduled (including transit, daily, weekly, A- and multiple A-checks) and unscheduled maintenance of Bombardier Dash 8/De Havilland DHC-8 aircraft.",
+            "start_date": "04/2013",
+            "end_date": "09/2013",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Kingfisher Airlines",
+            "position": "Aircraft Technician",
+            "description": "Practical experience on aircraft A321/A320/A319 fitted with IAE V2500 A5 engine, ATR 72-212A fitted with PW127F engines covering servicing, modification, repair and replacement of aircraft component/items of equipment, and all scheduled checks (including transit, daily, weekly, A- and multiple A-checks, C check) under the supervision of licensed aircraft maintenance engineers.",
+            "start_date": "11/2010",
+            "end_date": "11/2011",
+            "duration_years": 1.0
+        },
+        {
+            "company": "AirIndia",
+            "position": "Trainee Aircraft Technician",
+            "description": "Airframe and engines covering servicing, engine overhauling, fueling/refueling, modification, repair, replacements, test, operation and inspection of aircraft components/items of equipment during major checks under supervision of licensed engineers on the following aircraft: Check 4A & C) Boeing 747-400 fitted with P&W 4056; Boeing 737-800 NG with CFM 56-7B engines Phase Check) Airbus 310-300 fitted with GE CF6-80C2-A2",
+            "start_date": "04/2009",
+            "end_date": "05/2010",
+            "duration_years": 1.08
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Borescopic inspection",
+            "APU boro",
+            "Eco wash of aircraft engines",
+            "Aircraft marshalling",
+            "Towing on the aircraft",
+            "Overhauling and maintenance of heavy duty and light duty industrial gas turbine engines (GE LM 6000 series)",
+            "Heat exchangers division as well as mechanical maintenance of various static and rotating equipments",
+            "Servicing, modification, repair, replacement of aircraft component/items of equipment"
+        ],
+        "soft_skills": [
+            "Good team player",
+            "Strong sense of responsibility",
+            "Willingness to learn",
+            "Flexibility",
+            "Smart working"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 7.25,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.0
+}

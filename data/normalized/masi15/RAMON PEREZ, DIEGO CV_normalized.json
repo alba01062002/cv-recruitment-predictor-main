@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Diego Ramón Pérez",
+        "date_of_birth": "17/01/1990",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 25,
+        "email": "diego.rmpz@gmail.com",
+        "phone": "+34 616150828",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/diegr",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Aeronautical Engineering",
+            "field": "Propulsion (jet engines, rocket engines, reciprocating engines)",
+            "university": "ETSIAerosáuticos (Universidad Politecnica de Madrid)",
+            "location": "Madrid",
+            "year": "2010-2014",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Lycée Francais de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2007-2013",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Lycée Jean Mermoz (Buenos Aires, Argentina)",
+            "location": "Buenos Aires",
+            "year": "2005-2007",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "École Primaire André Chenier (Rabat, Morocco)",
+            "location": "Rabat",
+            "year": "2000-2005",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ITP (Industria de Turbo Propulsores)",
+            "position": "Internship - Test Department",
+            "description": "Involved in the project of building a test bench for engine TP400 in France. Main tasks performed: Edition of technical documentation, Calibration module for the data acquisition system.",
+            "start_date": "2013-2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "France",
+            "institution_or_company": "ITP (Industria de Turbo Propulsores)",
+            "start_date": "2013-2014",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "Matlab",
+            "CATIA V5",
+            "Linux",
+            "NX",
+            "Gasturb",
+            "GSP",
+            "ESACOMP",
+            "CEA"
+        ],
+        "soft_skills": [
+            "Teamwork abilities",
+            "Project management",
+            "Problem-solving skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Cinema",
+        "Cooking",
+        "Sports: football, tennis, volleyball, racquetball, cycling"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

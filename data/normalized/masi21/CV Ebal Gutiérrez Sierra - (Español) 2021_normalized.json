@@ -1,0 +1,85 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ebal Gutiérrez Sierra",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "ebal.gs@gmail.com",
+        "phone": "+34 628 440 902",
+        "address": "(9) Tenerife, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Mecánica",
+            "field": "Ingeniería Mecánica",
+            "university": "Universidad de La Laguna",
+            "location": "España",
+            "year": "2014-2021",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Japan Tobacco International",
+            "position": "Prácticas Externas",
+            "description": "Analizar la instalación de aire comprimido con el fin de determinar pérdidas para un ahorro energético. Control de calidad durante y después del proceso industrial.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Eslovenia",
+            "institution_or_company": "Universidad de Maribor",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD",
+            "SolidWorks",
+            "CYPE",
+            "Microsoft Office"
+        ],
+        "soft_skills": [
+            "Habilidades de trabajo en equipo",
+            "Aprendizaje y adaptabilidad",
+            "Iniciativa",
+            "Trabajo bajo presión",
+            "Responsabilidad",
+            "Metodología"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

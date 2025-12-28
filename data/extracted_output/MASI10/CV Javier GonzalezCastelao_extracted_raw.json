@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales nombre y apellidos: javier gonzález castelao dirección: c/adosinda, 5 - 3 d -33202- gijón (asturias) tlf. fijo: 985 33 43 30 tif. móvil: 658 89 28 60 e-mail: jgonzalez9390 gmail.com permiso de conducir: b formación genérica = ingenieria industrial: electricidad. plan de 1979 por la e.p.s. de ingeniería de gijón. informática/ofimática dominio de herramientas de microsoft office: microsoft word, microsoft excel, ms powerpoint. programas de diseo: autocad 2006 dominio del programa. cype nuevo metal 3d curso de cálculo de estructuras planas y espaciales de acero, de 250 horas. de octubre a diciembre de 2008. idiomas: = inglés nivel alto = ao 2007: beca de un ao en hc energía, grupo edp. en el departamento de líneas y redes. \"= ao 2006: seis meses de beca en cohega s.a. taller eléctrico, de reparación de maquinaria de tracción ferroviaria, convertidores eléctricos, motores eléctricos y transformadores. otros datos de interés = disponibilidad para viajar y/o desplazarse de residencia. =\" gran capacidad de trabajo en equipo y de liderazgo.",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

@@ -1,0 +1,128 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Mark Donovan",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2012,
+        "age": null,
+        "email": "markdonovan121hotmail.com",
+        "phone": "+353 86 8116513",
+        "address": "121 Booterstown Ave., Blackrock, Co. Dublin, Ireland",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Engineering (Hons) Mechanical",
+            "field": "Mechanical Engineering",
+            "university": "Dublin Institute of Technology (DIT)",
+            "location": "Dublin",
+            "year": "2006-2010",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Level 6 Certificate in Preliminary Engineering",
+            "field": "",
+            "university": "Dublin Institute of Technology (DIT)",
+            "location": "Dublin",
+            "year": "2005-2006",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Cryovac, Madrid, Spain",
+            "position": "Technical Assistant",
+            "description": "Calculations for and aiding in the design of various projects such as: * Computer operated liquid nitrogen supply system, using cryogenic lines and pneumatics to cool the infrared telescope at Sierra Nevada observatory. + Helium recovery and liquefying equipment. * Cryostat system for the testing of magnets used in wind energy research. Large volume high pressure cell for neutron diffraction research inILL. Use of Autocad, Solidworks and finite element software.",
+            "start_date": "09/11",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Dublin, Ireland (Full-time & Summer Work)",
+            "position": "Marketing & Operations Manager, Summer School Camp Manager",
+            "description": "Liaising with Irish and international partners. Dealing with overseas clients and agents. Day to day office administration and operations. Preparation of promotional and marketing material and carrying out market research. Website development and implementation of an electronic booking system. Planning and organising all non-academic activities. Responsible for several hundred students.",
+            "start_date": "08/10",
+            "end_date": "08/11",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Dublin, Ireland (Summer Work)",
+            "position": "Student Co-Coordinator, Trinity Hall; Assistant to Principal, Blackrock College; Lifeguard, Blackrock College",
+            "description": "School administration. Organising & supervising non-academic activities.",
+            "start_date": "06/07",
+            "end_date": "08/08",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Prof. James C.I. Dooge, Emeritus Professor, University College Dublin; Former Irish Government Minister & Member of the Irish Senate (Part-time work)",
+            "position": "Personal Assistant",
+            "description": "Research for conferences & speaking engagements. Organising & cataloguing research papers for his personal and university archives. Assisting in the preparation and writing of his memoirs.",
+            "start_date": "12/05",
+            "end_date": "06/08",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Cryovac, Madrid",
+            "start_date": "09/11",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Irish",
+            "A2"
+        ],
+        [
+            "Spanish",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD",
+            "SolidWorks",
+            "Finite Element Software"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Team Work",
+            "Independent Learning",
+            "Presentation Skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Mechanical Projects",
+        "Motor Sports",
+        "Water Sports",
+        "Travel",
+        "Swimming",
+        "Mountaineering"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Niall Mellon Township Challenge",
+            "role": "Volunteer",
+            "duration": "Nov 2005",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI12",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

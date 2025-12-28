@@ -1,0 +1,117 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Salvago Arteche",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2016,
+        "age": null,
+        "email": "juan.salvago.arteche@outlook.com",
+        "phone": "+34 659415180",
+        "address": "ronda del ingenioso hidalgo n2 111, 28034, madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Air Transport Systems",
+            "field": "Aerospace Engineering (specialized in navigation and aerospace systems)",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "Madrid",
+            "year": "2015 - present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master's in Professional Development",
+            "field": "",
+            "university": "University of Alcalá de Henares",
+            "location": "",
+            "year": "GAIA Program (2010-2015)",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's Degree in Aerospace Engineering",
+            "field": "",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "Madrid",
+            "year": "2004 - 2010",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space",
+            "position": "Intern at Fuel, Tank Inerting Fire Department",
+            "description": "Validation and verification processes of the light & medium family (C-212, C-235, C-295) and derivatives military aircraft programmes. Implementation of new system architecture for A330 MRTT fire protection system. Certification processes of new enhanced A330 MRTT aircraft.",
+            "start_date": "January 2014",
+            "end_date": "April 2014",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Defence & Space",
+            "position": "Intern at Fuel, Tank Inerting Fire Department",
+            "description": "Validation and verification processes of the light & medium family (C-212, C-235, C-295). Implementation of centralized maintenance system in C-295.",
+            "start_date": "January 2010",
+            "end_date": "April 2014",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain (multiple locations)",
+            "institution_or_company": "Airbus Defence & Space",
+            "start_date": "",
+            "end_date": "",
+            "description": "Validation and verification processes of the light & medium family aircraft. Implementation of new system architecture for A330 MRTT fire protection system.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "FORTRAN 95",
+            "Microsoft Office Word, Excel, PowerPoint",
+            "Corel Draw X7",
+            "Corel Photo Paint X7",
+            "AutoCAD",
+            "Global Mapper",
+            "Airbus Programmes: Vault, Sprint, See Expert"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Private Teaching",
+            "role": "Private teacher teaching high school and university students",
+            "duration": "2010 - 2014",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

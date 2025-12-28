@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal details name: carlos daniel topham baltasar date of birth: 5th may, 1.990 nationality: spanish address: c/ padre claret 6, 28002 - madrid, spain telephone: +34 688 90 65 61 email: danitophamogmail.com education 2.008 - 2.013 bachelor's degree in mechanical engineering universidad carlos 111 de madrid. bilingual option: english - spanish. 2.011 - 2.012 polytech' orléans, france 2.014 - present obtained thesis in french: \"optimization of carbon fibre's simulations on abaqus under vumat master in professional development universidad de alcalá. taught in english. other academic activities 1.998 - 2.008 apr 2.013 british council - madrid attendance to english classes for 10 years. \"lean manufacturing workshop imparted by eads. professional experience jan 14 - jan 15 feb 13 - aug 13 2.009 - 2.013 asea brown boveri abb turbocharging service coordinator. planning service works execution: logistics, spares and personnel, ensuring high performance of the jobs carried out in safety conditions, satisfying customers needs. in charge of coordination between service engineers, workshop and sales, being proactive in order to anticipate changes that affect the fulfilment of the services on time. direct contact with suppliers and customers. robert bosch gmbh internship as consultant for purchases and quality control department for mechanical parts. -purchases and quality control management. -quotation processing. -resolution of technical issues regarding components drawings. -metrology. universidad carlos iii de madrid undergraduate assistant in charge of the institutional visits. computing knowledge operative systems: linux and windows. very high level. office software and internet: very high level. engineering software: finite elements sw: abaqus. very high level. ansys: user level. solid modelling sw: pro/engineer, solidedge, catia: high level. others: sap: user level. languages spanish: mother tongue. english: fluent, spoken and written. attendance to english classes for 10 years at the british council. bilingual university studies: english - spanish diverse stays in united kingdom to perfect the language while working part-time. ielts certificate. overall mark 7.5 out of 9. french: high level spoken and written. residence in france throughout one academic year. associations member of moto-maqlab-uc3m association. mechanical design and development of a competition motorcycle prototype to be tested in the motorland aragon circuit. member of the scrutineering team in formula student 2014 catalunya personal skills accuracy and efficiency in every project involved. experience and faculty to do any group work or independent. great learning ability. proactive disposition. anticipation to solve situations before they become problems. disposition to travel and change place of residence.",
+    "text_from_header": "PERSONAL DETAILS",
+    "detected_language": "en",
+    "master_edition": "MASI15"
+}

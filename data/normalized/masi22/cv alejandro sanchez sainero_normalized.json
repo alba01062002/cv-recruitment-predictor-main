@@ -1,0 +1,105 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro Sanchez Sainero",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "alex.sanchez121098@gmail.com, 100365668@alumnos.uc3m.es",
+        "phone": "+34 639 51 98 36",
+        "address": "Calle Manuela Galeote, 21, 28903 Getafe, Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Electronic Systems Engineering and Applications",
+            "field": "Electronics Industrial and Automation Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Leganés, Madrid",
+            "year": "2021-present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Electronics Industrial and Automation Engineering",
+            "university": "Colegio Legamar-Leganés",
+            "location": "Madrid",
+            "year": "2014-2016",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Power Smart Control S.L.",
+            "position": "Part-time position",
+            "description": "Dissertation development about employment of a SOC ultrascale platform for HIL simulation of a doubly fed induction generator",
+            "start_date": "11/2021",
+            "end_date": "12/2025",
+            "duration_years": 4.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus program",
+            "country": "Estonia",
+            "institution_or_company": "Tallinn University of Technology, University Year 2019-2020",
+            "start_date": "",
+            "end_date": "",
+            "description": "Consecutive three years in summer camps in London",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "Word",
+            "PowerPoint",
+            "Matlab",
+            "Energía",
+            "Vivado",
+            "Vivado HLS",
+            "PSim",
+            "LTSpice",
+            "Rapid Programming",
+            "Solid Edge",
+            "Quartus II",
+            "Statgraphics (basics)",
+            "C",
+            "C++",
+            "VHDL"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Not specified",
+            "role": "Not specified",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 4.08,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

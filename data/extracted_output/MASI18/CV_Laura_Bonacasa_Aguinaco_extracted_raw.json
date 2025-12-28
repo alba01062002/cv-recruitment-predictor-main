@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "laura bonacasa aguinaco professional scope: electronics engineering +34 653557801 calle alcalde sainz de baranda, 55. madrid laurabonacasaa@gmail.com 12/12/1990 dni: 05320066-m academic background < industrial engineering - majoring electronics, computer science and automatic control universidad politécnica de madrid - madrid (spain) 2014 (pfc calification 9.7/10 average grade 7.16/10) % erasmus 5\" year engineering majeure seri (electronics, systems, networks and image processing) - supélec (ecole supérieure d'electricité) - france 2014 + research master in electronics - supélec (ecole supérieure d'electricité) - france 2014 professional experience 12/2015 - position:. - embedded software engineer today company: sogeti high tech obo airbus . subcontractor for air to air refueling software - taema4 boom control unit software development airbus defense and space embedded software development and design e dev: software design: uml design and sw code implementation (ada 95). e technical support e certification support e testing : low level tests (partition tests using excel), high level tests using excel, matlab and seas tools. test design and analysis. environment: ada95, doors, do178, uml, rational rose, gps, gnat, vxworks, vx653, arinc429, seas, v cycle, excel & matlab for tests. 02/2015 - position:. - gnss engineer support 11/2015 company: sogeti high tech obo essp e maintenance and support of egnos and edas services e software support for gnss applications (egnos system) e applications and market analysis for edas services in research activities for gsa e performance analysis and monitoring tools e technical support for edas/egnos users environment: android studio, google api (html), visual basic, linux (ubuntu), office 11/2014 - 01/2015 04/2014 - 11/2014 09/2013 - 04/2014 06/2012 - 09/2013 07/2011 - 08/2011 position:. - electronic engineer company: sogeti high tech (toulouse) e maintenance and test of fight control systems e do178b, afdx, arinc429, marcel, v cycle, modification management. e tests: unitary tests, validation or integration tests. environment: impact (eclipse), sumo, marcel, python position:. - embedded software i+d internship company: thomson video networks e video processing on fpga using the toolkit altera opencl sdk e video processing algorithms (written in c) e implementation on fpga (stratix v) and gpu (nvidia) e performance analysis. environment: opencl sdk of altera, linux debian. position:. - research projects company: supelec conception and develop a 2d video game with nios on fpga (altera): vhdl programming for the display and the hw control, c programming for the interaction and the movement with nios. e mimo system signal reconstruction - system optimization: correct, develop and verify the signal reconstruction for multi-input/multi-output systems, using statistic and geometry algorithms in fpga (virtex v xilinx). e sound processing on dsp: acoustic signals reconstruction, analysis and filter. environment: quartus, eclipse, nios, ide, modelsim, code composer studio, matlab position:. - electronic engineer company: cei centro electrónica industrial - upm e wake-up radio: bases on the use of low power fpga circuits (actel igloo) o develop an encoder controller for data sending in wireless networks o functionality test, deployment of wireless sensors networks e wsn dpcm, development of an integrated engineering tool for quick wireless sensor networks deployment and maintenance. (project artemis). o develop android application toolkit, based in network communications and data management on wsn. deployment toolkit using gps information from nodes and communication using rs232 and ftp protocols environment: eclipse, android, wsn position:. - summer internship company: ingenieros sin fronteras e project mama, hydro-sanitary project on same district, tanzania. e tasks: reports translations. access and excel workshop assistant. coverage maps elaboration of water supply of same district. environment: gvsig, office languages spanish (native) english (advanced - b2) french (advanced - c1) international experience international work teams in thomson, sogeti, ongawa and cel upm. erasmus experience industrial ingeneering 5\"\" year realized in supélec, france. other experiences like summer workshops or international / echange trips. courses < < < < < % o project management- sogeti high tech (5 hours) - 2014 leadership - ecole navale of brest (20 hours) - 2014 musical electronics - cei upm (15 hours) - 2013 robotics - reset, association of upm (40 hours) - 2012 android programming - upv (80 hours) - 2012 sustainable engineering - ongawa (40 hours) - 2012 other interests e e e e e e e e sports - rugby, rolling... literature and cinema. music : jazz, rock... domotics, musical electronics and robotics",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI18"
+}

@@ -1,0 +1,87 @@
+{
+    "personal_information_normalized": {
+        "full_name": " Rocío Bonilla Villares",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "bonillavillares@gmail.com",
+        "phone": "628 028 042",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "King Juan Carlos University (URJC)",
+            "location": "Madrid, Spain",
+            "year": "2014/2018",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "CT Ingenieros",
+            "position": "Systems Engineer",
+            "description": "Apu electric & electronic control design office (EPVE) in Airbus Operations",
+            "start_date": "03/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "France (Dassault Systemes)",
+            "institution_or_company": "CEPPE (Dassault Systemes Educational Tooling Design Partner)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Advanced course in industrial design with CATIA E Part Design V5/V6, Surface Healing",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "German",
+            "A2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5/V6",
+            "APU electric & electronic control design office (EPVE)",
+            "Airbus Operations",
+            "Autocad"
+        ],
+        "soft_skills": [
+            "MATLAB",
+            "Simulink",
+            "Rendering",
+            "Supportability"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 7.75,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

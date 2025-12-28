@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "gabriele alleva linkedin: https://bit.ly/3g5vawo via fratelli cairoli 4, 20025 legnano (mi) italy o (+39) 3467046865 italian o 9 july 1996 o gabrielealleva96 0 gmail.com education master of science in space engineering distinction university of surrey - united kingdom 2020 - 2021 specialisation: space dynamics and missions, and advanced guidance navigation and control (gnc/aocs) bachelors degree in aerospace engineering 84/100 politecnico di milano - italy 2015 - 2020 specialisation: atmospheric flight mechanics, mechanics of structures and solids, aerospace propulsion secondary school liceo scientifico (scientific lyceum) liceo galileo galilei legnano - italy 2010 - 2015 personal skills enthusiastic and self-motivated curious and fast learner with the ability to think outside the box determined to self-improvement critical and forward thinking, even under pressure good teamwork skills work experience aerospace software engineer internship april 2022 - now in txt e-solutions, milan, italy main tasks: - modeling flight dynamics of aeronautical systems and their simulation - acquisition and application of development and validation techniques for on-board avionics systems - application of development and programming techniques of a flight model - validation in a simulated environment of tests carried out with respect to the code using the appro- priate tools - drafting of the documentation relating to the performed tests (easa, faa) - problem solving and management of complex systems projects multiple coursework projects 2020 - 2021 in space dynamics and missions and in space avionics cubesat detumbling: algorithm design 2021 an advanced guidance navigation and control matlab project co-planar transfer design using lyapunov functions and optimal gain selection 2021 a space dynamics and missions thesis project, supervisor: dr nicola baresi skills & other experiences programming languages and frameworks: - matlab/simulink programming (6 years) - python programming - c/c++ programming - net - unix, linux - visual studio - latex - 3d modelling: autodesk inventor, autodesk solidworks and solidedge - ecdl certification - european computer driving licence languages: - italian: native speaker - english: ielts - c1 - basic french and spanish hobbies: actor, karateka, pianist & guitarist in compliance with the gdpr and the italian legislative decree no. 196 dated 30/06/2003, i hereby authorize you to use and process my personal details contained in this document.",
+    "text_from_header": "GABRIELE ALLEVA",
+    "detected_language": "en",
+    "master_edition": "MASI22"
+}

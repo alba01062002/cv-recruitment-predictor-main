@@ -1,0 +1,111 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ole Alvaro Esteban Vinado",
+        "date_of_birth": "12/05/1989",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 24,
+        "email": "alvar1989@gmail.com",
+        "phone": "609 10 34 11",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science in Aerospace Engineering",
+            "field": "Aerospace",
+            "university": "Universidad Politécnica de Madrid, Spain",
+            "location": "Madrid",
+            "year": "2007-2012",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "E-Inter at GMV",
+            "description": "Control of geostationary satellites.",
+            "start_date": "July and August 2011",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Teacher of Mathematics and Physics, Lifeguard in Public and Private Pools, Assistant Mounting Scenarios",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Spain",
+            "institution_or_company": "ETSIA (Higher Technical School of Industrial Engineering)",
+            "start_date": "December 2010",
+            "end_date": "",
+            "description": "Assistance to the seminar lean manufacturing taught by the chair of EADS in etsia.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Spain",
+            "institution_or_company": "ETSIA (Higher Technical School of Industrial Engineering)",
+            "start_date": "November 2010",
+            "end_date": "",
+            "description": "Student space Spanish V held in Madrid.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Greece, France",
+            "institution_or_company": "Athens program for a week in Paris",
+            "start_date": "March 2009",
+            "end_date": "",
+            "description": "Contents: chaos, quantum and automatons.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB: High level",
+            "Solid-Edge (3D and 2D design): High level management of all settings",
+            "Maple, Fortran 90, Lyx and STK"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Common practice of sport.",
+        "Availability to travel.",
+        "Driving license and own car."
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

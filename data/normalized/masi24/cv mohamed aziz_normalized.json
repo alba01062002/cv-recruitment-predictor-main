@@ -1,0 +1,144 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Mohamed Aziz Somali",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "m4medazizsomai@gmail.com",
+        "phone": "+34 634621600",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/med-aziz-s-94011818a",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Aeronautical Engineering",
+            "field": "Aircraft Systems Integration",
+            "university": "Universidad de Jaén",
+            "location": "Jaén, Spain",
+            "year": "2018-2024",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "High School Degree of Technical Science",
+            "field": "",
+            "university": "Lycée Le Bardo",
+            "location": "Tunis, Tunisia",
+            "year": "2017-2021",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Universidad de Jaén (Final Degree Project)",
+            "position": "",
+            "description": "Study and design of a drone to measure the concentration of oil in olives",
+            "start_date": "07/2023",
+            "end_date": "01/2024",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Tunisair Express (Technician Internship)",
+            "position": "Atr72-600 Aircraft Technical Reliability Data Management Study and Scheduling of the File Visit 2 Years",
+            "description": "",
+            "start_date": "08/2023",
+            "end_date": "07/2024",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Tunisair Technics (Observation Internship)",
+            "position": "MRO Observation of MRO Workshops of the Company Tunisair",
+            "description": "",
+            "start_date": "03/2022",
+            "end_date": "04/2022",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Universeltransformators (Final Degree Project Internship)",
+            "position": "Study and Design of an Automated Guide of Enamelled Round Wires Study of Manual and Automatic Winding Machines Mechanical and Electrical Modelling of an Automated Winding Machine",
+            "description": "",
+            "start_date": "01/2021",
+            "end_date": "05/2021",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Italcar (Observation Internship)",
+            "position": "Vehicle Maintenance Workshop Observation",
+            "description": "",
+            "start_date": "06/2020",
+            "end_date": "07/2020",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Exchange Program",
+            "country": "Spain",
+            "institution_or_company": "Universidad de Jaén",
+            "start_date": "",
+            "end_date": "",
+            "description": "Passionate about mechanical design and embedded systems",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Arabic",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "A1"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "Abaqus",
+            "SolidWorks",
+            "Matlab/Simulink",
+            "CATIA V5",
+            "GPao/Gmao",
+            "Proteus Isis/Fritzing",
+            "Ansys",
+            "MS Office",
+            "Step7 Siemens",
+            "Arduino/Raspberry Pi"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Mechanical Design",
+        "Aeromodelisme Club Secretary-General",
+        "Robotics"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Cruz Roja España",
+            "role": "Volunteer",
+            "duration": "Present (02/2024)",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 1.91,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

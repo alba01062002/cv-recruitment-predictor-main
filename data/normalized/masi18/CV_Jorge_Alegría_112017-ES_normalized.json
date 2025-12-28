@@ -1,0 +1,110 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge Q Alegría",
+        "date_of_birth": "04/09/1983",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 35,
+        "email": "jorge.s.alegria@gmail.com",
+        "phone": "+34 664 153093",
+        "address": "C/ Gómez de Avellaneda 43, 1b, 28017 Madrid (España)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Técnico Aeronáutico",
+            "field": "Aeropuertos",
+            "university": "Escuela Técnica Universitaria de Ingeniería Aeronáutica - Universidad Politécnica de Madrid",
+            "location": "Madrid, España",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aerotec Solutions S.L.",
+            "position": "Ingeniero de Procesos en el Departamento de Test and Delivery del Programa A330-MRTT (AG4)",
+            "description": "Conversión de avión civil a avión militar (Airbus Defense and Space, Getafe-España): Industrialización de procesos de desmontaje / montaje de elementos de aeronave para conversión avión civil/militar. Generación de hojas de ruta para el lanzamiento de órdenes de trabajo desde los departamentos de planif. y ctrl de producción de línea de vuelo/desmontajes. Creación, resolución e industrialización de incidencias (demats) derivadas del desmontaje/montaje de avión civil/militar. Seguimiento del ciclo de vida de desviaciones de diseño (ercs). Implementación de operaciones para realización de pruebas funcionales en aeronave. Soporte en taller.",
+            "start_date": "19/10/2017",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Aertec Industrial Engineering, Madrid (España)",
+            "position": "Ingeniero de Procesos para el Proyecto de Industrialización S19 A350 XWB: Fase 2, Taladrado Automático - Robots Dci",
+            "description": "Análisis y definición de los cambios de procesos para la optimización de los tiempos en taller. Creación de la estructura de producto. Implementación en la línea de montaje de nuevos elementos de industrialización (robots de taladrado loxin) balanceando procesos temporales y definitivos. Creación, modificación y mantenimiento de standard operating instructions (SOLS) de fase 2 para versiones A350 XWB-900 y A350 XWB 1000. Creación y modificación de documentos en SAP, ARP. Vinculación a rutas. Soporte a producción y monitorización para depuración sistemática de documentación de proceso.",
+            "start_date": "",
+            "end_date": "26/08/2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Aertec Solutions (División Aeropuertos), Palma de Mallorca (España)",
+            "position": "Auxiliar Técnico Aeronáutico para el Control y Optimización de la Asignación de Cintas de Entrega de Equipaje",
+            "description": "Familiarización con la operativa del aeropuerto de Palma de Mallorca, con las compañías aéreas y los agentes de handling y autohandling. Seguimiento del servicio, asignación de vuelos monitorizados, proposición de alternativa. Coordinación con el centro de gestión aeroportuario (CGA) de la correcta asignación de cintas. Medición de tiempos de entrega de equipajes.",
+            "start_date": "15/10/2015",
+            "end_date": "22/04/2016",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "AutoCAD",
+            "SAP-ARP-Sp1",
+            "PDMLink",
+            "SIDE",
+            "EPD",
+            "Sipla",
+            "Snt",
+            "Airnav",
+            "Demat"
+        ],
+        "soft_skills": [
+            "Comunicación",
+            "Organización/ Gestión"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2015-2017",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

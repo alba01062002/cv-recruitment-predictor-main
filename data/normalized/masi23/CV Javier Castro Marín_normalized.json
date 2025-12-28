@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Javier Castro Marín",
+        "date_of_birth": "22/05/1997",
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": 26,
+        "email": "javiercas97@gmail.com",
+        "phone": "+34 649647762",
+        "address": "Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "Antonio de Nebrija University",
+            "location": "Madrid, Spain",
+            "year": "2016-2022",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Group (on behalf of Derichebourg ATIS Iberica)",
+            "position": "Software: Manufacturing Engineering Team",
+            "description": "Working in FAL and flight line for the single-aisle family, and pre-FAL for A350 in AL-Spain project. Supporting HTP production lines (SA/LR/WB). Focal point for the ME team since February 2023. Manage and coordinate the internal team to deliver results. Set and monitor team performance working with multifunctional teams (production, quality, map) to achieve deadlines without impacting final delivery. Support for the production team management of non-conformities, creation of work orders/nsis, documentary search, knowledge of the Airbus environment (SAP, Normaster, Airina, Pass, Airnavx, Catia V5, SFIS...). Plan constant feedback loops with the production team.",
+            "start_date": "07/2022",
+            "end_date": "12/2023",
+            "duration_years": 1.42
+        },
+        {
+            "company": "Airbus Group (on behalf of Derichebourg ATIS Iberica)",
+            "position": "Software: Manufacturing Engineering Team",
+            "description": "Working in Hamburg from October 2022 to present.",
+            "start_date": "10/2022",
+            "end_date": "12/2023",
+            "duration_years": 1.17
+        },
+        {
+            "company": "E Plenum Ingenieros S.L.",
+            "position": "Mechanical Installations Designer",
+            "description": "Design of mechanical installations, measurements, budgets, plans and reports.",
+            "start_date": "10/2019",
+            "end_date": "02/2020",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SAP",
+            "Normaster",
+            "Airina",
+            "Pass",
+            "Airnavx",
+            "Catia V5",
+            "SFIS",
+            "Office Vasa SG",
+            "Google Apps",
+            "SolidWorks VPI GP LL",
+            "AutoCAD VIAL 6",
+            "Ansys via AL Patran VPI GP LL",
+            "Matlab-Simulink"
+        ],
+        "soft_skills": [
+            "management",
+            "teamwork",
+            "proactive communication skills",
+            "planning",
+            "leadership",
+            "cooperation"
+        ]
+    },
+    "other_interests_normalized": [
+        "schedule availability",
+        "car license"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 2.92,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.8
+}

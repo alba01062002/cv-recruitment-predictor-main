@@ -1,0 +1,136 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Calvo Lostal",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "micalostl14@gmail.com",
+        "phone": "+34 640250199",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [],
+    "work_experience_normalized": [
+        {
+            "company": "Department of Radio Electronics, Brno University of Technology, Czech Republic",
+            "position": "Research Assistant (starting February 2025)",
+            "description": "Joining a research group focused on 5G technologies, exploring the integration of next-gen communication systems in real-world applications.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Saica Group, Zaragoza, Spain",
+            "position": "IT Department Intern (June 2024 - August 2024)",
+            "description": "Compiled and reviewed firewall rules and policies, delivered reports to optimize IT infrastructure. Monitored server performance and cataloged unsupported servers to support IT infrastructure migration.",
+            "start_date": "06/2024",
+            "end_date": "08/2024",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Bares y Detalles SL, Zaragoza, Spain",
+            "position": "Temporary (October 2023)",
+            "description": "Provided bar service during the Fiestas del Pilar of Zaragoza 2023.",
+            "start_date": "10/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.17
+        },
+        {
+            "company": "Private Math Tutor, Zaragoza, Spain",
+            "position": "Tutor (September 2022 - June 2024)",
+            "description": "Provided one-on-one tutoring to high school students, supported exam preparation and academic improvement.",
+            "start_date": "09/2022",
+            "end_date": "06/2024",
+            "duration_years": 1.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "France",
+            "institution_or_company": "Lycee Climatique Rene Billeres, Argelés-Gazost",
+            "start_date": "09/2016",
+            "end_date": "06/2019",
+            "description": "Lived in a boarding school for three years, completing most of my secondary education and gaining fluency in French.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship",
+            "country": "Czech Republic",
+            "institution_or_company": "Brno University of Technology",
+            "start_date": "09/2024",
+            "end_date": "06/2025",
+            "description": "B.Sc. in Telecommunications Engineering (Erasmus exchange), working on a bachelor's thesis: implementation and analysis of spectrum sharing techniques using GNU Radio and cognitive radio in satellite communications, as part of ESAS Spectrum Sharing Makerspace project.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Zaragoza, Spain & Brno, Czech Republic",
+            "institution_or_company": "University of Zaragoza, Spain and Brno University of Technology, Czech Republic (Erasmus exchange)",
+            "start_date": "2021-2024",
+            "end_date": null,
+            "description": "Telecommunications Engineering",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB & Simulink",
+            "JavaScript",
+            "LTSpice",
+            "GNS3",
+            "CST Studio Suite",
+            "Python (neural networks)",
+            "VHDL",
+            "C++"
+        ],
+        "soft_skills": [
+            "Leadership and management",
+            "Teamwork",
+            "Communication",
+            "Problem-solving",
+            "Project management"
+        ]
+    },
+    "other_interests_normalized": [
+        "Leadership activities",
+        "Cultural exchanges",
+        "Service projects"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Taking Action for Young People, Bernburg, Germany",
+            "role": "Volunteer (July 2023)",
+            "duration": "3 weeks workcamp",
+            "description": "Built and restored community spaces such as daycare playgrounds and youth clubs."
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 4.09,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

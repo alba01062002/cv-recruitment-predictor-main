@@ -1,0 +1,123 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Lucía Sánchez Iglesias",
+        "date_of_birth": "19/06/1989",
+        "gender": "female",
+        "age_reference_year": 2018,
+        "age": 29,
+        "email": "lucia.sanchez.ig@gmail.com",
+        "phone": "+34 699 74 92 94",
+        "address": "c/ Máiquez, 30, 51int (28009) Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aeronautical and Aerospace Engineering",
+            "field": "Aircraft Systems Integration",
+            "university": "Polytechnic University of Madrid",
+            "location": "Madrid",
+            "year": "2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Sogeti on behalf of Airbus DS",
+            "position": "System Engineer",
+            "description": "Development of the air-to-air refuelling system A400M, representation of design office in meetings, verification and testing of HDU refuelling system.",
+            "start_date": "Feb 2017",
+            "end_date": "12/2018",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Altran on behalf of Airbus Operations",
+            "position": "System Engineer",
+            "description": "Support for in-service aircraft (A320, A330/A340 and A380) with technical research, development and modification of equipment.",
+            "start_date": "Sep 2015",
+            "end_date": "Jan 2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Altran on behalf of Airbus Operations (Internship)",
+            "position": "System Engineer Intern",
+            "description": "Support for the pneumatic system definition and documentation generation.",
+            "start_date": "Feb 2015",
+            "end_date": "Aug 2015",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Portuguese",
+            "B1"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB: basic level",
+            "Catia V5: basic level",
+            "Fortran: basic level",
+            "Latex: medium level",
+            "See XP Electrical Expert: medium level",
+            "nShow: high level"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Rugby player on Aeronauticos CDUM team, Madrid regional league",
+        "Volleyball player of the aeronautical college team (2008-2014)",
+        "Captain of the rugby team of the aeronautical college (2013-2014)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Aeronáuticos CDUM",
+            "role": "Rugby Club of Madrid Member",
+            "duration": "2012-2015",
+            "description": ""
+        },
+        {
+            "organization": "Colectivo Gallego de Montaña",
+            "role": "Leisure Time and Summer Camp Instructor",
+            "duration": "2004-2006",
+            "description": ""
+        },
+        {
+            "organization": "Carlos Casares High School",
+            "role": "Student Representative",
+            "duration": "2004-2007",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

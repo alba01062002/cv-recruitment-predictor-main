@@ -1,0 +1,124 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan García Cebrián",
+        "date_of_birth": "02/08/1986",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 31,
+        "email": "garciacebrianjuan@gmail.com",
+        "phone": "949255371",
+        "address": "Felipe Solano Antelo, 16, 3a, Guadalajara, 19002",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": "www.orbitalcs.com"
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Telecommunication Engineering",
+            "field": "Telecommunication Systems",
+            "university": "Escuela Politécnica de la Universidad Autónoma de Madrid (UAH) - Alcalá de Henares",
+            "location": "Alcalá de Henares, Spain",
+            "year": "2011-2014",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space",
+            "position": "V&V Engineer of Flight Control Systems for C295 (FT4B)",
+            "description": "Involved in the modernization and testing of aircraft navigation systems. Tested control interfaces, performed documentation and supported avionics simulations.",
+            "start_date": "04/07/2016",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Orbital Critical",
+            "position": ".NET Programmer Analyst",
+            "description": "Developed applications for the 'Educamos V2' platform, using .NET technologies and Agile methodologies.",
+            "start_date": "01/30/2012",
+            "end_date": "07/22/2014",
+            "duration_years": 0.0
+        },
+        {
+            "company": ".NetCheck",
+            "position": "",
+            "description": "Not specified in the text, but appears to be related to .NET development.",
+            "start_date": "07/23/2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Sweden",
+            "institution_or_company": "Högskolan Borås University",
+            "start_date": "2010-2011",
+            "end_date": "",
+            "description": "Completed a scholarship program at Högskolan Borås University, Sweden.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish (mother tongue)",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Swedish",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            ".NET Framework",
+            "Visual Studio",
+            "DDD (Domain-Driven Design)",
+            "ASP.NET MVC",
+            "Kendo UI",
+            "Scrum",
+            "jQuery",
+            "JavaScript",
+            "Ajax",
+            "C#",
+            "Entity Framework 6",
+            "HTML5",
+            "CSS3",
+            "TFS 2012",
+            "NuGet",
+            "SQL Server 2012",
+            "LINQ",
+            "Reflection",
+            "RF Circuits, Microwaves, Antennas",
+            "Signal Processing"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Organizational Skills",
+            "Quality Control",
+            "Communication with Teams and Bosses",
+            "Adaptability to New Knowledge"
+        ]
+    },
+    "other_interests_normalized": [
+        "Cooking",
+        "Football, Tennis, Basketball",
+        "Listening music"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 3.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 28,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

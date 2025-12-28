@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jesús Martínez Roca",
+        "date_of_birth": "05/11/1985",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 25,
+        "email": "jesus.martinez.roca@gmail.com",
+        "phone": "679.53.74.63",
+        "address": "c/ Azorín n 27 82 D, 28935 Móstoles (Madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial",
+            "field": "Electrónica e Automática Industrial",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2003-2009",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Seguros Santa Lucía",
+            "position": "Actualizar Registro de Seguros",
+            "description": "",
+            "start_date": "2003",
+            "end_date": "12/2010",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Camarero de Caterings",
+            "position": "Esporádicamente en Bodas y Comuniones",
+            "description": "",
+            "start_date": "",
+            "end_date": "12/2010",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Windows XP, Windows Vista y Windows 7 (Nivel avanzado)",
+            "Linux (Nivel intermedio)",
+            "Paquete Office (Windows y Sun Microsystems): Word, Excel, PowerPoint, Visio (Nivel intermedio-alto)",
+            "MATLAB (Nivel intermedio-alto)",
+            "GC (Nivel intermedio)",
+            "Cosirop-Cosimir (Mitsubishi) (Nivel intermedio-alto)",
+            "Rapid (Nivel intermedio)",
+            "PL7 (Nivel intermedio)",
+            "Siematic Step 7 (Nivel intermedio)",
+            "SCADA (Nivel intermedio-alto)",
+            "Profibus (Nivel intermedio)",
+            "ISO-OSI (Nivel intermedio)",
+            "OrCAD PSPICE, Capture y Layout (Nivel avanzado)",
+            "Quartus (Nivel intermedio-alto)",
+            "Depuración de Sistemas Electrónicos (Nivel avanzado)",
+            "Solid Edge (Nivel avanzado)",
+            "Catia V5 (Nivel intermedio)",
+            "AutoCAD (Nivel intermedio)",
+            "Gestión de Proyectos (Microsoft Project) (Nivel intermedio)",
+            "Statgraphics (Nivel intermedio)",
+            "Herramientas Fotográficas: Photoshop CS2 (Nivel avanzado), GIMP (Nivel intermedio)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.9
+}

@@ -1,0 +1,116 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sergio Contreras López",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": null,
+        "email": "contreras.engineer@outlook.com",
+        "phone": "+34 667 28 80 32",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/sergiocontreraslopez/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aerospace Engineering",
+            "field": "Airport Oriented Specialization",
+            "university": "Polytechnic University of Valencia (UPV)",
+            "location": "Spain",
+            "year": "2008-2013",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor of Computer Engineering",
+            "field": "",
+            "university": "National University of Distance Education (UNED) Spain",
+            "location": "Spain",
+            "year": "2013-2019",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence and Space",
+            "position": "Customer Services IT Systems Administrator",
+            "description": "Working for the TASI (Military Aircraft Services Information) department as the main administrator for transversal IT tools, CRM, web portals, access requests to DMZ and EADS/CASA network. Performing IT support and queries resolution, mailbox management, bug finding and reporting, development of productivity booster tools, project manager support, writing new procedures and user guides.",
+            "start_date": "02/2014",
+            "end_date": "12/2015",
+            "duration_years": 1.83
+        },
+        {
+            "company": "Aena Aeropuertos S.A.",
+            "position": "Internship in the Services Department at Valencia Airport (LEVC / VLC - Spain)",
+            "description": "Developing and implementing an objective quality control system in ground handling, organizing and standardizing ground handling services, and managing the airport services centre staff.",
+            "start_date": "07/2011",
+            "end_date": "03/2012",
+            "duration_years": 0.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "MS Excel",
+            "CRM Dynamics",
+            "VBA",
+            "C++",
+            "HTML/CSS",
+            "JScript",
+            "XML (DTD & Schema)",
+            "AutoIt"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "Teamwork",
+            "Quality Control",
+            "Problem Solving",
+            "Customer Service"
+        ]
+    },
+    "other_interests_normalized": [
+        "Transportation",
+        "Services",
+        "Unmanned Aerial Systems",
+        "Construction",
+        "Systems",
+        "Quality",
+        "Airports",
+        "Programming",
+        "Avionics",
+        "Defence",
+        "Computers",
+        "Aircrafts",
+        "Maintenance",
+        "Navigation"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 2.5,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

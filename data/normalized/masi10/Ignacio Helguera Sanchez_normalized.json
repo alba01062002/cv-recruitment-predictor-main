@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ignacio Helguera Sánchez",
+        "date_of_birth": "19/07/1986",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 24,
+        "email": "nachohelguera@hotmail.com",
+        "phone": "+34 669 79 69 67",
+        "address": "c/Egea 4, 28022 Madrid, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "B.S. in Industrial Engineering",
+            "field": "Mechanical Engineering Focus",
+            "university": "Pontificia Universidad Católica de Madrid (ICAI)",
+            "location": "Madrid, España",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Engineering Management Studies",
+            "field": "",
+            "university": "University of Arizona",
+            "location": "Tucson, Arizona, USA",
+            "year": "2008-2009",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Autoescuela Helguera, empresa familiar",
+            "position": "Adjunto a dirección, administración general",
+            "description": "Administrative support role within the family business.",
+            "start_date": "10/2004",
+            "end_date": "05/2008",
+            "duration_years": 3.58
+        },
+        {
+            "company": "University of Arizona",
+            "position": "Colaborador en proyecto de investigación: a new simulation model for a 4ws vehicles based on dynamic tire friction model",
+            "description": "",
+            "start_date": "01/2005",
+            "end_date": "12/2007",
+            "duration_years": 2.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "USA",
+            "institution_or_company": "University of Arizona",
+            "start_date": "08/2008",
+            "end_date": "05/2009",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "Pspice",
+            "Derive",
+            "AutoCAD",
+            "Statgraphics",
+            "C++",
+            "HTML",
+            "Flash",
+            "Fireworks",
+            "Dreamweaver",
+            "MS-Project",
+            "Microsoft Office: Excel, Outlook, Word, PowerPoint"
+        ],
+        "soft_skills": [
+            "Teamplayer",
+            "Autonomous",
+            "Flexible",
+            "Self-confident"
+        ]
+    },
+    "other_interests_normalized": [
+        "Mecánica de coches y motos",
+        "Deportes (fútbol, natación, snowboard...)",
+        "Música",
+        "Viajes",
+        "Lectura",
+        "Ajedrez"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 6.5,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "mixed",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

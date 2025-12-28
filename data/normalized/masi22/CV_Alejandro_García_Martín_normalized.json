@@ -1,0 +1,96 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro García Martín",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "garmaralejandro@gmail.com",
+        "phone": "+34 626948638",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/alejandro-garmar/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://www.linkedin.com/in/alejandro-garmar/"
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Mecánica",
+            "field": "Ingeniería Mecánica",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, España",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Norwegian University of Science and Technology",
+            "location": "Trondheim, Noruega",
+            "year": "2021 - 2022",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Clases Particulares",
+            "position": "Docente de matemáticas y física",
+            "description": "",
+            "start_date": "2018-09",
+            "end_date": "2019-06",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Noruega",
+            "institution_or_company": "Norwegian University of Science and Technology",
+            "start_date": "2021-08",
+            "end_date": "2022-06",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Castellano",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "ABAQUS FEA",
+            "ANSYS",
+            "Solid Edge"
+        ],
+        "soft_skills": [
+            "Excel",
+            "PowerPoint",
+            "C"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Asde Scouts de España",
+            "role": "",
+            "duration": "2018 - actualidad",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

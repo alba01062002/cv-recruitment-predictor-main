@@ -1,0 +1,154 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Raúl Serrano Rolando",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "raulsrolando@hotmail.com",
+        "phone": "+34 657271916",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/raul-serrano-rolando-1206/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Technological Sciences",
+            "field": "",
+            "university": "IES Humanes",
+            "location": "Madrid, Spain",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Aerospace Engineering",
+            "field": "Aerospace Vehicles",
+            "university": "Universidad Rey Juan Carlos",
+            "location": "Madrid, Spain",
+            "year": "2017-2022",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Aerospace Engineering",
+            "field": "",
+            "university": "Università degli Studi di Napoli Federico II",
+            "location": "Naples, Italy",
+            "year": "2021-2022",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Mechanical Engineering",
+            "field": "",
+            "university": "Uniwersytet Politechnika Lubelska",
+            "location": "Lublin, Poland",
+            "year": "2020-2021",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Quest Global Engineering-Liberia (La Muoza)",
+            "position": "Heavy Maintenance Engineer",
+            "description": "",
+            "start_date": "April 2022",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Gabinete SL",
+            "position": "Teacher",
+            "description": "Mathematics, Physics and Chemistry teacher for a small group of students (5-15 students from 13 to 18 years.)",
+            "start_date": "January 2022",
+            "end_date": "April 2022",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Redi Ingenieros",
+            "position": "Aerospace Engineer in Internship Contract",
+            "description": "Analysis of aircraft manufacturer documentation for collaboration in the development of maintenance tasks for various civil aircraft.",
+            "start_date": "October 2021",
+            "end_date": "January 2022",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Freelance Tutor",
+            "description": "Private teacher of ESO, Baccalaureate and first cycle of career, specialized in technological sciences. 80% of approved among his students.",
+            "start_date": "September 2015",
+            "end_date": "September 2021",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Kit-Naturia",
+            "position": "General Operator",
+            "description": "Workshop operator in charge of assembly and quality control.",
+            "start_date": "June 2017",
+            "end_date": "September 2017",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus + Program",
+            "country": "Naples, Italy",
+            "institution_or_company": "Università degli Studi di Napoli Federico II",
+            "start_date": "September 2021",
+            "end_date": "January 2022",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus + Program",
+            "country": "Lublin, Poland",
+            "institution_or_company": "Uniwersytet Politechnika Lubelska",
+            "start_date": "September 2020",
+            "end_date": "January 2021",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "AutoCAD",
+            "ESACOMP",
+            "ANSYS"
+        ],
+        "soft_skills": [
+            "Group work dynamics adaptation",
+            "Professional interpersonal skills"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Spanish classes",
+            "duration": "Poland",
+            "description": ""
+        }
+    ],
+    "degree_years": 3.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.9
+}

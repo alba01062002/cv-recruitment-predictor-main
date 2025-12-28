@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "carlos rosich telecommunication engineer spanish +33 06 26 29 80 34 22 years old carlos.rosichjimenezo gmail.com international mobility si education 2016-19 masters degree in telecommunications, embedded systems and robotics engineering institut national des sciences appliquées (insa) de lyon, france network architecture and protocols, software engineering, algorithms, transmissions systems and modulations, embedded systems and robotics engineering. 2014-16 preparatory classes at insa de lyon, france - international section mathematics, physics, chemistry, mechanics, technical drawing and other engineering disciplines. 2014 scientific baccalauréat specialized in engineering sciences madrid, spain ó) work experience from mars software engineering consultant - alten for bmw motorbikes - munich, germany 2019 hardware in the loop, data analysis, ecu testing, test optimization, tools engineering, full-time embedded software, python, c++, qt, javascript, jira, gerrit, git. 2018 consulting and development - internship - alstom villeurbanne, france 4 mens client relations, analysis of user needs, team coordination, scrum, innovation, full-time android, java and python development, documentation. 2017 research project - cooperative navigation for drones insa lyon, france 2 months positioning algorithms, firmware analysis, uwb and indoor positioning system (ips). 2017 project manager (team of 5 people) - web development insa de lyon, france 2months project management, team motivator, sql, html5, css3 and python environment. 2016 prototyping of a gps tracking device - project at insa de lyon, france 3 months data processing and data analysis, developpment and agile prototyping with arduino. 2015 it assistant at 4 of the university's computer rooms insa de lyon, france 9months part-time. basic maintenance of the computers, printers and projectors. 2015-2019 member of the board of directors of les bikers - student-driven bike-workshop at la doua's 4years campus, lyon, france. budget management, dynamisation of creative groups, thinking outside the box, pel skills languages spanish: native speaker french: fluent (c2), 5 years in france english: fluent (c1), 970 / 990 toeic portuguese: basic communication skills b1 german: basic communication skills a1 core skills python, c, c++, sql, java, html5, css3, matlab, gns3, simulink, adobe illustrator, linux, git, qt, siemens solid edge, ms office, ros, agile methodologies adaptability assertivity creativity curiosity integrity perseverance vm interests love nature, cycling and hiking. play the piano as have studied at getafe's professional conservatory of music and! am a self-taught guitarrist. as a bike and mechanics enthusiast, for 4 years have paticipated in a student-driven bike workshop in lyon, france, as an active member of the board of directors.",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI20"
+}

@@ -1,0 +1,110 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Inigo Valle Santos",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "i.vallesantos@gmail.com",
+        "phone": "(sp)691567397",
+        "address": "n93 1 izq, 01008, Vitoria-Gasteiz, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BSc Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2011-2017",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Eologix Sensor Technology GmbH",
+            "position": "Junior Engineer",
+            "description": "Design of an airfoil CFD simulation framework for static and dynamic pressures, aerodynamic simulations of airfoils for design optimization, support in sensor production and sensor mounting in the blades of wind turbines, design and production of a storage space including lighting structure for sensors.",
+            "start_date": "01/2017",
+            "end_date": "11/2017",
+            "duration_years": 0.83
+        },
+        {
+            "company": "AESA (Air Safety State Agency)",
+            "position": "Engineer Intern",
+            "description": "Responsible to develop the supervision plan for quality standards and investments at AENA S.A airports.",
+            "start_date": "02/2016",
+            "end_date": "08/2016",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work",
+            "country": "Austria",
+            "institution_or_company": "",
+            "start_date": "09/2017",
+            "end_date": "09/2017",
+            "description": "Junior Engineer in Eologix Sensor Technology GmbH",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship / Work",
+            "country": "Spain",
+            "institution_or_company": "",
+            "start_date": "02/2016",
+            "end_date": "08/2016",
+            "description": "Engineer Intern at AESA",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office: Word, Excel, Visio, PowerPoint, Outlook",
+            "Operative Systems: Windows, Linux-Ubuntu",
+            "Design Programs: CATIA V5, SolidWorks, QBlade",
+            "Software CFD: OpenFOAM, Fluent, SimFlow",
+            "Programming: Fortran, MATLAB, C++, Python"
+        ],
+        "soft_skills": [
+            "Easy-learning and organized",
+            "Great structured capacity for analysis and solution problems",
+            "Absolute dedication in the achievement of objectives",
+            "Flexible to travel"
+        ]
+    },
+    "other_interests_normalized": [
+        "Volleyball",
+        "Sports delegate in the Antonio de Nebrija resident hall (Madrid)",
+        "Basketball",
+        "Rugby",
+        "Captain of many sports teams in Madrid: Rugby and Volleyball"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Red Cross",
+            "role": "Voluntary fundraising for children in need to end inequality",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 1.33,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.2
+}

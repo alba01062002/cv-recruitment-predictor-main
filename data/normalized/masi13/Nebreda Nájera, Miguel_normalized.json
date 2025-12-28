@@ -1,0 +1,108 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Nebreda Nájera",
+        "date_of_birth": "07/12/1988",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 25,
+        "email": "m.nebredanajera@gmail.com",
+        "phone": "94 421 82 91 / 600 696 279",
+        "address": "c/ Uhagón, n 1 - 2 deha 48010 Bilbao",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Licenciado en ingeniería industrial, especialidad termoenergética",
+            "field": "Ingeniería industrial - Termoenergética",
+            "university": "Universidad del País Vasco- E.T.S.I. Bilbao",
+            "location": "Bilbao",
+            "year": "2006-2012",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Máster en sistemas de energía (Master programme in energy systems)",
+            "field": "Sistemas de energía",
+            "university": "Universidad de Gávle",
+            "location": "Suecia",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Profesor de inglés, francés, matemáticas, física y química",
+            "description": "Cursó esta experiencia como profesor en un período no especificado.",
+            "start_date": "2005-2007",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Liceo Francés de Bilbao",
+            "position": "Entrenador de equipo de fútbol del Liceo Francés (Alevines)",
+            "description": "Desempeñó este papel en 2006.",
+            "start_date": "2006",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Suecia",
+            "institution_or_company": "JK Sátra",
+            "start_date": "",
+            "end_date": "",
+            "description": "Jugó en un equipo de fútbol en Suecia compuesto por jugadores de diferentes continentes.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Word",
+            "Excel",
+            "Access",
+            "MATLAB",
+            "Solid Edge"
+        ],
+        "soft_skills": [
+            "Adaptabilidad a entornos multiculturales",
+            "Capacidad de adaptación"
+        ]
+    },
+    "other_interests_normalized": [
+        "Amante del deporte",
+        "Disponibilidad geográfica"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Entrenador de equipo de fútbol",
+            "duration": "2006",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

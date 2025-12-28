@@ -1,0 +1,94 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Fernando Cabrera Carrasco",
+        "date_of_birth": "18/03/1985",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 25,
+        "email": "fernando1803@hotmail.com",
+        "phone": "+34 615.21.71.18, +34 658.09.17.11",
+        "address": "POSO de la estación. 22-26, escalera a 9 4, 37004 Salamanca",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Diplomatura de ingeniería técnica industrial especialidad en mecánica",
+            "field": "ingeniería",
+            "university": "Universidad de Salamanca y Escuela Politécnica Superior de Zamora",
+            "location": "Salamanca, España",
+            "year": "2003-2009",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "camarero en el restaurante sant lluis y trabajos en hostelería como camarero en cafetería las torres, etts",
+            "description": "Experiencia en la hostelería durante 6 años continuados. Incluyendo trabajo como camarero en diferentes establecimientos.",
+            "start_date": "2003",
+            "end_date": "2009",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Irlanda, EE.UU., España",
+            "institution_or_company": "",
+            "start_date": "septiembre 2007, agosto 2008, abril 2009",
+            "end_date": "",
+            "description": "Certificados y cursos en inglés de diferentes duraciones.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Visual Basic.NET",
+            "Office",
+            "Mathematics",
+            "AutoCAD",
+            "SolidEdge"
+        ],
+        "soft_skills": [
+            "Responsabilidad",
+            "Extroversión",
+            "Capacidad de trabajo",
+            "Organización",
+            "Decisión",
+            "Respeto por los demás",
+            "Discreción",
+            "Compromiso"
+        ]
+    },
+    "other_interests_normalized": [
+        "Deportes",
+        "Viajar"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.7
+}

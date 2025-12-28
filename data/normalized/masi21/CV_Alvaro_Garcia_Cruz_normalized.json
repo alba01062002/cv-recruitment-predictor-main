@@ -1,0 +1,104 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Álvaro García Cruz",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "alvaro.garciacruz7@gmail.com",
+        "phone": "+34 608367839",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeronáutica e espacial",
+            "field": "Ingeniería aeroespacial",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, España",
+            "year": "2015-2021",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ALTAN Innovation SL",
+            "position": "Asistente en I+D, ASD #3",
+            "description": "Equipo de ensayo CFD para el proyecto e-fanx de Airbus. Uso de software de cálculo para creación de modelos numéricos. Validación de ensayos de túnel de viento.",
+            "start_date": "06/2019",
+            "end_date": "04/2021",
+            "duration_years": 1.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Intercambio escolar",
+            "country": "Irlanda",
+            "institution_or_company": "Colegio Urkide - Dublin",
+            "start_date": "09/2012",
+            "end_date": "",
+            "description": "Período de intercambio en Irlanda para mejorar habilidades de comunicación en inglés.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Euskera",
+            "C2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "LaTeX",
+            "Word",
+            "Excel",
+            "Solid Edge",
+            "HyperMesh",
+            "Simulink",
+            "Abaqus",
+            "Acusolve",
+            "Fluent",
+            "LabView"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Música",
+        "Guitarra eléctrica",
+        "Guitarra clásica"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Escuela de Música Vedruna",
+            "role": "Supervisado en preparación y ajuste de instrumentos musicales, equipos electrónicos y equipo de escena",
+            "duration": "2012 - 2014",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 1.83,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

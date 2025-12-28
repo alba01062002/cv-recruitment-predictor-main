@@ -1,0 +1,139 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Gonzalo Villamor Jiménez",
+        "date_of_birth": "05/02/1990",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 28,
+        "email": "i gonvill+gmail.com",
+        "phone": "+34 915495976 +34 653078555",
+        "address": "c/joaquín maría lópez 28 4d, 28015, madrid, spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineer Degree of Five Year Courses (BSc) + Master's Degree (MSc)",
+            "field": "Aircrafts",
+            "university": "Superior Technical School of Aeronautical Engineers (ETSIA), Polytechnic University of Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2016",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Centum Solutions S.L.",
+            "position": "Airbus Getafe Project: Air Refueling Integrator MRTT (TEAMA)",
+            "description": "Integrator support for air refueling department Airbus (TEAMA), coordination between analysis teama departments and other Airbus D&S departments, manufacturing, design, chief engineering, certification, assistance to several meetings on behalf of TEAMA department, management of department tasks and planning of MRTT programs.",
+            "start_date": "05/2017",
+            "end_date": "12/2018",
+            "duration_years": 1.58
+        },
+        {
+            "company": "Airbus Getafe Project: S19 A350",
+            "position": "Design and Airworthiness Engineer in Aircrafts Modification Projects",
+            "description": "Project management, elaboration of technical documentation (service bulletin, AMM and IPC supplement...), elaboration of manufacturing instructions and job cards, performing technical drawings, aircraft parts design, handling of aircraft manuals and certification regulation, EMI testing in aircrafts.",
+            "start_date": "jan. 2016",
+            "end_date": "12/2018",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Carbures Group Airbus Getafe Project: S19 A350 Pip",
+            "position": "Project Improvement Project of S19 A350 (PIP) Engineer",
+            "description": "",
+            "start_date": "mar. 2015",
+            "end_date": "sep. 2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Sirium Aerotech S.L.",
+            "position": "Design and Airworthiness Engineer in Aircrafts Modification Projects",
+            "description": "",
+            "start_date": "apr. 2017",
+            "end_date": "may 2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Aernnova Avda. Manoteras 20, Madrid",
+            "position": "Trainee for the Realization of the Final Degree Project at the R&D Department",
+            "description": "Research of dynamic response of an UAV against vertical gust using Nastran/Patran aeroelastic module, development of a Python program.",
+            "start_date": "present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain (Madrid)",
+            "institution_or_company": "University Autonomous Madrid (UAM)",
+            "start_date": "2007",
+            "end_date": "",
+            "description": "Introduction to robotics",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Senasa, Ocafias Aerodrome",
+            "start_date": "2010",
+            "end_date": "",
+            "description": "Introduction to glider flight (10h theoretical instruction and 10 dual command flights)",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Spain (Madrid)",
+            "institution_or_company": "ETSIA, Polytechnic University of Madrid",
+            "start_date": "2014",
+            "end_date": "",
+            "description": "Introduction to Nastran/Patran",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "CATIA V5 (mid-level)",
+            "Nastran / Patran (beginner level)",
+            "AutoCAD (mid-level)",
+            "Microsoft Office Suite"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Project Management",
+            "Communication"
+        ]
+    },
+    "other_interests_normalized": [
+        "Football",
+        "Futsal"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "University Football Team",
+            "role": "Player",
+            "duration": "2016-2023",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 1.58,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales nombre y apellidos: miguel zapatero rodríguez fecha de nacimiento: 12 de octubre de 1987 lugar de nacimiento: valladolid d.n.i. número: 71164429-z dirección: c/ garcía lomas n15 esc: derecha 7b teléfono: 983279165 teléfono móvil: 672452255 email: miguelzapatero@hotmail.es formación académica 2007-2012 universidad de valladolid ingeniero técnico industrial especialidad en electrónica industrial. nota media 1.4 especialidad diseo electrónico y microelectrónica otros cursos y seminarios idiomas informática conocimientos medios de: matlab. codesys. microsim. programación en c. programación en labview conocimientos a nivel usuario en: windows procesadores de texto: microsoft word hojas de cálculo: excel powerpoint internet otros datos de interés carné de conducir b-1 vehículo propio. disponibilidad para viajar o trabajar fuera. disponibilidad de incorporación inmediata.",
+    "text_from_header": "DATOS PERSONALES",
+    "detected_language": "es",
+    "master_edition": "MASI13"
+}

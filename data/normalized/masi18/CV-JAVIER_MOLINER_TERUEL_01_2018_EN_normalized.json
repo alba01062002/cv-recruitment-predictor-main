@@ -1,0 +1,126 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Javier Moliner Teruel",
+        "date_of_birth": "05/11/1986",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 32,
+        "email": "javier.molinerq@gmail.com",
+        "phone": "+34 679638315",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Engineering: Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "University of Zaragoza (Spain)",
+            "location": "Zaragoza, Spain",
+            "year": "2010",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Licence Professionnelle ICP: Ingénierie de conception et prototypage",
+            "field": "Industrial Design CAD",
+            "university": "Toulouse University Paul Sabatier III (France)",
+            "location": "Toulouse, France",
+            "year": "2010",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Otis",
+            "position": "International Projects Engineer",
+            "description": "Project manager for international projects, working closely with the workforce on target countries to ensure a successful deployment of products and brand. Interact with international branches, gather necessary information, evaluate technical feasibility of modifications, product definition and design.",
+            "start_date": "04/2015",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Dassault Aviation",
+            "position": "Aeronautical Design Engineer",
+            "description": "Design of oxygen (ATA35) and water&waste (ATA38) systems for the Dassault Falcon 5X, from preliminary to production phases. Technologies choice, parts design, secondary structure design proposals, product lifecycle management.",
+            "start_date": "06/2012",
+            "end_date": "04/2015",
+            "duration_years": 2.83
+        },
+        {
+            "company": "Ausy Engineering",
+            "position": "Design Engineer",
+            "description": "3D design with CATIA V5 of machined parts and sheet metal parts for the Airbus A350XWB: 19.1 section, lightening of belly fairing, parts design in composite materials.",
+            "start_date": "09/2011",
+            "end_date": "06/2012",
+            "duration_years": 0.75
+        },
+        {
+            "company": "CSIC (Superior Council of Scientific Research)",
+            "position": "Design Engineer",
+            "description": "Design of a dish/stirling solar energy plant using SolidWorks and CATIA V5 for the CENIT Consollda project.",
+            "start_date": "2010",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Working stay",
+            "country": "United Kingdom (UK)",
+            "institution_or_company": "W Hotel London",
+            "start_date": "2011",
+            "end_date": "",
+            "description": "Customer service and logistic duties for the spa of W Hotel London, 5-star hotel.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Working stay",
+            "country": "France",
+            "institution_or_company": "Paul Sabatier III - Toulouse University (CSIC)",
+            "start_date": "2010-2011",
+            "end_date": "",
+            "description": "Studying and working in Paris and Tarbes, France.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V6",
+            "SolidWorks",
+            "AutoCAD",
+            "ProEngineer",
+            "Python",
+            "Photography",
+            "3D Printing"
+        ],
+        "soft_skills": [
+            "Problem solving",
+            "Creativity",
+            "Sociability",
+            "Analytical thinking"
+        ]
+    },
+    "other_interests_normalized": [
+        "Classic cars restoration",
+        "Automotive industry enthusiast"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

@@ -1,0 +1,177 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jordi Ortiz Verdú",
+        "date_of_birth": "05/03/1988",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 26,
+        "email": "jordiortisss@gmail.com",
+        "phone": "+34 600256691",
+        "address": "C/Horta de la Vila, n214, 4%LZQ. 03420 Castalla, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science in Telecommunication Engineering: Electronics, Communications, Microwave, Fiber-optic Communications, Networking and Business Management",
+            "field": "Telecommunications",
+            "university": "Universitat Politècnica de València (UPV)",
+            "location": "Valencia, Spain",
+            "year": "2006-2009",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Master of Science in Electrotechnics",
+            "field": "Electrical Engineering",
+            "university": "Technische Universität Berlin (TU Berlin)",
+            "location": "Berlin, Germany",
+            "year": "2010-2013",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Bachelor of Science in Telecommunication Engineering: Electronics, Communications, Telematics, Programming, Data Transmission and Networking",
+            "field": "Telecommunications",
+            "university": "Universitat Politècnica de València (UPV)",
+            "location": "Valencia, Spain",
+            "year": "2000-2006",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Fraunhofer Heinrich Hertz Institute (HHI)",
+            "position": "Master Thesis Researcher in the Photonics Networks and Systems Department",
+            "description": "Analysis on equalizations for block transmission based baseband modulation in optical wireless visible light communications.",
+            "start_date": "03/2013",
+            "end_date": "08/2013",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Caffè Nero",
+            "position": "Barista",
+            "description": "Provided great customer service, preparing hot drinks and food as well as operating the till.",
+            "start_date": "10/2009",
+            "end_date": "07/2010",
+            "duration_years": 0.75
+        },
+        {
+            "company": "Wimax Network",
+            "position": "Business Developer",
+            "description": "Development and implantation of rural population, technical design, business case, selection of providers, engagement with stakeholders, presentation of case to university board.",
+            "start_date": "04/2009",
+            "end_date": "10/2009",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Institut Enric Valor (Castalla)",
+            "position": "Teaching Assistant",
+            "description": "Academic year training younger students and pupils in English, maths and physics.",
+            "start_date": "06/2007",
+            "end_date": "06/2009",
+            "duration_years": 2.0
+        },
+        {
+            "company": "Linux Deployer Trainee Student",
+            "position": "",
+            "description": "Participation in strategic project for Linux deployment across all schools in Valencia's region, sponsored by regional government.",
+            "start_date": "11/2007",
+            "end_date": "12/2008",
+            "duration_years": 1.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "",
+            "institution_or_company": "Technische Universität Berlin (TU Berlin)",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Germany",
+            "institution_or_company": "Fraunhofer Heinrich Hertz Institute (HHI)",
+            "start_date": "03/2013",
+            "end_date": "08/2013",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "United Kingdom",
+            "institution_or_company": "Caffè Nero, London",
+            "start_date": "10/2009",
+            "end_date": "07/2010",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Wimax Network, Valencia",
+            "start_date": "04/2009",
+            "end_date": "10/2009",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Java",
+            "C",
+            "VHDL",
+            "Signal Processing",
+            "LaTeX",
+            "Linux",
+            "Windows",
+            "ORCAD",
+            "Cisco",
+            "Database Management",
+            "Microsoft Project",
+            "Photoshop"
+        ],
+        "soft_skills": [
+            "Customer Service",
+            "Project Management",
+            "Communication",
+            "Teamwork",
+            "Leadership",
+            "Adaptability",
+            "Problem Solving",
+            "Creativity"
+        ]
+    },
+    "other_interests_normalized": [
+        "Meeting New People",
+        "Reading",
+        "Travelling",
+        "Music (Clarinet)",
+        "Learning New Languages and Cultures"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 4.75,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.4
+}

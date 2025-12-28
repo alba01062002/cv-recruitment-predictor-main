@@ -1,0 +1,118 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Irene Núñez Sánchez-Gil",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "irene.nunezsg@gmail.com",
+        "phone": "+34 682 77 42 08",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Degree in Aeronautical Engineering",
+            "field": "Aircraft Systems Integration",
+            "university": "Polytechnique University of Madrid",
+            "location": "Madrid, Spain",
+            "year": "2008-2013",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Altran on behalf of Airbus D&S",
+            "position": "Safety Reliability Engineer",
+            "description": "Developing preliminary system safety assessments for fuel and flight control systems, developing functional hazard assessment for hydraulic and electrical power systems, contributing to the development of master minimum equipment list and oxygen hazard analysis.",
+            "start_date": "07/2015",
+            "end_date": "currently",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Group",
+            "position": "Airworthiness and Certification Engineer",
+            "description": "Responsible for all Airbus fleet for airborne auxiliary power and inert gas system, managing changes to type certificate and airworthiness or operational compliance demonstration, identifying and interpreting applicable certification basis and negotiating acceptable means of compliance.",
+            "start_date": "12/2013",
+            "end_date": "07/2015",
+            "duration_years": 1.58
+        },
+        {
+            "company": "",
+            "position": "Safety & Reliability Engineer Trainee",
+            "description": "Managing technical safety and reliability documentation, performing reliability technical analysis, supporting electrical generation area.",
+            "start_date": "11/2013",
+            "end_date": "11/2014",
+            "duration_years": 1.0
+        },
+        {
+            "company": "",
+            "position": "Internship in Marketing & Sales Engineering Department",
+            "description": "Creating and managing internal database, communicating with suppliers, supporting sales engineering department.",
+            "start_date": "2012",
+            "end_date": "2013",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "United Kingdom",
+            "institution_or_company": "Sussex Downs College (Lewes Campus)",
+            "start_date": "2015-08",
+            "end_date": "2015-10",
+            "description": "Advanced English course supported by Cambridge University",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "United States of America",
+            "institution_or_company": "St. Margaret's Episcopal School (California)",
+            "start_date": "2015-08",
+            "end_date": "2015-10",
+            "description": "Course in psychology introduction through edx platform",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Dutch",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fault tree analysis",
+            "ISograph Reliability Workbench",
+            "FOD Course (Foreign Object Damage)",
+            "Advanced Avionic Course",
+            "Basic Aircraft Maintenance Course",
+            "SDM, ICC, Aircam, MPT, MCT, NACRE, ACC2, TAKSY",
+            "Excel, Access, MySQL"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 2.58,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

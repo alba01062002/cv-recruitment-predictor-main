@@ -1,0 +1,31 @@
+rank,feature,importance_abs,coef_signed
+1,tunisair,94.000000,N/A
+2,excel,90.000000,N/A
+3,catalunya,84.000000,N/A
+4,mro,75.000000,N/A
+5,management team,72.000000,N/A
+6,enhance,69.000000,N/A
+7,technical university,56.000000,N/A
+8,mi,53.000000,N/A
+9,capgemini,51.000000,N/A
+10,exchange,50.000000,N/A
+11,b1 german,48.000000,N/A
+12,aeroespaciales,45.000000,N/A
+13,integrated,43.000000,N/A
+14,work packages,39.000000,N/A
+15,para,38.000000,N/A
+16,best,38.000000,N/A
+17,technician internship,38.000000,N/A
+18,committee,37.000000,N/A
+19,teamwork,33.000000,N/A
+20,traveling,32.000000,N/A
+21,engineering aeronautical,32.000000,N/A
+22,tasks,32.000000,N/A
+23,french,32.000000,N/A
+24,university tunisia,32.000000,N/A
+25,uk,32.000000,N/A
+26,matlab,31.000000,N/A
+27,upm,30.000000,N/A
+28,analisis,30.000000,N/A
+29,fea,29.000000,N/A
+30,school,29.000000,N/A

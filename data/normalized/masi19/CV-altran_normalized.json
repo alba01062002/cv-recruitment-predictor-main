@@ -1,0 +1,118 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alain Kadiri Moreno",
+        "date_of_birth": "30/03/1992",
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": 27,
+        "email": "alainkadirimoreno@gmail.com",
+        "phone": "+34 665 501 757",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/alain-kadiri-moreno-186041a4/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Industrial Mechanics",
+            "field": "Industrial Mechanics",
+            "university": "UC3M Leganés",
+            "location": "Leganés, Spain",
+            "year": "2016-2017",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Master's in Decision Making and Innovation",
+            "field": "Decision Making and Innovation",
+            "university": "UAH Alcalá de Henares",
+            "location": "Alcalá de Henares, Spain",
+            "year": "2017-2018",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "UPM",
+            "location": "Madrid, Spain",
+            "year": "2010-2016",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Altran España S.A.",
+            "position": "Intern in Fatigue & Damage Tolerance Analysis",
+            "description": "Performed fatigue and damage tolerance assessment of metallic structures, developed fatigue spectrums, supported fatigue and damage tolerance testing. Utilized tools such as ISAMI, Excel, Patran, Nastran, and CATIA.",
+            "start_date": "09/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.25
+        },
+        {
+            "company": "Airbus Operations S.L.",
+            "position": "Intern in A320/A330 HTP Structure Design & Stress Analysis",
+            "description": "Conducted feasibility studies, static stress analysis and justification of assemblies. Applied Airbus design methodologies to specific aircraft components. Handled document management (gestión documental, Sprint). Sought innovative ideas for cost and weight optimization.",
+            "start_date": "09/2017",
+            "end_date": "09/2018",
+            "duration_years": 1.0
+        },
+        {
+            "company": "UC3M Leganés",
+            "position": "Researcher in Fatigue Crack Identification Techniques",
+            "description": "Developed and validated new techniques for fatigue crack identification. Performed vibration analysis and simulated crack propagation using ABAQUS. Programmed algorithms to process signals obtained from tests (MATLAB).",
+            "start_date": "03/2015",
+            "end_date": "09/2015",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "VBA",
+            "Nastran",
+            "Abaqus",
+            "HyperWorks",
+            "ISAMI",
+            "CATIA V5.0",
+            "Solid Edge ST9",
+            "MS Office"
+        ],
+        "soft_skills": [
+            "Proactive",
+            "Hard working",
+            "Team working",
+            "Adaptability",
+            "Work under pressure",
+            "Creativity"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 8.75,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

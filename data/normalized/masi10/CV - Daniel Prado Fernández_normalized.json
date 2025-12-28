@@ -1,0 +1,128 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Prado Fernández",
+        "date_of_birth": "03/11/1980",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 30,
+        "email": "daniel.prado.fernandez@hotmail.com",
+        "phone": "646907261, 954095419",
+        "address": "Chaves Nogales 8, portal 4, 4-h, 41018 Sevilla (Sevilla)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Licenciado en Ingeniería Industrial",
+            "field": "Especialidad Materiales",
+            "university": "Escuela Técnica Superior de Ingenieros, Universidad de Sevilla",
+            "location": "Sevilla",
+            "year": "2007",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Máster Calidad en la Industria Aeronáutica",
+            "field": "",
+            "university": "QIAS08",
+            "location": "",
+            "year": "2008",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Global Quality Engineering Services, S.L.",
+            "position": "Subcontratado en EADS-CASA, Factoría de Tablada",
+            "description": "Seguimiento y control de subcontratistas fabricantes de elementos metálicos para EADS-CASA. Realización de auditorías de sistema de calidad y procesos especiales a subcontratistas.",
+            "start_date": "02/2009",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Global Quality Engineering Services, S.L.",
+            "position": "Subcontratado en EADS-CASA, Factoría de Tablada",
+            "description": "Realización de documentación técnica en el área de calidad del departamento de montaje.",
+            "start_date": "08/2008",
+            "end_date": "01/2009",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Nusim S.A.",
+            "position": "Ingeniero de Proyecto",
+            "description": "Dirección de obra, redacción de documentos técnicos, trato con proveedores, realización de planos y cálculos mecánicos y estructurales. Participación activa en la dirección del montaje y puesta en marcha del sistema de plataformas móviles.",
+            "start_date": "10/2007",
+            "end_date": "09/2008",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Sgel S.A.",
+            "position": "Dependiente",
+            "description": "",
+            "start_date": "10/2003",
+            "end_date": "03/2005",
+            "duration_years": 1.42
+        },
+        {
+            "company": "Seguros Genestrella S.L.",
+            "position": "Ayudante de Oficina",
+            "description": "",
+            "start_date": "09/2003",
+            "end_date": "02/2004",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "",
+            "institution_or_company": "Barman en la terraza-bar Itos (Ibiza)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Un 90% de la clientela es de nacionalidad inglesa.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office (Word, Excel, PowerPoint, Outlook)",
+            "NASTRAN/PATRAN y ANSYS",
+            "CATIA V5, Solid Edge y SolidWorks",
+            "SmartSketch y AutoCAD",
+            "Matlab y Mathematica",
+            "Microsoft Project",
+            "Ecodial"
+        ],
+        "soft_skills": [
+            "Responsabilidad",
+            "Organización",
+            "Motivación",
+            "Entusiasmo por trabajar en equipo",
+            "Autodidacta",
+            "Capacidad de aprendizaje"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.4
+}

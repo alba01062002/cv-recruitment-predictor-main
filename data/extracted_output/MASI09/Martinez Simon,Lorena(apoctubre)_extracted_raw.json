@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales apellidos: martínez simón nombre: lorena lugar y fecha de nacimiento: la baeza (león), 12-04-1984 dirección habitual : c/ leeros 36, 4 f 28039 madrid teléfono: 646710407 correo electrónico: imartinezsimon@gqmail.com carnet de conducir : si estudios e 2002 - 2008 (septiembre): ingeniería superior de telecomunicaciones en la universidad politécnica de madrid. o especialidad cursada: comunicaciones o título del proyecto fin de carrera: diseo, implementación y evaluación de técnicas de conversión de prosodia. aplicación a la síntesis de emociones a través de la voz. (http://www-gth.die.upm.es/barra/pfcs/2008-imsimon/). e 2001-2002: 2 bachillerato (logse) en el ies marqués de lozoya de cuéllar (segovia). nota media: 9.0 (matrícula de honor) e 1999-2001: 4% e.s.o y 1 bachillerato en el instituto pardo tavera de toro (zamora). e 1996- 1999: 1%, 2 y 3 eso en el colegio nuestra seora del carmen de la baeza (león) otros estudios y cursos e 2008 : curso de coordinadora de ocio y tiempo libre en la escuela de tiempo libre rastros de madrid (200 horas teóricas). e 2003: título de monitora de ocio y tiempo libre : curso realizado en la escuela de tiempo libre acaya de madrid. ( 120 horas teóricas y 150 prácticas) idiomas: inglés: nivel medio hablado y escrito. informática e matlab y c : nivel medio de programación. e office (word, excel, powerpoint...) : nivel usuario. e sistema operativo linux: usuario avanzado (nivel de desarrollador bajo). e awk, latex, htk, praat , mume : nivel usuario e java: nivel medio de programación. experiencia curso 2007-2008: beca de colaboración en el grupo de tecnología del habla (gth) perteneciente al departamento de ingeniería electrónica de la etsit en aspectos relacionados con reconocimiento de habla y síntesis de emociones. monitora de ocio y tiempo libre: e 2? quincena de julio de 2005 y mes de julio (completo) de 2006 y 2007 en campamentos de la empresa tatanka camp. e 2? quincena de julio de 2002, 2003 y 2004 en campamentos de la empresa the canadian center summer camp. funciones (en ambas empresas): responsable de un grupo de 10-14 nios de entre 6 y 13 aos, impartición de actividades deportivas, trabajo con un equipo de 10-13 monitores. coordinadora de ocio y tiempo libre: e mes de julio de 2008 en campamentos de la empresa tatanka camp. funciones: coordinación de un equipo de 12 monitores y supervisión de su trabajo, responsable del correcto funcionamiento del campamento, nexo de unión entre los directores de la empresa y los monitores. otra experiencia e los estudios de la carrera los comencé residiendo en el colegio mayor mara de madrid, siendo durante los dos últimos la responsable (delegada) del equipo de baloncesto. e curso 2005-2006: participación en el proyecto mentor ( mentoría a alumnos de 1) de la escuela técnica superior de telecomunicaciones de la upm. e impartición de clases particulares de matemáticas de nivel bachillerato durante el curso 2006-2007.",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI09"
+}

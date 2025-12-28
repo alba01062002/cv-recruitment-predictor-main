@@ -1,0 +1,83 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel de la Torre Martin",
+        "date_of_birth": "17/02/1987",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 27,
+        "email": "mtormartin@gmail.com",
+        "phone": "(+34) 617 14 63 68",
+        "address": "av. reina mercedes 5, 5c 41012, sevilla (spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Engineering degree, Superior Industrial Engineer",
+            "field": "Mechanical Design",
+            "university": "University of Sevilla",
+            "location": "Sevilla",
+            "year": "2005-2012",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "CM Computer",
+            "position": "Engineer",
+            "description": "Worked on military ATR chassis and COTS products. Carried out jobs including 3D design and modeling using Autodesk Inventor, general knowledge of numerical control programs, quality control and testing processes.",
+            "start_date": "11/2011",
+            "end_date": "06/2013",
+            "duration_years": 1.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Poland",
+            "institution_or_company": "Politechnika Wroclawska",
+            "start_date": "2010-2011",
+            "end_date": "",
+            "description": "Complete academic year, lessons and exams taken entirely in English.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Excel 2010",
+            "Microsoft Word 2010",
+            "Autodesk Inventor 2012 Professional",
+            "Autodesk AutoCAD 2010",
+            "MathWorks MATLAB and Simulink",
+            "CATIA VS. Master Mechanical Design",
+            "C code programming",
+            "Windows OS, Mac"
+        ],
+        "soft_skills": [
+            "Open-minded person",
+            "Willing to cooperate in order to achieve objectives"
+        ]
+    },
+    "other_interests_normalized": [
+        "Water sports such as kitesurfing, wakeboarding and sailing"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 1.58,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

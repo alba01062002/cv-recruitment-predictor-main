@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sergio Garrido Pintado",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "sergio.garrip@gmail.com",
+        "phone": "+34 663 45 50 20",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/sergio-garrido-pintado-24196617a/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://www.linkedin.com/in/sergio-garrido-pintado-24196617a/"
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in aeronautical engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2019-2023",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Bachelor's degree in aerospace engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2014-2019",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space",
+            "position": "Flight test instrumentation engineer",
+            "description": "Performing all activities related to flight test instrumentation architecture definition for Airbus DS military aircraft. Managing calibration processes, coordinating the baseline of FFI, and adapting it to upcoming technologies.",
+            "start_date": "05/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.58
+        },
+        {
+            "company": "Akka Technologies",
+            "position": "Flight test instrumentation engineer",
+            "description": "Sensors calibrations, export control compliance tasks for FFI equipment and documentation.",
+            "start_date": "07/2022",
+            "end_date": "05/2023",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Studec Iberia",
+            "position": "Flight operations tools engineer",
+            "description": "Supporting the development of flight ops. tools, testing, and customer support on Airbus specific tools. Managing flight operations manuals and quality management.",
+            "start_date": "07/2019",
+            "end_date": "07/2022",
+            "duration_years": 3.0
+        },
+        {
+            "company": "Airbus Defence & Space",
+            "position": "Trainee in aircraft systems rigs department (Internship)",
+            "description": "Supporting different activities within Clean Sky 2 program. Testing actuator control electronics and backup control units.",
+            "start_date": "05/2018",
+            "end_date": "07/2018",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "CAMEO",
+            "ICDMS",
+            "Excel VBA",
+            "Visio",
+            "CATIA (academic level)",
+            "Adobe Captivate"
+        ],
+        "soft_skills": [
+            "Adaptability",
+            "Multi-tasking",
+            "Working under pressure",
+            "Teamwork",
+            "Attention to detail",
+            "Empathy",
+            "Communication skills",
+            "Strategic thinking"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 9.0,
+    "total_work_years": 6.58,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.2
+}

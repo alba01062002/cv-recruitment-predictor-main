@@ -1,0 +1,120 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Marta Girón Carrero",
+        "date_of_birth": "29/05/YYYY",
+        "gender": "female",
+        "age_reference_year": 2015,
+        "age": null,
+        "email": "marta.giron.carrero@gmail.com",
+        "phone": "+34 691212986",
+        "address": "calle islas chonos 5, 28905 getafe, madrid, spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Carlos III de Madrid - Leganés Campus",
+            "location": "Madrid, Spain",
+            "year": "2011-2015",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "School La Inmaculada PP. Escolapios",
+            "location": "Getafe, Madrid, Spain",
+            "year": "2009-2011",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus DS",
+            "position": "Internship in Barajas (part-time)",
+            "description": "Knowledge acquired about procedures and audits in the department of transport services quality studies",
+            "start_date": "01/05/2015",
+            "end_date": "30/07/2015",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study abroad",
+            "country": "USA (Lubbock, Texas)",
+            "institution_or_company": "Texas Tech University",
+            "start_date": "19/08/2013",
+            "end_date": "14/05/2014",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Summer course of English",
+            "country": "United Kingdom (London)",
+            "institution_or_company": "London United Kingdom",
+            "start_date": "01/06/2011",
+            "end_date": "21/06/2011",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Summer course of English",
+            "country": "USA (Boston and New York)",
+            "institution_or_company": "Boston and New York USA",
+            "start_date": "01/06/2010",
+            "end_date": "30/06/2010",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab: advance",
+            "Microsoft Office: advance",
+            "Solid Works: advance",
+            "Abaqus: medium",
+            "Mathematica: medium",
+            "Fluent: medium",
+            "Xflr5: medium",
+            "Cyclepad: basic",
+            "R: basic"
+        ],
+        "soft_skills": [
+            "Team work and team building",
+            "Customer focus and personal branding",
+            "Effective presentations",
+            "Innovation",
+            "Communication",
+            "Project management"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

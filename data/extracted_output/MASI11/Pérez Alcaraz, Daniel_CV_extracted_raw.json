@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal data first name and surname: daniel pérez alcaraz date and place of birth: 8* july 1985, sevilla address: 6 32a, leon xiii, sevilla, 41009, spain nationality: spanish telephone number: +34 655065146 e-mail: danaeroo gmail.com education e 2003-2008 aeronautical engineer, escuela superior de ingenieros (esi), universidad de sevilla. > average score: 7,59 > final project: structural design and building of an unmanned aerial vehicle (uav): the cefiro project work experience e august 2009 august 2010. aerospace structures and fluid dynamic department, sener ingeniería y sistemas s.a. participated in the following projects: > sizing of the composite panels, metal frames and stringers of the a350 belly fairing. client: alestis aerospace. > analysis of the thermoelastic stress in the rotating target of the european spallation neutron source. client: ess bilbao. > development of a structure optimization software by using visual basic and excel macros programming languages. > study of the compression waves and sonic boom caused by high-speed trains in tunnels. client: adif. e september 2007 may 2009. internship in the aerospace department, esi. participated in the following projects: > research on drag polar modeling for analyzing aircraft performances. > design team member of the cefiro concurrent engineering project, consisting of the design, manufacturing and testing of a modular reconnaissance uav with a wingspan of three meters and payload capacity of ten kilograms. tasks: y design of the aircraft structure and the manufacturing jigs using catia. y sizing of the structural elements analiticaly and using patran-nastran. y design of the manufacturing process. y manufacturing of the uav. pag. 1/2 courses attended e april and may 2008 aeronautical jigs course, 20 hours, coiae. e march-may 2008 aircraft certification seminar, 15 hours, esi languages english: advanced e september 2010-currently. intensive english course, brighton (uk) e jun 2009. first certificate in english (fce) e april-jun 2009. intensive english course, bristol (uk) computer skills design: catia v5 and smartscketch. fem simulation: patran-nastran. cnc: vcarve, cut3d and winpc-nc. mathematics: matlab, simulink and ees. cfd: star-ccm+. project management: microsoft project and menfis. programming: visual basic and visual basic for applications (excel macros). office admin: microsoft office and open office. os: microsoft windows xp, vista, linux and ms-dos. additional information e positive attitude, autodidactic and professional. e excellent communication and social skills. e driving license type b and own vehicle. updated october 2010 pag. 2/2",
+    "text_from_header": "CURRICULUM VITAE",
+    "detected_language": "en",
+    "master_edition": "MASI11"
+}

@@ -1,0 +1,121 @@
+{
+    "personal_information_normalized": {
+        "full_name": "David Onila Beng",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "sy.oniladavid@yahoo.com",
+        "phone": "+34 643 815 566",
+        "address": "Calle Example 123, Madrid, Spain",
+        "LinkedIn": "https://www.linkedin.com/in/davidonila/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in IT Applied to Aviation",
+            "field": "IT and aviation technology",
+            "university": "University Politehnica of Bucharest",
+            "location": "Bucharest, Romania",
+            "year": "2022-2024",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's Thesis in Aerospace Engineering",
+            "field": "Aerospace engineering",
+            "university": "University Politehnica of Bucharest",
+            "location": "Bucharest, Romania",
+            "year": "2022",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Ultra light motorized aircraft theoretical courses",
+            "university": "Aeroclubul României",
+            "location": "",
+            "year": "2020",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Bucharest Airports National Company",
+            "position": "Safety Intern",
+            "description": "Daily briefings with safety professionals, analysis of aviation incidents, technical visits at Henri Coanda International Airport.",
+            "start_date": "07/2021",
+            "end_date": "10/2021",
+            "duration_years": 0.25
+        },
+        {
+            "company": "Romanero SA (Romanian Aerospace Company)",
+            "position": "Intern",
+            "description": "Learning about aircraft maintenance, components of current repairs.",
+            "start_date": "07/2019",
+            "end_date": "09/2019",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Romanian",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "B2"
+        ],
+        [
+            "French",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office",
+            "MATLAB",
+            "AIXM",
+            "JavaScript",
+            "C++"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Learner",
+            "Achiever",
+            "Competition",
+            "Arranger"
+        ]
+    },
+    "other_interests_normalized": [
+        "General aviation",
+        "Swimming",
+        "Outdoor activities"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 0.42,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

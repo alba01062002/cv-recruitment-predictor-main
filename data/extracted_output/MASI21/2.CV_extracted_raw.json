@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "email: alvaro.solera17/@gmail.com address: madrid, spain phone: (+34) 658824231 date of birth: 17-08-1990 link: www.linkedin.com/in/alvaro-solera alvaro solera martin-nieto work experience madrid, spain. part-time october 2020 - february 2021 madrid, spain. full-time july 2018 - march 2020 guadalajara, spain. full-time february 2018 - may 2018 madrid, spain. part-time august 2010 - july 2017 dublin, ireland. part-time march 2011 - june 2011 education madrid, spain - 2021 madrid, spain - 2011 madrid, spain - 2009 test engineer br performance + dynamometer and road car testing. + engine control unit reflashing. project manager - engine calibration gotenman technology + installation and set up of programmable ecus. + dynamometer, track and road calibration. + development, assembly and testing manager of modified vehicles. driving instructor vsd events * driving instructor in automotive events. mechanical technician gsc servicios y reparaciones solera + machinery and vehicle maintenance. intership. automotive professional training advance pitstop + repair and maintenance of vehicles. bachelor's degree in mechanical engineering carlos iii university of madrid automotive professional training alarnes high school technology high school degree antonio lópez high school manager, powertrain department formula student uc3m. project for undergraduates where they design, manufacture and race a formula type car following fsae regulations. + powertrain development, assembly and testing manager. - engine calibration. languages spanish: native. english: intermediate. office: word, excel, powerpoint. design cad: solidworks. driver license: a, b.",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI21"
+}

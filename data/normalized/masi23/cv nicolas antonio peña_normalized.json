@@ -1,0 +1,73 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Nicolas Antonio Pea Moreno",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "nicolasantoniopmo@gmail.com",
+        "phone": "+34677717637",
+        "address": "",
+        "LinkedIn": "linkedin.com/in/napenamoreno",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Degree in Aerospace Engineering",
+            "field": "Aerospace Sciences and Technologies",
+            "university": "Polytechnical University of Madrid, School of Aeronautical and Space Engineering",
+            "location": "",
+            "year": "2015 - currently studying",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Kerox Technology, s.l.",
+            "position": "Internship in Artificial Intelligence",
+            "description": "Development and evaluation of AI algorithms. Data load and clean. Selection and training of models.",
+            "start_date": "02/2021",
+            "end_date": "07/2021",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fortran (advanced)",
+            "MATLAB (advanced)",
+            "CATIA (advanced)",
+            "Python (advanced)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Cooking",
+        "Robotics",
+        "Programming",
+        "Travelling"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.42,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.4
+}

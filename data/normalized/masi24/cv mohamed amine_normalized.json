@@ -1,0 +1,125 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Mohamed Amine Ben Ammar",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "aminebenammar113@gmail.com",
+        "phone": "+34 627 06 40 90",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/mohamedamine-benammar",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://www.linkedin.com/in/mohamedamine-benammar"
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineering Degree",
+            "field": "Aeronautical Engineering",
+            "university": "ESAT University Tunisia (Label EUR-ACE and ASIIN Accredited)",
+            "location": "Tunisia",
+            "year": "2020-2023",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "",
+            "field": "Integrated Preparatory Cycle",
+            "university": "ESAT University Tunisia",
+            "location": "Tunisia",
+            "year": "2018-2020",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "High School Diploma",
+            "university": "Sidi Hssin High School Tunisia",
+            "location": "Tunisia",
+            "year": "2017-2018",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Avionav Tunisia",
+            "position": "Intern",
+            "description": "Design and construction of a camera on the wing of an ULM.",
+            "start_date": "June 2022",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Tunisair Tunisie",
+            "position": "Intern",
+            "description": "Visit of all Tunisair Technics workshops. Recognition of aircraft maintenance tasks. Recognition of maintenance engineer tasks.",
+            "start_date": "March 2021",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ Scholarship for Exchange Semester",
+            "country": "Spain",
+            "institution_or_company": "University of Jaen",
+            "start_date": "February 2023",
+            "end_date": "July 2023",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Arabic",
+            "C2"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "Arduino",
+            "C++",
+            "RDM6",
+            "Java",
+            "ABAQUS",
+            "Python",
+            "Ansys",
+            "ISIS Proteus",
+            "Matlab/Simulink"
+        ],
+        "soft_skills": [
+            "Problem-solving",
+            "Time management",
+            "Team work",
+            "Communication"
+        ]
+    },
+    "other_interests_normalized": [
+        "Traveling",
+        "Aviation",
+        "Sport"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

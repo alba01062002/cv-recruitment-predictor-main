@@ -1,0 +1,99 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ruben Cubo Ramos",
+        "date_of_birth": "22/11/1989",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 24,
+        "email": "lagunaff8@hotmail.com",
+        "phone": "+34-680-754492",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Licenciatura en Física (MSc in Physics)",
+            "field": "Physics, Electronics, Systems Control, Robotics, Quantum Physics, Solid State Physics, Nuclear and Particle Physics, Wave Mechanics, Mathematical and Numerical Methods, Optics, Electromagnetism, Statistical Mechanics",
+            "university": "Universidad Complutense de Madrid",
+            "location": "Madrid",
+            "year": "2007-2012",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Universidad Complutense de Madrid",
+            "position": "Internship in the Department of Computer Architecture and Automation (Part-time)",
+            "description": "Collaboration internship responsible for modeling and control of a cubesat satellite. Attitude determination using magnetic field vector, designing ACS with linearized PD controller, and satellite dynamics modeling.",
+            "start_date": "09/2011",
+            "end_date": "07/2012",
+            "duration_years": 0.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Sweden",
+            "institution_or_company": "Uppsala University",
+            "start_date": "09/2010",
+            "end_date": "07/2011",
+            "description": "Completed academic year with courses in theoretical physics and fluid dynamics.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Japanese",
+            "A2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB-Simulink",
+            "C++",
+            "OriginPro",
+            "FPGA Programming (Spartan 3-200)",
+            "Microcontrollers Programming (16F84)",
+            "Robotics",
+            "Systems Control",
+            "PID Controllers",
+            "Phase Networks",
+            "Estimators",
+            "Robust Control",
+            "Optimal Control"
+        ],
+        "soft_skills": [
+            "Proactive",
+            "Dynamic",
+            "Teamwork",
+            "Individual Work",
+            "Avid to learn and progress",
+            "Ambitious",
+            "Result Oriented",
+            "Attention to detail"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.83,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.1
+}

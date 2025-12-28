@@ -1,0 +1,97 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Federico Manfredi",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "fedemanfredi485@gmail.com",
+        "phone": "+39 3332848681",
+        "address": "Cesena, Italy",
+        "LinkedIn": "a linkedin",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree",
+            "field": "Aerospace Engineering",
+            "university": "University of Bologna",
+            "location": "Forli, Italy",
+            "year": "2018-2021",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Master's degree (current)",
+            "field": "Not specified in the CV text",
+            "university": "University of Bologna",
+            "location": "Forli, Italy",
+            "year": "2021-present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ASD Tennissimo, Cesena",
+            "position": "Tennis Instructor",
+            "description": "Implementation of different training plans depending on the students age, development of communication skills, organization of staff, courts and students, maintenance of the structure (tennis courts and tools), management of social relations.",
+            "start_date": "09/2019",
+            "end_date": "12/2025",
+            "duration_years": 6.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Italy",
+            "institution_or_company": "CIRI Aerospace, Forli",
+            "start_date": "04/2021",
+            "end_date": "09/2021",
+            "description": "Construction of a test bench for nano-satellites reaction wheels, design of the reaction wheels, development of a programming code for the correct reaction wheels action, selection of the correct materials and COTS, test to check the reaction wheels and the test bench behaviors.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "Ansys",
+            "Microsoft Office",
+            "MATLAB : Simulink",
+            "Inspire Sharp3d"
+        ],
+        "soft_skills": [
+            "E adaptability",
+            "Ability to work in a team",
+            "Communication skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Tennis",
+        "Cycling",
+        "Reading",
+        "Boxe",
+        "Running"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 6.25,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.9
+}

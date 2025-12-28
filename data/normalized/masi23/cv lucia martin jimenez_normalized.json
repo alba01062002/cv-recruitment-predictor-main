@@ -1,0 +1,150 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Lucia Martin Jimenez",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "sn.lumartinj@gmail.com",
+        "phone": "+34 654862654",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/lucia-martin-jimenez",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "www.linkedin.com/in/lucia-martin-jimenez"
+    },
+    "education_normalized": [
+        {
+            "degree": "Major in Aerospace Engineering",
+            "field": "Aerospace Vehicles",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2019 - currently",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Major in Aerospace Engineering (International Mobility Program)",
+            "field": "",
+            "university": "Purdue University",
+            "location": "United States",
+            "year": "2021 - 2022",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "High School in Sciences",
+            "field": "",
+            "university": "",
+            "location": "Spain",
+            "year": "2017 - 2019",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aernnova Engineering Division",
+            "position": "Design Specialist Internship",
+            "description": "Design of the integration of systems and structure of a hybrid laminar technology, HLFC, in a virtual wing, XRF1. Definition of real tests in a segment of the wing demonstrator of real scale and high energy impacts.",
+            "start_date": "2022 - currently",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Saeta UC3M",
+            "position": "UAV Aircraft Systems Engineer",
+            "description": "Design and integration of aircraft systems in a blended wing body electrical vertical take-off and landing unmanned aerial vehicle for international competition.",
+            "start_date": "2022 - currently",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Private Tutor",
+            "description": "Private tutoring in mathematics, physics and chemistry.",
+            "start_date": "2018 - 2022",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Exchange Program",
+            "country": "England",
+            "institution_or_company": "",
+            "start_date": "2014-2015",
+            "end_date": "",
+            "description": "High School",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Exchange Program",
+            "country": "Vermont, USA",
+            "institution_or_company": "",
+            "start_date": "2016",
+            "end_date": "",
+            "description": "Exchange program",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Exchange Program",
+            "country": "Germany",
+            "institution_or_company": "",
+            "start_date": "2017",
+            "end_date": "",
+            "description": "Exchange program",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "Python",
+            "LaTeX",
+            "CATIA V5",
+            "Fusion 360",
+            "Solid Edge",
+            "XFLR5",
+            "ANSYS",
+            "ABACUS"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Empathy",
+            "Problem Analysis and Solving",
+            "Adaptability",
+            "Perseverance",
+            "Tolerance",
+            "Open-mindedness",
+            "Handling Frustration"
+        ]
+    },
+    "other_interests_normalized": [
+        "Private Tutoring",
+        "Basketball"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

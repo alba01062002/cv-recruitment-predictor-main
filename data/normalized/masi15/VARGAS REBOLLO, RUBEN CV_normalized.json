@@ -1,0 +1,120 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rubén Vargas Rebollo",
+        "date_of_birth": "16/06/1986",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 29,
+        "email": "r.vargas.engo@gmail.com",
+        "phone": "606 576 786",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería industrial especialidad en organización industrial",
+            "field": "Organización industrial",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2011-2013",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Ingeniería técnica industrial especialidad en electrónica industrial",
+            "field": "Electrónica industrial",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2005-2010",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Ingeniero de instrumentación y control - EPS",
+            "field": "Instrumentación y control",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2009-2009",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Knorr-Bremse",
+            "position": "Ingeniero de proyectos y planificación",
+            "description": "Seguimiento del proyecto en los diferentes centros de Knorr-Bremse en el mundo, especialmente en las plantas de Shanghai y Wuxi (China). Planificación y control de proyectos internacionales. Asignación de recursos y tiempos mediante MS Project. Apoyo al departamento de gestión de producto en la consecución de objetivos a través del análisis y actualización de KPI's",
+            "start_date": "10/2013",
+            "end_date": "09/2014",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Schréder Group",
+            "position": "Ingeniero de proyectos",
+            "description": "Realización de proyectos de alumbrado exterior y cálculos eléctricos de BT y MT usando la herramienta DMElect. Implantación de soluciones mediante programas CAD. Estudios de eficiencia energética.",
+            "start_date": "09/2010",
+            "end_date": "08/2011",
+            "duration_years": 0.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "United Kingdom",
+            "institution_or_company": "Residencia de un año en Londres",
+            "start_date": "2004-2005",
+            "end_date": "2005",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C, C++",
+            "VHDL",
+            "AutoCAD",
+            "NX",
+            "Witness",
+            "MATLAB",
+            "ORCAD",
+            "DMElect",
+            "MS Office",
+            "MS Project",
+            "SAP",
+            "Teamcenter",
+            "PTC Windchill"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Profesor particular de matemáticas, química y física"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Asociación Deportiva Universidad Carlos III de Madrid",
+            "role": "Tesorero",
+            "duration": "2006-2011",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 1.84,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 27,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.3
+}

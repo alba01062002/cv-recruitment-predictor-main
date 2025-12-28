@@ -1,0 +1,143 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Julius Ebert",
+        "date_of_birth": "24.02.1999",
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": 23,
+        "email": "yebert.julius@outlook.com",
+        "phone": "+49 176 31326420",
+        "address": "Julius Ebert q am suessberg 38, 97456 dittelbrunn, germany",
+        "LinkedIn": "https://www.linkedin.com/in/julius-ebert",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Automation and Robotics (B. Eng)",
+            "field": "Automation, Robotics",
+            "university": "University for Applied Sciences Coburg",
+            "location": "Coburg, Germany",
+            "year": "2018-2023",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Promos Scholarship Exchange Semester",
+            "field": "Automation, Machine Learning, Entrepreneurship",
+            "university": "Kasetsart University",
+            "location": "Bangkok, Thailand",
+            "year": "2018-2019",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "SKF GmbH, Schweinfurt, Germany",
+            "position": "Corporate Student Automation and Robotics",
+            "description": "Sliding Bearing Production + bachelor's thesis to conceptualise an automatic production step within the sliding bearing production line; Analytics-Product-Development * data science for improvement of a condition monitoring algorithm; Recondooil + process documentation for a reconditioning plant for machine oils performance prediction; Analysis and display of bearing performance data; Roller production; Process optimization in bearing production",
+            "start_date": "08/2018",
+            "end_date": "today",
+            "duration_years": 0.0
+        },
+        {
+            "company": "SKF AB, Gothenburg, Sweden",
+            "position": "Erasmus+ Scholarship",
+            "description": "Interpretation and implementation of a condition monitoring algorithm; Internship in multiple departments + preparation of summer programs for high-school-students; Drew C. Richardson scholarship, international leadership and business internship + startup formation in the developing world; Advanced medical neuroscience internship * creation of a research proposal",
+            "start_date": "02/2020",
+            "end_date": "09/2020",
+            "duration_years": 0.58
+        },
+        {
+            "company": "University for Applied Sciences Coburg, Germany",
+            "position": "Writing Fellow - Support for creation of scientific papers; Mentor - Support for freshmen",
+            "description": "",
+            "start_date": "09/2020",
+            "end_date": "02/2021",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ Scholarship, Internship, Research, Study",
+            "country": "Sweden and Thailand",
+            "institution_or_company": "SKF AB, Kasetsart University",
+            "start_date": "02/2020",
+            "end_date": "09/2020",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus+ Scholarship",
+            "country": "Thailand",
+            "institution_or_company": "Kasetsart University",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "German",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Swedish",
+            "B2"
+        ],
+        [
+            "Thai",
+            "A2"
+        ],
+        [
+            "Russian",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "PyTorch",
+            "TensorFlow/Keras",
+            "Scikit-learn",
+            "NumPy",
+            "Pandas",
+            "Microsoft Office Products (Excel, MATLAB, LabVIEW, Assembler, C)",
+            "PLC Programming",
+            "Azure DevOps"
+        ],
+        "soft_skills": [
+            "Ability to work independently",
+            "Quick perception of new things and great interest in learning",
+            "Openness to new impressions and experiences"
+        ]
+    },
+    "other_interests_normalized": [
+        "Dancing",
+        "Foreign languages and cultures",
+        "Writing stories"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Writing Fellow - Support for creation of scientific papers; Mentor - Support for freshmen",
+            "duration": "09/2020 - 02/2021",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 1.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carmen Almenar Rubio",
+        "date_of_birth": "10/11/1988",
+        "gender": "female",
+        "age_reference_year": 2013,
+        "age": 25,
+        "email": "almenarcarmen@gmail.com",
+        "phone": "+34 696194279",
+        "address": "c/ sant joan baptista 6, 12, 46210 picanya, valencia (spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aeronautical Engineering",
+            "field": "Aircrafts & Space Vehicles",
+            "university": "Polytechnic University of Valencia - UPV, Valencia (Spain)",
+            "location": "Valencia",
+            "year": "2012",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master's in Aeronautical Engineering",
+            "field": "Aerodynamics, Propulsion and Structures",
+            "university": "Sapienza University of Rome, Rome (Italy)",
+            "location": "Rome",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Final Degree Project: Analysis of the fluid motion inside the tank of a fire fighting missile and its flight behavior using ANSYS CFD tools.",
+            "start_date": "2012",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "",
+            "description": "Class Project: Thermic control system design for an interplanetary mission to acquire data of Pluto and Charon.",
+            "start_date": "2011-2012",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "",
+            "description": "Class Project: Eight people team work consisting in the design of a UAV for power line surveillance.",
+            "start_date": "2010-2011",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Italy",
+            "institution_or_company": "Sapienza University of Rome, Rome (Italy)",
+            "start_date": "2010-2011",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Italian",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Windows, Mac OS, Linux/Unix",
+            "Microsoft Office, MATLAB, Autodesk Inventor, ANSYS (Mechanical APDL, Fluent, CFD-POST)",
+            "C and Fortran"
+        ],
+        "soft_skills": [
+            "Leadership and communication skills",
+            "Team work abilities",
+            "Integration and intercultural skills due to traveling and Erasmus program"
+        ]
+    },
+    "other_interests_normalized": [
+        "Sport (Usual practice of various sports: tennis, ski, swimming, ...)",
+        "Music (Professional studies of piano and clarinet, choral conducting and composing courses)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

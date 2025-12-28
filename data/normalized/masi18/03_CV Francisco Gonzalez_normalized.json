@@ -1,0 +1,142 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francisco Gonzalez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "francisco.gonzalez.ipezo@gmail.com",
+        "phone": "+34.636.938.668",
+        "address": "calle viuelas 8, 3 2 d, madrid, spain 28045",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Videogames Development (Graphical Programming, 3D Modelling)",
+            "field": "Videogames Development",
+            "university": "Escuela Trazos, Madrid",
+            "location": "Madrid",
+            "year": "2009-2010",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor of Science, Computer Science (Artificial Intelligence, Information Technology)",
+            "field": "Computer Science",
+            "university": "Carlos III University, Madrid",
+            "location": "Madrid",
+            "year": "2003-2009",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus DS on behalf of Centum Solutions",
+            "position": "Systems Engineer (Airbus) / TDL Team Leader (Centum)",
+            "description": "Designated as the Tactical Data Links (TDL) team leader of Centum Solutions at Airbus DS. In charge of analyzing project scope, identifying and documenting interoperability requirements related to TDL information exchange. Supports the definition of HMI features to include additional TDL capabilities for Airbus products.",
+            "start_date": "2017",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Tecnobit, Madrid",
+            "position": "Product Manager / Software Engineer",
+            "description": "Responsible for the evolution and life cycle management of different tactical data link solutions in the organization. Ensured final product met customer expectations and goals.",
+            "start_date": "2012",
+            "end_date": "2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Pyxel Arts Digital Entertainment, Madrid",
+            "position": "Technical Director / Software Engineer",
+            "description": "Collaborated with designers, artists, developers and testers creating a shared vision for the project and managed it from concept to completion. Planned and implemented game content integration process.",
+            "start_date": "2010",
+            "end_date": "2011",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Mercury Steam Entertainment, Madrid",
+            "position": "Quality Assurance Engineer",
+            "description": "Assured that the AAA console title Castlevania: Lords of Shadow fulfilled the quality standards of the company before reaching the final release.",
+            "start_date": "2010",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "VxWorks",
+            "QT",
+            "Boost",
+            "SVN",
+            "XML",
+            "UML",
+            "C",
+            "Java",
+            "Visual Basic Script and Lua",
+            "MS Project",
+            "Eclipse",
+            "Jenkins",
+            "Enterprise Architect",
+            "DOORS",
+            "Trac",
+            "CRM",
+            "SAP",
+            "Agile Methodologies (Continuous Integration and Scrum)",
+            "NATO Standards: 5511, 5516, 5518, 5522, 5616"
+        ],
+        "soft_skills": [
+            "Technical Environment: IBM DOORS, ICDMS, ESMART, MS Office Suite",
+            "Technical Environment: C++, VxWorks, Eclipse, XML, UML, QT, Boost, Jenkins, Enterprise Architect, Doors, SVN, SAP and CRM",
+            "Technical Environment: HSL, C++, Visual Studio, Hero Engine, Unreal Engine, SVN, UML, Lua, Unreal Script, XMind, Jira and MS Project",
+            "Technical Environment: Mantis, Seapines Test Track, C++, Lua, Visual Studio"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

@@ -1,0 +1,159 @@
+{
+    "personal_information_normalized": {
+        "full_name": "David Ortega Velázquez",
+        "date_of_birth": "07/01/1991",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 24,
+        "email": "davidorve@gmail.com",
+        "phone": "601248713",
+        "address": "43 Roma Avenue, 4*c, 28822. Coslada, Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BSc in Aeronautical Engineering Design and Construction",
+            "field": "Aeronautical Engineering",
+            "university": "National Polytechnic Institute (Mexico)",
+            "location": "Mexico",
+            "year": "2009-2014",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Technician in Mechatronics",
+            "field": "Mechatronics",
+            "university": "Centro de Bachillerato Técnico Industrial y de Servicios (Mexico)",
+            "location": "Mexico",
+            "year": "2006-2009",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "",
+            "field": "Composites Aircraft Structural Design and Organization and Management of Enterprises",
+            "university": "Polytechnic University of Madrid (Spain)",
+            "location": "Madrid, Spain",
+            "year": "Various courses",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Dassault Systemes",
+            "position": "CATIA V5 R21 Part Design, Assembly, Drafting and Surfaces Design",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Autodesk",
+            "position": "Inventor Modelling",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Mechanical APDL Ansys 14 Workbench 14.5 (Fluent, Model and Mesh Modules)",
+            "position": "Modeling and Meshing",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Esacompu",
+            "position": "Various Courses",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Dassault Systemes Enovia",
+            "position": "40 hours of training",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "USA",
+            "institution_or_company": "Formula SAE International",
+            "start_date": "2011-07/01",
+            "end_date": "2012-07/01",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "USA",
+            "institution_or_company": "Lincoln, Nebraska, USA",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Spain and Mexico",
+            "institution_or_company": "Magalháes/Smile (Mexico-Spain)",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5 R21",
+            "Autodesk Inventor",
+            "Mechanical APDL Ansys Workbench 14.5",
+            "Esacompu Courses",
+            "Dassault Systemes Enovia"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Teamwork",
+            "Assertive Communication"
+        ]
+    },
+    "other_interests_normalized": [
+        "Software Courses",
+        "Healthy Lifestyles"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Leader and Chief Manufacturing",
+            "duration": "2011-2012",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

@@ -1,0 +1,153 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Inmaculada Adell Valero",
+        "date_of_birth": "11/02/1981",
+        "gender": "female",
+        "age_reference_year": 2010,
+        "age": 29,
+        "email": "inadva@hotmail.com",
+        "phone": "615.88.38.95",
+        "address": "c/ Ramón Asensio, n 7, pta 7, 46020 Valencia, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería en Organización Industrial especialidad en nuevas tecnologías y gestión industrial",
+            "field": "Organización Industrial",
+            "university": "Escuela Técnica Superior de Ingeniería del Diseño de la Universidad Politécnica de Valencia",
+            "location": "Valencia",
+            "year": "2008",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Ingeniería Técnica Industrial especialidad química industrial (bloque medio ambiente)",
+            "field": "Industrias Químicas - Medio Ambiente",
+            "university": "Escuela Técnica Superior de Ingeniería del Diseño de la Universidad Politécnica de Valencia",
+            "location": "Valencia",
+            "year": "2004",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master en Prevención de Riesgos Laborales (grado medio 300 horas)",
+            "field": "",
+            "university": "",
+            "location": "",
+            "year": "2004",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Prodesa",
+            "position": "Consultora",
+            "description": "Elaboración de informes, visitas a clientes y sesiones formativas.",
+            "start_date": "01/01/2008",
+            "end_date": "06/2009",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Auren Consultores del Mediterráneo",
+            "position": "Consultora",
+            "description": "Elaboración de informes, visitas a clientes y sesiones formativas.",
+            "start_date": "09/2007",
+            "end_date": "12/2008",
+            "duration_years": 1.25
+        },
+        {
+            "company": "Auren Consultores del Mediterráneo",
+            "position": "Prácticas en Departamento de Ingeniería de Gestión (Sistemas, Logística y Operaciones)",
+            "description": "",
+            "start_date": "01/2007",
+            "end_date": "07/2007",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Servicio Valenciano de Empleo y Formación (SERVEF)",
+            "position": "Prácticas en Departamento de Organización",
+            "description": "Seguimiento del V Concurso SERVEF para jóvenes emprendedores.",
+            "start_date": "10/2006",
+            "end_date": "12/2006",
+            "duration_years": 0.17
+        },
+        {
+            "company": "FNAC",
+            "position": "Departamento de Cajas y Atención al Cliente",
+            "description": "",
+            "start_date": "10/2004",
+            "end_date": "10/2005",
+            "duration_years": 1.0
+        },
+        {
+            "company": "FOISA Levante, S.L.",
+            "position": "Prácticas en Departamento de Canalización de Gas Natural",
+            "description": "",
+            "start_date": "11/2003",
+            "end_date": "03/2004",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Farmacia Sánchez Gijón (Benidorm)",
+            "position": "Auxiliar de Farmacia",
+            "description": "",
+            "start_date": "06/2003",
+            "end_date": "10/2003",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Curso en inglés",
+            "country": "United Kingdom",
+            "institution_or_company": "Universidades de Manchester, Londres y Nueva York",
+            "start_date": "",
+            "end_date": "",
+            "description": "Cursos de un mes de duración como beca del Ministerio de Educación y Ciencia.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Valenciano",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Office (Microsoft Word, Excel, PowerPoint, Access)",
+            "AutoCAD",
+            "Mathcad",
+            "Matlab",
+            "SAP 2000",
+            "Statgraphics"
+        ],
+        "soft_skills": [
+            "Capacidad de adaptación",
+            "Aprendizaje",
+            "Trabajo en equipo",
+            "Disponibilidad total para viajar y cambiar de residencia"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 3.58,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 27,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

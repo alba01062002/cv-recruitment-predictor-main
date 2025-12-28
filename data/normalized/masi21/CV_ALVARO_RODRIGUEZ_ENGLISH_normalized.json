@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alvaro Rodriguez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "alv.rodri95@outlook.com",
+        "phone": "+34654733989, +34961952471",
+        "address": "",
+        "LinkedIn": "linkedin.com/alrodsa",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "alrodsa.github.io"
+    },
+    "education_normalized": [
+        {
+            "degree": "Computer Engineering Degree",
+            "field": "Software Development",
+            "university": "Universitat Politecnica de Valencia (UPV)",
+            "location": "Valencia, Spain",
+            "year": "2017-2021",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Domatix Odoo Apps SL",
+            "position": "Developer",
+            "description": "Implementing interfaces and data structures for a new Android app using Android Studio and Kotlin.",
+            "start_date": "06/2020",
+            "end_date": "09/2020",
+            "duration_years": 0.25
+        },
+        {
+            "company": "McDonald's Edinburgh",
+            "position": "Crew Member",
+            "description": "Working effectively under pressure, collaborating with a team to meet demanding productivity objectives. Received several awards for the Employee of the Month and Employee of the Quarter.",
+            "start_date": "07/2017",
+            "end_date": "07/2018",
+            "duration_years": 1.0
+        },
+        {
+            "company": "Blyth&blyth Consultory",
+            "position": "Summer Placement",
+            "description": "Assisted the company's IT Manager, resolving technical issues and maintaining servers, networks, and employees' computers. Familiarized myself with how an engineering consultancy is run.",
+            "start_date": "08/2017",
+            "end_date": "09/2017",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Spain, Scotland",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Operating Systems: Windows, macOS, GNU/Linux, Android, iOS",
+            "Programming Languages: Java, Python3, C, C++, C#, Kotlin, JavaScript, Shell Scripting",
+            "Libraries and Frameworks: OpenGL, OpenCV, OpenAL, OpenMP, MPI, Keras, TensorFlow",
+            "Integrated Development Environments (IDEs): Visual Studio, Atom, NetBeans, Eclipse, Android Studio, Scene Builder, Mathematica, Octave",
+            "Version Control Systems: Git, GitHub, GitLab",
+            "Hardware and Software Implementation: Raspberry Pi, Arduino"
+        ],
+        "soft_skills": [
+            "Proactive",
+            "Committed Hard Worker",
+            "Reliable Team Player",
+            "Self-motivated to work efficiently and meet goals while encouraging the team",
+            "Love for new challenges that push me to learn new things"
+        ]
+    },
+    "other_interests_normalized": [
+        "Gastronomy: Worldwide Food",
+        "Sports: Football, Tennis, Cycling",
+        "New Technology: Like to know how new products and their technology work"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 1.33,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.9
+}

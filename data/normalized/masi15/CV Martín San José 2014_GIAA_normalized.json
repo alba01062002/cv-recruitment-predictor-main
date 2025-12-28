@@ -1,0 +1,114 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Martín San José de Vicente",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": null,
+        "email": "martinymaricotelefonica.net / sanjosedevicente@gmail.com",
+        "phone": "+34 91 857 21 82 / +34 647 35 75 83",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Doble grado en ingeniería informática y administración y dirección de empresas",
+            "field": "Ingeniería Informática y Administración y Dirección de Empresas",
+            "university": "Universidad Carlos III (Colmenarejo Madrid)",
+            "location": "Madrid",
+            "year": "2014 - 2015",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Embarazador de Google en España",
+            "description": "Capacidades y competencias sociales; presidente de la Asociación Tecnológica de Estudiantes Imagineware de la Universidad Carlos III (www.imagineware.org); portavoz y líder de grupos en la universidad. Mi grupo obtuvo una de las mejores notas de la asignatura de marketing, nuestro proyecto fue utilizado por el profesor como ejemplo para grupos posteriores.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "BBVA",
+            "position": "Expedicionario en ruta quetzal",
+            "description": "Formé parte de la ruta quetzal organizada por BBVA como expedicionario.",
+            "start_date": "Julio 2007",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Federación ASEM en Cataluña",
+            "position": "Monitor en campamento para discapacitados físicos",
+            "description": "Desde 2011 soy monitor en el campamento para discapacitados físicos organizado cada año por la Federación ASEM en Cataluña.",
+            "start_date": "Verano de 2011",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Centro Montessori School de Alpedrete",
+            "position": "Monitor de ocio y tiempo libre; socorrista acuático",
+            "description": "Desde 2008 asisto regularmente, primero como acompañante y actualmente como monitor, a la semana de respiro familiar para niños discapacitados que organiza cada verano la Federación ASEM en Cataluña. Elegido prefecto durante un curso completo en el Montessori School con 16 años.",
+            "start_date": "",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Estudios",
+            "country": "Suiza",
+            "institution_or_company": "Institut auf dem Rosemberg Sprachkurse Ariana AG Lenk",
+            "start_date": "Julio 2009",
+            "end_date": "",
+            "description": "Diploma de aprovechamiento curso de alemán con la máxima calificación",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "German",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Programación en HTML, CSS3 y JavaScript"
+        ],
+        "soft_skills": [
+            "Diseño gráfico 3D",
+            "Marketing",
+            "Embarazador de Google",
+            "Portavoz y líder de grupos universitarios"
+        ]
+    },
+    "other_interests_normalized": [
+        "Mundo del motor (especialmente el diseño de automóviles)",
+        "Arte (MC Escher, el Bosco, Goya, Vasarely y Kandinsky son mis favoritos)",
+        "Música",
+        "Cine",
+        "Videojuegos, principalmente de deportes"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 1.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

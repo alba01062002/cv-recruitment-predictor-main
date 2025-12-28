@@ -1,0 +1,89 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Julio Arévalo Gómez",
+        "date_of_birth": "02/02/2002",
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": 22,
+        "email": "jularegom@gmail.com",
+        "phone": "(+34) 633448498 (mobile)",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": "https://etsi.us.es/"
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Aerospace Engineering",
+            "field": "Aerospace Engineering, Specialization in Air Navigation",
+            "university": "Escuela Técnica Superior de Ingeniería (Universidad de Sevilla)",
+            "location": "Sevilla, Spain",
+            "year": "2020-2024",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "CATEC Atlas",
+            "position": "Internship",
+            "description": "Development and research of solid-state lidar technology: * programming in Python and C++ for the ROS and ROS2 environment. PCL library. Handling of Git. * Familiar with mechanical and solid-state lidar technology. * Implementation of LiDAR-inertial odometry algorithms. SLAM algorithms.",
+            "start_date": "01/02/2024",
+            "end_date": "01/08/2024",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB and Simulink",
+            "Design and manufacturing software and computer-aided engineering CATIA V5",
+            "Programming in C/C++",
+            "ROS/ROS2 Python programming",
+            "Calculus, PyQt",
+            "Version control (Git & GitHub)",
+            "3D design basic skills",
+            "Microsoft Office 365 (mainly Word, Excel, PowerPoint, Teams, and Outlook)"
+        ],
+        "soft_skills": [
+            "Self-learning ability",
+            "Self-sufficiency in problem-solving",
+            "Organization and punctuality"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

@@ -1,0 +1,138 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Esteban Ignacio Piaser",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "epiaser@yahoo.com.ar",
+        "phone": "+33749313279",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/esteban-piaser-217b98110/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Advanced Master's degree",
+            "field": "Aeronautical Maintenance and Support: Engineering and Management",
+            "university": "ISAE Supaero",
+            "location": "Toulouse, France",
+            "year": "2019-2020",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Postgraduate studies",
+            "field": "Manufacturing Process Engineering",
+            "university": "Universidad Católica Argentina (UCA)",
+            "location": "Argentina",
+            "year": "2016",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's degree",
+            "field": "Aeronautical Engineer",
+            "university": "Universidad Tecnológica Nacional (UTN) Facultad Regional Haedo",
+            "location": "Argentina",
+            "year": "2015",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ISAE Supaero - DCAS [SD AR France]",
+            "position": "Crosslink between maintenance challenges and innovative solutions",
+            "description": "Internship focusing on 3D modeling, CATIA V5, Siemens NX, and integrated aviation software like AMOS World.",
+            "start_date": "August 2015",
+            "end_date": "12/2021",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Aerolíneas Argentinas ATOIñCAS",
+            "position": "Engineer in the Engineering Department (CAMO)",
+            "description": "Provided onsite structure engineering support for aircraft's heavy and light maintenance and non-routine checks, developed engineering orders or other technical documentation.",
+            "start_date": "August 2015",
+            "end_date": "12/2021",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Segula Technologies ARG",
+            "position": "Engineer Outsourced to Mercedes Benz Argentina",
+            "description": "CAD designer with CATIA V5 R19 and Siemens NX",
+            "start_date": "January 2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "France",
+            "institution_or_company": "ISAE Supaero - DCAS [SD AR France]",
+            "start_date": "August 2015",
+            "end_date": "",
+            "description": "Internship focusing on 3D modeling, CATIA V5, Siemens NX, and integrated aviation software like AMOS World.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Association",
+            "country": "Germany",
+            "institution_or_company": "Rotary International (Member of an exchange program for young people)",
+            "start_date": "August 2015",
+            "end_date": "",
+            "description": "Participation in an exchange program for young people.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B1"
+        ],
+        [
+            "French",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "Siemens NX",
+            "AMOS World",
+            "Windows OS",
+            "OOP",
+            "Microsoft Office: Word, Excel, Outlook"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Teamwork",
+            "Adaptability",
+            "Responsibility",
+            "Management of aircraft records"
+        ]
+    },
+    "other_interests_normalized": [
+        "Tennis",
+        "Football"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

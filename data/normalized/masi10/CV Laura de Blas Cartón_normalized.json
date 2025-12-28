@@ -1,0 +1,110 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Laura De Blas Cartón",
+        "date_of_birth": "03/03/1982",
+        "gender": "female",
+        "age_reference_year": 2010,
+        "age": 28,
+        "email": "lauradeblas@hotmail.es",
+        "phone": "600456326",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Superior Industrial",
+            "field": "Mecánica (Sub-bloque Construcciones Industriales y Estructuras)",
+            "university": "Universidad de Valladolid",
+            "location": "Valladolid",
+            "year": "2000-2007",
+            "duration_years": 7.0
+        },
+        {
+            "degree": "",
+            "field": "Proyecto Fin de Carrera (TFG)",
+            "university": "Ecole Nationale Supérieure d'Arts et Métiers, París",
+            "location": "París",
+            "year": "2007-2008",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Postgrado CITIUS",
+            "university": "Universidad Autónoma de Madrid",
+            "location": "",
+            "year": "2009",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "IVECO, Madrid",
+            "position": "Ingeniero de Calidad de Cabinas",
+            "description": "Realización de proyectos de calidad. Control y estudios estadísticos de defectos y del proceso. Realización de documentación.",
+            "start_date": "09/2008",
+            "end_date": "08/2009",
+            "duration_years": 0.92
+        },
+        {
+            "company": "ARESA (Aries Estructuras Aeronáspaciales), Valladolid",
+            "position": "Ingeniero de Revisión de Materiales",
+            "description": "Estudio y análisis de no conformidades en piezas y realización de disposiciones para su corrección. Elaboración de manuales.",
+            "start_date": "05/2008",
+            "end_date": "08/2008",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Francia",
+            "institution_or_company": "Ecole Nationale Supérieure d'Arts et Métiers de París",
+            "start_date": "02/2008",
+            "end_date": "07/2008",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Manejo paquete Office (nivel avanzado): Word, Excel, PowerPoint y Access.",
+            "Programas matemáticos y de estadística (nivel usuario): Maple, Statgraphics.",
+            "Programas de control automático: MATLAB.",
+            "Programas de diseño: AutoCAD y CATIA.",
+            "Programación en lenguaje C y C#.",
+            "Manejo de Microsoft Visual Studio 2005.",
+            "Diseño gráfico/ret. fotográfico (Coreldraw, Corel Photo-Paint).",
+            "Manejo del programa para el cálculo de estructuras: CYPE (Metal 3D)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Monitora de tiempo libre",
+        "Práctica de actividades deportivas: Aerobic, Natación, Step, Vela, Equitación y Windsurf",
+        "Piano"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 1.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.8
+}

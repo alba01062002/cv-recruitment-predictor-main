@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "víctor miguel morales cayuela teléfono correo electrónico dirección fecha de nacimiento nacionalidad formación académica titulación universitaria formación complementaria experiencia laboral empresa tipo de contrato cargo periodo idiomas espaol +34 699 12 29 42 victormiguelmorales@hotmail.com c/liebre 8. 28043 madrid. 24 de julio de 1987 espanola ingeniero de telecomunicacion. escuela técnica superior de ingenieros de telecomunicación, universidad politécnica de madrid (etsit upm). plan 94. madrid. septiembre 2005 junio 2011 erasmus en la universidad kungliga tekniska hógskolan (kth). estocolmo, suecia. agosto 2009 junio 2010 curso de 30 horas de programación en c++ en katholieke universiteit. leuven, bélgica. 8 marzo 2008 15 marzo 2008 curso de 690 horas de chino mandarín. nivel intermedio alto. centro de enseanza de mandarín, universidad nacional cheng chi. taipei, taiwán. septiembre 2011 septiembre 2012 curso anual de chino mandarín. hasta a2.2. centro superior de idiomas modernos, universidad complutense de madrid (csim ucm). madrid. septiembre 2005 junio 2011 curso intensivo de inglés de 26 horas semanales. nivel c1. the language center of ireland (lci). dublín, irlanda. julio 2007 agosto 2007 indra beca de trabajo departamento de simulación de aviónica. grupo de arquitectura de tiempo real (rta). programador en lenguaje c++. diciembre 2010 junio 2011 forenex contrato temporal monitor de campamento de verano en inglaterra. julio 2009 etsit upm beca de colaboración programación de aplicaciones en c, c# y bison para ayuda a la docencia. curso 2008 2009 lengua materna inglés alto oral y escrito toefl listening, reading, writing & speaking (103/120) noviembre 2010 toeic listening & reading (920 de 990) marzo 2009 chino intermedio oral y escrito informatica hsk nivel 4 escucha y lectura (228 de 300) mayo 2011 hsk nivel 3 escucha y lectura (264 de 300) mayo 2010 lenguajes de programación: c, c++ a nivel profesional html, php, mysql, javascript, java a nivel avanzado. sistemas operativos y programas: linux, openoffice windows, ms office, eagle. otros datos carné de conducir tipo b y vehículo propio.",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI13"
+}

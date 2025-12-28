@@ -1,0 +1,126 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel García Teba",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "daniel.gteba@gmail.com",
+        "phone": "+34 685 119 604",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Big Data and Business Analytics",
+            "field": "Big Data",
+            "university": "University Miguel de Cervantes",
+            "location": "Madrid",
+            "year": "2019-2020",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "M.Sc. Master's in GAIA Programme",
+            "field": "Business Analytics",
+            "university": "University of Alcalá",
+            "location": "",
+            "year": "2016",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Altran - Airbus Operations",
+            "position": "Senior Data Scientist (since Oct 2020)",
+            "description": "Leading the learning path of Altran Spain in machine learning and deep learning. Managing a team of 10 senior engineers leading the digital inner transformation. Machine Learning professor and AISaturdays manager.",
+            "start_date": "10/2020",
+            "end_date": "12/2025",
+            "duration_years": 5.17
+        },
+        {
+            "company": "Altran - Airbus Defence & Space",
+            "position": "Flight Test Data Analyst (Sep 2017 - Sep 2020)",
+            "description": "Computer vision and bigdata analysis developer for the aerial delivery and performance departments. Flight test analysis and certification campaigns with A400M aircraft.",
+            "start_date": "09/2017",
+            "end_date": "09/2020",
+            "duration_years": 3.0
+        },
+        {
+            "company": "Ayesa - Airbus Defence & Space",
+            "position": "Process Engineer (Sep 2016 - Feb 2017)",
+            "description": "Technical documentation through CATIA manufacturing solutions for A400M and A330 MRTT programs. Crafted manufacturing processes that were not only robust, but also easy to perform.",
+            "start_date": "09/2016",
+            "end_date": "02/2017",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Airbus Operations (Internship)",
+            "position": "Gaia Programme Intern",
+            "description": "Achieving cost reductions of 10% through designing applications in VBA Excel, Access and SAP for continuous improvement in manufacturing engineering department.",
+            "start_date": "03/2016",
+            "end_date": "09/2016",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Data Mining",
+            "Pandas",
+            "OpenCV"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Teamwork",
+            "Teaching",
+            "Project Management"
+        ]
+    },
+    "other_interests_normalized": [
+        "MotoStudent Aerodynamics Engineer"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "AISaturdays",
+            "role": "Manager",
+            "duration": "Feb 2019 - today",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 9.09,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

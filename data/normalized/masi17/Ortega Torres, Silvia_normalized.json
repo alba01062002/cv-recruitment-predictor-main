@@ -1,0 +1,139 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Silvia Ortega Torres",
+        "date_of_birth": "25/06/1990",
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": 27,
+        "email": "ortega.torres.silvia@gmail.com",
+        "phone": "+34 647 244 245",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Aeronautical Engineering (5 year degree)",
+            "field": "Aerospace Engineering",
+            "university": "Technical University of Madrid, Escuela Técnica Superior de Ingeniería Aeronáutica (ETSIA)",
+            "location": "Madrid",
+            "year": "2014-2008",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus",
+            "position": "Stress Engineer",
+            "description": "Development of a new analysis module for the AirBus stress tool (ISAMI) and development of a new process for ISAMI to carry out analyses of spars, covers and ribs. Final year project included analytical calculation of buckling on trapezoidal composite panels.",
+            "start_date": "10/2014",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Airbus",
+            "position": "Summer Internship - A380 HTP Assembly Process",
+            "description": "Support to the section 19.1 of the A350 and A380 wing ribs manufacturing, tasks included teamwork with operators, problem solving, continuous improvement, etc.",
+            "start_date": "2012-07/2012",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus",
+            "position": "Stress Engineer - Final Year Project",
+            "description": "Analytical calculation of buckling on trapezoidal composite panels, development of a mathematical method and computer tool for optimization of structural analysis in trapezoidal panels.",
+            "start_date": "2013-10/2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Germany",
+            "institution_or_company": "Airbus Defence and Space",
+            "start_date": "2014-07/2014",
+            "end_date": "",
+            "description": "Competence International Seminar in Bremen for professional competence development.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "International Programme",
+            "country": "France",
+            "institution_or_company": "École des Mines de Paris, ParisTech",
+            "start_date": "2012-07/2012",
+            "end_date": "",
+            "description": "Athens International Programme in Systemes de production et logistique.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Linguistic Exchange",
+            "country": "France",
+            "institution_or_company": "None, France (Bretagne)",
+            "start_date": "2006-07/2006",
+            "end_date": "",
+            "description": "French linguistic exchange.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Russian",
+            "B2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "FEM",
+            "CAD and other ISAMI (Airbus stress tool), Nastran & Patran, CATIA V5, Solid Edge, Esacomp engineering SW tools: (composites analysis and design), Myrtm (mould-filling simulation of the RTM process)",
+            "Programming: FORTRAN, Maple, LaTeX, Python, MATLAB, Simulink",
+            "Microsoft Office: Word, Excel, PowerPoint, Visio",
+            "Other programmes: Photoshop, Illustrator"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Teamwork",
+            "Organization",
+            "Proactivity",
+            "Assertiveness",
+            "Communication"
+        ]
+    },
+    "other_interests_normalized": [
+        "Sports and dance lessons",
+        "Piano and violin courses",
+        "Chess"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Community of Madrid Choir",
+            "role": "Member",
+            "duration": "2015-2023",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

@@ -1,0 +1,184 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alfredo Pérez Martínez",
+        "date_of_birth": "28/04/1981",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 32,
+        "email": "apmtel@hotmail.com",
+        "phone": "+0034 616796002",
+        "address": "Oviedo / Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Telecom Engineer",
+            "field": "Telecommunications",
+            "university": "University of Oviedo",
+            "location": "Oviedo, Spain",
+            "year": "2007",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master in Process Control, Electric Engineering and Industrial Electronics",
+            "field": "Electric Engineering",
+            "university": "University of Oviedo",
+            "location": "Oviedo, Spain",
+            "year": "2010-2012 (in process)",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master in Business Administration (MBA) Specialization in Marketing",
+            "field": "Business Administration",
+            "university": "Technical University of Denmark (DTU)",
+            "location": "",
+            "year": "2007-2008",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "CSIC (Spanish National Research Council)",
+            "position": "Contract Telecom Engineer",
+            "description": "Researching",
+            "start_date": "2012",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "University of Oviedo",
+            "position": "Grant Researcher in Electronics, Full Time",
+            "description": "Department of Electric, Electronic, Computer and System Engineering",
+            "start_date": "2012-2013",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Ingeniería Integral / Endesa",
+            "position": "Telecom Engineer, Full Time",
+            "description": "Services of engineering for dam emergency plans for hydroelectric power stations: writing of construction project reports, technical leader, equipment supply control, contact with the acoustics propagation simulation software CADNAa, design of a low power solar installation",
+            "start_date": "2011-2012",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Emulsa (Public Municipal Enterprise of Urban Environmental Services of Gijon, S.A.)",
+            "position": "R&D+I Technician, Full Time",
+            "description": "Contract obtained in a public competitive examination. Functions: technological watch, collecting improvement ideas, analysis and selection, programming the annual innovation plan, project management, results management, resources management.",
+            "start_date": "2010-2011",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Athenas Communication and Logistics",
+            "position": "Technical Assistant, Full Time",
+            "description": "Engineering projects for Abertis Telecom: design of installations for broadcasting centers, coverage studies, field work at broadcasting facilities.",
+            "start_date": "2010-2011",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Interxion / Fox International Network Operations Center (SATEC / Overon)",
+            "position": "Technician, Full Time",
+            "description": "Operation, maintenance and installation of communication equipment at a data center. Use of video and data transmission equipment.",
+            "start_date": "2009-2010",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Abertis Telecom (Former Rete Vision)",
+            "position": "Internship, Technical Support to the Management of the Telecommunications Network",
+            "description": "Supervision of reforms and equipment installations at Abertis Telecom facilities, use of corporate software Great, Pandora, GIS.",
+            "start_date": "2008-2010",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Climastar Global Company Practices (Quality Control Department)",
+            "position": "Quality Control Technician",
+            "description": "Planning of quality integration systems, quality checks in situ, writing of non compliance reports.",
+            "start_date": "2008-2010",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Climastar Global Company Practices (Production Department)",
+            "position": "Technician",
+            "description": "Plant supervision, files management.",
+            "start_date": "2008-2010",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "University of Oviedo",
+            "position": "Contract Researcher, Half Time",
+            "description": "Assignation to a European scope R&D+I project.",
+            "start_date": "2008-2010",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "United States of America",
+            "institution_or_company": "Maryland, U.S.A.",
+            "start_date": "1998-04/28",
+            "end_date": "",
+            "description": "1 month English course",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship",
+            "country": "Germany",
+            "institution_or_company": "Universities of Oviedo-Bochum",
+            "start_date": "2008-04/28",
+            "end_date": "",
+            "description": "1 month student exchange course",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "German",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Internet",
+            "Microsoft Word (medium level)",
+            "Windows (basic level)",
+            "Microsoft Excel (basic level)",
+            "Autocad (advanced level)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

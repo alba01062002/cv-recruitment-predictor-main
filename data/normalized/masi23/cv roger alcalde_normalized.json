@@ -1,0 +1,117 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Roger Alcalde Forés",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "roger.alcalde.f@gmail.com",
+        "phone": "+34 651 104 316",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": "@roger-alcalde",
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería de Materiales",
+            "field": "Ingeniería de Materiales",
+            "university": "UPC (Universitat Politècnica de Catalunya)",
+            "location": "Barcelona, España",
+            "year": "2018-2023",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "HP Student at Procurement ME Unique Sant Cugat del Vallés - HP Barcelona",
+            "position": "Estudiante de Proveeduría",
+            "description": "Trabajó en el departamento de ingeniería para tecnologías únicas de impresión LFP y 3D.",
+            "start_date": "03/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.75
+        },
+        {
+            "company": "Becario en el departamento de Ingeniería para Tecnologías Úniques de Impresión (LFP y 3D)",
+            "position": "Becario",
+            "description": "Miembro del equipo de EPowered Racing (UPC), coordinación, planificación e implementación del proyecto, diseño, simulación y fabricación de piezas funcionales de motocicletas (carenado), creación de pequeños componentes (impresos en 3D) para la batería.",
+            "start_date": "02/2017",
+            "end_date": "06/2020",
+            "duration_years": 3.33
+        },
+        {
+            "company": "Vendedor entradas de museo Sant Pau Recinte Modernista",
+            "position": "Vendedor",
+            "description": "Venta de entradas y guía turístico.",
+            "start_date": "2018",
+            "end_date": "2020",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Voluntariado",
+            "country": "Finlandia",
+            "institution_or_company": "Mikkeli English Camp, Mikkeli",
+            "start_date": "08/2019",
+            "end_date": "",
+            "description": "Instructor de inglés para niños pequeños y preparación de actividades para el campamento.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Catalán",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Planificación y redacción",
+            "Informática",
+            "Diseño CAD (Siemens NX)",
+            "Programación en C++ y Python",
+            "Simulación con GID y Nastran"
+        ],
+        "soft_skills": [
+            "Atención al cliente",
+            "Contabilidad"
+        ]
+    },
+    "other_interests_normalized": [
+        "Amor a la naturaleza y el deporte",
+        "Música",
+        "Lectura"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Mikkeli English Camp, Mikkeli (Finlandia)",
+            "role": "Instructor de inglés para niños pequeños y preparación de actividades",
+            "duration": "2019-actualidad",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 7.08,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

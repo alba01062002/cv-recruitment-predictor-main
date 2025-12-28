@@ -1,0 +1,123 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sergio Fernandez Blanco",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "sergiofdezb97@gmail.com",
+        "phone": "620842897",
+        "address": "Quintín 9, 4B, 24006 León, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree programme in Aeronautical Engineering and Space Engineering",
+            "field": "Aerospace engineering and space engineering",
+            "university": "Carlos III University of Madrid",
+            "location": "Madrid, Spain",
+            "year": "2019 - Present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's degree in Aerospace Engineering",
+            "field": "Aerospace engineering",
+            "university": "University of León",
+            "location": "León, Spain",
+            "year": "2015 - 2018",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "GMV Aerospace and Defense S.A.",
+            "position": "Internship (Master's degree final thesis)",
+            "description": "Development of a methodology for covariance realism enhancement in geo space debris orbits. Part-time.",
+            "start_date": "01/2021",
+            "end_date": "Currently",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Infineon Technologies AG",
+            "position": "Working engineering student (internal project for competitor analysis)",
+            "description": "Part-time.",
+            "start_date": "12/2018",
+            "end_date": "07/2019",
+            "duration_years": 0.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Germany",
+            "institution_or_company": "Technical University of Munich",
+            "start_date": "",
+            "end_date": "",
+            "description": "One course during Bachelor's degree in Mechanical Engineering",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Munich, Germany",
+            "institution_or_company": "Technical University of Munich",
+            "start_date": "2015 - 2018 (Erasmus, one course)",
+            "end_date": null,
+            "description": "Mechanical engineering",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "German",
+            "B2"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "VBA",
+            "C",
+            "Matlab",
+            "AMPL software",
+            "Advanced office software",
+            "AutoCAD",
+            "GMAT",
+            "STK",
+            "Nastran",
+            "Pspice"
+        ],
+        "soft_skills": [
+            "Responsibility",
+            "Workload management",
+            "Flexibility",
+            "Teamwork"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 0.58,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

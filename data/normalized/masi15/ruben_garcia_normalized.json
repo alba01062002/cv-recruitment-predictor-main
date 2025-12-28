@@ -1,0 +1,101 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rubén García Maeso",
+        "date_of_birth": "01/12/1990",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 25,
+        "email": "ia.ruben.gmaesoo@gmail.com",
+        "phone": "+34 606238061",
+        "address": "Q c/aragón, 7, 4c, 28913 Leganés, Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Technical Aeronautical Engineer",
+            "field": "Aeroengines",
+            "university": "Escuela Universitaria de Ingeniería Técnica Aeronáutica (E.U.I.T.A.) Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2008-2013",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Mae (Master in Aeronautical Engineering)",
+            "field": "",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "",
+            "year": "2014-present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Private Teacher",
+            "position": "Position not specified",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Internship/ Scholarship",
+            "position": "Position not specified",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Proosis",
+            "Microsoft Office (Word, Excel, PowerPoint)"
+        ],
+        "soft_skills": [
+            "Good communication and organization skills",
+            "Willingness to travel",
+            "High capacity to work in group"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

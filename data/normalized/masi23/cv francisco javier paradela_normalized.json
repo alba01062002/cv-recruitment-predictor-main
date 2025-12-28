@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francisco J. Paradela Leal",
+        "date_of_birth": "10/06/1998",
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": 25,
+        "email": "paradelacurro@outlook.com",
+        "phone": "680 19 84 55",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeroespacial",
+            "field": "Ingeniería Aeroespacial",
+            "university": "Universidad de Sevilla",
+            "location": "Sevilla",
+            "year": "2017-actualidad",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Akkodis Technologies Spain",
+            "position": "Autor de Boletines de Servicio Programa Airbus A400M",
+            "description": "Responsable de la elaboración y análisis de boletines de servicio para el programa Airbus A400M, incluyendo análisis de configuración de aeronaves en servicio, documentación de diseño, maquetas, planos, manuales de mantenimiento, etc.",
+            "start_date": "04/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Prácticas",
+            "country": "España",
+            "institution_or_company": "Canagrosa Lab & Services",
+            "start_date": "02/2022",
+            "end_date": "04/2022",
+            "description": "Jornada de prácticas en el área dimensional del laboratorio de metrología, formación en procesos y trabajos de calibración de herramientas bajo normativa Airbus.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Prácticas",
+            "country": "España",
+            "institution_or_company": "Ejército del Aire (Departamento de Ingeniería y Calidad de Maestranza Aérea)",
+            "start_date": "07/2021",
+            "end_date": "08/2021",
+            "description": "Participación en auditorías de producto, incluyendo control de la configuración de aeronave y motor Allison T56-A14.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Castellano",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "AutoCAD",
+            "Civil3D",
+            "CATIA V5",
+            "Ansys Nastran/Patran",
+            "SAP",
+            "AirNov",
+            "AirIna",
+            "Aps",
+            "ESDCR",
+            "Sprint"
+        ],
+        "soft_skills": [
+            "Pensamiento crítico",
+            "Ambición",
+            "Juzgo y toma de decisiones",
+            "Gestión del tiempo y recursos",
+            "Flexibilidad",
+            "Disponibilidad internacional",
+            "Gestión de documentación"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2017-actualidad",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 3.67,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

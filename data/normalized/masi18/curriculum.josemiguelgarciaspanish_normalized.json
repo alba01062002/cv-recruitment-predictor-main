@@ -1,0 +1,115 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José Miguel García Cortijo",
+        "date_of_birth": "05/10/1992",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 26,
+        "email": "josemig11@hotmail.com",
+        "phone": "+34 676 769 621",
+        "address": "c/ Sapporo n 1-2-b, 28923 Alcorcón Madrid España",
+        "LinkedIn": "https://es.linkedin.com/in/josé-miguel-garcia-cortijo-428854a5",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2016-Actual",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor of Chemical Engineering",
+            "field": "Chemical Engineering",
+            "university": "Universidad Rey Juan Carlos",
+            "location": "",
+            "year": "2010-2016",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Técnicas Reunidas",
+            "position": "Becario en el departamento de tuberías (stress & soportes)",
+            "description": "Participado en 6 proyectos: Optara Refinery, Jazan Hydrocracking & Diesel Hydrotreatment Plant, Fadhili Gas Plant, Yara Nitric Acid Plant, Jazan Integrated Gasification Combined Cycle Plant, Socar Aegan Refinery, y Talara. Realizado cálculos de flexibilidad con software Caesar II e informes de stress para el cliente.",
+            "start_date": "06/2015",
+            "end_date": "08/2017",
+            "duration_years": 2.17
+        },
+        {
+            "company": "Repsol",
+            "position": "Becario en el centro de tecnología de Repsol (upstream)",
+            "description": "Simulaciones de flujo del crudo desde condiciones de reservorio hasta wellhead, asistente en el laboratorio de petroquímica.",
+            "start_date": "01/2015",
+            "end_date": "06/2015",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Program",
+            "country": "Scotland, UK",
+            "institution_or_company": "University of Strathclyde (Glasgow)",
+            "start_date": "09/2013",
+            "end_date": "02/2014",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Scotland, UK",
+            "institution_or_company": "University of Strathclyde (Glasgow)",
+            "start_date": "2013-2014",
+            "end_date": null,
+            "description": "Chemical & Process Engineering",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Castellano",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Maquetas virtuales SP3D y PDS",
+            "Análisis de flexibilidad de tuberías Caesar II",
+            "Soportado de tuberías SP3D y Support",
+            "Dibujo técnico AutoCAD, MicroStation y SmartSketch",
+            "Análisis estructuras mediante elementos finitos Abaqus",
+            "Simulación de procesos químicos Aspen One y Aspen Hysys",
+            "Análisis cálculo numérico MATLAB, Octave y Ecosimpro",
+            "Microsoft Office y sus aplicaciones (Word, Excel, PowerPoint, Project, Access, etc)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 2.59,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

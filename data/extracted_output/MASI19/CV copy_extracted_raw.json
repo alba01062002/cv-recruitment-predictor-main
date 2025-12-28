@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "master's degree in aerospace engineering and double degree student in ecole central nantes plaza doctor laguna n29, 42c, 28009 madrid (spain) spanish telephone: 0034 619 961 306 enrique.gracia.diez@gmail.com driving licence b1. car owner. luis enrique gracia diez education experience e 2016 sep.-2018 oct.: double degree in engineering generalist at ecole centrale de nantes (france). structure speciality. validation of the second year of master's degree in aerospace engineering at the technical university of madrid for two years of studies of engineering generalist at ecole centrale de nantes (france). - remarkable subjects: finite element modeling and methodology, dynamics and modal analysis, structural mechanics, composite structures. e 2015 - 2016: master's degree in aerospace engineering. studies of the first year of master's degree in aerospace engineering at the technical university of madrid. - remarkable subjects: flight dynamics, advanced aeroelasticity, advance calculation of structures, advance materials and manufacturing. e 2011-2015: graduated in aerospace engineering at the technical university of madrid. specialized in aerospace sciences and technologies. - remarkable subjects: flight mechanics, aeroelasticity, vibration, aerospace vehicles, composite materials, structures. work experience e 2018 april- currently: one year internship in airbus madrid (spain): minds airframe r&t - rear end engine integration. (full-time) - development of new structural solutions within airframe r&t rear end environment. development of a new engine integration from a design (catiav5) and structure (patran-nastran) point of view. e 2017 february - july: six month internship at airbus saint nazaire (france). (full-time) - active member of the structural design group of the map (mise a point). realization of technical reference and decision trees used for the treatment of fuselage structural repairs applied to the a350 program. e 2015 september: final project about structural analysis of the satellite upmsat-2 with an optimization tool. - final project done in \"instituto universitario de microgravedad ignacio da riva\" (idr). studies of the loads that take place in the satellite during launch with the software patran-nastran. e 2015 february - july: six month internship at \"instituto universitario de microgravedad ignacio da riva \" (spain). (part-time) - usage of python language in order to optimize the extraction of results obtained in the patran-nastran field and the following interconnection with microsoft office (excel and word) with the qt-designer interface tool. languages e spanish: mother language e english: fluent. level b2 at toeic listening and reading exam in december 2015 e french: intermediate. level b2 at tfl exam in september 2018. computer science skills e sofware patran-nastran and abaqus. e python, matlab and macro excel programming languages (visual basic). e qt-designer graphic interface. e catia and solidworks graphic design. catia surface module. arias module. e microsoft office. additional information e basketball player in santa maría del pilar club of madrid (in which have been the captain for six years) and in ecole centrale of nantes. e languages coures in usa, great britain and france. e have done four times the santiago de compostela pilgrimage (way of st james).",
+    "text_from_header": "STUDENT IN ECOLE CENTRAL NANTES",
+    "detected_language": "en",
+    "master_edition": "MASI19"
+}

@@ -1,0 +1,99 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Roberto Campelo Valencia",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "rocamva94@gmail.com",
+        "phone": "648238334",
+        "address": "calle berlín, 2 madrid, 28028",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeronáutica",
+            "field": "Aerospacial Engineering",
+            "university": "University of León",
+            "location": "León",
+            "year": "2012-13/2015-16",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Bachillerato",
+            "university": "Sagrado Corazón Jesuitas in León",
+            "location": "León",
+            "year": "2009-10/2011-12",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Football Referee",
+            "description": "Refereed in 12 division provincial aficionados, in León (2009-2016)",
+            "start_date": "09/2009",
+            "end_date": "08/2016",
+            "duration_years": 6.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "MATLAB",
+            "AutoCAD",
+            "CATIA VSR20",
+            "Arduino I/O",
+            "C programming"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Team sports, especially football",
+        "Reading",
+        "Papiroflexia (paper folding)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Special place for children doing homework with supervised people",
+            "role": "Helped children do their homework",
+            "duration": "Not specified, but seems to be an ongoing activity",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 6.92,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

@@ -1,0 +1,162 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ahmed Trablesi",
+        "date_of_birth": "30/09/1995",
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": 28,
+        "email": "ahmed.trabelsi95@hotmail.com",
+        "phone": "(+34) 692621539",
+        "address": "Jaen, España (domicilio)",
+        "LinkedIn": "https://www.linkedin.com/in/ahmed-trabelsi-30841b198/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Título Nacional de la Licenciatura Aplicada en Ingeniería Mecánica",
+            "field": "Ingeniería Mecánica",
+            "university": "Instituto Superior de Estudios Tecnológicos de Jendouba",
+            "location": "Jendouba, Túnez",
+            "year": "2014-2017",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Diploma Nacional en Ingeniería Aeronáutica",
+            "field": "Ingeniería Aeronáutica",
+            "university": "Escuela Superior de Aeronáutica y Tecnologías",
+            "location": "Ariana, Túnez",
+            "year": "2019-2022",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Master Universitario en Ingeniería Industrial",
+            "field": "",
+            "university": "Universidad de Jaen",
+            "location": "Jaén, España",
+            "year": "2022-actualidad",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Compañía de Transporte de Túnez",
+            "position": "Prácticas de Iniciación",
+            "description": "",
+            "start_date": "01/2015",
+            "end_date": "02/2015",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Valeo",
+            "position": "Prácticas de Perfeccionamiento (Mantenimiento Preventivo)",
+            "description": "",
+            "start_date": "01/2016",
+            "end_date": "03/2016",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Compañía Nacional de Ferrocarriles de Túnez",
+            "position": "Trabajo Fin de Grado (TFG)",
+            "description": "",
+            "start_date": "01/2017",
+            "end_date": "06/2017",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Tunisair (Compañía Aérea)",
+            "position": "Prácticas de Perfeccionamiento",
+            "description": "",
+            "start_date": "08/2021",
+            "end_date": "08/2021",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Stelia Aerospace",
+            "position": "Trabajo Fin de Grado (TFG)",
+            "description": "",
+            "start_date": "03/2021",
+            "end_date": "03/2021",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Valeo Martos",
+            "position": "QPTM (Quality Project Team Member)",
+            "description": "",
+            "start_date": "02/2022",
+            "end_date": "09/2022",
+            "duration_years": 0.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "España, Túnez",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Árabe",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "German",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "ANSYS",
+            "SolidWorks",
+            "Java",
+            "Technomatix Simulation",
+            "PLC Ladder Logic Programming",
+            "Matlab",
+            "STM32 CubeMX",
+            "Lenguaje de programación C++",
+            "Python (beginner)"
+        ],
+        "soft_skills": [
+            "Control de Calidad",
+            "Resolución de Problemas",
+            "Colaboración con Equipos Multidisciplinarios"
+        ]
+    },
+    "other_interests_normalized": [
+        "Paracaidismo",
+        "Música",
+        "Miembro del Club Hult Prize de Túnez",
+        "Miembro del Club Robótico MegaBot de Túnez",
+        "Miembro del Club IEEE de Túnez"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 1.25,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

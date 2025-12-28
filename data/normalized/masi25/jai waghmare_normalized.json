@@ -1,0 +1,98 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jai Waghmare",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "waghmarejai04@gmail.com",
+        "phone": "+353-892084452",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MSc in Computing: Artificial Intelligence, IBM Certified PG Diploma in Data Science",
+            "field": "Artificial Intelligence and Data Science",
+            "university": "Dublin City University, I.T Vedant Institute of Technology",
+            "location": "Dublin, Ireland, Mumbai, India",
+            "year": "Sep 2023 - Oct 2024 / Feb 2020 - Sep 2022",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "BSc in Computer Science",
+            "field": "Computer Science",
+            "university": "Mumbai University, I.T Vedant Institute of Technology",
+            "location": "Mumbai, India",
+            "year": "Aug 2017 - Oct 2020",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Currys Ireland PLC",
+            "position": "Operations Analyst",
+            "description": "Lead Warehouse Operations with a focus on compliance and inventory management protocols, reducing stock discrepancies by 15% through regular audits and adherence to standards.",
+            "start_date": "Nov 2023",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Xalcontech",
+            "position": "Data Engineer (Internship)",
+            "description": "Conducted data quality checks and audits across large datasets, ensured compliance with business rules and operational standards.",
+            "start_date": "Feb 2020",
+            "end_date": "Sep 2022",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "India",
+            "institution_or_company": "I.T Vedant Institute of Technology, Mumbai University",
+            "start_date": "",
+            "end_date": "",
+            "description": "Studied and obtained certifications in Data Science and Computer Science.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Excel (with formulas/macros)",
+            "Autocad basic",
+            "Simulink",
+            "Python",
+            "SQL database administration"
+        ],
+        "soft_skills": [
+            "Data analysis and engineering estimations",
+            "Compliance and operational standards",
+            "Cross-functional team collaboration"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.0
+}

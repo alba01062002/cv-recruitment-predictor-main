@@ -1,0 +1,103 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Nour Nasser",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "nour.n@live.com",
+        "phone": "+971558848777",
+        "address": "",
+        "LinkedIn": "linkedin.com/in/nour-n",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BEng (Hons) in Aerospace Technology",
+            "field": "Aerospace technology",
+            "university": "Coventry University, Emirates Aviation University",
+            "location": "Dubai, UAE",
+            "year": "2014-2017",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "BTEC Level 5 in Aeronautical Engineering",
+            "field": "Aeronautical engineering",
+            "university": "Pearson College UK, Emirates Aviation University",
+            "location": "Dubai, UAE",
+            "year": "2014-2016",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "",
+            "location": "",
+            "year": "",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Emirates Aviation Services",
+            "position": "On-the-Job Training (OTJ)",
+            "description": "Scheduled and unscheduled IAW AMM, on Piper PA28 series and Cessna 1725 aircrafts. Internal SMS training in safety organization, safety policy and objectives, hazards and threats identification, reporting culture and emergency response plan. Technical support agent.",
+            "start_date": "Dec 2016",
+            "end_date": "Jan 2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Teleperformance Dubai",
+            "position": "Technical Support Agent",
+            "description": "Handling and assisting calls of multicultural customers, providing technical support with their products. Probing, identifying, and guiding callers on how to fix their problems. Conducting sessions with team members, providing updates from the client.",
+            "start_date": "Mar 2018",
+            "end_date": "Mar 2019",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Arabic",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "2D AutoCAD",
+            "Simulink",
+            "Microsoft Office",
+            "PTC Creo",
+            "MATLAB"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

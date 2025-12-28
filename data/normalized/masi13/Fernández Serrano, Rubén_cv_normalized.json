@@ -1,0 +1,135 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rubén Fernández Serrano",
+        "date_of_birth": "09/03/1989",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 24,
+        "email": "fernandezserranoruben@gmail.com",
+        "phone": "+34 645 737 529, +34 944 850 610",
+        "address": "Calle Colón 7, 1 izquierda, 48903 Barakaldo, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero de Telecomunicaciones",
+            "field": "Ingeniería de Telecomunicaciones",
+            "university": "Escuela Superior de Ingeniería de Bilbao (UPV-EHU)",
+            "location": "Bilbao",
+            "year": "2012",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Proyecto Fin de Carrera en Instituto of Nanostructure Technologies and Analytics",
+            "university": "Universidad de Kassel (Alemania)",
+            "location": "Kassel, Alemania",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Instituto de Nanotecnología y Analítica de la Universidad de Kassel",
+            "position": "Prácticas",
+            "description": "",
+            "start_date": "09/2011",
+            "end_date": "08/2012",
+            "duration_years": 0.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Alemania",
+            "institution_or_company": "University of Kassel",
+            "start_date": "09/2011",
+            "end_date": "08/2012",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Prácticas",
+            "country": "Alemania",
+            "institution_or_company": "Instituto de Nanotecnología y Analítica de la Universidad de Kassel",
+            "start_date": "09/2011",
+            "end_date": "08/2012",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Kassel, Alemania",
+            "institution_or_company": "University of Kassel (Alemania)",
+            "start_date": "2011/2012",
+            "end_date": null,
+            "description": "Estudiante Erasmus",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B1"
+        ],
+        [
+            "Italian",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "programación windows, linus, ubuntu, mac os x",
+            "microsoft office (word, excel, powerpoint, access)",
+            "lenguajes de programación: c, c++, java, linker, vhdl",
+            "matlab, latex",
+            "electrónica",
+            "programación de microcontroladores",
+            "cplds (complex programmable logic device) y fpgas (field programmable gate arrays)",
+            "tecnología de nanoimpresión 3d",
+            "optoelectrónica / fotónica",
+            "comunicaciones detección y estimación de seales",
+            "comunicaciones digitales",
+            "comunicaciones inalámbricas",
+            "teoría de la información y codificación"
+        ],
+        "soft_skills": [
+            "Pasión de aprendizaje",
+            "Capacidad de trabajar en grupo",
+            "Optimismo",
+            "Capacidad de asumir riesgos y responsabilidades",
+            "Compromiso",
+            "Vocación de servicio"
+        ]
+    },
+    "other_interests_normalized": [
+        "Escalada deportiva (Campeón de España Universitario por equipos 2010, 2011)",
+        "Taekwondo (Cinturón negro 2* dan)",
+        "Senderismo"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Asociación de Diabéticos de Vizcaya",
+            "role": "Monitor voluntario de niños",
+            "duration": "2009-2011",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.92,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

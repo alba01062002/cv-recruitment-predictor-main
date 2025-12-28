@@ -1,0 +1,371 @@
+a2
+a2 matlab
+ability
+adaptability
+adobe
+advanced
+aeronautical
+aeronautical engineering
+aeronautico
+aeronautics
+aerospace
+aerospace engineering
+air
+aircraft
+analysis
+analytical
+analyzed
+analyzing
+ansys
+applications
+area
+assembler
+assembly
+assembly language
+assistant
+attitude
+autocad
+automatica
+automatica electronica
+aviation
+b2
+b2 java
+b2 matlab
+bachelor
+barcelona
+barcelona spain
+based
+based navigation
+basic
+c1
+c1 catalan
+c1 english
+c1 french
+c1 german
+c1 matlab
+c1 spanish
+c2
+c2 english
+cad
+carlos
+carlos iii
+carrera
+catalan
+catia
+catia v5
+center
+collaboration
+commercial
+communication
+communication skills
+communications
+company
+completed
+computer
+conducted
+control
+course
+courses
+creation
+data
+data transmission
+database
+degree
+degree aeronautical
+del
+department
+desarrollo
+design
+developed
+developing
+development
+diseno
+driving
+driving license
+edge
+el
+electrical
+electronica
+electronica industrial
+electronics
+en
+en el
+engineer
+engineering
+engineering aerospace
+engineering escuela
+engineering mechanical
+engineering spanish
+engineering telecommunications
+engineering university
+english
+english c1
+english english
+environment
+erasmus
+erasmus internship
+escuela
+escuela tecnica
+espana
+estudio
+etsi
+european
+excel
+excellent
+excellent communication
+exchange
+fin
+fin carrera
+final
+flow
+flows
+fluent
+fluent solid
+fluid
+fortran
+france
+french
+french a2
+french b2
+french c1
+gambit
+gambit fluent
+german
+german a2
+germany
+global
+great
+grupo
+heat
+heat transfer
+high
+high speed
+hours
+iii
+iii madrid
+image
+image processing
+improvement
+industrial
+industrial automatica
+industrial universidad
+industriales
+informatica
+information
+ingenieria
+ingeniero
+ingeniero tecnico
+ingenieros
+ingenieros industriales
+institute
+integration
+international
+internet
+internship
+internship study
+java
+kingdom
+la
+laboratory
+labview
+language
+languages
+latex
+learn
+levels
+license
+linux
+los
+mac
+mac os
+madrid
+madrid espana
+madrid madrid
+madrid spain
+madrid upm
+major
+management
+manager
+managing
+master
+materiales
+materials
+matlab
+matlab simulink
+mechanical
+mechanical engineering
+mexico
+microsoft
+microsoft office
+microsoft project
+mission
+modeling
+monitoring
+monterrey
+monterrey mexico
+motivation
+ms
+ms office
+mysql
+mysql matlab
+nastran
+national
+navigation
+networks
+new
+office
+office suites
+openoffice
+operating
+operating systems
+operation
+optimization
+organizational
+os
+para
+para la
+paris
+participated
+pascal
+patran
+patran nastran
+people
+performance
+photography
+photoshop
+physics
+planning
+poitiers
+poland
+poland warsaw
+politecnica
+politecnica madrid
+polytechnic
+polytechnic university
+private
+problem
+problem solving
+processing
+professional
+program
+programas
+programming
+programming languages
+programs
+project
+project development
+project management
+project manager
+projects
+prototipo
+proyecto
+proyecto fin
+pspice
+public
+radio
+radio communications
+reading
+redes
+research
+research assistant
+researcher
+school
+sevilla
+sevilla sevilla
+simulation
+simulation tools
+simulink
+sistemas
+situations
+skills
+software
+software using
+solid
+solid edge
+solving
+source
+space
+spain
+spain master
+spanish
+spanish c2
+specialization
+speed
+states
+structures
+student
+study
+study spain
+study united
+suite
+suites
+summer
+superior
+superior ingenieros
+support
+swimming
+systems
+teaching
+team
+team work
+teams
+teamwork
+technical
+technology
+tecnica
+tecnica superior
+tecnico
+telecommunications
+telecommunications engineering
+telecommunications university
+tennis
+thesis
+time
+tools
+tools latex
+transfer
+transmission
+turbulence
+uk
+una
+united
+united kingdom
+united states
+universidad
+universidad politecnica
+universidad sevilla
+universitat
+university
+university carlos
+university madrid
+university technology
+unix
+upc
+upc barcelona
+upm
+upm madrid
+usa
+usa university
+using
+v5
+vhdl
+visio
+visio project
+visual
+visual basic
+volunteering
+warsaw
+willingness
+windows
+windows linux
+windows mac
+word
+work
+dense_degree_years
+dense_age_at_graduation
+dense_total_work_years
+dense_has_international_experience
+dense_has_master
+dense_n_hard_skills
+dense_n_languages
+dense_max_english_level

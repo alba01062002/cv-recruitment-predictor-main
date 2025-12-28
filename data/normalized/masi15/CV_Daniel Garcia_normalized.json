@@ -1,0 +1,111 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel García Hernández Villena",
+        "date_of_birth": "06/04/1991",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 24,
+        "email": "dagarhe3@gmail.com",
+        "phone": "+34 649516961",
+        "address": "C/ Corredera 33, 9 C, 03400 Villena, Alicante, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Integrated Master in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Valencia, Spain",
+            "location": "Spain",
+            "year": "2013-2014",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's Degree in Aeronautical Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Valencia, Spain",
+            "location": "Spain",
+            "year": "2009-2013",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Instituto Superior Técnico (IST), Lisbon, Portugal",
+            "location": "Lisbon, Portugal",
+            "year": "2007-2009",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Not provided in the text",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Portugal",
+            "institution_or_company": "Instituto Superior Técnico (IST)",
+            "start_date": "2007-2009",
+            "end_date": "",
+            "description": "Completed an Erasmus exchange program at Instituto Superior Técnico in Lisbon, Portugal.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Portuguese",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office: Proficient (Excel, Word, PowerPoint, Visio)",
+            "Software: Intermediate (AutoCAD, Corel Draw, Autodesk Inventor, Ansys Fluent, STK and ETRX)",
+            "Programming: Intermediate (Matlab)",
+            "Mathematica",
+            "Gasturb"
+        ],
+        "soft_skills": [
+            "Optimistic",
+            "Calm",
+            "Quick Learner",
+            "Adaptability to Challenges in Different Situations",
+            "Engineering Skills Development and Improvement",
+            "Personal and Professional Growth Opportunities"
+        ]
+    },
+    "other_interests_normalized": [
+        "Lifesaving and Rescue Qualifications",
+        "Music Education for 10 Years (1999-2009)",
+        "Summer Work as a Lifeguard at C.A.M.V. in 2008",
+        "Band Member (Banda Municipal de Villena, Asociación Musical Adelum)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

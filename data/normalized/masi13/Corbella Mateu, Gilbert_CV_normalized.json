@@ -1,0 +1,131 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Gilbert Corbella",
+        "date_of_birth": "22/01/1988",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 25,
+        "email": "gilbertcorbella@hotmail.com",
+        "phone": "+34-629 355 303 / +48-889 582 632",
+        "address": "c/ Cantias 4, 2-izq, 41007, Seville (Spain)",
+        "LinkedIn": "es.linkedin.com/in/gilbertcorbella",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aeronautical & Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universitat Politècnica de Catalunya Barcelona",
+            "location": "Barcelona",
+            "year": "2006-2011",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "EADS Airbus Military Seville",
+            "position": "Lean Change Agent (Intern)",
+            "description": "Deployment of Airbus lean manufacturing principles, continuous medium & light military transports flow, pull, takt, responsibility of everybody, zero variation. Value stream mapping. Practical problem solving using 5 why, KT, Ishikawa. Leading and supporting continuous improvement within multi-functional teams. Customer focused KPIs analysis: quality, cost, and delivery.",
+            "start_date": "2012",
+            "end_date": "12/2013",
+            "duration_years": 0.0
+        },
+        {
+            "company": "AENA Barcelona (San Pablo Sur)",
+            "position": "",
+            "description": "Value stream mapping. Practical problem solving using 5 why, KT, Ishikawa.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "AENA Barcelona",
+            "position": "Supervisor Engineer Division of Aeronautical Services (Intern)",
+            "description": "Development of coordination and auditory tasks in the accesses Barcelona airport El Prat, urbanization department. Updated sketches and plans in AutoCAD, controlled and reported on passenger flows.",
+            "start_date": "2011",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "CaixaBank Barcelona (Summers)",
+            "position": "Banker as a Seasonal Employee",
+            "description": "Duties included performance of financial, commercial, customer services and sales force.",
+            "start_date": "2007-2009",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Poland (Warsaw)",
+            "institution_or_company": "Warsaw University of Technology Warsaw",
+            "start_date": "2010-2011",
+            "end_date": "",
+            "description": "Master thesis: Dynamic Absorption System [DAS].",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Warsaw",
+            "institution_or_company": "Warsaw University of Technology Warsaw",
+            "start_date": "2010-2011",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Polish",
+            "A1"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "C++",
+            "Visual Basic User",
+            "Ansys",
+            "AGI STK",
+            "Solid Edge",
+            "CATIA",
+            "AMSAT",
+            "AutoCAD"
+        ],
+        "soft_skills": [
+            "Lean Manufacturing Principles",
+            "Problem Solving (5 why, KT, Ishikawa)",
+            "Continuous Improvement Strategies",
+            "Team Orientation",
+            "Customer-Focused Service"
+        ]
+    },
+    "other_interests_normalized": [
+        "Health",
+        "Martial Arts",
+        "Sport Activities"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.7
+}

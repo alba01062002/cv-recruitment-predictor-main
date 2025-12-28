@@ -1,0 +1,137 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Manuel Moya Pérez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "proyectos@sdle.es",
+        "phone": "+34 659809847, +962 (0) 795735688",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineering Master",
+            "field": "Aerospace Engineering",
+            "university": "University of Seville (US)",
+            "location": "Spain",
+            "year": "2014-2016",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Aerospace Engineering Degree",
+            "field": "Aerospace Engineering",
+            "university": "University of Seville (US)",
+            "location": "Spain",
+            "year": "2010-2014",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "SDLE (Jordan)",
+            "position": "Project Manager - Centauro Project",
+            "description": "Assurance of quality for the production process, report and assess non-conformities, solve technical problems, produce maintenance plans.",
+            "start_date": "Jan 2019",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "General Dynamics - SBS (UK)",
+            "position": "Manufacturing Engineer",
+            "description": "Technical assistance on shore at new factory, manage technicians, ensure quality, research causes of non-conformities.",
+            "start_date": "July 2017",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "General Dynamics - SBS (UK)",
+            "position": "ILS Area",
+            "description": "Development of the SV ASCOD program, technical publications and LSA tasks for armored fighting vehicles in UK.",
+            "start_date": "Feb 2016",
+            "end_date": "Dec 2016",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Curricular Internship",
+            "country": "Spain",
+            "institution_or_company": "University of Seville (US)",
+            "start_date": "July 2015",
+            "end_date": "Sep 2015",
+            "description": "Maintenance and certification of arm systems, detailed evaluation of oil filters.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "Visual Basic",
+            "Arduino",
+            "CATIA",
+            "PSpice",
+            "STK (Satellite Toolkit)",
+            "Patran-NASTRAN",
+            "ANSYS",
+            "Fluent",
+            "Festo Fluidsim",
+            "EES",
+            "GSP",
+            "Microsoft Office (Excel, Word, Access, PowerPoint)",
+            "LaTeX",
+            "PDMLink",
+            "Eagle",
+            "CSDB",
+            "Baan",
+            "Creo",
+            "MS Project"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Self Awareness",
+            "Motivation",
+            "Influence",
+            "Teamwork Success"
+        ]
+    },
+    "other_interests_normalized": [
+        "Learned to play the piano by myself",
+        "Won several awards in guitar competitions",
+        "Triathlon Club Member",
+        "Graduated in Professional Musical Education at the Professional Conservatory of Seville (Guitar Specialization)",
+        "Athleticism, Swimming and Cycling",
+        "Listening to music and playing different instruments",
+        "Driving license"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 2.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

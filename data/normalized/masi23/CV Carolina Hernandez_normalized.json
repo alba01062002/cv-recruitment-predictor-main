@@ -1,0 +1,92 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carolina Hernández Fernández",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "carolinaherfer20o@gmail.com",
+        "phone": "+34 608 17 58 32",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/carolina-hernandez-fernandez-b42b40263/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aerospace Engineering",
+            "field": "Aerospace Systems and Air Navigation",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "Sep, 2019 - current",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Inster Grupo Oesia",
+            "position": "Satellite Software Development Intern",
+            "description": "Currently focusing on satellite communications and embedded systems. Gaining experience in programming with C and developing related skills including Linux administration.",
+            "start_date": "Feb, 2023",
+            "end_date": "12/2023",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Ireland",
+            "institution_or_company": "Vicco-Von-Búlow-Gymnasium, Sligo",
+            "start_date": "2016",
+            "end_date": "",
+            "description": "German school exchange",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB & Simulink",
+            "Python",
+            "Fortran",
+            "* Linux * C/C++/C# programming",
+            "Microsoft Office package"
+        ],
+        "soft_skills": [
+            "Motivated in embedded systems",
+            "Time management",
+            "Adaptability and ease of interaction",
+            "High capability for self-learning",
+            "Critical thinking and logical reasoning",
+            "Teamwork mentality exchanges"
+        ]
+    },
+    "other_interests_normalized": [
+        "Dance",
+        "Piano"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "ADEA project, CEM San Cayetano (Minor Educational Center)",
+            "role": "Tutor",
+            "duration": "2017-2018",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.5
+}

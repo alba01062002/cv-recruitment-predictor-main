@@ -1,0 +1,140 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Aranzazu de la Escalera Díaz",
+        "date_of_birth": "06/02/1997",
+        "gender": "female",
+        "age_reference_year": 2021,
+        "age": 24,
+        "email": "arantxadelaescalera@gmail.com, arantxa@escaleradiaz.com",
+        "phone": "+34 648 621 466",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Industrial Engineering",
+            "field": "Industrial Technologies",
+            "university": "Alfonso X el Sabio University, Madrid, Spain",
+            "location": "Madrid",
+            "year": "2020 - Present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's in Industrial Technologies",
+            "field": "",
+            "university": "Polytechnic University of Madrid",
+            "location": "Madrid",
+            "year": "2015 - 2021",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Bachillerato (Simultaneous with Work)",
+            "field": "",
+            "university": "Guadalaviar School, Valencia, Spain",
+            "location": "Valencia",
+            "year": "2013 - 2015",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ALAMI Decoración, Madrid, Spain",
+            "position": "Founder and CEO",
+            "description": "Importation of decoration products. Responsible for the economy, communication, and general management.",
+            "start_date": "01/2020",
+            "end_date": "12/2025",
+            "duration_years": 5.92
+        },
+        {
+            "company": "IDEAgenia, Madrid, Spain",
+            "position": "Installation Engineer",
+            "description": "Supporting architectural studies in project calculations and technical specifications for local and office installations.",
+            "start_date": "05/2021",
+            "end_date": "12/2025",
+            "duration_years": 4.58
+        },
+        {
+            "company": "Catering El Puchero de Plata, Madrid, Spain",
+            "position": "Waitress for Corporate Events, Weddings, Communion Celebrations and other events.",
+            "description": "",
+            "start_date": "03/2016",
+            "end_date": "02/2020",
+            "duration_years": 3.92
+        },
+        {
+            "company": "Hotel Bless, Madrid, Spain",
+            "position": "Waitress in various restaurant areas of the 5-star hotel including Etxeko (a Michelin-starred restaurant by Martin Berasategui).",
+            "description": "",
+            "start_date": "09/2018",
+            "end_date": "02/2020",
+            "duration_years": 1.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Teaching Spanish and Improving English Skills",
+            "country": "Wisconsin, USA",
+            "institution_or_company": "",
+            "start_date": "06/2016",
+            "end_date": "09/2016",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish (native)",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MS Office",
+            "MATLAB",
+            "C++",
+            "ANSYS",
+            "PowerWorld",
+            "AIMMS",
+            "SIMIO",
+            "AutoCAD",
+            "Solid Edge",
+            "CATIA",
+            "R"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Leadership"
+        ]
+    },
+    "other_interests_normalized": [
+        "Motorcycling",
+        "Spending Time in Nature",
+        "All Types of Sports (especially Scuba Diving)",
+        "Traveling"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Various Voluntary Organizations in Valencia",
+            "role": "Volunteer Teacher and Entertainer for Economically Disadvantaged Children, Care of Homeless and Addict Children in Tangier, Morocco",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.9
+}

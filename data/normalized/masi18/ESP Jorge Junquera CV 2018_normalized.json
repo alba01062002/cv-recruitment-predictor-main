@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge Junquera",
+        "date_of_birth": "19/07/1995",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 23,
+        "email": "jorgejunquera95@gmail.com",
+        "phone": "(+34) 603476442",
+        "address": "Calle Blanes 29 A, 28042 Madrid, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Industrial y de Gestión de Sistemas",
+            "field": "Industria y Gestión de Sistemas",
+            "university": "University of South Florida",
+            "location": "Tampa, FL, USA",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Just Grow",
+            "position": "Ingeniero Industrial",
+            "description": "Trabajé en un equipo de ingenieros mecánicos, eléctricos y de ordenadores para perfeccionar el principal producto de la empresa. Estaba a cargo de los prototipos, las pruebas con clientes y proporcionar los resultados obtenidos a los directivos.",
+            "start_date": "01/2017",
+            "end_date": "08/2017",
+            "duration_years": 0.58
+        },
+        {
+            "company": "Ardent & Bold",
+            "position": "Empresario",
+            "description": "Ayudé con el lanzamiento de la empresa. Me encargué de buscar posibles nuevos clientes para los dos tipos de negocio de la empresa (consultoría y desarrollo de productos).",
+            "start_date": "11/2016",
+            "end_date": "01/2017",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Tampa VA Hospital",
+            "position": "Ingeniero Industrial: Prácticas",
+            "description": "Basándonos en el uso, el número de pacientes por semana y mes y otros parámetros, con un equipo de estudiantes de ingeniería industrial desarrollé un sistema para obtener la mayor eficiencia posible del uso de los 'workstation-on-wheels' de cada departamento del hospital.",
+            "start_date": "09/2016",
+            "end_date": "12/2016",
+            "duration_years": 0.25
+        },
+        {
+            "company": "Proyecto de Medicina: Laparoscopic Morcellator",
+            "position": "Ingeniero Industrial: Prácticas",
+            "description": "Diseñé e imprimí en 3D un prototipo de un aparato médico para ser utilizado en operaciones de invasión mínima.",
+            "start_date": "09/2015",
+            "end_date": "12/2015",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "United States of America (USA)",
+            "institution_or_company": "University of South Florida",
+            "start_date": "",
+            "end_date": "",
+            "description": "Graduado con una nota de 3.2 y ganador de la beca 'Green & Gold'.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Visual Basic",
+            "SQL",
+            "MS Project",
+            "AutoCAD",
+            "RStudio",
+            "SolidWorks",
+            "Arena Simulation & WordPress"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Golf: Handicap 0",
+        "Miembro del equipo de la Federación Madrileña de Golf",
+        "Ha participado en varias competiciones nacionales e internacionales desde los 10 años"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "University of South Florida",
+            "role": "Ayudante en la Expo de Ingeniería",
+            "duration": "2015-2016",
+            "description": ""
+        }
+    ],
+    "degree_years": 2.0,
+    "total_work_years": 1.25,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

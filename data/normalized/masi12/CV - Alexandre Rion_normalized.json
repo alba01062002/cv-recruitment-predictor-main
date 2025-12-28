@@ -1,0 +1,122 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alexandre Rion",
+        "date_of_birth": "02/03/1988",
+        "gender": "male",
+        "age_reference_year": 2012,
+        "age": 24,
+        "email": "alx.rion@live.be",
+        "phone": "+32 473 78 40 53, +34 633 668 980",
+        "address": "Rue des grands méches, 21, 6724 Marbehan (Belgium)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Université de Liège (ULg)",
+            "location": "Liège, Belgium",
+            "year": "2010-2011",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's in Engineering Sciences (Physics/ Mechanics)",
+            "field": "Engineering Sciences (Physics/Mechanics)",
+            "university": "Université de Liège (ULg)",
+            "location": "Liège, Belgium",
+            "year": "2009-2006",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Instituto de Astrofísica de Canarias (IAC)",
+            "position": "Mechanical Engineer",
+            "description": "Design of EMIR instrument's control cabinets for the GTC telescope: selection and design of elements, 3D models (Creo/Element) and 2D drawings (AutoCAD). Documentation and description of assembly, tests, and integration. Trainings by Air-Liquide for cryogenic installation use and liquid nitrogen handling.",
+            "start_date": "07/2011",
+            "end_date": "09/2011",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Spain",
+            "institution_or_company": "Universidad Politécnica de Madrid (E.T.S. L.Aeronáuticos)",
+            "start_date": "09/2010",
+            "end_date": "06/2011",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship",
+            "country": "Spain",
+            "institution_or_company": "Instituto de Astrofísica de Canarias (IAC)",
+            "start_date": "",
+            "end_date": "09/2011",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Dutch",
+            "A2"
+        ],
+        [
+            "Spanish",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB/Simulink",
+            "Mathematica",
+            "Assembly (x86, SuperH)",
+            "C/C++",
+            "Fortran",
+            "Lua",
+            "VHDL",
+            "Qt",
+            "Parallel Programming (MPI, OpenMP)",
+            "AutoCAD",
+            "CATIA V5",
+            "Pro/Engineer (Creo/Element)",
+            "Samcef",
+            "SolidEdge",
+            "Microsoft Windows",
+            "Linux/Ubuntu",
+            "GIMP"
+        ],
+        "soft_skills": [
+            "Team spirit",
+            "Leadership",
+            "Group work experience",
+            "Organizational aptitudes",
+            "Multicultural environment experience"
+        ]
+    },
+    "other_interests_normalized": [
+        "Amateur Astronomy: Celestron C8, 203.2mm telescope - Astronomers meetings, La Palma/Tenerife telescopes visit (IAC)",
+        "Sports: Football, Padel Tennis, Cycling, Swimming",
+        "Apiculture"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 18,
+    "detected_language": "en",
+    "master_edition": "MASI12",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

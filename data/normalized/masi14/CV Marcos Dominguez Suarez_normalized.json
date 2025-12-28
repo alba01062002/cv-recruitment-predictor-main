@@ -1,0 +1,101 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Marcos Domínguez Suárez",
+        "date_of_birth": "08/12/1986",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 28,
+        "email": "mail@marcosdominguez.es",
+        "phone": "+34 678 352 669",
+        "address": "Calle Fernández de los Ríos, 36. 3 ext. izda., 28015 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Automation and Industrial Electronics Engineering",
+            "field": "Electronics Engineering",
+            "university": "Carlos III University of Madrid",
+            "location": "Madrid, Spain",
+            "year": "2010-2013",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Major in Industrial Organization",
+            "field": "Industrial Engineering",
+            "university": "Linköping University",
+            "location": "Sweden",
+            "year": "2006-2010",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Quality Fly Aviation Academy, Cuatro Vientos, Madrid",
+            "position": "Private Pilot License (PPL) (A)",
+            "description": "40 flight hours in a Cessna 152.",
+            "start_date": "02/2013",
+            "end_date": "11/2013",
+            "duration_years": 0.75
+        },
+        {
+            "company": "Carlos III University of Madrid, Various Departments",
+            "position": "Integrated Circuits Designer, Webmaster & Informatics Maintenance (Part-time, currently full-time)",
+            "description": "Responsible for the final design of several CMOS integrated circuits, system-level simulations with MATLAB, transistor and layout design using Cadence & Mentor Graphics. Testing and characterization of the prototype chip behavior using a custom PCB. Maintenance of Linux-Fedora group servers.",
+            "start_date": "03/2009",
+            "end_date": "12/2014",
+            "duration_years": 5.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Student",
+            "country": "Sweden",
+            "institution_or_company": "Linköping University",
+            "start_date": "08/2011",
+            "end_date": "07/2012",
+            "description": "52 ECTS credits in courses taught in English about industrial management, organizational change, leadership & teamwork and aeronautics.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Cadence",
+            "Mentor Graphics",
+            "C programming"
+        ],
+        "soft_skills": [
+            "Public Speaking",
+            "Debating and Convincing"
+        ]
+    },
+    "other_interests_normalized": [
+        "Flight Simulation",
+        "Photography",
+        "Aviation"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 6.5,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

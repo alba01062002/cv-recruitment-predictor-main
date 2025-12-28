@@ -1,0 +1,144 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ilhem Jabri",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "jebriilhem@gmail.com",
+        "phone": "+34 627 291577",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineering",
+            "field": "Aeronautical Engineering",
+            "university": "ESAT University Tunis-Tunisia",
+            "location": "Tunis, Tunisia",
+            "year": "2020-2023",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Master's in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "Higher Institute of Technological Studies Kef-Tunisia",
+            "location": "Tunis, Tunisia",
+            "year": "2017-2020",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Baccalaureate",
+            "field": "",
+            "university": "April 9 High School Tunis-Tunisia",
+            "location": "Tunis, Tunisia",
+            "year": "2016-2017",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Stelia Aerospace-Airbus Tunis-Tunisia",
+            "position": "Internship",
+            "description": "Study and design of a clamping system on a 5 axis machine.",
+            "start_date": "02/2020",
+            "end_date": "07/2020",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Tunisair Technis Tunis-Tunisia",
+            "position": "Advanced Training Internship",
+            "description": "Recognition of aircraft maintenance roles and engineering procedures.",
+            "start_date": "03/2021",
+            "end_date": "04/2021",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Larisys North Africa Tunis-Tunisia",
+            "position": "Summer Internship",
+            "description": "Programming and machining of mechanical parts and practicing the regulation of machine tools.",
+            "start_date": "07/2022",
+            "end_date": "08/2022",
+            "duration_years": 0.08
+        },
+        {
+            "company": "University of Jaén, Jaén-España",
+            "position": "End of Study Project Internship",
+            "description": "Theoretical and experimental study of a jet engine combustion chamber at the laboratory scale.",
+            "start_date": "01/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.92
+        },
+        {
+            "company": "Figec AERO Tunis-Tunisia",
+            "position": "Technician Internship",
+            "description": "Mastering the processes of mechanical manufacturing within the industry.",
+            "start_date": "01/2019",
+            "end_date": "02/2019",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Tunisair Technis Tunis-Tunisia",
+            "position": "Observation Internship",
+            "description": "Exploring the company and integrating into the professional environment.",
+            "start_date": "01/2018",
+            "end_date": "02/2018",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ Scholarship",
+            "country": "Spain",
+            "institution_or_company": "Université de Jaén, Jaén-España",
+            "start_date": "",
+            "end_date": "",
+            "description": "Learning the Spanish language and working on my graduation project.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Arabic",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "SolidWorks 2018",
+            "MasterCAM",
+            "ABAQUS",
+            "RDM6",
+            "ANSYS",
+            "MATLAB"
+        ],
+        "soft_skills": [
+            "-team work",
+            "-problem solving",
+            "-communication"
+        ]
+    },
+    "other_interests_normalized": [
+        "Painting",
+        "Swimming"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 3.66,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.6
+}

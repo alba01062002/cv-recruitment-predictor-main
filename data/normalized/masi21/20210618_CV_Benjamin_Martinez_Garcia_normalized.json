@@ -1,0 +1,117 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Benjamín Martínez García",
+        "date_of_birth": "13/03/1993",
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": 28,
+        "email": "martinezgarcia.benjamin@gmail.com",
+        "phone": "+34 698 829 181",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in International Industrial Project Management",
+            "field": "International Business",
+            "university": "Universidad Pontificia de Comillas, ICAI/ICADE Business School",
+            "location": "Madrid, Spain",
+            "year": "2017-2018",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Degree in Aerospace and Aircraft Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Europea de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2011-2017",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "GESTAMP Levante S.A.",
+            "position": "Process Engineer",
+            "description": "Multidisciplinary and high-resolution position to ensure the quality requirements of the client in product, process, and delivery. Very motivated and proactive to apply solutions and action plans to continuous improvement targets. Management of production: production planning, definition of operations methods and times, monitoring and control KPI's. Creation and management of maintenance plans and definition and implementation of standard operations and reporting methodology. Definition of requirements for machinery, tools, production planning, and human resources to meet demand in the short, medium, and long term. Stocks integration analysis and leveling. Create financial reports and analysis. Manage product and process technical documentation (CADs, PFMEA, flow charts, nesting, APQP, engineering changes). Data integration and implementation of ERP systems for controlling, logistics, purchasing, and maintenance (SAP, Captor...). Deploy industry 4.0 leveraging data to improve machinery, energy efficiency, decision making. Design of new tools or machinery components. Definition and monitoring of technical purchasing of tools and spare parts warehouse. Negotiations with business partners, suppliers, and clients. Participation in internal and external projects that affect the department (new machinery, new products, new methodologies).",
+            "start_date": "03/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.75
+        },
+        {
+            "company": "CES Aviation Madrid",
+            "position": "Airworthiness Engineer",
+            "description": "Continuing Airworthiness Management Organization (CAMO): - Airworthiness Review Certificates (ARC). - Manage maintenance plans for each aircraft and launch the maintenance orders to certified workshops. - Continuous verification of compliance with the directives issued by EASA or the FAA for each aircraft. - Release to fly aircraft certifications.",
+            "start_date": "05/2017",
+            "end_date": "01/2018",
+            "duration_years": 0.67
+        },
+        {
+            "company": "PFW Aerospace Speyer, Germany",
+            "position": "Manufacturing Engineer Internship",
+            "description": "Participating in a project to reduce non-conformities through the 6sigma methodology. Review of product tolerances based on process capabilities.",
+            "start_date": "07/2016",
+            "end_date": "09/2016",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CAD: CATIA, SolidWorks, ANSYS",
+            "ERP Systems: SAP, Captor",
+            "Programming: C++, MATLAB",
+            "FEM: Fluent (ANSYS CFD), XFoil5"
+        ],
+        "soft_skills": [
+            "Communication Abilities",
+            "Organizational Skills",
+            "Project Management",
+            "Negotiation",
+            "6sigma Methodology",
+            "Lean Manufacturing Philosophy"
+        ]
+    },
+    "other_interests_normalized": [
+        "Self-taught musician",
+        "Group leader",
+        "Music teacher at the university's music club"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 1.0,
+    "total_work_years": 8.59,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "nazariy klachko personal info address c/ arroyo fontarron 447, 4d madrid, madrid, 28030 phone 678 742 365 e-mail nazar.klachko@gmail.com skills systems engineering technical knowledge teamwork sw tools ease engineering systems testing the ability to work under pressure problem-solving approach it skills languages spanish - native english - advanced catalan - advanced russian - advanced ukrainian - native software catia v5 seexp v2 8. v4 doors outlook microsoft office nastran/patran airbus tools experienced system engineer with over 3 years of experience in aeronautical system engineering. excellent reputation for resolving problems, improving customer satisfaction and supplier management. work history 2019-05 - current 2016-06 - 2019-05 2015-05 - 2016-06 2014-05 - 2015-05 education 2014 2013 systems engineer ata33-40 - a350 coordinator altran, madrid, madrid besides the activities listed in the previous entry: e coordination of the activities related to the exterior lights of airbus a350 fleet within altran. e weekly activities report to airbus responsible system engineer ata33-40 altran, madrid, madrid e to provide technical assistance to address all kind of in-service issues related to exterior lights of all airbus fleets (currently a350 - including elco sw). e preparation and revision of all sort of technical documentation (tn, sdd, trs, amm, rca, etc.). e preparation of ground and flight test requests. e suppliers management: - specification definition meetings. - equipment development follow-up meetings. - investigations related to in-service issues. e focal point between airbus departments impacted by exterior lights and supplier. e v&v process system design engineer adatica engineering, getafe, madrid e electrical harnesses routing & connector selection. e oxygen pipes routing. e racks design and equipment installation. system and structure design - internship alestis aerospace, getafe, madrid e electrical & mechanical systems design. e structural design (composite, sheet metal, etc.) e stress and thermal analysis master of science: mechanical design eddm, madrid aeronautical engineering upm - polytechnic university of madrid, madrid",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI20"
+}

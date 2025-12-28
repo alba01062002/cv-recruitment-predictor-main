@@ -1,0 +1,47 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Marta Valenzuela Arroyo",
+        "date_of_birth": "13/04/1990",
+        "gender": "female",
+        "age_reference_year": 2015,
+        "age": 25,
+        "email": "marta.valenzuela.arroyo@gmail.com",
+        "phone": "+34 660 307 928",
+        "address": "C/ Avenida Manzanares 24, 3D, 08014 Barcelona, Spain",
+        "system_generated_id": "104143346"
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Aeronáutica",
+            "major": "Diseño con CATIA - Nivel II",
+            "institute": "Escuela Técnica Superior de Ingenierías Industrial y Aeronáutica de Terrassa",
+            "start_date": "2011-09-01",
+            "end_date": null,
+            "graduation_date": "",
+            "duration_years": 5.0,
+            "field": "",
+            "university": "",
+            "location": "",
+            "year": ""
+        }
+    ],
+    "work_experience_normalized": [],
+    "international_experience_normalized": [],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

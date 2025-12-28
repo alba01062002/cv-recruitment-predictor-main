@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "rodrigo gaddini av.sao joao 2400, sao josé dos campos, sp, brazil- +55 (12) 99191-9121 https://www.linkedin.com/in/rodrigogaddini/ email: rodrigo.gaddini@ outlook .com summary of qualifications - one year of experience with consulting in the defense field, reaching potential clients and analysing brazilian military bidding documents - international experience, winning a full scholarship for an exchange program to study and work at the university of toronto, canada - full english proficiency, with toefl and university of torontos certificates - one year of experience with engineering projects developing new products using cad and cfd tools, analysing and writing reports and following progress plans - development of a flight simulator for the university as thesis project education vale do paraiba university (jan.2014 dec.2017) - bachelor in aeronautical engineering and space - developed a flight simulator, designing and building a control panel using arduino and existing flying software to the faculty of engineering to be used as a learning platform university of toronto exchange scholarship program science without borders canada (sep.2015 aug.2016) - bachelor in aerospace engineering with full scholarship professional experience consultant assistant - stvg (jan.2018 present) [full-time] - technical and regulatory analysis of international aeronautical products to support the brazilian defense and security organization - research of potential business opportunities within the brazilian defense and security market for national and international companies - analysis of the brazilian armed forces bidding documents and contracts and contact with potential companies internship aerofleet (apr.2017 dec.2017) [part-time] - simulation in cfd of the airflow in trucks, with post-processing and analysis of results using cfx - design of aerodynamic accessories using spaceclaim following parameters of production and performance, reaching significant aerodynamic improvement - use of design of experiments (doe) in the optimization of prototype design internship steadiwear canada (may.2016 aug.2016) [part-time] - prototyping of dampening mechanisms using cad (solidworks) and their connection to a tremor dampening glove - design and construction of a test rig to analyse and evaluate the performance of prototypes scientific research scholarship cnpq (ago.2014 jun.2015) [full-time] - research scholarship in the field of materials engineering on the properties and aerospace applications for dlc (diamond like carbon) films on niti60 alloy computer skills - advanced knowledge of ms office suite, basic knowledge of ms visio and sharepoint - cad software: spaceclaim 18, basic knowledge of solidworks 2015 and catia v5 - cfd software: ansys 18 - fluent 16 and cfx 18 extracurricular activities design thinking for project management course faap (oct.2018) - mini course on innovation and new strategic methodology for the development of new design concepts and its application in projects in any field development team enactus canada (oct.2015 apr.2016) - research of viability and development of new projects aimed at improving the quality of life of communities and the environment, sponsored by global businesses and universities volunteer work oise group canada (jul.2015 aug.2016) - worked together with other agencies and charity organizations in the planning of several events in the city of toronto, working from festivals to homeless aid director of aerodynamics design aerodesign competition (feb.2015 jun.2015) - management of a group of 5 members, setting work plans, meetings and presentations. - use of cad (catia) and computational fluid dynamics (fluent) software in the wing and flight control surfaces design leadership course brazilian military project aeromóvel (nov.2014) - teamwork and problem-solving activities aimed at developing leadership skills languages - portuguese (native) - english (proficient toefl and university of torontos academic english certificates) - spanish (advanced lived two years in spain) - french (intermediate cefr level b1)",
+    "text_from_header": "RODRIGO GADDINI",
+    "detected_language": "en",
+    "master_edition": "MASI19"
+}

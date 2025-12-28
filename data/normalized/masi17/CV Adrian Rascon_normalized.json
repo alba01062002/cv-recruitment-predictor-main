@@ -1,0 +1,118 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Adrián Rascón Roder",
+        "date_of_birth": "06/04/1991",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 26,
+        "email": "adrianras1@gmail.com",
+        "phone": "665168138",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/adri.2525c3%2525a1n-rasc%2525c3%2525b3n-rodera-683880b0",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://www.infojobs.net/adrian-rascon.prf"
+    },
+    "education_normalized": [
+        {
+            "degree": "Licenciatura en Ingeniería Industrial, Especialidad en Organización Industrial",
+            "field": "Organización Industrial",
+            "university": "Escuela Politécnica de Ingeniería de Gijón (EPi), Universidad Oviedo",
+            "location": "Asturias",
+            "year": "2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Diplomatura en Ingeniería Industrial, Especialidad Mecánica",
+            "field": "Mecánica",
+            "university": "Escuela Politécnica de Ingeniería de Gijón (EPi), Universidad Oviedo",
+            "location": "Asturias",
+            "year": "2012",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Operations S.L.",
+            "position": "Ingeniero de Diseño de Estructuras",
+            "description": "Desarrollo de soluciones técnicas, Lean Manufacturing. Prácticas-tiempo completo en Illescas.",
+            "start_date": "06/2016",
+            "end_date": "12/2025",
+            "duration_years": 9.5
+        },
+        {
+            "company": "Arcelor Mittal R&D (Ingenica STS)",
+            "position": "Ingeniero Mecánico",
+            "description": "Desarrollo y gestión de proyectos de I+D, integrado dentro del grupo de mecatrónica como responsable mecánico. Diseño 3D de componentes y prototipos mecánicos (SolidWorks). Gestión de compras y aprovisionamiento de materiales. Impresión 3D de prototipos mecánicos. Reuniones frecuentes con clientes y proveedores.",
+            "start_date": "03/2015",
+            "end_date": "03/2016",
+            "duration_years": 1.0
+        },
+        {
+            "company": "Escuela Politécnica de Ingeniería de Gijón (EPi), Universidad Oviedo",
+            "position": "Becario de Investigación",
+            "description": "Diseño y ejecución de un microposicionador de tres ejes para el laboratorio de física aplicada de la Universidad de Oviedo, partiendo del diseño de una impresora 3D (Prusa 1.3), modificándola con piezas impresas por la propia máquina. Detección de trazas de bacterias (E.coli) con uso de nanopartículas magnéticas.",
+            "start_date": "06/2014",
+            "end_date": "09/2015",
+            "duration_years": 1.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SolidWorks",
+            "Autodesk Inventor",
+            "AutoCAD",
+            "CATIA V5",
+            "Siemens NX",
+            "Cype",
+            "3D Studio Max",
+            "Impresión 3D (Prototipado rápido)",
+            "Arduino"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Permisos de Conducir: B",
+        "Disponibilidad de Horarios y Geográfica",
+        "Coche Propio: Si"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

@@ -1,0 +1,137 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alex Domingo de Francisco",
+        "date_of_birth": "12/07/1997",
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": 25,
+        "email": "alexdomingodefco@icloud.com",
+        "phone": "+34 649 927 789",
+        "address": "Tres Cantos, Madrid, Spain",
+        "LinkedIn": "https://www.linkedin.com/in/alexdomingodefrancisco/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science in Industrial Engineering",
+            "field": "Mechanical Engineering Specialization",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "Madrid",
+            "year": "2021-2022",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's Degree in Industrial Engineering",
+            "field": "Mechanical Engineering Specialization",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "Madrid",
+            "year": "2020-2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Technological Baccalaureate",
+            "field": "",
+            "university": "",
+            "location": "Tres Cantos, Madrid",
+            "year": "2015-2013",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Technical University of Madrid (UPM)",
+            "position": "Intern in Research and Strategic Projects Subdirectorate",
+            "description": "",
+            "start_date": "2021",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Technical University of Madrid (UPM)",
+            "position": "Collaboration Grant in Educational Innovation Project",
+            "description": "",
+            "start_date": "2020-2021",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Spanish Hydrogen Association (AHE2)",
+            "position": "Individual Partner",
+            "description": "",
+            "start_date": "2020-present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+",
+            "country": "Germany",
+            "institution_or_company": "Technical University of Munich (TUM)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Master's in Industrial Engineering",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "RStudio",
+            "Solid Edge",
+            "Office & Work",
+            "Project Plan 365",
+            "WordPress",
+            "Adobe Photoshop",
+            "Facebook Ads Manager"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Teamwork",
+            "Interpersonal Skills",
+            "Easily Adaptable",
+            "Open-mindedness",
+            "Communication",
+            "Reliability"
+        ]
+    },
+    "other_interests_normalized": [
+        "Eco-Certifications",
+        "Strategic Thinking",
+        "Alldonefine Exclusive Organic Garments"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Food Bank of Madrid",
+            "role": "Volunteer",
+            "duration": "2018-present",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 18,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

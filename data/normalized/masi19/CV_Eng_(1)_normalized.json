@@ -1,0 +1,132 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge Pérez Escudero",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "jorgeperezescudero@gmail.com",
+        "phone": "+34 626934382, +33 752472627",
+        "address": "",
+        "LinkedIn": "linkedin.com/in/jorge-pérez-escudero",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "https://github.com/jpescudero"
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's Degree in Aerodynamics",
+            "field": "Aerodynamics",
+            "university": "Cranfield University",
+            "location": "Bedford, UK",
+            "year": "2016-2017",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor of Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Technical School of Madrid (U.P.M.)",
+            "location": "Madrid, Spain",
+            "year": "2011-2016",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Akkademy GAIA-FUE Master's Program",
+            "field": "Professional Development",
+            "university": "Alcalá University",
+            "location": "Madrid, Spain & Geneva, Switzerland",
+            "year": "2015-2018",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus EADS Spain Getafe Plant",
+            "position": "Internship - Configuration Management",
+            "description": "",
+            "start_date": "10/2015",
+            "end_date": "07/2016",
+            "duration_years": 0.75
+        },
+        {
+            "company": "Vela International Graduate Engineer: Flight Physics Department Airbus",
+            "position": "International Graduate Engineer - Flight Physics Department",
+            "description": "",
+            "start_date": "07/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.42
+        },
+        {
+            "company": "Volga Dnepr Cargo Logic Air London",
+            "position": "Graduate Program - Flight Operations and Performance",
+            "description": "",
+            "start_date": "09/2017",
+            "end_date": "03/2018",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Madrid, Spain & Geneva, Switzerland",
+            "institution_or_company": "Alcalá University & Airbus Spain GAIA Foundation",
+            "start_date": "",
+            "end_date": "",
+            "description": "1-month intensive training by AKKA Technologies to boost and improve presentation and soft skills.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "Matlab",
+            "Simulink",
+            "Excel VBA macros",
+            "SAP",
+            "Ansys Fluent",
+            "Catia V5",
+            "LabView",
+            "Fortran",
+            "Linux",
+            "OpenFOAM",
+            "Web Design (HTML and CSS)",
+            "SEO"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Determined Attitude towards Professional Duties",
+            "Ability to cope with increasing responsibility",
+            "Sociable person",
+            "Positive Working Environment"
+        ]
+    },
+    "other_interests_normalized": [
+        "Golf",
+        "Programming"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 9.0,
+    "total_work_years": 8.67,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

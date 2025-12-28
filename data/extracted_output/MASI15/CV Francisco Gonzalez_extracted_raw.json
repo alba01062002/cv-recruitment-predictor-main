@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal information professional experience francisco gonzalez birth date: october 20th, 1985 nationality: spanish address: calle batalla de brunete 24, 4? derecha, 28912 leganés (spain) cell phone: +34 636 938668 email address: francisco.gonzalez.loez@gmail.com linkedin public profile: public profile computer science engineer specialized in software development with professional background in simulation and real time environments. experienced in all phases of software lifecycle. nato security clearance granted. tecnobit (madrid) software engineer july 2012 present develop and integrate tactical data link capabilities in link 11, link 16 and link 22 nato standards within linpro motadalli project for the dutch navy. also work on a solo project to implement an offline sniffer tool for linpro. main tools: vxworks, eclipse ide, jenkins, enterprise architect, doors, qt, svn c, c++, xml, uml and c++ boost libraries. grupo transhotel (san sebastián de los reyes) project management technician august 2011 june 2012 managed analysis and maintenance stages of diverse software web-oriented projects for enhancing the communication workflow with companys suppliers. main tools: enterprise architect, soapul, sql and visual basic. pyxelarts digital entertainment (leganés) technical director march 2011 june 2011 took decisions regarding the game content integration process. software engineer september 2010 - june 2011 developed game controllers and artificial intelligence algorithms for non-player characters. main tools: serum, visual studio, project, svn, c, c++, uml, lua and unreal script. mercury steam (san sebastián de los reyes) test engineer march 2010 august 2010 assured that the final product fulfilled quality standards required for an aaa console title to be released. main tools: mantis, testtrack, visual studio, svn and c++. education languages hobbies escuela trazos (madrid) masters degree in videogames development october 2009 march 2010 took graphical programming and 3d modeling subjects. certificate: autodesk maya official technical operator. carlos ill university (madrid) bachelor of science in computer science october 2003 july 2009 specialized in artificial intelligence and information technologies applied to business. honors: final-year project used to participate in the playoffs of the 2009 botprize competition in milan (italy). furthermore, employed as a reference in the paper towards conscious-like behaviour in computer game characters (r. arrabales, a. ledezma and a. sanchís) published in 2009 for the ieee symposium on computational intelligence and games. complutense university (ecuador, peru and spain) participant in ruta quetzal bbva expedition june 2001 july 2001 chosen after my paperwork to become a member of the academic expedition declared of universal interest by unesco and supported by the european union. honors: honorary guest of the republic of ecuador and distinguished guest of the city of quito. spanish: mother tongue. english: fluent in both written and spoken. german: entry level. travelling abroad on holidays with friends, practicing all kind of sports (such as paddle, tennis, cycling, football, etc.) and spending time with my family anytime come back to my hometown. references available upon request",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI15"
+}

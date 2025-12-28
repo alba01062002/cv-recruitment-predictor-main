@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales: jose vicente iniesta martinez domicilio: calle magallanes 11 28010 madrid fecha de nacimiento: 26 de enero de 1982. lugar de nacimiento: madrid dni: 48490357-d teléfono: 696909477/968299441 carné de conducir: clase b. e-mail: joseinimar@gmail.com formación academica: título universitario en ingeniería técnica industrial especialidad en electricidad . realice mis estudios en la universidad politécnica de cartagena y terminé la carrera en julio del 2008. desarrolle como proyecto fin de carrera el diseo de la instalación eléctrica en baja tensión de un centro de enseanza de primaria y secundaria. auditor interno en gestión de calidad y medio ambiente por las normas iso:9001 iso: 14001. técnico en energía solar fotovoltaica y energía solar térmica. . practicas en solsticio s.l energias renovables como técnico comercial. . conocimienos informaticos autocad presto dialux calculux dmelect microsoft office (excel, word) idiomas nivel medio de ingles. nota : disponibilidad para viajar y horaria",
+    "text_from_header": "CURRICULUM VITAE",
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

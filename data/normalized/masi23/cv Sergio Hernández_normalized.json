@@ -1,0 +1,86 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sergio Hernández Sieiro",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "shernsie@gmail.com",
+        "phone": "",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/sergio-hernández-sieiro-28275024b",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://www.linkedin.com/in/sergio-hernández-sieiro-28275024b"
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería, ingeniería aeroespacial, aeronáutica y astronáutica",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Alfonso X el Sabio",
+            "location": "",
+            "year": "2019-2023",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Accenture Project Manager - Program Management Office (Airbus)",
+            "position": "Project Manager",
+            "description": "Subcontractor for spare manufacturing engineering & data at Airbus Defence and Space. On-time delivery of the monthly report, including coordination and monitoring of tasks worldwide. Task planning in aeronautical programs. Support spares management activities for A400M, LTA, and MRTT platforms. Creation and maintenance of master schedule planning of different programs. Project progress monitoring. Risk management and mitigation actions.",
+            "start_date": "Noviembre de 2022",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Aerodynamics",
+            "Propulsion",
+            "Flight Dynamics",
+            "Program Management",
+            "Risk Management"
+        ],
+        "soft_skills": [
+            "Proactive",
+            "Results-driven",
+            "Learning-oriented"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2019-2023",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.5
+}

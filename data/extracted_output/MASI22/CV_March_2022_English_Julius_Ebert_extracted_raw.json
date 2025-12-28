@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "employment history august 2018 - today june 2021 - today february 2020 - april 2020 education history october 2018 - today july 2021 - december 2021 september 2010 - july 2018 julius ebert q am suessberg 38, 97456 dittelbrunn, germany & +49 176 31326420 y ebert.julius@outlook.com fh 24.02.1999 os www.linkedin.com/in/julius-ebert skf gmbh, schweinfurt, germany corporate student automation and robotics sliding bearing production + bachelor's thesis to conceptualise an automatic production step within the sliding bearing production line analytics-product-development * data science for improvement of a condition monitoring algorithm recondooil + processdocumentation for a reconditioning plant for machine oils performance prediction * analysis and display of bearing performance data roller production + processoptimization in bearing production leadership initiatives, washington dc, united states of america intern in multiple departments li intern + preparation of summer programs for high-school-students drew c. richardson scholarship, international leadership and business internship + startup formation in the developing world advanced medical neuroscience internship * creation of a research proposal skf ab, gothenburg, sweden erasmus+ scholarship + interpretation and implementation of a condition monitoring algorithm university for applied sciences coburg, coburg, germany automation and robotics (b. eng) * bachelor's thesis to conceptualise an automatic production step to mount fabric inside the outer rings of sliding bearings + project to recognise traffic signs with the help of machine learning * key areas machine learning, computer vision, processautomation kasetsart university, bangkok, thailand promos scholarship, exchange semester * key areas automation, machine learning, entrepreneurship alexander-von-humboldt-gymnasium, schweinfurt, germany high-school-graduation + exchange year in thailand extracurricular activities september 2020 - february 2021 april 2020 - september 2020 knowledge and interests languages skills and knowledge hobbies mentor, university of coburg - support for freshmen writing fellow, university of coburg - support for creation of scientific papers german native language english business fluent swedish intermediate thai basics russian basics computer skills * very good knowledge in python with regards to data management and machine learning in the following libraries pytorch, tensorflow/keras, sk-learn, numpy, pandas * good knowledge in microsoft office products, atex and in a number of pro- gramming and application languages matlab, labview, assembler, c, plc-programming, azure devops charactertraits * ability to work independently * quick perception of new things and great interest in learning * openness to new impressions and experiences dancing foreign languages and cultures writing stories",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI22"
+}

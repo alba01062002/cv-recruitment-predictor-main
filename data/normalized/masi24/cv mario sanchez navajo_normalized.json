@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Mario Sánchez Navajo",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "msancheznavajo@gmail.com",
+        "phone": "+34 722785641",
+        "address": "villanueva del pardillo, madrid, espana",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Informática",
+            "field": "Informática",
+            "university": "Universidad Politécnica de Madrid, España",
+            "location": "Madrid",
+            "year": "2020-actualidad",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Grupo Computer Vision & Aerial Robotics",
+            "position": "Desarrollador Informático en prácticas",
+            "description": "Análisis de eficiencia de soluciones software, procesamiento de gran volumen de datos generados por un sensor lidar, redacción de documentación técnica. Desarrollo de software para drones bajo el entorno ROS2 con Python y C++.",
+            "start_date": "02/2024",
+            "end_date": "12/2024",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Restaurante Dragón",
+            "position": "Repartidor de comida a domicilio",
+            "description": "",
+            "start_date": "12/2022",
+            "end_date": "07/2023",
+            "duration_years": 0.58
+        },
+        {
+            "company": "Librería La Isla de los Cuentos",
+            "position": "Dependiente",
+            "description": "",
+            "start_date": "12/2021",
+            "end_date": "10/2022",
+            "duration_years": 0.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Suecia",
+            "institution_or_company": "KTH Royal Institute of Technology",
+            "start_date": "08/2023",
+            "end_date": "01/2024",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "C",
+            "C++",
+            "Python",
+            "Bash",
+            "Dart (Flutter)",
+            "MQL5",
+            "PHP",
+            "Sistemas Operativos",
+            "Redes",
+            "REST",
+            "Git",
+            "SonarQube",
+            "MySQL",
+            "Arduino",
+            "ROS",
+            "JUnit tests"
+        ],
+        "soft_skills": [
+            "Trabajo en equipo: Métodos ágiles como Scrum"
+        ]
+    },
+    "other_interests_normalized": [
+        "Matemáticas",
+        "Física"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Profesor particular",
+            "duration": "2022",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 2.24,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

@@ -1,0 +1,137 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alex Drago González",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "adragog@gmail.com",
+        "phone": "+34 646 696 159",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/alex-drago/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "M.Sc. in Aerospace Science and Technology",
+            "field": "Aerospace",
+            "university": "Universitat Politècnica de Catalunya",
+            "location": "Barcelona, Spain",
+            "year": "2021-2022",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "B.Sc. in Physics (mention in Fundamental Physics)",
+            "field": "Physics",
+            "university": "Universitat de Barcelona",
+            "location": "Barcelona, Spain",
+            "year": "2015-2020",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Interdisciplinary College",
+            "field": "",
+            "university": "Universitat Rovira i Virgili",
+            "location": "Tarragona, Spain",
+            "year": "2013 - 2015",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Kings College School",
+            "position": "Teacher of Physics",
+            "description": "Physics and PSHE teacher for Year 7 to Year 13, including A-levels and IB.",
+            "start_date": "01/2021",
+            "end_date": "06/2021",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Surfer's Bar",
+            "position": "Bartender/Cocktail Barman",
+            "description": "",
+            "start_date": "06/2017",
+            "end_date": "08/2017",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Surfer's Bar",
+            "position": "Bartender/Cocktail Barman",
+            "description": "",
+            "start_date": "07/2021",
+            "end_date": "08/2021",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Infervision Europe",
+            "position": "Data Analyst and Operations Intern",
+            "description": "Strategy, operational set up and product deployment in Spain market.",
+            "start_date": "06/2018",
+            "end_date": "09/2018",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "The Netherlands",
+            "institution_or_company": "European Space Agency (ESA)",
+            "start_date": "01/2022",
+            "end_date": "05/2022",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Research",
+            "country": "Spain",
+            "institution_or_company": "Universitat Politècnica de Catalunya - European Space Agency (ESA)",
+            "start_date": "02/2022",
+            "end_date": "",
+            "description": "The goal of this project is to develop a mitigation solution for the ejected dust from landings on the moon.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Research",
+            "country": "Germany",
+            "institution_or_company": "European Space Agency Academy (ESA) - ZARM Drop Tower, Bremen",
+            "start_date": "11/2021",
+            "end_date": "",
+            "description": "The project aims to enhance heat transfer in gases using acoustic fields in microgravity.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalan",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fortran",
+            "Python",
+            "AT-EXE",
+            "MATLAB",
+            "COMSOL Multiphysics"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.92,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

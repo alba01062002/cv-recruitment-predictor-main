@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "jesús martínez roca domicilio: c/ azorín n 27 82 d, 28935 móstoles (madrid) teléfono de contacto: 679.53.74.63 correo electrónico: jesus.martinez.roca@gmail.com fecha y lugar de nacimiento: 05/11/1985 (madrid) dni: 47.520.325-w carnet de conducir b y coche propio. disponibilidad para viajar. posibilidad de incorporación inmediata. formación académica e ingenieria industrial especializado en electrónica y automática industrial en la universidad carlos iii de madrid. [2003-2009]. trabajos dirigidos e interfaz gráfica con matlab (guide) para mostrar la respuesta de un sistema modelado ante distintos reguladores pid. universidad carlos iii de madrid (departamento de automática)[2007]. e programación de un pic18f para el control de posición y velocidad con un pid y un perfil de velocidad trapezoidal de un motor dc por una seal modulada por ancho de pulso (pwm). el programa se desarrolló en el programador/depurador icd2 de microchip. perteneciente a la plataforma móvil autónoma icab1 (intelligent campus automobile). universidad carlos iii de madrid (departamento de automática )[2008]. proyecto fin de carrera e rediseo de la unidad de dirección de la plataforma autónoma para el transporte de viajeros icab2 (intelligent campus automobile 2). el proyecto abarca el rediseo del hardware (orcad), programación (mplab-ide) e integración del sistema en el vehículo. universidad carlos iii de madrid (departamento de automática )[febrero 2009-octubre 2009]. idiomas e inglés: nivel medio e pii universidad carlos iii de madrid[2004] (equiparable a b2). e actualmente preparando prueba first. conferencias y cursos e jóvenes y productos de calidad. dos aspectos integrados para el desarrollo rural. universidad de león [2007]. e design for testability . universidad carlos iii de madrid [2008][inglés]. e airbus a380: desde la concepción a la realidad. universidad carlos iii de madrid [2009], experiencia laboral e [2003]. seguros santa lucia. actualizar registro de seguros. e [2005-actualidad]. esporádicamente camarero de caterings en bodas y comuniones. conocimientos informaticos e sistemas operativos o windows xp, windows vista y windows 7. nivel avanzado. o linux. nivel intermedio. e editores de texto (suites) o paquete office(windows y sun microsistems): word, excell, powerpoint, visio. nivel intermedio alto. e lenguajes de programación: o matlab. nivel intermedio alto. o gc. nivel intermedio alto. e robots industriales: o cosirop-cosimir (mitsubishi). nivel intermedio alto. o rapid. nivel intermedio. e automatas industriales y comunicaciones: o pl7.nivel intermedio. o simatic step 7. nivel intermedio. o scada. nivel intermedio alto. o profibus. nivel intermedio. o iso-osi: nivel intermedio. e diseo electrónico: o orcad pspice, capture y layout. nivel avanzado. o quartus. nivel intermedio alto. e depuración de sistemas electrónicos. o mplabicd2 de microchip. nivel avanzado. e desarrollo de sistemas mecánicos en 2d y 3d: o solid edge. nivel avanzado. o catia v5. nivel intermedio. o autocad. nivel intermedio. e gestión de proyectos: o microsoft project. nivel intermedio. e aplicaciones estadísticas o statgraphics. nivel intermedio. e herramientas fotográficas o photoshop cs2. nivel avanzado. o gimp. nivel intermedio.",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

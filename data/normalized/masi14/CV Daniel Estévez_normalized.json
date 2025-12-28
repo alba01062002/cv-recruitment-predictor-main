@@ -1,0 +1,95 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Estévez Ballesteros",
+        "date_of_birth": "06/02/1981",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 33,
+        "email": "danyestevez@hotmail.com",
+        "phone": "+34649626226",
+        "address": "Calle Embajadores 198 bis 7F, 2045 Madrid (Spain)",
+        "LinkedIn": "https://www.linkedin.com/in/daniel-estevez-ballesteros/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "LG A.SS Grado en Gestión Aeronáutica",
+            "field": "Gestión Aeronáutica",
+            "university": "Universidad Autónoma de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2002-2007",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "General Logistics Airbus SL",
+            "position": "Project Manager in Project Management of General Logistics Airbus S.L.",
+            "description": "Gestion de los recursos (humanos, técnicos y económicos) del proyecto. - seguimiento del desarrollo del proyecto (reuniones, deliverables, kpi's, balance de pagos, ...)",
+            "start_date": "09/2012",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "General Logistics Airbus SL",
+            "position": "Consultor Senior in Project Management of General Logistics Airbus S.L.",
+            "description": "Liderar y coordinar proyectos en entorno SAP (SPA-ARP) módulos WM y MM. (ARP-Airbus Resource Planning, revisión de parámetros de planificación, BRDS, BSDS, ...) a través de metodología LBIP, PMP y P3M.",
+            "start_date": "03/2011",
+            "end_date": "09/2012",
+            "duration_years": 1.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Italian",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Project Management",
+            "SAP",
+            "Lean Management",
+            "MS Project"
+        ],
+        "soft_skills": [
+            "Communication Skills",
+            "Leadership",
+            "Conflict Resolution",
+            "Group Work"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "es",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.6
+}

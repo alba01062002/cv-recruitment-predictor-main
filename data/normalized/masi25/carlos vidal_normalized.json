@@ -1,0 +1,158 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carlos Gabriel Vidal Mancilla",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "cgvidalm@ogmail.com",
+        "phone": "+33 682406244",
+        "address": "",
+        "LinkedIn": "www.linkedin.com/in/cgvidalm",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Msc in International Business Management",
+            "field": "Economy and Business Management",
+            "university": "Toulouse School of Management",
+            "location": "Toulouse, France",
+            "year": "09.2023-10.2024",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master in International Economy and Business Management",
+            "field": "",
+            "university": "KU Leuven",
+            "location": "Brussels, Belgium",
+            "year": "09.2022-09.2024",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "B.Sc in Industrial Engineering",
+            "field": "",
+            "university": "Pontificia Universidad Católica del Perú",
+            "location": "Lima, Peru",
+            "year": "03.2012-01.2018",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Operations SAS",
+            "position": "Becario de Mejora de Compras (POCB1)",
+            "description": "Implementé un espacio de trabajo digital para facilitar el intercambio de información en todo el equipo, mejorando la colaboración y la visibilidad de los datos. Realicé un estudio de los tiempos de procesamiento de las piezas devueltas a los proveedores, identificando las causas de los bloqueos y proponiendo alternativas de optimización.",
+            "start_date": "03/2024",
+            "end_date": "08/2024",
+            "duration_years": 0.42
+        },
+        {
+            "company": "FRI Cold S.A.C.",
+            "position": "Gerente de Proyectos Jr.",
+            "description": "Gestión de diez proyectos de instalación de cámaras frigoríficas en un año, planificando tareas, recursos, compras y coordinación de proveedores, asegurando cumplimiento de plazos y organización de equipos en campo.",
+            "start_date": "01/2020",
+            "end_date": "07/2022",
+            "duration_years": 2.5
+        },
+        {
+            "company": "MINCORP S.A.C.",
+            "position": "Analista de Negocios (Trader)",
+            "description": "Compré concentrados de cobre de distintas purezas, que combinaba para cumplir con especificaciones mínimas del cliente. Fijé precios según cotizaciones de la bolsa de metales de Londres (LME). Gestión estratégica de proveedores, reduciendo costos e incrementando los volúmenes de exportación.",
+            "start_date": "01/2019",
+            "end_date": "12/2019",
+            "duration_years": 0.92
+        },
+        {
+            "company": "AGP Perú S.A.C.",
+            "position": "Analista de Cadena de Suministro (Comprador)",
+            "description": "Compra de equipos para los departamentos de calidad e I+D, colaborando con proveedores de EE.UU. y Europa. Gestión de la logística del stand de AGP en el WCX-18.",
+            "start_date": "01/2018",
+            "end_date": "12/2018",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Corporación Aceros Arequipa",
+            "position": "Pasante de Logística",
+            "description": "Optimicé rutas de transporte de productos de acero y colaboré en gestión de inventarios para mejorar el rendimiento de la cadena de suministro.",
+            "start_date": "04/2017",
+            "end_date": "12/2017",
+            "duration_years": 0.67
+        },
+        {
+            "company": "AUNA GSP Servicios Generales S.A.C.",
+            "position": "Pasante de Compras",
+            "description": "Realicé investigaciones de proveedores, negocié precios y apoyé en compras operativas para garantizar disponibilidad de recursos críticos.",
+            "start_date": "03/2016",
+            "end_date": "08/2016",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "France, Belgium, Peru",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Excel Advanced",
+            "AutoCAD",
+            "R-studio",
+            "SAP",
+            "MATLAB",
+            "SPSS Statistics",
+            "Skywise",
+            "Minitab",
+            "Lingo"
+        ],
+        "soft_skills": [
+            "Process Optimization",
+            "Teamwork",
+            "Problem Solving",
+            "Project Management",
+            "Financial Management",
+            "Negotiation and Procurement",
+            "Agile Project Management",
+            "Business Strategy",
+            "Data Extraction and Analysis",
+            "Market Study",
+            "Creative Thinking"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 5.85,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.8
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "pablo roldán escolano roldanepablo@gmail.com +34 659 818 189 work experience e-usoc, spanish user and support operations centre (madrid, spain) programmer, march 2013 september 2013 final project thesis, designer and programmer of the attitude determination software of the qbito satellite. manual for the translation of simulink algorithms to c code to be implemented in an on-board computer using simulink coder and on-board debugging using eclipse. education msc in aerospace engineering (5 years), polytechnic university of madrid (madrid, spain) september 2006 march 2014 specialization in space vehicles final project thesis: design and on-board implementation of the attitude determination software of the qbito satellite aerospace engineering (exchange student, erasmus scholarship), polytechnic university of turin (turin, italy) september 2011 july 2012 extra education athens program ecole nationale de ponts et chaussées, paristech (march, 2010) (paris, france) elementary keys for an unpredictable world: chaos, quantum and automatons athens program ecole nationale de ponts et chaussées, paristech (november, 2010) (paris, france) quantum, chaos and daemons athens program warsaw university of technology (march, 2011) (warsaw, poland) sound: hearing and acoustical measurements vii workshop of occupation risk prevention higher technical school of agricultural engineering (november, 2013) (madrid, spain) workshop organised by the polytechnic university of madrid and the regional occupational health and safety institute of the regional government of madrid to raise public awareness about prevention for engineers and architects. iii workshop of space activities and law higher technical school of aeronautical engineering (etsia) (november 19 to 21, 2013) (madrid, spain) workshop organised by the ibero american institute of aeronautic and space law and commercial aviation and the etsia. computer skills office it: word processor, spreadsheet, ppt, email client. programming languages: matlab, python, c, fortran. cad: solid edge, solidworks, catia. databases: microsoft access con sql and its open-source equivalents. operative systems: windows xp, vista, 7, 8, linux (ubuntu, arch linux). web pages: html with css languages spanish native language oral level written level reading level certification english fluent fluent fluent c1/advance italian fluent medium medium b1 french medium medium medium b1 other merits first prize, x san viator award award organised by the san viator school, the spanish ministry of education and csic (higher conuncil for scientific research). member of the winner team in category scientific. xviii youth scientific researchers congress congress organised by the spanish ministry of education. selection to the final phase in category mathematics. work experience pea guara mountain club (huesca, spain) cross-country ski instructor, december 2004 february 2005 private guitar and piano lessons private english and spanish lessons",
+    "text_from_header": "PABLO ROLDÁN ESCOLANO",
+    "detected_language": "en",
+    "master_edition": "MASI15"
+}

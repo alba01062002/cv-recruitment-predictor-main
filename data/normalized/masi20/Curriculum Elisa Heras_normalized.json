@@ -1,0 +1,89 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Elisa Heras Alonso",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "elisa.ha1996@gmail.com",
+        "phone": "",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/elisa-heras-alonso-22a2a8/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Engineer",
+            "field": "Industrial Electronics and Automation",
+            "university": "Escuela Politécnica Superior, Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2014-2019",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Siemens",
+            "position": "Internship",
+            "description": "Elaboration of technical documents to justify that fire detection systems are working properly. Testing of a new mobile application with users to replace old paper checklists. Training course and use of Aspire, a software application which simplifies the design of VESDA smoke detection systems. Testing of smoke detection systems being used in Madrid's underground. Training course on fire detection control unit.",
+            "start_date": "01/2019",
+            "end_date": "10/2019",
+            "duration_years": 0.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "tatgraphics: data analysis software for visualization, modeling and predictive analysis.",
+            "solid edge: a 3d cad.",
+            "robotstudio: abb's simulation and offline programming software.",
+            "matlab.",
+            "unity pro.",
+            "quartus.",
+            "object-oriented-programming (in c++ and java)",
+            "arduino",
+            "android"
+        ],
+        "soft_skills": [
+            "teamwork",
+            "initiative",
+            "enthusiasm",
+            "eager to learn",
+            "seriousness"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.75,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

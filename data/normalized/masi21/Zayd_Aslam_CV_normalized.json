@@ -1,0 +1,77 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Zayd Aslam",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "zaydaslam786@gmail.com",
+        "phone": "079 6474 8251",
+        "address": "91 Wilmington Gardens, Barking, Essex, IG11 9TR",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BEng Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "University of Hertfordshire",
+            "location": "Hertfordshire",
+            "year": "2016-2020",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Techquarters, Am Networking Projects, Lady Aisha Academy",
+            "position": "IT Support / Project Engineer, IT Support Engineer",
+            "description": "Assisted with migration to cloud platforms, produced technical documentation, researched solutions, managed projects, provided support.",
+            "start_date": "July 2017, September 2015 - December 2013",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "CATIA",
+            "SolidWorks",
+            "Python",
+            "Bash Scripting",
+            "PowerShell",
+            "CFD Software (STAR-CCM+)",
+            "Ansys"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "Communication Skills",
+            "Technical Documentation",
+            "Problem Solving"
+        ]
+    },
+    "other_interests_normalized": [
+        "Building DML Speakers",
+        "Building Solid-State Coolers"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.0
+}

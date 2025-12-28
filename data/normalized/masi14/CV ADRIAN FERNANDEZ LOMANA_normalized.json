@@ -1,0 +1,102 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Adrián Fernández Lomana",
+        "date_of_birth": "15/05/1990",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 24,
+        "email": "adrian.fernandez.lomana@gmail.com",
+        "phone": "+34 665 727 958",
+        "address": "12 Vallehermoso, 28015 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineer (EQF level 6)",
+            "field": "Aerospace Engineering",
+            "university": "Escuela Técnica Superior de Ingenieros Aeronáuticos, Universidad Politécnica de Madrid, Spain",
+            "location": "Madrid",
+            "year": "2013",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Participated in the final project of studies (PFC) consisting in a preliminary design of a business jet.",
+            "start_date": "",
+            "end_date": "2013",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "United States, United Kingdom",
+            "institution_or_company": "Stonyhurst College, Bristol, UCLA",
+            "start_date": "2012-2014",
+            "end_date": "",
+            "description": "2 weeks at Stonyhurst College, 4 weeks in Bristol, 3 weeks at UCLA",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Basque",
+            "C2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office: Word, Excel, PowerPoint",
+            "CATIA V5: Part, Assembly, Sketcher, Drafting, Wire-frame and Surface Design, Freestyle, Imagine & Shape",
+            "CFD: Gambit and Fluent",
+            "Maple: Computer algebra system",
+            "Fortran",
+            "ESACOMP: Software for analysis and design of composite structures",
+            "LaTeX: Word processor"
+        ],
+        "soft_skills": [
+            "Communication Skills",
+            "Leadership and responsibility (basketball team coach, summer camp monitor)",
+            "Teaching in a course of basic informatic knowledge for adults",
+            "Dexterity in hand jobs (10 years playing the piano, 2 years artistic drawing and painting, chores of carpentry and mechanics)",
+            "Active person (love sports, 13 years playing basketball, 4 years of rugby)"
+        ]
+    },
+    "other_interests_normalized": [
+        "Basketball",
+        "Sports",
+        "Rugby"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2012-2014",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

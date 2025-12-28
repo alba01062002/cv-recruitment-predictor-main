@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "roberto bernáldez josé aerospace engineer mobile phone: +34 669-302-512 email: rbernaldezj@gmail.com profesional experience: airbus defence and space internship at flight test methods and tools september 2016 september 2017 e full/time. e develop algorithms and software for analyzing performance in order to certify the tactical capabilities of a400m, c295 and eurofighter using matlab and python to include new functionalities. e analyze the performance of a400m for the certification of the tactical capabilities with over 400 analyses performed. e performed accuracy analysis of the tools and algorithms developed which resulted in a tool modification with an increase of accuracy about 90% under some conditions. e software development using computer vision algorithms and photogrammetry techniques in matlab and python. airbus operations 3-month internship at stress and design office may 2014 july 2014 e 30 hours/week. e monitoring the workload and performance of the department using lean tools. e improvement projects in the assembly and manufacturing of the a320 and a330 htp reducing the time and cost of the assembly. e repaired metal structure stress calculation and non-conformities in composites treatment. paper in a relevant engineering journal date to be determined e currently writing a paper for a relevant journal with the content of my final masters project about a new advance model for controlling reduced size unmanned aerial vehicles. education and training: master in aeronautical engineering with intensification in aircrafts technical university of madrid, madrid (spain) september 2014 september 2017 e in my last year of my masters i was granted an internship at airbus which did not have a negative impact on my performance as i achieve an average of 74.1% grade at the end of the masters with the maximum grade in my final project. e deeper knowledge in my specialization. e a more practical approach solving real engineering problems. master in professional development 4.0 university of alcalá, madrid (spain) september 2016 may 2017 e a masters which provides multiple transversal and soft skills as well as knowledge of economics, investment, finance, leadership and project management where i got an average of 74%. bachelors degree in aerospace engineering with intensification in aerospace vehicles technical university of madrid, madrid (spain) september 2010 september 2014 e this degree provided me with a general technical knowledge of aeronautic engineering and i managed an average grade of 70.1%. personal skills: mother tongue(s): spanish other language(s): english. first certificate in english and i am taking a certificate in advanced in english on december ist. it skills: e languages: matlab, python and fortran. . software: patran/ nastran, catia, xfoil, simulink, microsoft office.",
+    "text_from_header": "PROFESIONAL EXPERIENCE:",
+    "detected_language": "en",
+    "master_edition": "MASI18"
+}

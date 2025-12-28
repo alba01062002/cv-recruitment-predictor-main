@@ -1,0 +1,110 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Roberto Garrido Martínez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "robertoga91@gmail.com",
+        "phone": "+34 608 523 900",
+        "address": "q valmojado 69, piso 4-1, 28044 Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "B.Eng in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "University Carlos III of Madrid",
+            "location": "Madrid",
+            "year": "2009-2013",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Master of Science Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "University Carlos III of Madrid",
+            "location": "Madrid",
+            "year": "2013-2015",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Dragados S.A.",
+            "position": "Equipment Engineer",
+            "description": "Responsible for logistics and production of the batch plant, materials management, overseeing estimated time arrival and repairs. Developed cost-reduction initiatives while maintaining quality and productivity. Managed investment proposals, purchases, leasing, and rentals. Controlled different work teams, adapting their performance to project needs.",
+            "start_date": "Nov 2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Dragados-Flatiron Joint Venture",
+            "position": "Maintenance and Logistics Responsible",
+            "description": "Critical and analytical studying of equipment department operations, processes including timing, costs, safety, quality, and feasibility. Managed the assembly and disassembly of machinery in several projects.",
+            "start_date": "May 2017",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Work",
+            "country": "Canada",
+            "institution_or_company": "CSST Ottawa",
+            "start_date": "Aug. 2015",
+            "end_date": "",
+            "description": "Sewage tunnel project in the east of the city. Responsible for TBMs repair planning, supplier tracking, budget optimization, solution searching and adaptation to Canadian regulations.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Work",
+            "country": "Spain",
+            "institution_or_company": "Rande Bridge Vigo",
+            "start_date": "",
+            "end_date": "Dec. 2009",
+            "description": "Commissioning of two of the largest tower cranes in Spain, planning and design of all tasks to be performed.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "AutoCAD",
+            "SolidWorks",
+            "CATIA",
+            "Excel"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Productivity",
+            "Analytical abilities",
+            "Team player",
+            "Interpersonal skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Dart team captain in the municipal league",
+        "Amateur and passionate runner",
+        "Crossfit"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

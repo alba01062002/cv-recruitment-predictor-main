@@ -1,0 +1,126 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Xabier Azpitarte Riveira",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "xazpitarte@gmail.com",
+        "phone": "+34 634 485 520",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Doble Grado Universitario",
+            "field": "",
+            "university": "Universidad Carlos III - Madrid",
+            "location": "Madrid",
+            "year": "2016-2021",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Máster Universitario en Ingeniería Industrial",
+            "field": "",
+            "university": "Universidad de Deusto - Bilbao",
+            "location": "Bilbao",
+            "year": "2021-2023",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Prácticas Curriculares",
+            "description": "",
+            "start_date": "2020",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Monitor Multideporte",
+            "description": "",
+            "start_date": "2014-2019",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Voluntariado",
+            "description": "",
+            "start_date": "2014-2021",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Profesor Particular Radi3Visual - Bilbao",
+            "description": "",
+            "start_date": "Bachiller",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Euskera",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Forge NXT",
+            "Siemens NX",
+            "Programación en C",
+            "Permisos de Conducir Tipo B"
+        ],
+        "soft_skills": [
+            "Trabajo en equipo",
+            "Curioso e innovador",
+            "Perspicaz"
+        ]
+    },
+    "other_interests_normalized": [
+        "Fotografía",
+        "Lectura",
+        "Viajar",
+        "Baloncesto"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Voluntario en la Copa del Mundo de Baloncesto Sede Bilbao",
+            "duration": "2014-2021",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

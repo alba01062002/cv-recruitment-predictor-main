@@ -1,0 +1,137 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sofía Montagut Bel",
+        "date_of_birth": "02/02/2001",
+        "gender": "female",
+        "age_reference_year": 2024,
+        "age": 23,
+        "email": "sofiamontagut9@gmail.com",
+        "phone": "+34691384790",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/sofia-montagut-bel-743623259",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BSc in Aerospace Systems Engineering",
+            "field": "Aerospace systems engineering",
+            "university": "Universitat Politècnica de Catalunya (UPC EETAC)",
+            "location": "Barcelona, Spain",
+            "year": "2019-ongoing",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Advanced Math and Physics Course 'Talent Jove'",
+            "field": "",
+            "university": "Universitat Rovira i Virgili (URV)",
+            "location": "Tarragona, Spain",
+            "year": "2017-2019",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Tourism Info.",
+            "position": "Full-time Position",
+            "description": "To support my studies and strive to provide a distinct customer experience, always working face-to-face with the public.",
+            "start_date": "06/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.5
+        },
+        {
+            "company": "Fcb Official Store",
+            "position": "Full-time Position",
+            "description": "",
+            "start_date": "06/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.5
+        },
+        {
+            "company": "Swimsuit Store",
+            "position": "Full-time Position",
+            "description": "",
+            "start_date": "06/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.5
+        },
+        {
+            "company": "Camping Sanguli",
+            "position": "Full-time Position",
+            "description": "",
+            "start_date": "06/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Italy",
+            "institution_or_company": "Torino",
+            "start_date": "02/2024",
+            "end_date": "07/2024",
+            "description": "Cad design (Solidworks), CFD aerodynamic analysis (Astrid), and mission simulation of a supersonic aircraft (Redesign of NASA's X-59 low-boom aircraft)",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Catalan",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Italian",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Winlqsim",
+            "MATLAB",
+            "Proteus",
+            "CH",
+            "Python",
+            "Arduino"
+        ],
+        "soft_skills": [
+            "SolidWorks",
+            "Microsoft Office"
+        ]
+    },
+    "other_interests_normalized": [
+        "Magda Simó Models: Initiation Course + Professional Stewardess and Model",
+        "Mathematics and Physics Tutoring"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Student Residence",
+            "role": "Coordinator",
+            "duration": "2020-2022",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 18,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

@@ -1,0 +1,130 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Cezary Prus",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2016,
+        "age": null,
+        "email": "czarekp90@gmail.com",
+        "phone": "+34 693 528 124",
+        "address": "Plaza de Navafria 5, 28027 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aerospace Engineering",
+            "field": "Aerodynamics, Flight Mechanics, Compressible Flow, Computational Fluid Dynamics, Lightweight Structures and FEM, Fibre Composites - Analysis and Design, Structural Optimisation and Sandwich Design, Modelling of Dynamical Systems, Systems Engineering, Fundamentals of Spaceflight",
+            "university": "KTH Royal Institute of Technology - Linné Flow Centre",
+            "location": "Stockholm, Sweden",
+            "year": "2013-2015",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aircraft Design, Aeronautical Systems, Aircraft Engine Design, Aerodynamics, Rotocraft Aeromechanics, Air Transport System",
+            "university": "Warsaw University of Technology",
+            "location": "Warsaw, Poland",
+            "year": "2009-2013",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Altair Software and Services, Madrid, Spain",
+            "position": "Internship",
+            "description": "Performing engineering computations on various types of problems related to structural mechanics, fluid mechanics, and design optimisation. Preparing results presentations using different visualisation methods.",
+            "start_date": "01/2015",
+            "end_date": "12/2016",
+            "duration_years": 1.92
+        },
+        {
+            "company": "KTH Royal Institute of Technology - Engineering Design Center",
+            "position": "Internship",
+            "description": "Finite element analysis of Airbus A350 XWB composite wing structure using Nastran/Patran system and ISAMI tool. Analysis of various load cases and different failure modes of sandwich structures. Processing, analysis and interpretation of data, preparation of Excel sheets. Presentation of results with the use of PowerPoint documents.",
+            "start_date": "06/2014",
+            "end_date": "07/2014",
+            "duration_years": 0.08
+        },
+        {
+            "company": "KTH Royal Institute of Technology - Linné Flow Centre",
+            "position": "Research Assistant",
+            "description": "CFD simulations of internal turbulent flows, post-processing of data from direct numerical simulation of turbulent flow, developing the method for vortex identification in ducts of various aspect ratios, co-authorship of the conference paper: coherent structures in turbulent rectangular duct flows.",
+            "start_date": "07/2012",
+            "end_date": "08/2012",
+            "duration_years": 0.08
+        },
+        {
+            "company": "KTH Royal Institute of Technology - Aerospace Engineering Master Program",
+            "position": "Internship",
+            "description": "",
+            "start_date": "10/2011",
+            "end_date": "06/2013",
+            "duration_years": 1.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Sweden, Spain",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Performing engineering computations on various types of problems related to structural mechanics, fluid mechanics, and design optimisation. Preparing results presentations using different visualisation methods.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "German",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Swedish",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB/Simulink",
+            "Maple",
+            "Radioss",
+            "CAD packages Siemens NX, CATIA",
+            "Finite Element Analysis Systems ANSYS, PATRAN/Nastran, HYPERMESH, OPTISTRUCT, ABAQUS",
+            "CFD and Aerodynamic Design Software FLUENT",
+            "Programming Languages C-, C++",
+            "Python"
+        ],
+        "soft_skills": [
+            "Simulation and Computing Programs"
+        ]
+    },
+    "other_interests_normalized": [
+        "Passenger aircraft, transport systems, travelling, football, mathematical modelling and optimization, linguistics, foreign languages"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 3.75,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

@@ -1,0 +1,104 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Maria del Espino Gil Casado",
+        "date_of_birth": "17/08/1998",
+        "gender": "female",
+        "age_reference_year": 2024,
+        "age": 26,
+        "email": "mariagilcasado@gmail.com",
+        "phone": "+34 636319508",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Industrial Engineering",
+            "field": "Industrial and Electronic Engineering",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2022-2024",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Master's in Electronic Engineering",
+            "field": "",
+            "university": "Norwegian University of Science and Technology (NTNU)",
+            "location": "Trondheim, Norway",
+            "year": "2016-2022",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "UPM Racing",
+            "position": "Scrum Master of the Driverless Software Department",
+            "description": "Formula Student project. Management of a 5-person team, development of different sensor fusion algorithms in ROS2 for an electric vehicle.",
+            "start_date": "09/2021",
+            "end_date": "06/2023",
+            "duration_years": 1.75
+        },
+        {
+            "company": "UPM Racing",
+            "position": "Formula Student Germany (Hockenheimring) 2022",
+            "description": "Development and maintenance of embedded systems for an electric vehicle. PCB development and testing.",
+            "start_date": "09/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ Programme",
+            "country": "Norway",
+            "institution_or_company": "Norwegian University of Science and Technology (NTNU)",
+            "start_date": "09/2016",
+            "end_date": "08/2022",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C programming",
+            "Embedded C++",
+            "SystemVerilog",
+            "VHDL",
+            "MATLAB and Simulink",
+            "ROS2",
+            "Linux",
+            "Git"
+        ],
+        "soft_skills": [
+            "Passionate and willing to learn",
+            "Highly experienced teamworker"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Volunfair, Madrid",
+            "role": "Organized by students",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 5.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.2
+}

@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Laura de la Fuente Gil",
+        "date_of_birth": "22/07/1991",
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": 26,
+        "email": "ifuentegil@gmail.com",
+        "phone": "+34 617 860 589 / +34 910 832 962",
+        "address": "c/ Polonia, 1, 8C, 28916 Leganés (Madrid, Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Professional Development - Gaia Program",
+            "field": "",
+            "university": "Universidad de Alcalá de Henares (Spain)",
+            "location": "",
+            "year": "2016",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master in Health and Safety",
+            "field": "",
+            "university": "Universidad San Pablo CEU, Madrid (Spain)",
+            "location": "",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's Degree in Industrial Engineering (Electrical)",
+            "field": "",
+            "university": "Universidad Carlos III de Madrid, Leganés (Spain)",
+            "location": "",
+            "year": "2009-2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defense and Space",
+            "position": "Programme Quality Management - Internship Gaia Program",
+            "description": "Lead the harmonization of quality performance management system at Mia level. Support the CNQ (Cost of Non Quality) monthly process for all military programs: deviations and root cause analysis, action plans against mayor deviations. Coordination of all stakeholders (operations, engineering, programs, services, finance) for annual targets setting. Deploy a400m CNQ model for military aircraft programs. Establish baseline and target 2016. Apqp mft representative for Mrtt Rokaf program. Involved in apqp deployment (qpt, dfmea, pfmea...). Quality innovation initiative: support deployment at taq level. Contribute to innovation workshops. Collaboration with altran inside. Improvement projects such as early warning system with pilot in moving line Tablada (m&l). Set up of Quest Mia digital control room. Monthly review with business line stakeholders. Support ToQ digital control room through update of the concerned kpis. Support Quest taq board: meetings follow-up, update of information, action list traceability. Creation quality kpls for the executive board mia. Monthly support.",
+            "start_date": "12/2015",
+            "end_date": "12/2017",
+            "duration_years": 2.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Zardoya Otis, Madrid (Spain)",
+            "start_date": "03/2015",
+            "end_date": "05/2015",
+            "description": "Lean manufacturing support: 5s deployment. Set up of shop floor standards. Improvement programs follow-up for blue collars population. Quality audit and quality management: documental preparation and update. Analysis of deviations. Support industrial maturity: calculation capacity of production process (cpx) and certification process (6-sigma).",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "EGIS Eysers, Madrid (Spain)",
+            "start_date": "07/2015",
+            "end_date": "09/2015",
+            "description": "Execution and introduction of a procedure according the regulation OHSAS 18001:2007. Elaboration of the policy and the health and safety manual.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Airbus Defense and Space, Madrid (Spain)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Support the CNQ (Cost of Non Quality) monthly process for all military programs: deviations and root cause analysis, action plans against mayor deviations. Coordination of all stakeholders (operations, engineering, programs, services, finance) for annual targets setting. Deployment a400m CNQ model for military aircraft programs. Establish baseline and target 2016.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Problem Solving Methods: PPS methodology (5 whys, Ishikawa)",
+            "Knowledge of specific quality & improvement tools: SIPOC, DFMEA, PFMEA, process mapping",
+            "Computer Skills: Windows, Microsoft Office, Sharepoint, AutoCAD, MATLAB, PSS, Dialux y Cyclepad"
+        ],
+        "soft_skills": [
+            "Problem Solving Methods: Knowledge of PPS methodology (5 whys, Ishikawa). Trained on Kepner Tregoe",
+            "Interpersonal Skills: Hard-working, take the initiative, organized, responsible, motivated, good team player",
+            "Other Skills: Negotiation, project management, innovation initiatives"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 2.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.3
+}

@@ -1,0 +1,90 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Manuel Romero Agudo",
+        "date_of_birth": "22/12/1988",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 26,
+        "email": "mromeroagudo@gmail.com",
+        "phone": "+34 659 73 74 27",
+        "address": "C/ San Mateo, 26, 1A, 28004 Madrid (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Superior en Telecomunicaciones",
+            "field": "Electrónica, Comunicaciones y Telemática (Especialidad de Ingeniería de Redes y Servicios de Telecomunicación)",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid",
+            "year": "2006-2012",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Management Solutions",
+            "position": "Analista",
+            "description": "During my time here, I have worked on various projects that allowed me to gain a multidisciplinary profile. I assisted in correcting problems during the accounting processes of one of Spain's largest banks and managed software correction teams. Additionally, I supported diverse projects for one of Spain's leading telecommunications companies, which helped improve my office suite skills, particularly in PowerPoint and Excel.",
+            "start_date": "04/2012",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Netherlands",
+            "institution_or_company": "European Space Research and Technology Centre (ESTEC)",
+            "start_date": "07/2011",
+            "end_date": "09/2011",
+            "description": "Worked on the Sentinel-1 project within the Earth Observation Division, creating a satellite antenna simulator in C and MATLAB.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "DAWO Human Capital Solutions",
+            "start_date": "08/2010",
+            "end_date": "05/2011",
+            "description": "Developed and modified SAP ABAP Objects routines according to client requests.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C",
+            "Java",
+            "MATLAB",
+            "ABAP Objects (SAP)",
+            "Excel",
+            "PowerPoint"
+        ],
+        "soft_skills": [
+            "Analytical",
+            "Rigorous",
+            "Practical",
+            "Teamwork oriented"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.5
+}

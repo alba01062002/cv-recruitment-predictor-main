@@ -1,0 +1,142 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rafael Caballero",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": null,
+        "email": "rcaballero80@gmail.com",
+        "phone": "+34-646193913",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Aerospace",
+            "field": "Aerospace Engineering",
+            "university": "Escuela de Organización Industrial (EOI)",
+            "location": "Madrid",
+            "year": "2009-2011",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "Telecommunication Engineer",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2001-2009",
+            "duration_years": 8.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus",
+            "position": "Project Manager, Machinery and Automation",
+            "description": "Follow-up and commissioning of hand-over machinery for the production of parts from A350 and legacy programs. Definition of technical specifications and coordination with machine suppliers to meet manufacturing plant requirements. Technical support during the procurement process for clarification of technical aspects. Support the maintenance department to ensure reliable machinery operation. Management of MES (Manufacturing Execution System) implementation, connecting machines to the office network for remote control and data collection.",
+            "start_date": "02/10 - 01/11",
+            "end_date": "03/09 - 08/09",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Military",
+            "position": "Business Support and Methodology Change Agent",
+            "description": "Coordination and support for the execution of lean projects in the Equipment area of Procurement and Supply Chain (PSC). Coordination for annual supplier evaluation (SED) and maintenance of Airbus Military and Cassidian supplier master.",
+            "start_date": "02/10 - 01/11",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Telefónica International Wholesale Services (TIWS)",
+            "position": "Business Support Agent, IT Beacarian Gaia",
+            "description": "Support tasks for the business. Integration of communication services for multinational companies such as DHL or Ferrovial.",
+            "start_date": "02/09 - 08/09",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "France",
+            "institution_or_company": "Institut National des Sciences Appliquées (INSA) de Toulouse",
+            "start_date": "02/08 - 06/05",
+            "end_date": "",
+            "description": "Period of exchange while studying. Advanced level in spoken and written English.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Canada",
+            "institution_or_company": "Concordia University, Montreal",
+            "start_date": "02/09 - 06/05",
+            "end_date": "",
+            "description": "First Certificate in English (FCE) at advanced level. Proficiency Delf B2 written.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "PSS",
+            "TPM",
+            "Lean Manufacturing",
+            "RFP",
+            "RFI",
+            "KOM",
+            "CDR",
+            "CIS",
+            "CIPS",
+            "Telecommunications Systems",
+            "Communication Networks (Fixed and Mobile)",
+            "UMTS",
+            "GSM",
+            "Volp",
+            "LAN",
+            "WAN",
+            "SAP",
+            "VHDL",
+            "ModelSim",
+            "Project",
+            "LaTeX",
+            "Microsoft"
+        ],
+        "soft_skills": [
+            "Business Support",
+            "Methodology Change Agent"
+        ]
+    },
+    "other_interests_normalized": [
+        "Salsa",
+        "Business Analyst in IT"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Federation Española de Fútbol",
+            "role": "6 years as a volunteer football team member and intermediate-level salsa dancer",
+            "duration": "2015 - 2021",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

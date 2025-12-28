@@ -1,0 +1,94 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ernest Tortosa Masbernat",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "ernest.tortosal@gmail.com, ernest.tortosa@estudiantat.upc.edu",
+        "phone": "+34 609 246 520",
+        "address": "Barcelona, Barcelona, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in engineering in aerospace technologies (4th year)",
+            "field": "",
+            "university": "ESEIAAT-UPC",
+            "location": "Terrassa, Catalunya",
+            "year": "2018 - present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "UPC Space Program",
+            "position": "General Coordinator, General Secretary, Mission Coordinator, Propulsion Dept. Coordinator, Deimos Mission Coordinator, Recovery Dept. Coordinator, Mission Member (pre-school, primary school, eso, bachillerato)",
+            "description": "",
+            "start_date": "01/2021 - present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "Tripoli Rocketry Association",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Catalan, spanish, english, french",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "C++",
+            "Arduino",
+            "LaTeX",
+            "Operating Systems (macOS, Windows)",
+            "SolidWorks",
+            "AutoCAD",
+            "OpenOffice",
+            "LTSpice",
+            "Xfir5",
+            "ParaView",
+            "Microsoft Office",
+            "Rhino"
+        ],
+        "soft_skills": [
+            "Team working",
+            "Project management",
+            "Adaptability to new software and work methodologies"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

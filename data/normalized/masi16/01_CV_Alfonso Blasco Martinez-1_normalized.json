@@ -1,0 +1,95 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alfonso Blasco Martínez",
+        "date_of_birth": "08/05/1991",
+        "gender": "male",
+        "age_reference_year": 2016,
+        "age": 25,
+        "email": "alfoblamar@infojobs.com",
+        "phone": "+49 01606482062",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Machine Manufacturing",
+            "field": "Maschinenbau",
+            "university": "Technische Universität Clausthal",
+            "location": "Clausthal-Zellerfeld, Germany",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Industrial Engineer",
+            "field": "",
+            "university": "Universitat Politecnica de Valencia",
+            "location": "Valencia, Spain",
+            "year": "2009-2015",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Consulting Team e.V.",
+            "position": "Project Manager / Trainee",
+            "description": "Master's thesis at the German Aerospace Center. Theme: numerical design of an aerodynamic cover from a helicopter rotor test bench.",
+            "start_date": "05/2014",
+            "end_date": "11/2015",
+            "duration_years": 1.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Germany",
+            "institution_or_company": "German Aerospace Center (DLR)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Master's thesis on the numerical design of an aerodynamic cover from a helicopter rotor test bench.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalan",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CFD (Advanced)",
+            "Project Management (Intermediate)"
+        ],
+        "soft_skills": [
+            "Negotiation (High)",
+            "Communication (High)"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 1.5,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

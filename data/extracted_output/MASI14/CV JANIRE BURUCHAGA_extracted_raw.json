@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal information name: address: telephone number: e-mail: date of birth: place of birth: gender: marital state: nationality: janire buruchaga ramos. baskonia 3bis 62h 48970 basauri bizkay, spain 0034666176654 janire.buruchaga@gmail.com 04.11.1989 barakaldo (biscay), spain. female. single. spanish. university and further education 09/2012-09/2013 2007 - 2013 1996-2007 work experience 2007-2008 languages skills computer skills further information driving license erasmus student in the university of kassel (germany) electrical communication engineering. bsc in telecommunication engineering in university of the basque country (upv/ehu), faculty of engineering (e.t.s.1), bilbao, spain. primary and secondary school in cooperativa basauri school, basauri, spain. particular tutor in mathemathics, spanish, english and science. spanish (native speaker) english (b2): first certificate in english basque (b1): oinarrizko zikloa german (a2+): uni kassel erasmus vorkurs ms office matlab pspice radio mobile dsch mysql c/c++ mplab awarded with the prize best erasmus student of the faculty of engineering.",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI14"
+}

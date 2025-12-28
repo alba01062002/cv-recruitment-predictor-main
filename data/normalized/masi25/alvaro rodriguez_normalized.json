@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alvaro Rodriguez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "alroma08@gmail.com",
+        "phone": "+34631764356",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in industrial technology engineering (English track)",
+            "field": "Industrial Technology Engineering, Specialization: Industrial Organization",
+            "university": "Madrid, Spain",
+            "location": "Madrid, Spain",
+            "year": "Expected graduation: June 2025",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Intern + Bachelor's thesis",
+            "description": "Conducted in-depth analysis of key production processes to improve Airbus performance and identify inefficiencies. Applied lean manufacturing tools such as Kaizen, value stream mapping, and root cause analysis.",
+            "start_date": "02/2025",
+            "end_date": "12/2025",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Improvement Department",
+            "position": "Part-time support for decision-making with data-driven insights and continuous improvement methodologies",
+            "description": "",
+            "start_date": "02/2025",
+            "end_date": "12/2025",
+            "duration_years": 0.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Vietnam",
+            "institution_or_company": "Vietnam National University - International University, Ho Chi Minh City",
+            "start_date": "09/2023",
+            "end_date": "02/2024",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Lean manufacturing",
+            "Excel for data analysis",
+            "PowerPoint and Word"
+        ],
+        "soft_skills": [
+            "Analytical mindset",
+            "Structured approach to problem-solving",
+            "Teamwork",
+            "Collaborative",
+            "Adaptable"
+        ]
+    },
+    "other_interests_normalized": [
+        "Physics",
+        "Personal interest in STEM education",
+        "Teaching"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "STEM Tutor",
+            "role": "Math, Physics & Chemistry tutor for small groups of students",
+            "duration": "From 02/2023",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 1.66,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

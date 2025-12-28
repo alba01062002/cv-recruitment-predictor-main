@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "e europass date of birth: 2 feb 2002 nationality: spanish gender: male phone number: julio arévalo gómez (+34) 633448498 (mobile) email address: jularegom@gmail.com work experience 1 feb 2024 - 1 aug 2024 sevilla, spain internship at catec atlas catec atlas (centro avanzado de tecnologias aeroespaciales) development and research of solid-state lidar technology: * programming in python and c++ for the ros and ros2 environment. pcl library. handling of git. * familiar with mechanical and solid-state lidar technology. * implementation of lidar-inertial odometry algorithms. slam algorithms. education and training 1 sep 2020 - 1 aug 2024 sevilla, spain bachelor's degree in aerospace engineering escuela técnica superior de ingenieria (universidad de sevilla) specialization in air navigation. above-average grades in courses (among others): + wave propagation and electromagnetic compatibility (emc) * electronic communication systems * avionics * navigation aid systems website https://etsi.us.es/ 1 feb 2023 - 1 sep 2023 sevilla, spain fycus23 - avionics team leader universidad de sevilla the fycus23 project involved the development of a cubesat by a group of students from the university of seville. some tasks and functions performed included: * team leadership and coordination: tracking and assigning tasks to team members, and organizing regular meetings with the team. * systems integration between different departments and workgroups: bringing together interdisciplinary aspects and coordinating requirements with other departments. * development of ground station: programming in c++, python, and matlab. construction of motorized ground antenna with automated tracking of the remote vehicle. configuration of commercial u-blox gps receivers. website https://grupo.us.es/fycusstce/ field of study motor vehicles, ships and aircraft link https://www.youtube.com/watch?v=lddpqy6hv58 language skills mother tongue(s): spanish other language(s): understanding speaking writing listening reading spoken production spoken interaction english c1 c1 c1 c1 c1 levels: a1 and a2: basic user b1 and b2: independent user c1 and c2: proficient user e digital skills basic knowledge of matlab and simulink basic level in design and manufacturing software and computer-aided engineering catia v5 programming programming in c/c++. ros/ros2 python programming. ros/ros2, calculus, pyqt version control (git & github) 3d design basic skills microsoft office 365 (mainly word, excel, powerpoint, teams, and outlook) self-learning ability self-sufficiency in problem-solving organization and punctuality",
+    "text_from_header": "WORK EXPERIENCE",
+    "detected_language": "en",
+    "master_edition": "MASI24"
+}

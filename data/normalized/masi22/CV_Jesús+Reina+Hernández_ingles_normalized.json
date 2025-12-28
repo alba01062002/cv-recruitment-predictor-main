@@ -1,0 +1,77 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jesús Reina Hernández",
+        "date_of_birth": "20/08/1998",
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": 24,
+        "email": "mj jreinah@hotmail.es",
+        "phone": "+34 727708807",
+        "address": "Alcorcón, Spain",
+        "LinkedIn": "www.linkedin.com/in/jesusreinah",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master degree in motorsport engineering",
+            "field": "Vehicle dynamics, data acquisition, race car aerodynamics, CFD (xflow), FEM analysis (abaqus), car setup, scrutineer, CAD design (catia v5), power units, composites",
+            "university": "Motor & Sport Institute",
+            "location": "Madrid, Spain",
+            "year": "17/10/2021 - current",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Mechanical engineering degree",
+            "field": "Mathematics, physics, heat transfer, elasticity and material strength, mechanism theory, fluid mechanics, structures calculus, calculus and design of mechanical elements, CAD design (solidworks), FEM analysis (solidworks simulation), internal combustion engines",
+            "university": "University of Malaga",
+            "location": "Malaga, Spain",
+            "year": "01/08/2016 - 30/06/2021",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "SolidWorks",
+            "AbaqusCAE",
+            "Matlab",
+            "AVL Race Studio 3",
+            "Microsoft Office: proficient user of Word, Excel and PowerPoint"
+        ],
+        "soft_skills": [
+            "teamwork",
+            "good team mate",
+            "effort and constancy",
+            "keep focus under pressure",
+            "analytic person",
+            "confident with my own work",
+            "selfdecided"
+        ]
+    },
+    "other_interests_normalized": [
+        "formula 1",
+        "riding go kart",
+        "motorsport"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 0.1
+}

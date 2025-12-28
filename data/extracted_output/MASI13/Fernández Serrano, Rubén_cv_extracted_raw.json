@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "rubén fernández serrano 1. datos personales: fecha de nacimiento: 9 de marzo, 1989 lugar de nacimiento: barakaldo (vizcaya - espaa) domicilio: colón 7, 1 izquierda, 48903, barakaldo teléfono: +34 645 737 529, +34 944 850 610 email: fernandezserranoruben@ gmail.com 2. formacion academica: 2012 titulo ingeniero de telecomunicaciones, escuela superior de ingenieria de bilbao (upv-ehu) mejor expediente académico de la promoción 2007-2012 2011/2012 proyecto fin de carrera en institute of nanostructure technologies and analytics, universidad de kassel (alemania), en inglés 2011/2012 realización del último curso académico como estudiante erasmus en la universidad de kassel (alemania) (asignaturas máster ece en inglés) 2009/2011 mejor expediente académico 3 y 4 curso de ingeniería de telecomunicaciones (escuela técnica superior de ingeniería bilbao, upv- ehu) 2007 finalización de la escuela secundaria con matrícula de honor en el instituto de cruces, barakaldo - vizcaya 3. formación complementaria idiomas: - inglés 2012 último curso académico en la universidad de kassel, alemania, asignaturas y proyecto fin de carrera en inglés 2008 beca de inglés, curso de verano en malta 2006 first certificate y trinity nivel 10 2006 beca de inglés, curso de verano en usa - alemán 2012 cursando b1 en la escuela de idiomas 2011 título unicert 2, por la universidad de kassel, alemania - italiano 2012 cursando b1 en la escuela de idiomas - euskera 1995/2007 educación primaria y secundaria en modelo d 2006 título elemental de la escuela de idiomas rubén fernández serrano programación windows, linus, ubuntu, mac os x microsoft office (word, excel, powerpoint, access) lenguajes de programación: c, c++, java, linker, vhdl matlab, latex electrónica programación de microcontroladores, cplds (complex programmable logic device) y fpgas (field programmable gate arrays) tecnología de nanoimpresión 3d, pfc (investigation of low etching rate recipes of silicon for the fabrication of 3d nanoimprint template) optoelectrónica / fotónica comunicaciones detección y estimación de seales comunicaciones digitales comunicaciones inalámbricas teoría de la información y codificación 4. experiencia profesional 2011/2012 prácticas en el instituto de nanotecnología y analítica de la universidad de kassel. centro de investigación que coopera con el \"center for interdisciplinary nanostructure science and technology\" (cinsat), the \"nanonetzwerk hessen\", el \"nanoimprint consortium hessen\" (nih) y technology transfer section of the university of kassel 2007/2011 clases particulares de matemáticas, física y química a estudiantes 2009 monitor voluntario de nios con la asociación de diabéticos de vizcaya 2007/2008 profesor de taekwondo en la escuela pública san inazio, bilbao 5. aficiones e información adicional pasión de aprendizaje, capacidad de trabajar en grupo, optimismo, capacidad de asumir riesgos y responsabilidades, compromiso y la vocación de servicio disponibilidad geográfica senderismo, escalada deportiva campeón de espaa universitario por equipos (2010, 2011) escalada indoor componente del stage para jóvenes alpinistas en los alpes con el grupo de alta montaa espaol, 2007 cinturón negro de taekwondo 2* dan (10 veces campeón de euskadi) maratones, medias maratones y una ultra trail de montaa de 100km hiru handiak carnet de conducir, b y coche propio no fumador",
+    "text_from_header": "1. DATOS PERSONALES:",
+    "detected_language": "es",
+    "master_edition": "MASI13"
+}

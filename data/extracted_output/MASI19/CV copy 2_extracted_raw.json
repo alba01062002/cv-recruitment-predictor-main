@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "álvaro sánchez olavarrieta personal info 9 natalio de fuentes st. n% 34004 palencia. spain 9 donoso cortés st. n80a 2c 28015 madrid. spain tel. +(34) 628826119 'm alvaro.sanchezo@outlook.es in https://es.linkedin.com/in/alvarosanchezo education - masters degree in aerospace engineering: muia at universidad politécnica de madrid (upm) (2015-2017). av: 7,92/10. e master thesis focused on space: research and design of adcs of pleiades mission. supervised by sener manager systems engineering (jm del cura). - bachelor in aerospace engineering: gia (science and technology specialization) at the universidad politécnica de madrid. (2010-2015). av: 6,68/10. e high honors in the subject of control and optimization. letter of recommendation from professor jose manuel vega de prada, aeronautical engineer doctor at upm. e high honors in final graduation project, which was based upon the full development and integration of the real-time firmware of themtto device in the start up company conectto. - masters degree decision making & innovation: gaia program. fue univ. de alcalá. (2017 - 2018). e final project: economic viability of integration of solar panels in the car body - bachelor in economics. uned. (2017 present). professional experience -internship airbus d&s. future projects department: operational analysis. teaix tl4. (09/17 to 09/18). sw documentation and validation of high speed performance module (hspm) of mission planning restitution system (mprs). design of proof of concepts and tests for software validation. support for troubleshooting of bugs detected. support strategies for the software evolution and module implementation ensuring agile software development. management of data between interfaces. c++ implementation of diverse operational analysis models. mbse application through the management of requisites. (doors - rational rhapsody) -collaboration with strategy department of airbus d&s. (04/18 06/18) development of a model in matlab oop, to analyse the cargo transportation market and the influence of introducing new types of planes against its competitors (train, ship and trucks). model presented in a meeting to strategy headmaster: stole vestejo. -internship in inmapa aeronáutica. costing of aeronautic parts and development of macros (excel). (02/17 to 06/17). -internship in conectto it (start-up). firmware development in c++. (06/14 to 06/15). linguistic spanish: mother tongue. skills english: certificate in advanced english (cae) european level c1. stay in a host family in bristol for one month. french: b1 / intermediate level. portuguese: a2 / beginner level. managment - airbus group workshops: configuration management in aircraft industry (2016), production line management at skills shopfloor level (2017). mbse implementation (2018). - entrepreneurship experience participant at actúa upm with the startup biotech service, finalists in the last stage. - attendant at: esa business incubation centre conference in upm. - responsible for several activities in a fraternity in madrid for 3 years. music classes, social events and speech courses. - student representative. in last course of masters degree (muia) at etisae upm. it skills and projects - operating systems: windows, mac os, linux. - microsoft office software: word, excel, power-point, project, visio. - design programs: catia, esacomp, final cut pro, marvel (app prototyping). - programming languajes: well versed in c++, vb, fortran, matlab simulink, arduino, python.ide: microsoft. visual studio, esatan (space thermal control). doors. mbse: rational raphsody. - course based on microsoft programming with vb, ch, java and sql server. azpe informática. - personal project: market exchange tracker and analyzer. it includes the following items: e software developed in python to analyze daily stock exchange data based on momentum investing strategy. currently implemented in a raspberry pi 3, is sending messages to the smartphone and warning which shares should be purchased daily. e backtesting models with optimization based on genetic algorithms. matlab toolbox management: optimtool. -master in decision and innovation's project: app prototyping. share food. prototype an application to conect restaurants and social lunchrooms. https://marvelapp.com/8hhjifa0. personal branding if you want to know more about me: my hobbies, my passions, my projects please do not hesitate to take a look to my youtube channel. there, you can find an elevator pitch and other personal branding videos. (2 youtube link: https://g00 .el/igdrtq",
+    "text_from_header": "ÁLVARO SÁNCHEZ OLAVARRIETA",
+    "detected_language": "en",
+    "master_edition": "MASI19"
+}

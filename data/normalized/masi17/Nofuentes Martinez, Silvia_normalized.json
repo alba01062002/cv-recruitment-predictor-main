@@ -1,0 +1,91 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Silvia Nofuentes Martínez",
+        "date_of_birth": "19/07/1992",
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": 25,
+        "email": "silvianm190@gmail.com",
+        "phone": "+34650038133",
+        "address": "Azagador 41, Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Propulsion",
+            "university": "Technical University of Madrid",
+            "location": "Madrid, Spain",
+            "year": "2010-2015",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus BizLab",
+            "position": "Project Co-founder & Internship Participant in Process Engineering",
+            "description": "Developing a conceptual prototype of a water separation and evaporation system based on ultrasonic nebulization, working on the business model for creating a start-up, coaching from Airbus experts.",
+            "start_date": "01/2016",
+            "end_date": "04/2016",
+            "duration_years": 0.25
+        },
+        {
+            "company": "TP Group (Industria de Turbo-Propulsores)",
+            "position": "Internship as Process Engineer",
+            "description": "Defining ITP external processes for the fabrication of aircraft engine pipe components, supporting with the planning and delivery of orders.",
+            "start_date": "02/2015",
+            "end_date": "05/2015",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship / Work",
+            "country": "Germany, Italy, Canada, France",
+            "institution_or_company": "",
+            "start_date": "01/2016 - 04/2016 (Hamburg), 09/2014 - 07/2015 (Milan)",
+            "end_date": "null",
+            "description": "Working in the Airbus BizLab aerospace business accelerator program, participating in an aeronautical master's program at Technical University of Milan, summer course in Canada, and secondary school exchange in France.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B1"
+        ],
+        [
+            "Italian",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5 (basic level)",
+            "MS Office: Word, Excel and PowerPoint"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Driving License Class B",
+        "Athletics"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.5,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.8
+}

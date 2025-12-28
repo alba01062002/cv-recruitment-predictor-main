@@ -1,0 +1,111 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José Francisco Bolado San José",
+        "date_of_birth": "15/03/1990",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 24,
+        "email": "fran907@hotmail.com",
+        "phone": "+34 606 793 467",
+        "address": "Corbanera 14 Monte, 39012 Santander, Spain",
+        "LinkedIn": "http://www.linkedin.com/in/josefranciscobolado",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science (MSC)",
+            "field": "Industrial Engineering",
+            "university": "University of Technology (TU/e)",
+            "location": "The Netherlands",
+            "year": "2012-2013",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Industrial Engineering, Specialization in Electricity",
+            "field": "",
+            "university": "University of Cantabria (UC)",
+            "location": "Spain",
+            "year": "2008-2013",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "CEPSA (Compañía Española de Petróleos, S.A.U.)",
+            "position": "Internship Management of Electrical and Mechanical Maintenance",
+            "description": "Learned to manage a team according to a schedule under tight deadlines; managed equipment breakdowns while taking expenditures and budgets into account; identified common breakdowns in engines and pumps; conducted operations in a substation; used SAP software.",
+            "start_date": "07/2012",
+            "end_date": "08/2012",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Exchange Program",
+            "country": "The Netherlands",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Master thesis assessment of the market value of energy storage. Software tool implemented in MATLAB which shows the market value of energy storage devices in the European electricity market, considering day-ahead electricity market and made price forecasting with neural networks.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ],
+        [
+            "Dutch",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "AutoCAD",
+            "Civil 3D",
+            "Inventor",
+            "ANSYS"
+        ],
+        "soft_skills": [
+            "Team Management",
+            "Budgeting and Expenditure",
+            "Problem Identification",
+            "Operations in a Substation"
+        ]
+    },
+    "other_interests_normalized": [
+        "Elementary Grade in Music (Flute)",
+        "Driving License for Category B"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.08,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

@@ -1,0 +1,103 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Mafalda Soares",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "mafalda.mafaldex@gmail.com",
+        "phone": "(386) 301-7212",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace engineering",
+            "university": "Embry-Riddle Aeronautical University",
+            "location": "Daytona Beach, FL",
+            "year": "2020-2022",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Tutor and Grader",
+            "description": "Taught mathematics for the A? program at Embry-Riddle, tutored student athletes, and assisted with grading in aircraft stability and control class.",
+            "start_date": "03/2020",
+            "end_date": "12/2025",
+            "duration_years": 5.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "Portuguese",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "CATIA V.5",
+            "AutoCAD",
+            "Python",
+            "Femap"
+        ],
+        "soft_skills": [
+            "tutoring",
+            "grading",
+            "teamwork"
+        ]
+    },
+    "other_interests_normalized": [
+        "Community Service Program",
+        "Tennis",
+        "Society for Industrial and Applied Mathematics"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Mentor and Tutor",
+            "duration": "03/2020-present",
+            "description": ""
+        }
+    ],
+    "degree_years": 2.0,
+    "total_work_years": 5.75,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

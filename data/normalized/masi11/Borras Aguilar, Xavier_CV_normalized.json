@@ -1,0 +1,137 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Xavier Borras Aguilar",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2011,
+        "age": null,
+        "email": "xavier.borras.aguilar@gmail.com",
+        "phone": "+34 658 33 88 40",
+        "address": "lluis doménech i montaner 6, esc. 1, 5 b esplugues de llobregat 08950 barcelona, espaa",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Telecommunications Engineering",
+            "field": "Telecommunications Systems and Networks",
+            "university": "Universitat Politecnica de Catalunya (UPC)",
+            "location": "Barcelona, Spain",
+            "year": "2003-2010",
+            "duration_years": 7.0
+        },
+        {
+            "degree": "",
+            "field": "Master's in Wireless Mesh Networks",
+            "university": "Universitat Politecnica de Catalunya (UPC) in collaboration with Georgia Institute of Technology",
+            "location": "Barcelona, Spain",
+            "year": "2009",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Thales Nederland B.V.",
+            "position": "Junior Systems Engineer",
+            "description": "Provided the company's Innovation and Development Department with expertise on Inertial Navigation System (INS) and its integration with GPS-based navigation systems. Defined the project roadmap for continuous improvement of the system developed, conducted research on sensors and inertial systems, and improved GPS accuracy techniques, particularly indoors.",
+            "start_date": "09/2009",
+            "end_date": "07/2010",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Universitat Politecnica de Catalunya (UPC)",
+            "position": "Research Assistant for Project Development",
+            "description": "Contributed to the launch of a project aimed at developing an online educational platform. Defined project objectives and requirements, provided solid support in managing the project, defined task programs, and acted as an intermediary between the project manager and university professors.",
+            "start_date": "10/2007",
+            "end_date": "07/2009",
+            "duration_years": 1.75
+        },
+        {
+            "company": "Centre de Telecomunicacions Tecnologies de la Informacio (CTTI) de la Generalitat de Catalunya",
+            "position": "Radiocomunications Research Assistant",
+            "description": "Analyzed technical documentation provided by Abertis Telecom, a company that won the public tender for developing infrastructure for the diffusion of TDT (terrestrial digital television) services in Catalonia. Provided technical documentation based on simulations regarding coverage areas and participated in database development.",
+            "start_date": "07/2008",
+            "end_date": "09/2008",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Universitat Politecnica de Catalunya (UPC)",
+            "position": "Documentation Creation Research Assistant",
+            "description": "Elaborated teaching documents for the Data Transmission course at UPCTelema. Theoretical concepts treated in these documents include information source statistics, data coding algorithms, cryptography and channel coding.",
+            "start_date": "09/2007",
+            "end_date": "07/2008",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Alpi Telecomunicacions Esplugues de Llobregat, España",
+            "position": "Communications Network Research Assistant",
+            "description": "Tested the correct operation of customer connections and managed the WDM network database developed by Alpi Telecomunicacions. Verified design plans for SDH networks.",
+            "start_date": "07/2007",
+            "end_date": "09/2007",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Spain, USA",
+            "institution_or_company": "Universitat Politecnica de Catalunya (UPC), Georgia Institute of Technology",
+            "start_date": "2003-2010",
+            "end_date": "",
+            "description": "Participated in a Master's program on Wireless Mesh Networks under the guidance of Professor Lan F. Akyildiz from the Georgia Institute of Technology.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish (maternal)",
+            "C1"
+        ],
+        [
+            "Catalan (maternal)",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Italian",
+            "A2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB & Simulink",
+            "C/C++ programming",
+            "Java (basic knowledge)",
+            "VHDL (basic knowledge of digital system design)",
+            "Windows and Linux operating systems",
+            "Microsoft Office Suite (Word, Excel, PowerPoint, Visio)"
+        ],
+        "soft_skills": [
+            "Excellent communication skills with all levels of the organizational hierarchy",
+            "Good adaptability to diverse situations",
+            "Exemplary ability to express ideas and present at conferences and workshops",
+            "Good project management attitude and team motivation"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 3.75,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI11",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

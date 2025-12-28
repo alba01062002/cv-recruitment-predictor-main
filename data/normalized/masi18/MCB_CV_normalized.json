@@ -1,0 +1,154 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Catalina Belloido",
+        "date_of_birth": "08/06/1991",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 27,
+        "email": "miguel.kata@gmail.com",
+        "phone": "(+34) 619 55 79 54",
+        "address": "Madrid 28007, Spain",
+        "LinkedIn": "https://es.linkedin.com/in/miguelcatalinabellido",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aerospace Engineering (Engines Specialization)",
+            "field": "Aerospace Engineering",
+            "university": "UPM",
+            "location": "Madrid",
+            "year": "2009-2014",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Aerospace Engineering Degree",
+            "field": "Aerospace Engineering",
+            "university": "Universidad de León",
+            "location": "León",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ECB Engineering Firm",
+            "position": "Technical Consultant",
+            "description": "Consultant of national companies in oil&gas and renewable energy sector. Incharge of the creation of a new database model, improving company tools based on a web SQL database.",
+            "start_date": "05/2013",
+            "end_date": "11/2013",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Rodriser",
+            "position": "Customer Order Desk Engineer - Internship",
+            "description": "September 2015 - November 2015. Request for quotations and purchase orders assistance providing prices, availability, interchangeability and tracking status. SAP and internal software skills, multi-task and heavy data entries. Direct contact with international customers.",
+            "start_date": "09/2015",
+            "end_date": "11/2015",
+            "duration_years": 0.17
+        },
+        {
+            "company": "ITP",
+            "position": "Power Plant Engineer at Maintenance Department - Internship",
+            "description": "November 2014 - September 2015. Engine in-site diagnosis, interventions decision making, developing of technical reports and publications, management of external technical documentation (service bulletins, airworthiness directives, maintenance manuals). SAP management: factory big data analysis, tooling, component tracking & monitoring, task development and optimization (lean manufacturing), supplies analysis to further cost optimization. Software: Visual Basic programming to feed excel tables and time optimization, CATIA V5 mechanical design module (assembly, design, mold tooling & product functional tolerance). Experience and knowledge about Pratt&Whitney, Europrop (TP400) and Honeywell procedures and engines.",
+            "start_date": "11/2014",
+            "end_date": "09/2015",
+            "duration_years": 0.83
+        },
+        {
+            "company": "",
+            "position": "Salesforce Developer - Internship",
+            "description": "June 2017 - Present. * Apex (Java-style language), Scala. * Node.js, geolocation, API Rest. * Salesforce Lightning, Visualforce. * Heroku. * Git - version control. * Data mining, machine learning, mathematical analysis (matlab). * Geolocalization, routes optimization. * 2D clustering, classification and regression in python Jupyter.",
+            "start_date": "06/2017",
+            "end_date": "12/2018",
+            "duration_years": 1.5
+        },
+        {
+            "company": "Rodriser",
+            "position": "Technical Manager - Smart Sensor Technology",
+            "description": "November 2015 - June 2017. Internet of Things development engineer: PCB design, hardware and software specification and choices, testing, security, manufacturing, logistics, client side/web side, front and back end, documentation and certification) MySQL databases creation, management (phpMyAdmin) and data injection (PHP and Python scripting). C# programming: RF/Lot communication and serial protocols WPF visual applications with Mahapps.Metro framework C#mono compiler usage in Linux distros. Tools: Visual Studio Community 2017 & Monodevelop. Python: Server side applications (WebSockets, low level protocols, database scripts and lot data acquisition). Tool: Sublime Text. Linux shell scripting in Linux Debian and CentOS 7 distros environment. Full server management (.ini, .conf, logs, resources.. whatever is needed). LOT devices (RF designs, sub GHz communication protocols and power-saving methods). Electronic components knowledge.",
+            "start_date": "11/2015",
+            "end_date": "06/2017",
+            "duration_years": 1.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Workcamp",
+            "country": "Spain",
+            "institution_or_company": "",
+            "start_date": "June 2014",
+            "end_date": "August 2014",
+            "description": "Leader of a team of 10-20 volunteers. Tasks involved organization, scheduling and resolving issues.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Apex (Java-style language)",
+            "Scala",
+            "Node.js",
+            "Geolocation",
+            "API Rest",
+            "Salesforce Lightning",
+            "Visualforce",
+            "Heroku",
+            "Git - version control",
+            "Data mining",
+            "Machine learning",
+            "MATLAB",
+            "Geolocalization",
+            "Routes optimization",
+            "2D clustering",
+            "Classification and regression in python Jupyter",
+            "C# programming: RF/Lot communication and serial protocols",
+            "WPF visual applications with Mahapps.Metro framework",
+            "C#mono compiler usage in Linux distros",
+            "Visual Studio Community 2017 & Monodevelop",
+            "Python: Server side applications (WebSockets, low level protocols, database scripts and lot data acquisition)",
+            "Sublime Text",
+            "Linux shell scripting in Linux Debian and CentOS 7 distros environment",
+            "Full server management (.ini, .conf, logs, resources.. whatever is needed)",
+            "LOT devices (RF designs, sub GHz communication protocols and power-saving methods)",
+            "Electronic components knowledge",
+            "Website creation: Public side-> WordPress, (SEO knowledge and a passion for times and resources optimization) Custom private side: entirely from scratch (Bootstrap, jQuery, JavaScript, Paho MQTT and cool CSS styles). PHP language, mainly for complex database loops and lot data acquisition JSON, XML, CSS meta-language knowledge",
+            "Aware of security breaches. TLS and SSL knowledge, use of security ciphers and public/private keys and certificates",
+            "SEO and Google Analytics, email subscription management and creation",
+            "Product brochure, datasheet, installation manual creation",
+            "International technical support",
+            "ATEX certification (intrinsic safety specialization)",
+            "Protocols: Application layer (HTTP, FTP, MQTT, SMTP), transport layer (TCP) and internet layer knowledge (IPv4)"
+        ],
+        "soft_skills": [
+            "Multi-tasking",
+            "Heavy data entries",
+            "Direct contact with international customers",
+            "Organization",
+            "Scheduling",
+            "Resolving issues"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 4.58,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

@@ -1,0 +1,152 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Qazi Ejaz Ur Rehman",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/qazi-ur-rehman/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "https://controllectureslides.com/"
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science",
+            "field": "Aerospace Engineering Guidance, Navigation and Controls",
+            "university": "Institute of Space Technology",
+            "location": "Islamabad",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor of Engineering",
+            "field": "Avionics Engineering",
+            "university": "National University of Sciences and Technology (NUST)",
+            "location": "",
+            "year": "2011-2015",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "Pre-engineering Higher Secondary Certificate",
+            "university": "Cadet College Skardu",
+            "location": "Skardu",
+            "year": "2009-2011",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "Matriculation Secondary Certificate",
+            "university": "Cadet College Skardu",
+            "location": "Skardu",
+            "year": "2007-2009",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Institute of Space Technology",
+            "position": "Graduate Research Assistant",
+            "description": "* Establishment of maintenance training organization * Engineering instructor of EASA Part-66 modules (M3, M5 & M8) * Establishment of workshops of EASA modules (MO3, MO4, MO5, MO6 & MO7) in accordance with EASA & CAA Pakistan standards * Development of question bank of EASA modules (M2, M3, M4, M5) * Taught aircraft control and systems & programming language (Part-time employment)",
+            "start_date": "10/2015",
+            "end_date": "02/2016",
+            "duration_years": 0.33
+        },
+        {
+            "company": "The Linguist Institute",
+            "position": "Incharge Administration & Discipline, Teaching English as Professional Language",
+            "description": "* Supervising staff for their duties and discipline",
+            "start_date": "May 2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Urdu",
+            "C2"
+        ],
+        [
+            "Hindi",
+            "C2"
+        ],
+        [
+            "Punjabi",
+            "C2"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            ".c/.cpp",
+            "EFEX",
+            "Arduino",
+            "Solid Edge",
+            "NI LabVIEW",
+            "Microsoft Visio",
+            "Linux/Unix",
+            "Microsoft Office",
+            "Microsoft Project",
+            "MATLAB and Simulink"
+        ],
+        "soft_skills": [
+            "Intermediate Flight Simulator",
+            "Maple",
+            "Wolfram",
+            "Python",
+            "Basic Fortran",
+            "Assembly Language for Microcontrollers",
+            "Ansys (Mechanical APDL)",
+            "Fluent",
+            "Subsonic (Close & Open Circuit) Wind Tunnel Testing",
+            "Supersonic Wind Tunnel Testing",
+            "Smoke Wind Tunnel Testing",
+            "Circuit Patching / Soldering",
+            "Fixed Wing UAV Fabrication",
+            "PIC Microcontrollers",
+            "Serial Communication (PIC, Arduino and MATLAB)",
+            "I2C Communication (PIC, Arduino and MATLAB)",
+            "SPI Communication (PIC, Arduino and MATLAB)"
+        ]
+    },
+    "other_interests_normalized": [
+        "Basketball",
+        "Energy Conservation Awareness Campaign"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 0.33,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

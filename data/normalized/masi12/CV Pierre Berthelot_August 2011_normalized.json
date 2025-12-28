@@ -1,0 +1,176 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pierre Berthelot",
+        "date_of_birth": "24/09/1982",
+        "gender": "male",
+        "age_reference_year": 2012,
+        "age": 30,
+        "email": "pjlberthelot@gmail.com",
+        "phone": "+33 6 07 54 24 85",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Engineering",
+            "field": "Engineering with focus on computing, electronics and automated systems",
+            "university": "ESIEA (École Supérieure d'Informatique, Électronique et Automatique)",
+            "location": "Laval, France",
+            "year": "2006-2011",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Licence in Electronics and Electro-Techniques Automated Systems",
+            "university": "Paul Sabatier University",
+            "location": "Toulouse, France",
+            "year": "2005-2006",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "DEUG de Sciences de l'Ingénieur (Engineering Science)",
+            "field": "",
+            "university": "Paul Sabatier University",
+            "location": "Toulouse, France",
+            "year": "2004-2005",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Scientific Baccalaureate (equivalent to GCE A levels)",
+            "field": "",
+            "university": "",
+            "location": "Madrid, Spain",
+            "year": "2001",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Cassidian Systems (now Airbus Defense and Space)",
+            "position": "Internship in Project Management - Team Working - Customer Care",
+            "description": "",
+            "start_date": "06/2010",
+            "end_date": "12/2010",
+            "duration_years": 0.5
+        },
+        {
+            "company": "ESIEA Laval, France",
+            "position": "Project Management Formation: Planning Histogram of Charges - Project Budgets",
+            "description": "",
+            "start_date": "06/2009",
+            "end_date": "08/2009",
+            "duration_years": 0.17
+        },
+        {
+            "company": "AEDS Helsinki, Finland",
+            "position": "Internship in Technical Support - Maintenance Management of the Backups",
+            "description": "",
+            "start_date": "06/2008",
+            "end_date": "08/2008",
+            "duration_years": 0.17
+        },
+        {
+            "company": "CESISA Madrid, Spain",
+            "position": "Internship in Installation of Computing and Networks Devices for BETs",
+            "description": "",
+            "start_date": "06/2007",
+            "end_date": "08/2007",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Peugeot Madrid, Spain",
+            "position": "Internship in Implementation of Total Productive Maintenance - Formation of Operators - Realisation of Dashboards",
+            "description": "",
+            "start_date": "06/2007",
+            "end_date": "08/2007",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "China",
+            "institution_or_company": "Cassidian Systems (now Airbus Defense and Space)",
+            "start_date": "06/2010",
+            "end_date": "12/2010",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Finland",
+            "institution_or_company": "AEDS Helsinki, Finland",
+            "start_date": "06/2008",
+            "end_date": "08/2008",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "CESISA Madrid, Spain and Peugeot Madrid, Spain",
+            "start_date": "06/2007",
+            "end_date": "08/2007",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A1"
+        ],
+        [
+            "Chinese/cantonese",
+            "A2"
+        ],
+        [
+            "Finnish",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Visual Studio",
+            "CATIA"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "Team Working",
+            "Customer Care"
+        ]
+    },
+    "other_interests_normalized": [
+        "Tennis",
+        "Climbing",
+        "Snowboarding",
+        "Gymnastics",
+        "Karting"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2006-2008",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 1.18,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI12",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.7
+}

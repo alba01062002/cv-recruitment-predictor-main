@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "mihai octavian stanescu xg : 609219849 o %: mihai.o.stanescu@gmail.com o in: www.linkedin.com/in/mihai-octavian-stanescu profile summary i am an innovative and detail-oriented software engineer with experience in embedded systems, qa processes, and automation. throughout the years, my ability to design and implement robust solutions has been proven. passionate about delivering quality and efficiency through a combination of technical skills and hands-on experience. education open architecture processors design micro-credential march 2025 - may 2025 escuela tecnica superior de ingenieros industriales universidad politecnica de madrid, madrid future leaders program, bussiness expert (ag: 9.8) may 2023 - aug 2024 online thepower business school master in embedded and distributed systems (ag: 8.9) september 2020 - july 2022 escuela tecnica superior de ingenieria de sistemas informaticos universidad politecnica de madrid, madrid bachelor in computer engineering (ag: 7.6) september 2016 - october 2020 escuela tecnica superior de ingenieria de sistemas informaticos universidad politecnica de madrid, madrid work experience qa for embedded software - full time may 2023 - present > techteamz, valencia (remote from madrid) working in an iso9001 environment in conjunction with the development team to provide qa for cryptographic accelerators based on the risc-v architecture for a us. multinational. my main responsibilities lied in the v&v process but i also added value to the ci/cd pipeline and the actual testing of the features of 2 of the company products. - developed user-level command-line applications in c to add functionality to the cryptographic accelerator. - tested different features of a cryptographic accelerator ip. - designed and documented comprehensive release verification processes, reducing the validation time by 40% and improving traceability and reproducibility. - optimized ci/cd pipelines using jenkins, leading to improvement in validation and verification time and efficiency. - onboarded and mentored new team members, ensuring smooth integration and productivity. r&d embedded software developer - full time april 2021 - april 2023 => teldat, madrid - enhanced osdx and cit routers by implementing new features in c, c++, and python. - automated test creation using the robot framework, reducing manual testing by 100%. - developed scripts for testing scenarios, improving coverage and accuracy. - authored comprehensive documentation using the sphinx framework for internal and client use. - facilitated the onboarding process for new hires, improving ramp-up time. projects nrwind-iot solution for monitoring the energy production of a wind farm master thesis - designed a robust architecture tailored to solution requirements. - deployed tools and platforms to effectively monitor energy production. - programmed connectors and simulators to generate data streams. - delivered detailed documentation for processes and tool. parm-embedded system to control an open source robotic arm bachelor thesis - developed a python-based gui using qt for intuitive control of the robotic arm. - designed and manufactured a custom pcb to seamlessly integrate hardware components. - created embedded software in c, optimizing arm performance. - managed the full project lifecycle, including cost and time planning. technical strengths programming languages: c, c++, python, latex, bash testing frameworks: robot framework, pytest, coverity tools & platforms: jenkins, svn, linux, windows, jira, gerrit, jama, phabricator software: source insight, visual studio code, beyond compare, meld, spirent testcenter language proficiency english: c1 - toeic romanian: native spanish: native",
+    "text_from_header": "MIHAI OCTAVIAN STANESCU",
+    "detected_language": "en",
+    "master_edition": "MASI25"
+}

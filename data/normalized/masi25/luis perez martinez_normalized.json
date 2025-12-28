@@ -1,0 +1,91 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Luis Pérez Martínez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "perezmartinez1309@gmail.com",
+        "phone": "+34 658 42 49 52",
+        "address": "",
+        "LinkedIn": "www.linkedin.com/in/luis-perez-martinez-3730a0311",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Mobile and Space Communications Engineering",
+            "field": "Mobile and Space Communications",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2021-2025",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "SAS Institute",
+            "position": "Technical Consultant Intern (Platform Team)",
+            "description": "Worked as part of the consulting division, specifically within the platform team supporting database and environment migrations, remote administration, and deployment of solutions based on SAS 9 and SAS Viya. Developed skills in SAS and SQL programming.",
+            "start_date": "04/2025",
+            "end_date": "08/2025",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "C",
+            "Java",
+            "SQL",
+            "SAS",
+            "MATLAB",
+            "Android Studio"
+        ],
+        "soft_skills": [
+            "Data Analysis",
+            "Signal Processing",
+            "Problem Solving",
+            "Communication",
+            "Teamwork",
+            "Discipline",
+            "Perseverance"
+        ]
+    },
+    "other_interests_normalized": [
+        "Swimming"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.33,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

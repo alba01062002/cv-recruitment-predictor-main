@@ -1,0 +1,116 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Manuel Florentin Olaru",
+        "date_of_birth": "06/04/1996",
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": 26,
+        "email": "manuel.olaru@gmail.com",
+        "phone": "+34 697 915408",
+        "address": "",
+        "LinkedIn": "https://linkedin.com/in/manuelolaru",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aerospace Engineering",
+            "field": "Aerospace Systems Integration",
+            "university": "Carlos III University of Madrid (UC3M)",
+            "location": "Madrid, Spain",
+            "year": "2018-2020",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Vehicles",
+            "university": "Carlos III University of Madrid (UC3M)",
+            "location": "Madrid, Spain",
+            "year": "2014-2018",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Capgemini Engineering",
+            "position": "Systems and Tests Engineer",
+            "description": "Integrating critical software in the A330 MRTT aircraft from Airbus DS. Verifying and validating developed software, including certification activities according to DO-178 norm.",
+            "start_date": "04/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.67
+        },
+        {
+            "company": "ATR (INDRA Systems)",
+            "position": "Systems and Tests Engineer",
+            "description": "Worked on almost all parts of the system lifecycle. Contributed to tasks such as executing on-site test cases, detecting and evaluating anomalies, and supporting software development team in resolving issues.",
+            "start_date": "06/2021",
+            "end_date": "04/2022",
+            "duration_years": 0.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish (castilian)",
+            "C2"
+        ],
+        [
+            "Romanian",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Python",
+            "C and C++",
+            "Git, Bitbucket, SourceTree, TortoiseGit",
+            "Jira and Confluence",
+            "MS Office (Excel, Word, PowerPoint, Outlook, Project)",
+            "ANSYS Fluent and OpenFOAM",
+            "FEA/FEM: Abaqus and Nastran/Patran"
+        ],
+        "soft_skills": [
+            "Proposing new ideas and solutions",
+            "Self-sufficient and ambitious, not afraid of complex problems",
+            "Autonomy and initiative",
+            "Agile organization, effective time management",
+            "Technical thinking always oriented towards goals",
+            "Solid commitment to any matter"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 4.5,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

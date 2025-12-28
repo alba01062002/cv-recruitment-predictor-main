@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal details surname: olivares fernández name: luis date of birth:11/09/1986 address: doctor esquerdo 39 4c, city: madrid, p.c.: 28028 country: spain telephone number: 0034650774031 personal email: lolivaresfer@gmail.com, working experience junior manager of the industrial & energy business department in axpe consulting, january 2012-present: management of existing accounts and staff, searching for new customers, cold calls, searching & designing new opportunities and proyect offers. proyect tracking, business partner function between software factory and clients. technology consulting, big data state of art. working with top clients like telefónica, iberia, endesa-enel, repsol, iberdrola, media contact, among others. toptalent internship in accenture from october2010- august 2011.project evocc ( france telecom-orange call center evolution ): working for the largest project of accenture spain it department in 2011. migration and redesign of the structure of call centers of france telecom spain. maintaining database of internal incidents, web design for universe handling (business intelligence). using as is analysis, transformation strategies and standards upgrade, to be architecture characterization, operations procedures redesign and effective migration to the new platform. using of icm and avaya technologies summer 2010 (4 months): renewable energies consulting in ess. renewable energies consulting. specializing in biomass, cogeneration and photovoltaic. summer 2009 (3 months): renewable energies consulting in ess. renewable energies consulting. specializing in biomass, cogeneration and photovoltaic. education education: bs/ms in telecommunications engineering in the e.t.s.i.telecomunicaciones of the universidad politécnica, madrid (spain). specializing in communications on technology management and bio-engineering intensification. high school diploma with honors in the i.e.s amparo sanz of albacete (spain). university access exam score: 8,9 (over 10) language competence: advanced level in english: 4 course escuela oficial de idiomas 99 score in ibt toefl french b1 level institute franais madrid institute franais montpellier technical: telecommunications: antennas, radio, electronics,networking, routing, ... programming languages: java, html, c and matlab data bases: sql and odbc user level of sap r3 user level of windows, linux and microsoft office others: deloitte business game 2011 finalist bio-mass course (elearning), spanish institute of energy, madrid, october 2011 solar energy course (elearning), spanish institute of energy, madrid, october 2011 final of vii company creation contest upm, actúaupm with the project red social deportiva sportia managing communications in an international context course at paristech of paris, france, march 2010 ii edition of the network and context course, organized by cátedra orange-upm, e.t.s. ingenieros de telecomunicación upm, november 2010 iv edition of the business game beertualchallenge, organized by grupo modelo, september-december 2010 cisco innovation 2011 personal: rugby player since 2000. honours: under 16 valencia selection. 2 caps 2001 captain in under-18 albacete rugby club. 2002-2004 albacete rugby club senior 2002-2004 in first national spanish division captain & coach in covarrubias college rugby, madrid. 2004-2008 guitar player. 4 years in the albacete school of music amateur painter monitor in summer camp in 2004, dun laoghaire, ireland",
+    "text_from_header": "PERSONAL DETAILS",
+    "detected_language": "en",
+    "master_edition": "MASI13"
+}

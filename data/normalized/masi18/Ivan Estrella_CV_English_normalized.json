@@ -1,0 +1,122 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Iván Patricio Estrella Sandoval",
+        "date_of_birth": "24/11/1981",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 37,
+        "email": "ivanestrella99@gmail.com",
+        "phone": "+34648743363",
+        "address": "Calle Rio Duero, 11, piso 4b, 28913 Leganés Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master universitario en ingenieria industrial",
+            "field": "ingeniería industrial",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, España",
+            "year": "2017-2018",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Licenciatura en ingeniería mecánica",
+            "field": "ingeniería mecánica",
+            "university": "Escuela Politécnica Nacional del Ecuador",
+            "location": "Quito, Ecuador",
+            "year": "2006-2015",
+            "duration_years": 9.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Baker Hughes Drilling Services",
+            "position": "Field Specialist IV/Directional Driller",
+            "description": "Responsible for keeping the planned wellbore trajectory and ensuring well quality for subsequently activities. Experience in directional wells type S, J, J-modified and horizontal wells.",
+            "start_date": "01/2011",
+            "end_date": "04/2015",
+            "duration_years": 4.25
+        },
+        {
+            "company": "Schlumberger Drilling & Measurements",
+            "position": "Field Engineer-II / Directional Driller",
+            "description": "Experience in directional wells type S, J, J-modified and horizontal wells drilled in fields placed in Ecuador.",
+            "start_date": "24/04/2006",
+            "end_date": "31/07/2011",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Schlumberger Drilling & Measurements",
+            "position": "MWD/LWD Engineer (Measurement While Drilling / Logging While Drilling)",
+            "description": "In charge of getting the information from downhole drilling tools, analysis of downhole information for different clients in fields placed in Ecuador, Colombia, Peru and Mexico.",
+            "start_date": "24/04/2006",
+            "end_date": "31/07/2011",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Escuela Politécnica Nacional del Ecuador",
+            "position": "Laboratory Assistant",
+            "description": "Performing several jobs for oil and metal mechanic industries.",
+            "start_date": "01/05/2005",
+            "end_date": "31/03/2006",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Escuela Politécnica Nacional del Ecuador",
+            "position": "Class and Laboratory Assistant in Material Science and Selection, Welding Control Principles, Materials Wear Control",
+            "description": "",
+            "start_date": "2005",
+            "end_date": "2006",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Ecuador, Colombia, Peru, Mexico (including offshore platform)",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Experience in drilling operations and tools analysis.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "WellArchitect",
+            "Advantage (Baker DS software)",
+            "Drilling Office",
+            "DOX",
+            "IDEAL HSPM",
+            "(SLB software)",
+            "Algor",
+            "Abaqus finite element design",
+            "Solidworks Computer Aid Design",
+            "AutoCAD 2D y 3D",
+            "Microsoft Word",
+            "Microsoft Excel"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 4.25,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 34,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

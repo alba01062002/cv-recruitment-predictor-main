@@ -1,0 +1,121 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pablo Vega Núez",
+        "date_of_birth": "02/06/1992",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 25,
+        "email": "pabvegnun@gmail.com",
+        "phone": "+34 677 802 249",
+        "address": "Seville, Spain",
+        "LinkedIn": "www.linkedin.com/in/pabvegnun",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Degree in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Higher Technical School of Engineering, Seville",
+            "location": "Seville",
+            "year": "2010-2016",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Certificate in Advanced English",
+            "field": "",
+            "university": "",
+            "location": "",
+            "year": "June 2016",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Atexis Spain S.L.",
+            "position": "Technical Author",
+            "description": "Technical authoring of IPC (Illustrated Parts Catalog). Study of technical documentation for Airbus Light & Medium Programme. Impact assessment on ATA chapters, elaboration and validation of illustrations and part lists, quality assurance and technical support for partners.",
+            "start_date": "11/2015",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "AICIA",
+            "position": "Research Grant",
+            "description": "Development of an indoor positioning system. Revision, study and advise about suitable technologies in order to meet clients needs. Regular presentations and meetings with involved departments.",
+            "start_date": "02/2016",
+            "end_date": "05/2016",
+            "duration_years": 0.25
+        },
+        {
+            "company": "SUR",
+            "position": "Summer Job Trainee",
+            "description": "Designed and placed adverts, customer support in English/ Spanish, computer and network maintenance, messenger boy.",
+            "start_date": "07/2007",
+            "end_date": "10/2010",
+            "duration_years": 3.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Simulink",
+            "Pspice",
+            "Proteus",
+            "CATIA",
+            "SDR#",
+            "VBA",
+            "MS Office"
+        ],
+        "soft_skills": [
+            "Nastran-patran",
+            "C",
+            "HTML",
+            "Linux",
+            "Ubuntu",
+            "MTéX"
+        ]
+    },
+    "other_interests_normalized": [
+        "Meteorology",
+        "Software Defined Radio",
+        "Stock Markets",
+        "DIY",
+        "3D Print",
+        "Mountain Biking",
+        "Arduino"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.9
+}

@@ -1,0 +1,138 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carlos Ramos Maeso",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": null,
+        "email": "carlos.ramos.maeso@gmail.com",
+        "phone": "666888804",
+        "address": "Calle Av del La Estación 9, Almería, 04005, España",
+        "LinkedIn": "https://es.linkedin.com/pub/carlos-ramos-maeso/78/668/241/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://carlosramosmaeso.es/"
+    },
+    "education_normalized": [
+        {
+            "degree": "Ing. Aeronáutico",
+            "field": "Aeronáutica y Defensa",
+            "university": "Escuela Técnica Superior de Ingenieros Aeronáuticos, Universidad Politécnica de Madrid",
+            "location": "Madrid, España",
+            "year": "2011-2013",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "Matemáticas Numéricas",
+            "university": "Katholieke Universiteit Leuven",
+            "location": "Lovaina, Bélgica",
+            "year": "2005-2006",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Manufacturing Lean",
+            "university": "E.T.S.I.A, Madrid (con EADS)",
+            "location": "Madrid, España",
+            "year": "2010",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Fabricación de Aeronaves",
+            "university": "E.T.S.I.A, Madrid (con EADS)",
+            "location": "Madrid, España",
+            "year": "2010",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Deimos Space. Aerospace and Defense Division",
+            "position": "Becario",
+            "description": "Desarrollo del proyecto de fin de carrera: 'Evaluation of robust methods for hybrid navigation'",
+            "start_date": "09/2008",
+            "end_date": "11/2013",
+            "duration_years": 5.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Bélgica",
+            "institution_or_company": "Katholieke Universiteit Leuven",
+            "start_date": "08/2005",
+            "end_date": "07/2006",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "España",
+            "institution_or_company": "E.T.S.I.A, Madrid (con EADS)",
+            "start_date": "08/2010",
+            "end_date": "07/2010",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "German",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "C++"
+        ],
+        "soft_skills": [
+            "Interacción oral",
+            "Lectura"
+        ]
+    },
+    "other_interests_normalized": [
+        "Teatro",
+        "Balonmano"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Jugador de Balonmano",
+            "duration": "2008-2009",
+            "description": ""
+        },
+        {
+            "organization": "C.M.U. Mendel",
+            "role": "Participante del grupo de teatro",
+            "duration": "2008-2010",
+            "description": ""
+        },
+        {
+            "organization": "Unicaja Almeria",
+            "role": "Jugador de Balonmano",
+            "duration": "2004-2005",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 5.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

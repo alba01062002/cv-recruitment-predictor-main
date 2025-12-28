@@ -1,0 +1,90 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Arturo José Guillén Hernández",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "guillenarturojose@gmail.com",
+        "phone": "673109295",
+        "address": "",
+        "LinkedIn": "www.linkedin.com/in/arturo-jos%C3%A9-guill%C3%A9n-hern%C3%A1ndez-0b96b4185",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeroespacial",
+            "field": "Ingeniería Aeroespacial",
+            "university": "Universidad Politécnica de Valencia",
+            "location": "Valencia",
+            "year": "2016-2020",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Capgemini Engineering ASD I+D",
+            "position": "Consultor Ingeniería Junior",
+            "description": "Trabajar en equipo con distintos proyectos de innovación aeroespacial. Investigación de nuevos métodos de análisis y resolución de problemas. Aprendizaje en el uso de distintos softwares de ingeniería aeroespacial. Gestión de documentación de proyectos. Creatividad para la investigación de nuevas tecnologías.",
+            "start_date": "11/2020",
+            "end_date": "12/2025",
+            "duration_years": 5.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Ansys Fluent",
+            "Sue2",
+            "Ad MeF: Ansys Workbench",
+            "CATIA",
+            "Autodesk Fusion 360",
+            "SolidWorks"
+        ],
+        "soft_skills": [
+            "Gestión del tiempo y planificación",
+            "Trabajo en equipo",
+            "Responsabilidad y liderazgo",
+            "Creatividad"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 5.08,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

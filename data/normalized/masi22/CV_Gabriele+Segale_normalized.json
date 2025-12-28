@@ -1,0 +1,129 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Gabriele Segale",
+        "date_of_birth": "02/03/1997",
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": 25,
+        "email": "gabrielesegale@gmail.com",
+        "phone": "(+34) 671300308",
+        "address": "calle pizarro 16, 28004, madrid, spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Automotive Engineering",
+            "field": "Automotive engineering",
+            "university": "Politecnico di Torino",
+            "location": "Torino, Italy",
+            "year": "2016-2020",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Bachelor's Degree in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "Università degli Studi di Bergamo",
+            "location": "Bergamo, Italy",
+            "year": "2012-2016",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Secondary School Diploma in Mechanical Engineering",
+            "field": "Mechanical engineering",
+            "university": "Istituto Industriale Statale 'Guglielmo Marconi'",
+            "location": "Dalmine, Italy",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "CX Centax S.r.l. - Medtronic",
+            "position": "Telephone Switchboard Operator",
+            "description": "Provided telephone technical assistance to diabetic patients for technical problems, material replacement, insertion of information and contact with customers.",
+            "start_date": "09/2020",
+            "end_date": "06/2021",
+            "duration_years": 0.75
+        },
+        {
+            "company": "Pizza Round No Limits",
+            "position": "Waiter",
+            "description": "Service and interaction with clients, management of the working environment (room accommodation, kitchen accommodation, cleaning).",
+            "start_date": "10/2019",
+            "end_date": "01/2020",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ Experience",
+            "country": "Spain",
+            "institution_or_company": "Universidad Politécnica de Madrid",
+            "start_date": "MM/YYYY",
+            "end_date": "",
+            "description": "One year experience in Spain.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Madrid, Spain",
+            "institution_or_company": "Universidad Politécnica de Madrid",
+            "start_date": "2019-2020",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Italian",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Autodesk AutoCAD",
+            "Solid Edge",
+            "Matlab/Simulink",
+            "HyperMesh (FEM)",
+            "StarCCM+",
+            "NX Siemens Software",
+            "Microsoft Office Suite",
+            "Microsoft Excel",
+            "Microsoft PowerPoint"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Problem solving",
+            "Independence",
+            "Adaptability",
+            "Critical synthesis",
+            "Constancy",
+            "Dedication",
+            "Communication and interpersonal skills"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 1.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 19,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

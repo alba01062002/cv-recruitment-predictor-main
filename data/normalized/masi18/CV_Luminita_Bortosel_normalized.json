@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Lucy Bortosel",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "lucy.bortosel24@gmail.com",
+        "phone": "+34 664 101 644",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": "https://www.uah.es/es/estudios/master-en-professional-development-4.0-airbus-group-minds/"
+    },
+    "education_normalized": [
+        {
+            "degree": "Aerospace Engineering Degree",
+            "field": "Aerospace Engineering",
+            "university": "University of Seville",
+            "location": "Seville",
+            "year": "2012-2017",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence and Space",
+            "position": "Internship Student (Rudder B737, Ailerons and Flaperons B777)",
+            "description": "Support in management positions for rudder b737, ailerons and flaperons b777. Support activities responsible for personnel management, lean manufacturing, assembly processes, monitor progress of work and planning, continuous improvement, leadership, quality improvement.",
+            "start_date": "May 2016",
+            "end_date": "July 2016",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Defence and Space",
+            "position": "Internship Student (A400M Fal)",
+            "description": "Production Department - Wing equipping and testing station support for the following tasks: manufacturing and test engineering, fuel system performance tracker. Improvement projects responsible for management of non-conformities and partner's outstanding work.",
+            "start_date": "October 2016",
+            "end_date": "12/2018",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab/Simulink",
+            "Ansa (aerospace simulation software)",
+            "Ms Office (IT and Engineering)",
+            "CATIA (Solid and Surfaces Modelling)",
+            "Patran/Nastran",
+            "Pspice"
+        ],
+        "soft_skills": [
+            "Self-confident",
+            "Strong analytical mind",
+            "Leadership",
+            "Communication and teamwork",
+            "Abstract, enthusiastic, dynamic and committed"
+        ]
+    },
+    "other_interests_normalized": [
+        "Aerospace industry experience",
+        "UAVs & Flight Control System Symposium Attendee",
+        "Society of Flight Test Engineers - European Chapter Symposium Attendee and Assistant Student",
+        "Rocket Workshop Attendant"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Euroavia Sevilla",
+            "role": "President of Euroavia Sevilla; Head of European Association of Aerospace Students (EAAS); Vice-president and Executive member of Euroavia Sevilla; Coordinator of EAAS",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.4
+}

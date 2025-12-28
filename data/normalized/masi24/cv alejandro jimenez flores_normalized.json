@@ -1,0 +1,114 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro Jiménez Flores",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "alejandrojimenez97@hotmail.com",
+        "phone": "+52 (614) 454 2673",
+        "address": "Chihuahua, Chihuahua, México",
+        "LinkedIn": "https://www.linkedin.com/in/alejandrojf97",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "M.Sc. candidate in Aeronautical Engineering",
+            "field": "Aeronautical Engineering with orientation in Flight Dynamics",
+            "university": "Center of Research and Innovation in Aeronautical Engineering (FIME - CIIIA - UANL)",
+            "location": "Monterrey, Nuevo León, México",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "B.Eng. in Aeronautical Engineering",
+            "field": "Aeronautical Engineering",
+            "university": "Polytechnic University of Chihuahua",
+            "location": "Chihuahua, Chihuahua, México",
+            "year": "2016-2020",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Course Teacher at Polytechnic University of Chihuahua (Full-time)",
+            "description": "Courses taught: differential and integral calculus, English B1C2, metrology, probability and statistics. Courses advised: physics, vibrations, materials resistance.",
+            "start_date": "01/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.92
+        },
+        {
+            "company": "",
+            "position": "Course Teacher at Polytechnic University of Apodaca (Part-time)",
+            "description": "Courses taught: programming logic.",
+            "start_date": "09/2022",
+            "end_date": "12/2022",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "VRML",
+            "Linear control systems",
+            "Arduino",
+            "Dynamic systems modelling",
+            "SolidWorks",
+            "Siemens NX",
+            "Ansys Workbench",
+            "Python",
+            "Signals processing",
+            "Neural networks"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Cycling",
+        "Technology",
+        "Quadrotors",
+        "Airplanes",
+        "Coffee",
+        "Piano",
+        "Nature",
+        "UAV's"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 9.0,
+    "total_work_years": 3.17,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

@@ -1,0 +1,110 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Itxaso Asensi Ramos",
+        "date_of_birth": "31/03/1991",
+        "gender": "female",
+        "age_reference_year": 2018,
+        "age": 27,
+        "email": "itxaso.asensi@gmail.com",
+        "phone": "+34 665 45 47 29",
+        "address": "c/López de Hoyos 337, 3 d., Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería en Tecnologías Industriales",
+            "field": "Organización Industrial",
+            "university": "Escuela Técnica Superior de Ingenieros Industriales, UPM",
+            "location": "Madrid",
+            "year": "2009 - 2016",
+            "duration_years": 7.0
+        },
+        {
+            "degree": "Máster Habilitante en Ingeniería Industrial",
+            "field": "",
+            "university": "UPM",
+            "location": "Madrid",
+            "year": "2015 - 2017",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ICP Technological Solutions",
+            "position": "Jefe de Laboratorio",
+            "description": "Gestión y control de procesos de reparación de terminales, comunicación con fabricantes. Gestión de personal técnico, formación y mejora de procesos.",
+            "start_date": "11/2017",
+            "end_date": "12/2025",
+            "duration_years": 8.08
+        },
+        {
+            "company": "Bernard Controls",
+            "position": "Sales Engineer",
+            "description": "Gestión y elaboración de ofertas técnicas y económicas, gestión de clientes y proveedores, seguimiento de pedidos, análisis general, elaboración de tarifas. Usuario experto de Microsoft Dynamics (CRM y ERP de la compañía).",
+            "start_date": "02/2017",
+            "end_date": "10/2017",
+            "duration_years": 0.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Francia",
+            "institution_or_company": "École nationale supérieure des mines de Saint-Étienne",
+            "start_date": "",
+            "end_date": "2017",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "France",
+            "institution_or_company": "École nationale supérieure des mines de Saint-Étienne",
+            "start_date": "2016 - 2017",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office (Nivel experto)",
+            "Microsoft Dynamics (Nivel experto)",
+            "Microsoft Project (Nivel avanzado)",
+            "Programación en Visual Basic for Applications (Nivel medio)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Centro Cultural para la Integración de Menores en Riesgo de Exclusión Social",
+            "role": "Voluntaria",
+            "duration": "2015",
+            "description": ""
+        }
+    ],
+    "degree_years": 9.0,
+    "total_work_years": 8.75,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.8
+}

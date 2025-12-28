@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales nombre y apellidos: miguel díaz barja fecha de nacimiento: 21 de febrero de 1983 lugar de nacimiento: madrid d.n.i: 50754381-m dirección: c/pablo casals, n12, 9d 28011 madrid teléfono: 914647521 teléfono móvil: 660244694 e-mail: mdiazbarja@gmail.com formación académica 2001-2008: ingeniero aeronáutico por la universidad politécnica de madrid. especialidad: aeronaves 1999-2001: bachillerato internacional con calificación matrícula de honor. instituto ramiro de maeztu (madrid). formación complementaria seminarios: - noviembre 2006: eads pegasus road show, etsia madrid. - noviembre 2003: the new formation workshop, euroavia stuttgart. - marzo 2003: aerodynamics of sailing yachts, euroavia pisa. experiencia laboral 2006-2007: clases particulares de matemáticas a universitarios. verano 2002: colaboración en el departamento de vehículos aeroespaciales. etsia idiomas inglés: nivel c1 del marco común europeo de referencia (acreditable mediante certificado del british council). otros datos de interés ofimática nivel usuario. conocimientos de programación en fortran y matlab. solid edge: nivel alto. catia: nivel medio. secretario de la junta directiva de euroavia madrid 2003-2008. miembro del comité de organización de fly-in madrid (marzo 2007). permiso de conducción categoría b (junio 2003) y vehículo propio. deporte. pertenencia a clubes de 2* y 3* regional (federación de fútbol de madrid): - 1999-2003: club recreativo guindalera. - 2003-2008: club deportivo silvela.",
+    "text_from_header": "DATOS PERSONALES",
+    "detected_language": "es",
+    "master_edition": "MASI09"
+}

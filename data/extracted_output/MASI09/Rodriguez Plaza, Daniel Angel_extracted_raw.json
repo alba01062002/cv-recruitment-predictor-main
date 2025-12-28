@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "daniel ángel rodríguez plaza nacionalidad: espaa datos de contacto teléfono: 649353569 dirección: c/antonio lópez, 234f 2a población: madrid perfil profesional nivel de estudios: cursando ingeniero superior formación académica: telecomunicación (finalizando proyecto) idiomas: +) inglés: nivel medio-alto. +) francés: nivel básico conocimientos conocimiento en informática ao de nacimiento: 15 de octubre de 1981 provincia: madrid e-mail: danielovick@ gmail.com darodriguezp @indra.es cédigo postal: 28026 pais: espaa universidad: carlos ill de madrid (acceso con nota media 8.3) experiencia total (en aos): administrador de una wikipedia (beca-universidad). enero-mayo 2008: beca (accenture s.l.). he prestado apoyo en tareas: de estructuración de los niveles de presentación y datos, y de calidad e implantación. diseo de funcionales aplicaciones y pruebas unitarias portal web. julio 2008: beca ( ericsson network services s.a.). apoyo en control de incidencias de cobertura en telefonía móvil. desde septiembre 2008: indra sistemas, unidad de redes y comunicaciones. + lenguaje de programación java, c, lenguaje ensamblador, shell script, sockets, sql, servlets, jsp, javabeans y rmi. + protocolos y aplicaciones como tcp, udp, dns, ftp, tftp, telnet, rlogin, smtp, esmtp, pop3, imapv4, rtp, rtcp, http, ip, atm, rdsi, ethernet. + administración de sistemas operativos windows (95,98,millenium edition, xp), linux (kde), y configuración de redes. + seguridad en red ( técnicas de cifrado, firmas digitales). + manejo del software matlab, word, open office, excel, power point comunicaciones + arquitecturas y calidad de servicio de conmutadores de paquetes, junto a técnicas de conmutación mpls,gmpls,vpn. + comunicaciones terrestres adsl, hdsl, vdsl, lmds, wimax, bluetooth y plc, móviles 3g,3.5g,gsm, implementación). satélite (dvb-s,dvb-rcs). (disponibilidad, calidad e + análisis (analizador de espectros, analizadores escalar y vectorial) y diseo de circuitos en alta frecuencia (componentes, resonadores, redes pasivas, acoplo, acoplador direccional, resonadores, antenas) electrónica caracterización. + circuitos de baja frecuencia, equipos de instrumentación electrónica y su + peculiaridades del sector industrial aéreo, técnicas de navegación y control del tráfico, familiarización con las cabinas de avión futuras (fans) y centros de control aéreo previstos. -1- información adicional permiso de conducción b1. entre las prácticas realizadas puedo destacar: sistema de medida de temperatura (mediante interferometría láser), de distancia (ultrasonido y frecuencias ópticas), transmisión de una seal de televisión utilizando fibra óptica, montaje y programación de la electrónica de control de un ascensor utilizando el microcontrolador at89c4051 a través del puerto del pc.",
+    "text_from_header": "CURRICULUM VITAE",
+    "detected_language": "es",
+    "master_edition": "MASI09"
+}

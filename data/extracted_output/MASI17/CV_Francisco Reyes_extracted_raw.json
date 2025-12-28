@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "francisco reyes guerrero paseo de la esperanza, 1, madrid, 28005 email: franreyesgue@gmail.com tel: +34 699 877 474. date of birth: 07/10/1992 education university of manchester 2014-2015 msc aerospace engineering grade: 6.7 e modules included advanced modelling and simulation, advanced cfd, advanced propulsion and advanced aerodynamics. e dissertation project: computation of wall heat transfer in rotating passages, in collaboration with computational fluid dynamic department. achieved a grade of 6.7. e performance leader in team project, designing, testing and building a fully autonomous unmanned aerial vehicle (uav) for a potential customer. universidad politécnica de madrid 2010-2014 bsc aerospace engineering grade: 6.81 e major in aerospace propulsion. modules included heat transfer, cfd, advanced fluid mechanics and mathematical methods. e dissertation project: fire retardancy in polylactic acid composites, in collaboration with imdea materials. achieved a grade of 9.5. e chief engineer leader in team project, taking the initiative in every decision. the aim was to design a hang glider with cad software (catia v5). as a team, we succeed and got a grade of 7.8. engineering work experience akka technologies, getafe june 2016 - now thermal and cfd engineer e airbus defence and space on behalf of akka technologies. e carried out a 2d and 3d thermal analysis of a320neo fan cowl of cfm engine with ansys fluent, by cleaning up the geometry in catia v5, making a structured mesh in ansys meshing and finally running the thermal analysis in fluent and steady-state thermal module. e performed thermal analysis of a320neo fan cowl of pratt & whitney engine, as well as the cowl of thrust reversal. e thermal analysis of the bleed air leak detection system (balds) in fluent. airbus operations s.l., getafe oct 2015 june 2016 aeronautical engineer intern e in egwms (flight physics mass properties department), i carried out a trade-off campaign on a330 metallic wing covers to find an optimum structure solution with minimum weight, by using presto, a rapid sizing tool linked with nastran, femix and isami, launched through unix environment. e writing of presto documentation and user manuals. e in eglcg (flight physics - component loads department), i performed a fleet survey on a380 flight data of three airlines, to ensure the current htp loads are in agreement with design loads, by performing a statistical analysis using matlab and excel. page 1 of 2 e carried out an analysis of loads generated in windmilling imbalance scenario on a350 program, to ensure this load imbalance is within ultimate loads envelope. e on demand matlab and visual basic scripts development for tasks automation. university of manchester, manchester april oct 2015 research associate e carried out a research about the computation of wall heat transfer in rotating passages, especially focused in the cooling of gas turbine blades, using ansys fluent for modelling and simulating. e performed grid-independence study in meshes of up to 2 million of nodes. e applied ke and rsm turbulence models, alongside different wall treatments, both in 2d and 3d. e computational analyses were performed in 4 cores in parallel in a high performance computing (hpc) pc cluster, through unix environment. imdea materials, madrid feb july 2014 research associate e led a research on epoxy resins and biodegradable polymers. e improved the properties of polymer pla (polylactic acid) in the laboratory, adding flame-retardants additives i synthesised, obtaining excellent results focused in making pla a more environmentally friendly material. e analysed different manufacturing processes to ensure the optimum material properties. due to this initiative, a new manufacturing procedure was adopted, which solved further problems of fragility. e communicated regularly with group leader about material performance. e awarded as the most profitable research team in the company. e two scientific papers published as co-author (dot: 10.1021/acssuschemeng.5b00980 and 10.1016/j.polymdegradstab.2016.01.014 ). furthermore, a patent is being applied for. additional skills it e proficient in the use of ansys fluent, originpro, matlab and fortran . sound knowledge of catia v5, latex, python and visual basic. driving e full clean driving license languages e english: fluent (c1 level) french: basic-intermediate (a2 level) e spanish: native sport e professional table tennis player for 2 years in 2009. as a team, we managed to ascend to the national league, and won 3 tournaments. e regularly participated in football matches at airbus and at university of manchester. referees mr radoslaw zawadzki mr oscar castro alvarez head of mass estimation and control head of component loads airbus operations airbus operations (+34) 91 756 40 72 (+34) 627 716 840 radoslaw.zawadzki@airbus.com oscar.castro-alvarez@airbus.com page 2 of 2",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI17"
+}

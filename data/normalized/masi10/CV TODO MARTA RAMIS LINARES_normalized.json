@@ -1,0 +1,94 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Marta Ramis Lлинаres",
+        "date_of_birth": "28/08/1983",
+        "gender": "female",
+        "age_reference_year": 2010,
+        "age": 27,
+        "email": "martaramis@gmail.com",
+        "phone": "605765093",
+        "address": "c/Sabino Arana n 90, 3Dch-Ctr, 48940 Leioa (Vizcaya)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Superior Industrial",
+            "field": "Diseño Mecánico",
+            "university": "Escuela Técnica y Superior de Ingeniería de Bilbao",
+            "location": "Bilbao",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Laboratorio Lamcos INSa de Lyon (France)",
+            "position": "Empleada en periodo de prácticas",
+            "description": "Desarrollo sostenible en generadores eólicos. Utilización del software LabView 8.6 con objeto de desarrollar un innovador sistema de adquisición de datos para el control de defectos en el multiplicador de aerogeneradores.",
+            "start_date": "01/2009",
+            "end_date": "12/2009",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Departamento de Ingeniería Mecánica, Escuela Técnica y Superior de Ingeniería de Bilbao",
+            "position": "Empleada en periodo de prácticas",
+            "description": "Investigación sobre las propiedades resistentes de robots de cinemática paralela, utilización del software Ansys10.0 y su módulo de elementos finitos, y MATLAB7.1.",
+            "start_date": "09/2006",
+            "end_date": "08/2008",
+            "duration_years": 1.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "France (Lyon)",
+            "institution_or_company": "",
+            "start_date": "01/2009",
+            "end_date": "05/2009",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "Euskera",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "LabView 8.6",
+            "Ansys10.0",
+            "MATLAB7.1",
+            "Autocad",
+            "Microsoft Office",
+            "Internet"
+        ],
+        "soft_skills": [
+            "Trabajo en equipo"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 2.84,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.9
+}

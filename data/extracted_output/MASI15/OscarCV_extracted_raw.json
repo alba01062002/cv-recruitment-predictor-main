@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal information - name and surname: óscar rodríguez rebollo - address: calle fernández de los rios 92, 52 1 cp: 28015, madrid, spain - date and place of birth: december, 7th 1990. talavera reina (toledo, spain) - contact number: +34 618019205 - e-mail: o.rodriguezr.900 gmail.com education academic training: 2008 - 2014 aeronautical engineering, escuela técnica superior ingenieros aeronáuticos (etsia), politécnica de madrid (upm). master thesis: dc motor controller using fpga aditional training: - computer skills: operative systems: windows, mac os x, linux (ubuntu and debian) and z/os. microsoft office (word, excel and powerpoint). mathematical software: matlab /simulink. 3d design: catia v5, solid edge. programming languages: fortran 90, c/c++, cobol, hardware description language (hdl) verilog. fpga: quartus ii. - languages: native speaker of spanish. advanced english skills: first certificate in english, esol examinations. academic exchange in nottingham (east midland, england)(2005). english course in york (yorkshire, england) (2006). professional experience february 2015- present it consultant (solutions assistant) for bbva. i design new programs and perform built-in tests everis spain madrid 2012 - 2013 part time teacher private lessons of maths and physics, eso and bachillerato level madrid 2009 - 2010 futsal referee liga colegios mayores madrid others - participation in xxi olimpiada espafiola of physics (2008). - resident in the college cmu diego de covarrubias for four years helping in different areas. - driving license.",
+    "text_from_header": "CURRICULUM VITAE",
+    "detected_language": "en",
+    "master_edition": "MASI15"
+}

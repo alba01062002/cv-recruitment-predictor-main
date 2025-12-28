@@ -1,0 +1,96 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José Ignacio Cogolludo Galán",
+        "date_of_birth": "09/06/1986",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 24,
+        "email": "jicogolludo@alumnos.upm.es, jicogog@hotmail.com",
+        "phone": "(916474330) (prioritario) 600770577",
+        "address": "c/ Río Sella, n. 6, escalera 2 6 izquierda, 6 A 28934 Móstoles (Madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachillerato",
+            "field": "N/A",
+            "university": "1.E.S. Miguel de Cervantes (Móstoles)",
+            "location": "Móstoles, Madrid",
+            "year": "",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Ingeniería Técnica Aeronáutica - Especialidad Aeronaves",
+            "field": "Aircraft Systems Integration",
+            "university": "Escuela Universitaria de Ingeniería Técnica Aeronáutica (EUITA)",
+            "location": "Madrid",
+            "year": "2004-2008",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ITD (Engineering and Design Services)",
+            "position": "Calculista en prácticas",
+            "description": "Labor de apoyo en los cálculos estructurales del lower wing cover del A350 XWB y en el A330 MRTT.",
+            "start_date": "09/2008",
+            "end_date": "01/2009",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Metro de Madrid S.A.",
+            "position": "Becario en prácticas",
+            "description": "",
+            "start_date": "05/2009",
+            "end_date": "08/2009",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "United Kingdom (England)",
+            "institution_or_company": "EF Education London, Malvern House London",
+            "start_date": "",
+            "end_date": "18/08/2003 - 23/08/2009",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "Nastran / Patran",
+            "CFD Fluent",
+            "Simulación de sistemas dinámicos - Simulink",
+            "Software matemático - MATLAB"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Problem-solving",
+            "Teamwork",
+            "Project Management"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.58,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

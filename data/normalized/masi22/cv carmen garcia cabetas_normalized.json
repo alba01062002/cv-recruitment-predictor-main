@@ -1,0 +1,155 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carmen García Cabetas",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "cgcabetas@gmail.com",
+        "phone": "+34 615 163 191",
+        "address": "avda/ europa, n* 28 28224 madrid spain",
+        "LinkedIn": "www.linkedin.com/in/cgcabetas",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aeronautical Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2019-2021",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "BSc in Aerospace Engineering",
+            "field": "Aerospace Vehicles",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "Sept 15 - Oct 19",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defense & Space",
+            "position": "Flight Dynamics, Orbit Determination (AX Airbus Xplorer)",
+            "description": "Curricular practicum and degree final project. Orbit determination for LEOP phase in CHEOPS mission. Flight dynamics interface & algorithm for orbit prediction.",
+            "start_date": "Feb 2019",
+            "end_date": "June 2019",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Capgemini Engineering",
+            "position": "Bleed Air System Engineer & Consultant for Airbus (ATA36)",
+            "description": "Activities on behalf of Airbus ATA36 bleed air system design office on civil aircraft programs: Programs - A380, SACEO, SANE, A321neo XLR, SANE Pip, LR, Alize. V&V activities - LTRS, GTRS, FTRS, V&V summaries, SDD. Iterations with stakeholders (i.e., safety, FESRA, FTS, SEI) - Management of non-compliances - Control & monitoring activities - Support to Safety Impact Analysis (SIA) - SI (Special Instruction) requests for MAP/FAL (i.e., OHDS heat gun tests) - Customer support: RFW of A320CEO and MISP of SANE. Support to RCA, FTRS, FTLS. Collaboration with other ATASS for test procedures definition. Communication with supplier for equipment instrumentation and concessions. Deviation documentation and RDT/FCDAs for a permit to fly. Analysis of data from flight tests. - Training to new entry team members - Work on tools: DOORS, FUN2, OASIS-Sirocco - Knowledge on config. management and Airbus processes.",
+            "start_date": "May 2021",
+            "end_date": "12/2022",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Exchange Programs",
+            "country": "Australia",
+            "institution_or_company": "Queensland University of Technology (QUT), Brisbane & Royal Melbourne Institute of Technology (RMIT), Melbourne",
+            "start_date": "July - Dec 2017 & July - Dec 2018",
+            "end_date": "",
+            "description": "Participated in exchange programs for aerospace engineering.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Exchange Programs",
+            "country": "Ireland",
+            "institution_or_company": "The Teresian School, Dublin",
+            "start_date": "2012",
+            "end_date": "",
+            "description": "Student exchange with British Council English lessons.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Exchange Programs",
+            "country": "USA",
+            "institution_or_company": "Riverside-Brookfield High School, Riverside & Linn-Mar High School, Marion",
+            "start_date": "2013-2014",
+            "end_date": "",
+            "description": "Lived for a year in the USA.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "Feb - June 2019",
+            "end_date": null,
+            "description": "Business Skills: Seedbed AX",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "DOORS",
+            "FUN2",
+            "OASIS-Sirocco",
+            "CATIA",
+            "ABAQUS",
+            "Solid Edge",
+            "CyclePad Proosis",
+            "AMPL",
+            "Nest",
+            "Ansys Xflr5"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Team Building",
+            "Effective Presentations",
+            "Innovation",
+            "Customer Focus",
+            "Personal Branding",
+            "Communication",
+            "Project Management",
+            "Business Innovation"
+        ]
+    },
+    "other_interests_normalized": [
+        "Risk Management",
+        "Running",
+        "Finance",
+        "Economics",
+        "Padel",
+        "Politics",
+        "Travel",
+        "Ski"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Fly Your Thesis - Parabolic Flight Campaign Researcher",
+            "duration": "Dec 2020 - Nov 2021",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

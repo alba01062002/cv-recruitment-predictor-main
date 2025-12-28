@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rubén Rabaneda Herrero",
+        "date_of_birth": "02/05/1982",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 28,
+        "email": "rabenrabaneda@gmail.com",
+        "phone": "666703759, 659798328",
+        "address": "C/ Hermes n 2 portal 1, esc 1, ático 1. 41014 (Sevilla)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Superior de Telecomunicaciones",
+            "field": "Electrónica",
+            "university": "Universidad de Sevilla",
+            "location": "Sevilla",
+            "year": "2000-2008",
+            "duration_years": 8.0
+        },
+        {
+            "degree": "",
+            "field": "Análisis numérico de ecuaciones en derivadas parciales",
+            "university": "Escuela Politécnica di Bari (Italia)",
+            "location": "Bari",
+            "year": "2007-2008",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Portel Servicios Telemáticos S.A.",
+            "position": "Supervisión del mantenimiento y correcto funcionamiento de las infraestructuras",
+            "description": "",
+            "start_date": "09/2009",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Italia",
+            "institution_or_company": "Escuela Politécnica di Bari",
+            "start_date": "07/2007",
+            "end_date": "07/2008",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Reino Unido",
+            "institution_or_company": "",
+            "start_date": "10/2008",
+            "end_date": "06/2009",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Italian",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Maple",
+            "SPICE",
+            "PSpice",
+            "LabVIEW",
+            "Simulink",
+            "C/C++",
+            "Ensamblador de Motorola",
+            "Visual C++",
+            "Visual Studio",
+            "Sim3xW para TMS320C3X de Texas Instrument",
+            "Windows (Sistemas operativos y herramientas de propósito general)",
+            "Office",
+            "OpenOffice",
+            "Antivirus",
+            "Firewalls",
+            "Photoshop"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Persona muy activa, participativa y deportista",
+        "Responsabilidad y capacidad de sacrificio en el trabajo diario",
+        "Inquietudes, motivación y disposición para el desarrollo profesional",
+        "Constancia, tesón y afán de superación"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

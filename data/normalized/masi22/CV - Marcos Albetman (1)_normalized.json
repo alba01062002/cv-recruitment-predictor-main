@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Marcos Albetman",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "albetmanmarcos@outlook.com",
+        "phone": "+44 07722560517",
+        "address": "49a Bulwork Road, Chepstow, NP16 5JW, UK",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BEng (Hons)",
+            "field": "Electronic and Electrical Engineering",
+            "university": "University of Westminster, London",
+            "location": "London",
+            "year": "2017-2021",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Trameto",
+            "position": "Graduate Product Engineer",
+            "description": "Collaborate closely with analog and digital IC design engineers to define test methodologies, understand requirements and use-cases. Create Python scripts for testing ICs.",
+            "start_date": "Aug 2021",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Cummins Inc (Placement Year)",
+            "position": "Product Design Engineer",
+            "description": "Design, develop and research generator set power systems. Use engineering tools to resolve internal and external customer issues.",
+            "start_date": "Aug 2019",
+            "end_date": "Jul 2020",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "MATLAB",
+            "Python",
+            "Assembly PIC",
+            "VHDL",
+            "ARM Cortex-M",
+            "PSpice",
+            "Multisim",
+            "QuickSim",
+            "Design Architect",
+            "Simulink",
+            "Kicad",
+            "AutoCAD",
+            "SolidWorks",
+            "Creo",
+            "3D Printing Modelling (CURA)",
+            "Microsoft Excel",
+            "Microsoft Office",
+            "PowerPoint"
+        ],
+        "soft_skills": [
+            "Problem solving",
+            "Communication",
+            "Team work"
+        ]
+    },
+    "other_interests_normalized": [
+        "Hiking",
+        "Travelling",
+        "Running"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Oxfam",
+            "role": "Volunteer",
+            "duration": "2017-2021",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

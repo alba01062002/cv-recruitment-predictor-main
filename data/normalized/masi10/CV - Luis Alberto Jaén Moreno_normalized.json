@@ -1,0 +1,125 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Luis Alberto Jaén Moreno",
+        "date_of_birth": "27/03/1986",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 24,
+        "email": "luisjm86@gmail.com",
+        "phone": "(+34) 647 23 33 57",
+        "address": "Parque Capuchinos blq. 4 - 7 c 11405 Jerez de la Frontera (Cádiz)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero de Telecomunicación",
+            "field": "Telecontrol y Robótica",
+            "university": "Universidad de Sevilla",
+            "location": "Sevilla",
+            "year": "2004 - 2009",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Mecanizados y Montajes Aeronáuticos S.A.",
+            "position": "Operador de Máquina de Control Numérico",
+            "description": "",
+            "start_date": "06/2006",
+            "end_date": "07/2006",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Intensificación universitaria",
+            "country": "Alemania",
+            "institution_or_company": "Ruhr-Universität Bochum",
+            "start_date": "09/2008",
+            "end_date": "09/2009",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Intensificación universitaria",
+            "country": "Reino Unido",
+            "institution_or_company": "University of Cambridge",
+            "start_date": "",
+            "end_date": "",
+            "description": "First Certificate in English (FCE), equivalente al nivel B2",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Intensificación universitaria",
+            "country": "España",
+            "institution_or_company": "Escuela Oficial de Idiomas de Jerez",
+            "start_date": "",
+            "end_date": "",
+            "description": "Título de Alemán, Certificado de Ciclo Elemental, equivalente al nivel B1*",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Windows Vista, XP, NT, Linux, MS-DOS",
+            "Word, Excel, PowerPoint, Access, Outlook, Visio (MS-Office)",
+            "C, C++",
+            "Matlab, Simulink, LabVIEW",
+            "AutoCAD 2008, CATIA V5, Solid Edge V20",
+            "Dreamweaver",
+            "Adobe Photoshop CS3, Corel Draw",
+            "Adobe Audition 3.0, Goldwave",
+            "Administración y gestión de redes"
+        ],
+        "soft_skills": [
+            "Persona abierta, metódica y organizada con iniciativa propia y capacidad de resolución de problemas en constante aprendizaje",
+            "Autodisciplinado y eficiente con buen hábito de trabajo y capacidad relación e integración",
+            "Acostumbrado a trabajar en grupos multiculturales",
+            "Gran capacidad para el trabajo en grupo y trabajo cooperativo con dotes de liderazgo"
+        ]
+    },
+    "other_interests_normalized": [
+        "No fumador",
+        "Gran interés por la informática, los idiomas, la lectura, el cine y la música",
+        "Deportista"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "1994 - 1998",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.08,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

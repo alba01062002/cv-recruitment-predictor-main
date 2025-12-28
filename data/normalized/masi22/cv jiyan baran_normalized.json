@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jiyan Baran búkún",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "jiyanbaranbukun@gmail.com",
+        "phone": "+905365922669",
+        "address": "",
+        "LinkedIn": "linkedin.com/in/jiyanbaranbukun",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science",
+            "field": "Mechatronics, Robotics and Automation Engineering",
+            "university": "Sabanci University",
+            "location": "Istanbul",
+            "year": "2020-2023",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Bachelor of Science",
+            "field": "Electronics Engineering (major) / Mathematics (minor)",
+            "university": "Sabanci University",
+            "location": "Istanbul",
+            "year": "2015-2020",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Tab Pharmaceutical and Consumer Healthcare, Istanbul",
+            "position": "Process and Operational Maintenance Engineer",
+            "description": "Developing automation systems for plant growing applications. Building circuits compatible with Raspberry Pi and Arduino. Designing grow lights. Responsible for the maintenance and repair of infrastructure machinery along with the production lines in the entire facility. Leading the technical department.",
+            "start_date": "02/2020",
+            "end_date": "Apr 2022",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Baykar Technologies, Istanbul",
+            "position": "System Modeling and Control Intern",
+            "description": "Building simulation models for unmanned aerial vehicles for various scenarios. Implementing several control strategies in MATLAB Simulink. Implementing kinematic model of the quadcopter. Designing control systems for trajectory tracking and hovering of quadcopter.",
+            "start_date": "06/2019",
+            "end_date": "09/2019",
+            "duration_years": 0.25
+        },
+        {
+            "company": "Sabanci University",
+            "position": "Teaching Assistant",
+            "description": "Giving recitation classes, clarifying concepts that have been taught in lectures. Solving numerical and conceptual problems. Grading quizzes and exams, giving office hours.",
+            "start_date": "09/2020",
+            "end_date": "06/2022",
+            "duration_years": 1.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "Turkish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "Python (intermediate)",
+            "C++ (intermediate)"
+        ],
+        "soft_skills": [
+            "Teaching Assistant",
+            "Process and Operational Maintenance",
+            "Technical Department Leadership"
+        ]
+    },
+    "other_interests_normalized": [
+        "Boxing",
+        "Music",
+        "Football",
+        "Nature",
+        "Drone RC planes and cars DIY projects"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 2.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

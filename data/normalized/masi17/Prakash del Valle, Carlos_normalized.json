@@ -1,0 +1,105 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carlos Prakash Del Valle",
+        "date_of_birth": "21/12/1991",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 26,
+        "email": "carlos.prakash.cpdv@gmail.com",
+        "phone": "+971 552773086 / +34 618903913, +34 91 5285541",
+        "address": "Calle Santa María de la Cabeza, 37 esc.2, 20b, 28045 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "B.Sc./M.Sc. in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "Polytechnic University of Madrid, School of Advanced Industrial Engineering of Madrid",
+            "location": "Madrid, Spain",
+            "year": "2009-2014",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "M.Sc. in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "KTH Royal Institute of Technology, School of Industrial Engineering and Management",
+            "location": "Stockholm, Sweden",
+            "year": "2013-2014",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Acciona Agua S.A.",
+            "position": "Process Engineer / Operations Manager",
+            "description": "Monitoring of the process variables of the different units of the plant and water quality analysis, root-cause analysis, preparation of monthly reports, management and training of the operation team, use of simulation programs such as DS2 and ROA (Dow) for reverse osmosis systems.",
+            "start_date": "06/2015",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work",
+            "country": "Spain, Sweden",
+            "institution_or_company": "Polytechnic University of Madrid, KTH Royal Institute of Technology",
+            "start_date": "",
+            "end_date": "",
+            "description": "Erasmus exchange student and M.Sc. in Mechanical Engineering.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship / Work",
+            "country": "Spain, Spain, Costa Rica",
+            "institution_or_company": "Tordera Desalination Plant, Girona; Butarque Waste Water Treatment Plant, Madrid; Carmona WWTP, Sevilla; Los Tajos WWTP, Costa Rica",
+            "start_date": "",
+            "end_date": "",
+            "description": "Support in the O&M of desalination plants as a deputy plant manager, supervision and equipment installation on-site.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Swedish",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB & Turbo Pascal",
+            "Computerized Numerical Control",
+            "Design Solid Edge, CATIA and AutoCAD",
+            "Reverse Osmosis (RO), CO Production, Pumps, Compressors, Heat Exchangers, Energy Recovery Systems"
+        ],
+        "soft_skills": [
+            "Process and Operations Management",
+            "Team Management",
+            "P&ID and Drawings Understanding",
+            "Troubleshooting",
+            "Technical Review of P&ID and Control Philosophy"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.1
+}

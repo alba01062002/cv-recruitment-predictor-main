@@ -1,0 +1,100 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sergio Zafón Huerta",
+        "date_of_birth": "17/08/1989",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 24,
+        "email": "serzafhuf@gmail.com",
+        "phone": "+34 630 670 752",
+        "address": "c/ almazora 60, 12, 46010 valencia (spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aerospace Engineering",
+            "field": "Aerospace and spacecraft specialization",
+            "university": "Universitat Politècnica de València",
+            "location": "Valencia, Spain",
+            "year": "2007-2012",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "CMT Motores Tèrmics - Universitat Politècnica de València",
+            "position": "Final Degree Project Student",
+            "description": "CFD analysis of ballast pick-up phenomenon in high-speed rail.",
+            "start_date": "Jan, 2012",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Germany",
+            "institution_or_company": "Technische Universität München (TUM)",
+            "start_date": "2010-2011",
+            "end_date": "",
+            "description": "7 and 8th semesters on Luft- und Raumfahrt Diplom",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "German",
+            "B2"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "Italian",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Windows OS",
+            "Mac OS",
+            "Linux/Unix",
+            "Microsoft Office",
+            "MATLAB",
+            "Scilab",
+            "CAD",
+            "ANSYS",
+            "Nastran",
+            "C and Fortran programming"
+        ],
+        "soft_skills": [
+            "Leadership and communication skills",
+            "Willingness to work on team and face new challenges",
+            "Travel and relocation willingness"
+        ]
+    },
+    "other_interests_normalized": [
+        "Trekking",
+        "Tennis",
+        "Jogging"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

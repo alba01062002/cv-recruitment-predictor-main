@@ -1,0 +1,159 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jose María Benítez García",
+        "date_of_birth": "17/02/1969",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 41,
+        "email": "pepillus@gmail.com",
+        "phone": "649 575866",
+        "address": "C/ Héroes de la Aviación Española, 5 - 3 C., Cádiz - 11011",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Técnico Industrial en Electricidad, Especialidad: Máquinas Eléctricas",
+            "field": "Electricidad",
+            "university": "Escuela Superior de Ingeniería de Cádiz",
+            "location": "Cádiz",
+            "year": "1997",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Técnico Superior en Producción por Mecanizado",
+            "field": "Producción por Mecanizado",
+            "university": "Centro SAF",
+            "location": "Pto. Santa María, Cádiz",
+            "year": "",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Preventec S.L.",
+            "position": "Profesor CATIA V5",
+            "description": "Para el curso FPO",
+            "start_date": "05/2008",
+            "end_date": "09/2008",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Mecanizados y Montajes Aeronáuticos S.A.",
+            "position": "Profesor CATIA V5, Mecanizado y Montaje Aeronáutico",
+            "description": "",
+            "start_date": "03/2008",
+            "end_date": "05/2008",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Fundación Andaluza de Fondo Formación y Empleo",
+            "position": "Profesor Interpretación de Planos, Curso Reciclaje Personal de Delphi",
+            "description": "",
+            "start_date": "03/2008",
+            "end_date": "04/2008",
+            "duration_years": 0.08
+        },
+        {
+            "company": "GAESA",
+            "position": "Profesor Windows 2003 Server, Reparación de Ordenadores, Redes y Comunicaciones Informáticas",
+            "description": "",
+            "start_date": "11/2007",
+            "end_date": "03/2008",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Contromation",
+            "position": "Delineante-Proyectista",
+            "description": "Para Dragados Offshore, realizando Routing de la Planta Regasificadora Adriatic LNG",
+            "start_date": "05/2007",
+            "end_date": "11/2007",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Foster Lane S.L.",
+            "position": "Profesor AutoCAD, MicroStation y 3DS Max",
+            "description": "Curso FPO Técnico Auxiliar de Diseño Industrial e Interiores, y otros cursos de CAD, redes y ofimática",
+            "start_date": "2004",
+            "end_date": "2006",
+            "duration_years": 0.0
+        },
+        {
+            "company": "GAESA - Gades Formación, IMAR, ASEFOR",
+            "position": "Profesor Informática y Seguridad Laboral, AutoCAD, Internet y Prevención de Riesgos Laborales",
+            "description": "",
+            "start_date": "04/2001",
+            "end_date": "05/2009",
+            "duration_years": 8.08
+        },
+        {
+            "company": "Forinsur S.L.",
+            "position": "Profesor Informática y Seguridad Laboral, AutoCAD, Ofimática e Internet",
+            "description": "",
+            "start_date": "02/2000",
+            "end_date": "12/2000",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Fondo Formación (Cádiz)",
+            "position": "Profesor de Seguridad Laboral",
+            "description": "",
+            "start_date": "12/1998",
+            "end_date": "02/2000",
+            "duration_years": 1.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "SolidWorks",
+            "AutoCAD",
+            "MicroStation",
+            "3DS Max",
+            "Windows Server 2003",
+            "HTML",
+            "JavaScript",
+            "PHP",
+            "C"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.9
+}

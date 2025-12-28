@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "venus fraile henao linkedin o e-mail o +34 744 40 51 68 o madrid, espaa formación grado en ingeniería electrónica de comunicaciones, universidad complutense de madrid 2018 - 2023 tfg: diseo, construcción y medida de un array de antenas reconfigurable: sep 2022 - jun 2023 e búsqueda de componentes para control, amplificación, desfase y atenuación a 2,4ghz. e diseo de placas pcb 4 capas usando altium. e utilización de conectores sma verticales para disminuir las pérdidas. e montaje de los componentes en placa, con horno para los ic y con soldadura manual para el resto de componentes. e control de la atenuación y desfase a través del spi, usando ic mcp2210 para la conversión usb-spi y controlar con python desde windows y unix. e programar distintos diagramas de radiación y caracterizarlos. curso it systems support, the city and guilds of london institute ago 2018 dublín, irlanda habilidades e idiomas habilidades matlab, c/c++, python, altium, sistemas empotrados (arm, arduino), diseo electrónica de consumo y alta frecuencia, spice, kicad, sap, active directory, linux, windows. idiomas espaol (nativo), inglés (b2). experiencia laboral becaria may 2022 - ene 2023 imbisa (fnmt-bde) madrid, espaa e apoyo en la gestión, control, administración y mantenimiento de redes locales y sistemas de comunicación, así como en la implantación y seguimiento de hardware y software. e apoyo en la coordinación y supervisión de los equipos de trabajo de proveedores externos, para garantizar la eficiencia e integración de todos los sistemas informáticos actualmente en uso. e realización de informes y archivo de la documentación generada. e garantizar la confidencialidad de la información tratada y de los procesos industriales. e participación activa en soluciones rápidas y aplicables a problemas surgidos por la integración de nuevos hardware y software. camarera e angrup sep 2018 - nov 2021 madrid, espaa e compass group / servest nov 2017 - ago 2018 dublín, irlanda servicio al cliente en inglés espaol, control de stock y caja. entrenamiento de health and safety completo.",
+    "text_from_header": "VENUS FRAILE HENAO",
+    "detected_language": "es",
+    "master_edition": "MASI23"
+}

@@ -1,0 +1,116 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pablo Galán Díaz",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "pablogalandiaz@gmail.com",
+        "phone": "+34 617 59 20 78",
+        "address": "Guzmán el Bueno 108, Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MSc Aeronautical Engineer (major in airplanes)",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Industria de Turbo Propulsores H.A.S.A.",
+            "position": "Tooling Design Internship",
+            "description": "Study of TP400 low pressure turbine and turbine exhaust case assembly and disassembly; tooling database developing in Excel and Access, programming in VBA. Quality manufacturing documentation: verification and supplier relations. Assistance in day to day tooling design activities.",
+            "start_date": "October 2015",
+            "end_date": "December 2014",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Defence & Space",
+            "position": "Hydraulic Engineer Internship",
+            "description": "Hydraulic system modelling in Amesim: Development of ramp & door system model for CN-235; study and analysis of shock absorber model for nose and main landing gear of A330/340 MRTT and adaptation to A400M.",
+            "start_date": "December 2014",
+            "end_date": "July 2015",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Spain",
+            "institution_or_company": "",
+            "start_date": "2009-2016",
+            "end_date": "",
+            "description": "One-month stay in Spain",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Ireland",
+            "institution_or_company": "Alpha College of English, Dublin",
+            "start_date": "Not specified",
+            "end_date": "",
+            "description": "English course; mark obtained: Advanced",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5, Sketcher",
+            "SolidWorks",
+            "LMS Imagine.Lab Amesim",
+            "Fortran 90",
+            "Matlab",
+            "Maple",
+            "VBA"
+        ],
+        "soft_skills": [
+            "CAD Design with CATIA V5",
+            "Part Design",
+            "Drafting",
+            "Assembly",
+            "Wireframe and Surface Design",
+            "Use of Parameters and Formulas",
+            "Basic NX Knowledge",
+            "Airport Design Course with PathPlanner Airside+"
+        ]
+    },
+    "other_interests_normalized": [
+        "Triathlete"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2011-2016",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.6
+}

@@ -1,0 +1,120 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Adrian Cures Mateos",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "adriancures@gmail.com",
+        "phone": "+34 619 33 21 04",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/adrian-cures-75184018b/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master en Ingeniería Industrial",
+            "field": "Ingeniería Industrial",
+            "university": "Escuela Politécnica Superior (UdG-Universidad de Girona)",
+            "location": "Girona, España",
+            "year": "cursando",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Comexi Group Industries",
+            "position": "Operations Engineer",
+            "description": "Contributed to the efficiency and success of operational processes by combining technical knowledge and lean.",
+            "start_date": "02/2024",
+            "end_date": "09/2024",
+            "duration_years": 0.58
+        },
+        {
+            "company": "Nayak Aero",
+            "position": "Internship - Light Maintenance Coordinator",
+            "description": "Planning and coordination of light maintenance line checks for Vueling fleet in BCN airport.",
+            "start_date": "07/2023",
+            "end_date": "09/2023",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Alumilux y Metalux",
+            "position": "Production Planning Engineer - Sheet Metal Fabrication 8: Supply Chain",
+            "description": "Planning and coordination of sheet metal production, production plans, stock control, optimization of material for construction and tools request to suppliers.",
+            "start_date": "06/2021",
+            "end_date": "10/2021",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Nestle SL",
+            "position": "Workshop",
+            "description": "",
+            "start_date": "06/2022",
+            "end_date": "09/2022",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Castellano",
+            "C2"
+        ],
+        [
+            "Catalán",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "SAP y ANSYS",
+            "AutoCAD",
+            "Diseño 3D (SolidWorks)",
+            "Excel",
+            "Windows"
+        ],
+        "soft_skills": [
+            "Capacidad analítica",
+            "Autonomía y proactividad",
+            "Aprendizaje continuo y curiosidad técnica",
+            "Habilidad para el trabajo en entornos industriales",
+            "Capacidad de trabajo en equipo"
+        ]
+    },
+    "other_interests_normalized": [
+        "Diseño",
+        "Modelado y diseño 3D",
+        "Creación y montaje de cubos de Rubik",
+        "Proyectos autodidactas",
+        "Impresión 3D"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 1.33,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

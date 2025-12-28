@@ -1,0 +1,94 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José Manuel del Valle Álvarez",
+        "date_of_birth": "18/05/1986",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 27,
+        "email": "vallealvarez@hotmail.com",
+        "phone": "+34 647 836 002",
+        "address": "Cl Gerona, n5 1c, 33212, Gijon, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Industrial Engineer",
+            "field": "Energy and Fluid Dynamics",
+            "university": "Gijon Polytechnic School of Engineering - University of Oviedo",
+            "location": "Gijon, Spain",
+            "year": "2005-2011",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Foundation of the Spin-off in Energy Storage: Technical Institute for the Development of Energy Storage (ITDAE)",
+            "position": "Promoter",
+            "description": "Main activities and responsibilities: research related to energy storage technologies, development of industrialization of redox flow batteries. Research on new energy carriers (hydrogen and biogas): development of small engines fueled with biogas.",
+            "start_date": "06/2011",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Ast-Engineering (Advanced Simulation Technologies)",
+            "position": "Engineer for Ast-Engineering",
+            "description": "Main activities and responsibilities: design, analysis, and optimization of aerodynamic and hydrodynamic parts using ANSYS Fluent and CAD tools. Writing reports and conclusions for presentation to the customer.",
+            "start_date": "01/2012",
+            "end_date": "12/2013",
+            "duration_years": 1.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Exchange Programme",
+            "country": "Ireland (Dublin)",
+            "institution_or_company": "University of Oviedo",
+            "start_date": "2001-2002",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Windows (Administrator)",
+            "Office",
+            "ANSYS Workbench, Fluent, SolidWorks",
+            "MS Adams, BikeSim",
+            "Linux (Ubuntu)",
+            "Matlab"
+        ],
+        "soft_skills": [
+            "Ability to easily learn the use of new software"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

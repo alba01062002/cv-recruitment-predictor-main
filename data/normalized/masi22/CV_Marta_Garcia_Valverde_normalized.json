@@ -1,0 +1,110 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Marta García Valverde",
+        "date_of_birth": "31/10/1998",
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": 24,
+        "email": "marta.garvalverde@gmail.com",
+        "phone": "+34 651802268",
+        "address": "Elisabethstrafe 13, 52062 Aquisgran, Alemania",
+        "LinkedIn": "https://www.linkedin.com/in/martagarciavalverde",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "www.linkedin.com/in/martagarciavalverde"
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Industrial",
+            "field": "Ingeniería Mecánica",
+            "university": "Universidad Politécnica de Madrid, ETSII",
+            "location": "Madrid",
+            "year": "2016-2020",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Máster Habilitante en Ingeniería Industrial",
+            "field": "Ingeniería Mecánica",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2020-2022",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Universidad Politécnica de Madrid",
+            "position": "Colaboradora Externa",
+            "description": "Monitora de prácticas de la asignatura teoría de máquinas y mecanismos. Beca en el departamento de ingeniería mecánica.",
+            "start_date": "01/2020",
+            "end_date": "06/2021",
+            "duration_years": 1.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Alemania",
+            "institution_or_company": "RWTH Aachen University",
+            "start_date": "09/2021",
+            "end_date": "06/2022",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Aquisgran, Alemania",
+            "institution_or_company": "RWTH Aachen University",
+            "start_date": "2021-2022 (Erasmus)",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B2"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Manejo nivel avanzado de Excel (certificado por la UPM)",
+            "Programación nivel medio en MATLAB, FluidSIM, FlexSim, C++",
+            "Manejo de Solid Edge para diseño de elementos en CAD",
+            "Manejo avanzado de Inventor para diseño en CAD y simulaciones dinámicas"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Educación STEM",
+        "Voluntariado",
+        "Trabajo con niños"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Cáritas Universitario, Cruz Roja Madrid",
+            "role": "Voluntaria desde el ao 2017 hasta la actualidad",
+            "duration": "2017 - Presente",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 1.42,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

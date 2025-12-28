@@ -1,0 +1,102 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Luis Josue Lozoya Vargas",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "lozoyaluis98@gmail.com",
+        "phone": "+34 674 86 45 86",
+        "address": "",
+        "LinkedIn": "b2 usa visa & mexican passport willing to travel",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Aeronautical Engineering",
+            "field": "Aeronautical Engineering",
+            "university": "E UACI University",
+            "location": "Juarez City, México",
+            "year": "November 2022",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "STI Keytronic Company",
+            "position": "Evaluator Technician",
+            "description": "Preparation of tests to solve problems of assemblies. Perform electrical test on plug-in boards with damaged or defective electronic components. Collaborated with production control reports (SAP, VO.BO, SQC) to reduce failures in production assembly.",
+            "start_date": "01/2023",
+            "end_date": "08/2023",
+            "duration_years": 0.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship Program",
+            "country": "Germany (Robert Bosch GmbH)",
+            "institution_or_company": "Robert Bosch GmbH",
+            "start_date": "05/2022",
+            "end_date": "12/2022",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Volunteering",
+            "country": "Juarez City, México (University Lab)",
+            "institution_or_company": "Circuits, Sensor and Instrumentation University Lab",
+            "start_date": "08/2018",
+            "end_date": "12/2018",
+            "description": "Maintenance of the Cessna 182 aircraft and Bell 206 helicopter. Reviewing of Lycoming manuals to ensure compliance. Provided guidance on how to use wind tunnel.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C/C++",
+            "HTML",
+            "Python",
+            "JavaScript",
+            "AutoCAD",
+            "SolidWorks",
+            "CATIA V5 WindChill PDMLink Creo"
+        ],
+        "soft_skills": [
+            "Self-organization",
+            "Fast learning ability",
+            "Auto-didactic learning capability",
+            "Team player"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Laboratory Volunteer",
+            "duration": "08/2018 - 12/2018",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.58,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

@@ -1,0 +1,110 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alberto Dupuy Exposito",
+        "date_of_birth": "10/03/1983",
+        "gender": "male",
+        "age_reference_year": 2009,
+        "age": 26,
+        "email": "alberxuly@hotmail.com",
+        "phone": "637285142",
+        "address": "c/ Gateras9, Valdemorillo (Madrid), cp: 28210",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Engineering in Electronic Engineering",
+            "field": "Electronic Engineering",
+            "university": "Institute of Technology Tralee, Ireland",
+            "location": "Ireland",
+            "year": "2008",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Ing. Técnico Industrial (Specialization: Structures and Mechanics)",
+            "field": "Mechanical Engineering",
+            "university": "University of León",
+            "location": "León, Spain",
+            "year": "2007",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Delgado y Martínez S.L.",
+            "position": "Technical Support Assistant for Clients",
+            "description": "Elaboration of quotes and design of cold and hot water systems, as well as agricultural irrigation systems. Duration: 3 months",
+            "start_date": "01/2009",
+            "end_date": "03/2009",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Institute of Technology Tralee, Ireland",
+            "position": "Maths Tutor for Engineering Civil and Electrical Students",
+            "description": "",
+            "start_date": "06/2008",
+            "end_date": "11/2008",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study Abroad",
+            "country": "Ireland",
+            "institution_or_company": "Institute of Technology Tralee, Ireland",
+            "start_date": "",
+            "end_date": "",
+            "description": "Studied in an environment exclusively in English for one year",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD",
+            "CATIA",
+            "Cype"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Time Management",
+            "Stress Resistance",
+            "Communication Skills",
+            "Travel Availability"
+        ]
+    },
+    "other_interests_normalized": [
+        "Sports and Nature",
+        "Saxophone",
+        "Science"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.59,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.9
+}

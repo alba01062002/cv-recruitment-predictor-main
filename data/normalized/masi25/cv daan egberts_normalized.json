@@ -1,0 +1,130 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daan Egberts",
+        "date_of_birth": "13/05/2002",
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": 23,
+        "email": "d.egberts2002@gmail.com",
+        "phone": "+31 6 37 48 11 80",
+        "address": "Boonerhavenkade 11, 3143dc Maassluis, Netherlands",
+        "LinkedIn": "https://www.linkedin.com/in/daan-egberts-a9a426180/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Aviation Engineering",
+            "field": "Aviation Engineering",
+            "university": "Amsterdam University of Applied Sciences",
+            "location": "Amsterdam, NL",
+            "year": "2019-2025",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "",
+            "field": "Aviatik Technik",
+            "university": "ZHAW School of Engineering",
+            "location": "Winterthur, CH",
+            "year": "2023-2024",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Havo Economics & Society",
+            "university": "ISW Hoogeland",
+            "location": "Naaldwijk, NL",
+            "year": "2014-2019",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Pilatus Aircraft Ltd",
+            "position": "Aircraft Flight Test Engineer",
+            "description": "Supporting engineers in preparing flight test plans, engineering reports and technical memos during and after flight tests. Coordinating and scheduling the tests. Daily installation and calibration of instrumentation aboard prototypes PC-7MKI, PC-21, PC-12(NG) and PC-24.",
+            "start_date": "04/2024",
+            "end_date": "10/2024",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Viggo Service Enablers Schiphol Airport",
+            "position": "Turnaround Coordinator",
+            "description": "Smooth and correct aircraft load- and unloading during a turn-around. Completing and handing over the proper paperwork to the crew, such as load sheets, flight crew information sheets and the passenger lists. Handling the aircraft in a safe and efficient manner. Checking the aircraft for damages and securing it for takeoff.",
+            "start_date": "05/2021",
+            "end_date": "09/2023",
+            "duration_years": 2.33
+        },
+        {
+            "company": "",
+            "position": "Trainer Turnaround Coordinator & Ramp Handling",
+            "description": "Training and educating new colleagues in performing tasks related to turnaround coordination and ramp handling. A position where quality and safety are key.",
+            "start_date": "01/2022",
+            "end_date": "09/2023",
+            "duration_years": 1.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Switzerland",
+            "institution_or_company": "Pilatus Aircraft Ltd",
+            "start_date": "10/2024",
+            "end_date": "",
+            "description": "Unique internship with the flight test team of aircraft manufacturer Pilatus in Switzerland.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Dutch",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "B2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python"
+        ],
+        "soft_skills": [
+            "Proactive work attitude",
+            "Initiative-taking",
+            "Positive stimulation of people"
+        ]
+    },
+    "other_interests_normalized": [
+        "Reading + Running/Sports",
+        "Walking + Photography + Formula 1 Music",
+        "Flight Simulator + Aviation"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2020-2022",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 4.5,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

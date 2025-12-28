@@ -1,0 +1,107 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Aurelio Belmonte Lorente",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "aureliobelmontelorente94@gmail.com",
+        "phone": "+34 669711189",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/aurelio-belmonte-lorente-983669116/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería en Tecnologías Industriales",
+            "field": "Ingeniería Industrial",
+            "university": "Universidad Politécnica de Cartagena",
+            "location": "Cartagena, Murcia",
+            "year": "2016-2020",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Máster en Ingeniería Industrial",
+            "field": "",
+            "university": "Politechnika Krakowska",
+            "location": "Cracovia, Polonia",
+            "year": "2017-2018",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Corvus Innova Librilla",
+            "position": "Ingeniero de Procesos e Lean Manufacturing",
+            "description": "",
+            "start_date": "Julio 2019 - Noviembre 2021",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "SistePlast PVC Fuente Alamo, Murcia",
+            "position": "Ingeniero de Planta y Procesos",
+            "description": "",
+            "start_date": "Noviembre 2021 - Actualidad",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Polonia",
+            "institution_or_company": "Politechnika Krakowska",
+            "start_date": "Septiembre 2016 - Julio 2017",
+            "end_date": "",
+            "description": "Diseño gráfico de ingeniería, Programación con MATLAB, Técnicas y modelado CAD",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Castellano",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SAP",
+            "Producción Solidworks",
+            "Excel",
+            "Autodesk Inventor Autocad",
+            "LabView",
+            "MATLAB",
+            "CATIA"
+        ],
+        "soft_skills": [
+            "Proactividad",
+            "Capacidad de aprendizaje",
+            "Liderazgo",
+            "Creatividad",
+            "Organización"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

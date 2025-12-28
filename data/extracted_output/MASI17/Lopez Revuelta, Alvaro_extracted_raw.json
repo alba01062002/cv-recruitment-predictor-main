@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "address karlskrona sweden tel +34 637 07 17 20 mail alvarolopezrevuelta@ gmail.com web & git linkedin web github programming matlab * * * ** java * *& & %&%& c kkk ke sql * * detecte cay ke python * * * ** languages spanish * * * ** english * * * ** french * * * ** skills telecommunications signal processing statistics electronics networks maths management alvarolópez telecommunication engineer a education 2016 - 2017 2015 - 2017 2011 - 2016 master's degree in telecommunication engineering bth, sweden exchange program in sweden as an erasmus+ student. took courses in the field of telecommunication engineering, signal processing and machine learning. (60 ects) master's degree in telecommunication engineering upm, spain communications systems (satelital, optics), networks (access, aggregation, transport), cellular networks (lte-a, 5g), lot, network planning, electronics and instrumentation, signal processing, optimization algorithms, software en- gineering, volp, traffic modeling, network security, ims, ngn, project man- agement, telecommunication regulation. (120 ects) bachelor's degree in telecommunication engineering upm, spain algebra, calculus, physics, mechanics, circuits theory, analog and digital electronics, programming, statics, signal processing, wave propagation, digi- tal transmission, communication theory, microprocessors, operating system, networks, signalling, economics. emphasis in signal processing, audio/video coding, audio/video compres- sion, acoustics, underwater communications, noise and vibration control, electroacustics, audio/video broadcasting, acoustic measurements under iso. ended with 10/10 mark in the final thesis. study of wave propagation in the underwater channel for sonar/communication purposes. (240 ects) experience 02/13 - now 01/12 - now co-founder bananut electronics development of arduino based hardware (shields) using eaglecad, being part of the full process, from scratch to pcbs production and final product. management and deal with supplier of electronics components. software development in c code and c++ libraries for our hardware. also documenting code and writing manuals. in charge of the github repository. giving workshops to students using our products with educational purposes. some of them in collaboration with de upm university. development of a wordpress based website, knowledge in html css, on- line selling platform, facebook ads campaigns. telecom internship everis spain working on different projects for the telcos ono and vodafone in the field of billing. my main tasks were software development in java, pl/sql and bash but also worked on massive data treatment with excel and awk, using agile methodologies. also worked on software testing (unitary and integration), documenting processes and writing user manuals. offered a position in the company but moved along to continue my master of science studies. languages spanish * * * ** english * * * ** french * * *** interests technology electronics open-source music nature other driving license b projects alvaro l, pablo m sw and hw development of a midi controller development of an arduino based midi controller, from hardware to software. the hard- ware was made using eaglecad and we programed a library in c++. the control of all the l/os was made using multiplexers and shift registers. http://github.com/bananutelectronics/midispositivomidi alvaro l modeling of the propagation of sound waves in an underwater channel for ptp com- munications using digital modulations study of how sound waves propagate in an underwater channel, taking into account multi- path effects due to refraction and reflection. a simulator was created to simulate the com- munication between two points in the ocean, using different digital modulation techniques such as ofdm, qam, psk or fsk. http://oa.upm.es/41487/ alvaro l personal projects l am very interested on electronics design, signal processing and programming, so in my free time work on my own projects that you can find here: https://github.com/alrevuelta certifications 06/2016 machine learning coursera. e-learning three month on-line course: linear/logistic regression, neural networks, svms, pca, k-means. other info available from january 2016 at any date. october 8th, 2016 alvaro lópez",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI17"
+}

@@ -1,0 +1,114 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jordi Galmés Nadal",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "jordigalmes12@gmail.com",
+        "phone": "+34 605261922",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/jordi-galmes-nadal-2800a1270",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aerospace Engineer Degree",
+            "field": "Aerospace vehicles",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "Sep 19 - Feb 25",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Bachillerato tecnológico (2nd year)",
+            "university": "",
+            "location": "Palma de Mallorca, Spain",
+            "year": "Sep 18 - Jun 19",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Junior Year",
+            "university": "Lowell High School (Michigan, USA)",
+            "location": "Lowell, US",
+            "year": "Sep 17 - Jun 18",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Accenture - IndustryX",
+            "position": "Internship",
+            "description": "Working in aerospace components manufacturing, line balancing, and process optimization.",
+            "start_date": "Jan 25",
+            "end_date": "Act e",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Aernnova",
+            "position": "Stress Engineer",
+            "description": "Development of structural models using finite element software (abaqus). Advanced Excel usage: developed complex excel spreadsheets for data analysis, result visualization, and test reporting.",
+            "start_date": "Sep 24",
+            "end_date": "Nov 24",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "France",
+            "institution_or_company": "ISAE-Supaero (Toulouse)",
+            "start_date": "Feb 24",
+            "end_date": "Aug 24",
+            "description": "Modeled composite and ceramic structures using finite element software (abaqus).",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "MATLAB",
+            "C++",
+            "Abaqus",
+            "HyperWorks"
+        ],
+        "soft_skills": [
+            "Adaptability",
+            "Team Leadership and Achievement",
+            "Analysis Capacity",
+            "Communication & Social Skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Sport (Water Polo)",
+        "Team Collaboration"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Water Polo Team",
+            "duration": "Sep 19 - Feb 25",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.2
+}

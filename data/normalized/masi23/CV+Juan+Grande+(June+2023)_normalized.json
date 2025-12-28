@@ -1,0 +1,94 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Grande",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "j.grandelj@gmail.com",
+        "phone": "+34 674 95 38 44",
+        "address": "null",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aerospace Engineering Degree",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2017 - present; expected completion: June 2023",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Spanish Air Force",
+            "position": "Intern on Non-Destructive Test",
+            "description": "Training, development and experimentation of Barkhausen noise test (non-destructive test) with Rollscan 200 in a piece of the landing gear of the A/F-18. Development of a bondtesting resonance course for the Spanish Air Force maintenance group. Composition of an official document for the implementation of measured cracks, in a real piece of the structure of an 'A/F-18', with electroerosion machine.",
+            "start_date": "July 2022",
+            "end_date": "August 2022",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "Matlab",
+            "AutoCAD",
+            "Adina Structures",
+            "HyperWorks Mesh-Program"
+        ],
+        "soft_skills": [
+            "Self-management",
+            "Management skills (President of his Scout Community during 2016/2017 and volunteer as a staff in the same group during the 2 following years)",
+            "Questioning (always looking for new subjects to expand knowledge)"
+        ]
+    },
+    "other_interests_normalized": [
+        "Environmental care",
+        "Hiking and mountains",
+        "Skiing"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Grupo Scout Santa María del Pilar",
+            "role": "Camper, Staff member",
+            "duration": "July 2018 - July 2020",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

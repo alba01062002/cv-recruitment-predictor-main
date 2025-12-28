@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "elisa heras alonso 616879293 elisa.ha1996@ gmail.com httpos://www.linkedin.com/in/elisa-heras-alonso-22a2a8 159/ professional profile recent graduated engineer with advanced level in english (c1). just finished an internship in fire detection at siemens. academic training e graduated in industrial electronics and automation engineering: 2014/2015 - 2019 - university: escuela politécnica superior, universidad carlos il de madrid. work experience january 2019 october 2019: internship at siemens - elaboration of technical documents to justify that fire detection systems are working properly. - testing of a new mobile application with users to replace old paper checklists. - training course and use of aspire, a software application which simplifies the design of vesda smoke detection systems. - testing of smoke detection systems being used in madrids underground. - training course on fire detection control unit. information technology basic knowledge about software tools as: - tatgraphics: data analysis software for visualization, modeling and predictive analysis. - solid edge: a 3d cad. - robotstudio: abb's simulation and offline programming software. - matlab. - unity pro. - quartus. knowledge about object-oriented-programming (in c++ and java), arduino and android. final project related to telemetry. languages spanish: mother tongue. english: advanced level (certificate in advanced english, university of cambridge, 11/2017). german: currently studying a.2 level. aptitudes - teamwork, initiative, enthusiasm, eager to learn, seriosness.",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI20"
+}

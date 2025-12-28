@@ -1,0 +1,85 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Samuel Rodríguez González",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "samuel.i.rodriguez.gonzalez@gmail.com",
+        "phone": "+34 605 352 755",
+        "address": "c/ Leopoldo Alas Clarín, 28806 Alcalá de Henares, Madrid, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Telemática",
+            "field": "Ingeniería de Telecomunicaciones",
+            "university": "Universidad de Alcalá",
+            "location": "Alcalá de Henares, Madrid",
+            "year": "2020 - Actualmente",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Profesor Particular",
+            "position": "Professor Bilingüe",
+            "description": "Eficaz gestión de la clase para propiciar un aprendizaje óptimo, iniciativa propia y capacidad de resolución de problemas, presentación de ideas y conceptos. Habilidades de inteligencia emocional.",
+            "start_date": "03/2017",
+            "end_date": "12/2022",
+            "duration_years": 5.75
+        },
+        {
+            "company": "Centro de Estudios Alcalá de Henares",
+            "position": "Profesor en Centro de Estudios",
+            "description": "",
+            "start_date": "01/2017",
+            "end_date": "07/2017",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "Gestión de Bases de Datos MySQL"
+        ],
+        "soft_skills": [
+            "Habilidades para el aprendizaje de tareas y procesos",
+            "Trabajo en equipo",
+            "Inteligencia emocional"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Grupo Scout Samuel Rodríguez González",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 6.25,
+    "has_master": true,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.0
+}

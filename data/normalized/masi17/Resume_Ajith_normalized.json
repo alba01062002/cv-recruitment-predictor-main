@@ -1,0 +1,67 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ajith K",
+        "date_of_birth": "10/05/1990",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 27,
+        "email": "ajithkandanga@gmail.com",
+        "phone": "+918553527094",
+        "address": "Krishnakripa, near Poovani temple, Kolazhy, Viyyoor P.O., Thrissur Post Box No.-680010, India",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "B.Tech in Electrical & Electronics Engineering",
+            "field": "Electrical and Electronics",
+            "university": "National Institute of Deemed University, Calicut University",
+            "location": "Calicut, India",
+            "year": "2007-11",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aircraft Research & Design Centre, HAL Bangalore",
+            "position": "Deputy Manager (Design)",
+            "description": "Engaged in the design and development of different class of military aircrafts. Worked on TPE331-12B engine integration, electrical system design for various aircraft models, avionics and display integration, among other tasks.",
+            "start_date": "06/2011",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD",
+            "MATLAB",
+            "Electrical system design",
+            "Avionics and display integration",
+            "Data analysis from solid state flight data recorder"
+        ],
+        "soft_skills": [
+            "Technical knowledge",
+            "Diligence",
+            "Passion for aerospace industry"
+        ]
+    },
+    "other_interests_normalized": [
+        "Aircraft engines",
+        "Engine, hydraulics, ECS electrical integration"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 17,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.5
+}

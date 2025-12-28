@@ -1,0 +1,150 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sébastien Morant",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": null,
+        "email": "sebmorant@gmail.com",
+        "phone": "650 754 965",
+        "address": "calle alcántara 48, 4dcha, 28006, madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in ESM: Electronic Signal and Microsystems",
+            "field": "Electronic Signal and Microsystems",
+            "university": "Tour University, France",
+            "location": "France",
+            "year": "2005-2006",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "MS in Electronic Circuit Design",
+            "field": "Automation and Sensors, Microelectronics Technology Programme Manufacture",
+            "university": "Dundee University, Scotland",
+            "location": "Scotland",
+            "year": "2004-2005",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Double E.I.V.L. Engineering School Diploma",
+            "field": "",
+            "university": "France",
+            "location": "France",
+            "year": "2000-2004",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ALTRAN with UTC Fire and Security",
+            "position": "Testing Engineer",
+            "description": "In charge of the design of test cases for the validation of function requirements, revision of technical documentation, and verification/validation of requirements in HP Quality Center.",
+            "start_date": "MM/YYYY",
+            "end_date": "03/2021",
+            "duration_years": 0.0
+        },
+        {
+            "company": "ALTRAN with AENA ANSP",
+            "position": "Safety Requirements Engineer",
+            "description": "Preliminary analysis to identify requirements, proposal assessment, review and validation of technical safety supplier documentations, and safety documentation validation.",
+            "start_date": "04/2019",
+            "end_date": "03/2021",
+            "duration_years": 1.92
+        },
+        {
+            "company": "NEXTEL with INDRA-ILS Dept.",
+            "position": "RMA Engineer for EWS (Electronic Warfare System) and TRM (Transmit and Receive Module)",
+            "description": "",
+            "start_date": "04/2018",
+            "end_date": "03/2020",
+            "duration_years": 1.92
+        },
+        {
+            "company": "SAFRAN Group - Sagem Avionics, Inc.",
+            "position": "ATP Developer for ICDS (Integrated Cockpit Display System) and Oil Sensor Instrument",
+            "description": "",
+            "start_date": "10/2016",
+            "end_date": "03/2018",
+            "duration_years": 1.42
+        },
+        {
+            "company": "ALCATEL ALLENIASpace, Toulouse, France",
+            "position": "Delta Qualification Plan Developer for MOEMS in Space Applications",
+            "description": "",
+            "start_date": "04/2015",
+            "end_date": "03/2016",
+            "duration_years": 0.92
+        },
+        {
+            "company": "ALCANTEL ALLENIASpace, Toulouse, France",
+            "position": "Laser Diode Failure Analyst",
+            "description": "",
+            "start_date": "04/2015",
+            "end_date": "03/2016",
+            "duration_years": 0.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Exchange MSC",
+            "country": "Scotland",
+            "institution_or_company": "Dundee University, Scotland",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "QBasic",
+            "VB6",
+            "National Instruments C API",
+            "Excel",
+            "MATLAB",
+            "AutoCAD",
+            "SolidWorks",
+            "HP Quality Center",
+            "Mil-217/338/883/1629A"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "Testing and Validation",
+            "Requirements Analysis"
+        ]
+    },
+    "other_interests_normalized": [
+        "Snowboarding",
+        "Hiking",
+        "Pádel"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 7.1,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.2
+}

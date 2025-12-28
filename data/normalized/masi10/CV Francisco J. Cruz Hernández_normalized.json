@@ -1,0 +1,90 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francisco Javier Cruz Hernández",
+        "date_of_birth": "12/02/1979",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 31,
+        "email": "javiercruz79@hotmail.com",
+        "phone": "954644813 / 664155798",
+        "address": "Calle Ocho de Marzo, Bloque 6, 5o, Sevilla, CP: 41006, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Superior de Telecomunicaciones",
+            "field": "Electrónica de Comunicaciones",
+            "university": "Escuela Técnica Superior de Ingenieros de Sevilla",
+            "location": "Sevilla, Spain",
+            "year": "2008",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Bull Siconet",
+            "position": "Ingeniero de Aviónica y Sistemas Militares",
+            "description": "Adquirió experiencia en sistemas aviónicos, arquitectura aviónica del A400M y A330 MRTT, sistemas de radiocomunicación en aeronaves, sistemas digitales de control y guiado de vuelo, software de los sistemas aviónicos, sensores y actuadores de vuelo, sistemas electrónicos de armamento y contramedidas electrónicas (MIDS, Link 16, DASS, Mission System), Tactical Data Links, Electronic Warfare Systems.",
+            "start_date": "08/2008",
+            "end_date": "09/2009",
+            "duration_years": 1.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C/C++",
+            "VHDL",
+            "Matlab/Simulink",
+            "LabVIEW",
+            "DSP Programming Languages",
+            "Ada",
+            "SCADA VBA",
+            "RTOS",
+            "Embedded Systems/Embedded Device Programming",
+            "Arinc 429",
+            "MIL-STD-1553",
+            "Stanag 3910",
+            "AFDX",
+            "Mission Bus, Comm Bus, DASS Bus, MIDS Bus, M-MMC, COMSEC, V/UHF, DF, HF, IFF, MIDS, DAC, RWR, EDS, MWs",
+            "Bus CNI, IFF, TACAN, MIDS, RMS, V/UHF, HF, DF, Airtac, SIU, ANSU, ADIRU, ETCAS, MFD, MCDU, GPS P(Y), FmGec"
+        ],
+        "soft_skills": [
+            "Hardware and Software Knowledge",
+            "Technical Norms and Standards",
+            "Hardware and Software Tools",
+            "Thales, Rockwell Collins, Rohde & Schwarz, Honeywell Equipment"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 1.08,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 29,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

@@ -1,0 +1,108 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro Morales Blasco",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "morales20blas@hotmail.com",
+        "phone": "+34628593400 +44 7523652961",
+        "address": "Camino Cabaldós 9, 42A, Zaragoza, 50013, Spain",
+        "LinkedIn": "www.linkedin.com/in/mbalejandro",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BEng, MEng Aeronautical and Aerospace Engineering",
+            "field": "Aerospace engineering",
+            "university": "University of Leeds",
+            "location": "Leeds, England",
+            "year": "2017-2021",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Air Horizont Ltd",
+            "position": "Operations Engineering Manager and EFB Administrator",
+            "description": "Managing access and instructor of applications used by pilots, supervising operational documentation to comply with regulations, preparing flight load-sheets for weight and balance considerations, assisting the safety manager in safety-related tasks such as updating navigation databases.",
+            "start_date": "03/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.75
+        },
+        {
+            "company": "Air Horizont Ltd",
+            "position": "Operations Engineering Internship",
+            "description": "Routes studies using flight planification software, airport research and briefing elaboration for pilots.",
+            "start_date": "09/2021",
+            "end_date": "03/2022",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English (c1)",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "SolidWorks",
+            "Abaqus",
+            "Microsoft Office"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Teamwork",
+            "Problem solving",
+            "Creativity",
+            "Flexibility",
+            "Adaptability",
+            "Leadership",
+            "Time management"
+        ]
+    },
+    "other_interests_normalized": [
+        "Motogp",
+        "Formula 1",
+        "Gym member",
+        "Sports (football, tennis, golf, karting)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Santo Domingo Juventud Zaragoza, Spain",
+            "role": "Football Coach",
+            "duration": "09/2016 - June 2017",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 4.25,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

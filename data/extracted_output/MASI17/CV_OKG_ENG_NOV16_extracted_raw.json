@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "cv, omar khalil gómez november 2016 name and forename: omar khalil gómez id: 50.229.082a date and birthplace: 13/12/1989 at madrid nationality: spanish address: c/ antonio lópez, 67 4 -12* b telephone/mobile number: (+34) 915601074 / (+34) 650274465 email: omarkg890 gmail.com education bachelor of science degree in computer engineering with major in computer science at universidad carlos iii of leganés, madrid, completed in 2015. beneficiary of the erasmus scholarship in 2012/2013 at universita degli studi di pisa with english and italian courses. gce advanced level at colegio sagrado corazón p.p. capuchinos in madrid, 2005 - 2007. gcse completed at colegio sagrado corazón p.p. capuchinos in madrid, 2002 - 2005. professional experience junior systems engineer, at indra sistemas s.a. (full-time) actively contributing at sesar (single european sky atm research) department on several projects, from april 2015 to october 2016: - sesari b.04.04 \"delineation of the controller working position\": design and development of service interfaces for controller working positions, participation in the integration and test of the service interfaces in atc (air traffic control) systems. - sesar2020 pj .16 \"workstation, controller productivity\": quality control of the proposal elaborated to address the project's call launched by the european commission under the horizon 2020 framework. - sesar1 b.04.03 \"development of the high level logical system architecture and the technical system architecture\": delivery of service allocation reports for atm (air traffic management) services. - sesar2020 pj .17 \"swim technical infrastructure\": internal preparation for solution pj-17-01 related to the swim technology infrastructure in air ground communications. systems engineer trainee at indra sistemas s.a. (part-time) providing technical support at sesar (single european sky atm research) department on several sesari projects, from january 2014 to april 2015: page of 3 cv, omar khalil gómez november 2016 - b.04.03 \"development of the high level logical system architecture and the technical system architecture\": contribution to sesar 1 services architecting process. - 14.01.03 \"swim design\": modelling activities to represent swim technical infrastructure. - b.04.04 \"delineation of the controller working position\": identification of services and design of standardised service interfaces for the controller working position motivated by virtualisation trends at european level. technical knowledge . level of field technology experience wireshark intermediate networks osi stack intermediate middleware intermediate programming languages java expert 5 5 suas c++ novice corba intermediate service oriented architecture xml intermediate soap novice (soa) amqp novice methodology, patterns intermediate . . bpmn intermediate modelling notations uml expert . mega intermediate modelling tools sparx ea expert . naf expert architecture frameworks togaf novice project management métrica v3 novice j 8 sesar pmp intermediate . microsoft word, excel, office its outlook, powerpoint expert languages e english, upper-intermediate level. lived in london in summer 2008 and 2010. related education: - intensive general english course at london learning centre in london, upper- intermediate level (b2 according to the common european framework) [2010]. - intensive general english course at mayfair school of english in london, upper- intermediate level (b2 according to the common european framework) [2008]. e italian, upper-intermediate level. related education: page 2 of 3 cv, omar khalil gómez november 2016 - italian courses at centro linguistico dell 'universita di pisa in pisa, a2 and b2 levels according to the common european framework [2013]. - italian course at lingua viva in madrid, al level according to the common european framework [2012]. e arabic, basic level. e french, basic level. additional qualifications e eager to learn new skills. e experienced in applying technical and operational standards, methodologies and frameworks. e cooperative, proactive and problem-solving skills. e experienced in working with large teams. + good communication and presentation skills in spanish and english. e experienced to work with other cultures and in other languages. other information e driving license class b. . own vehicle. page 3 of 3",
+    "text_from_header": "CURRICULUM VITAE",
+    "detected_language": "en",
+    "master_edition": "MASI17"
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "name: luis gallardo frontaura date of birth 04-26-1973, toledo nacionality spanish address in madrid: c/ fornells, n 18 a 28390 las rozas (madrid) telephone number: +34 618 910 714 email address: lgallardofrontaura@gmail.com education: aeronautical engineer (5 years), universidad politécnica de madrid (madrid). work experience: 02/2012-present. company, aya aerospace bombardier-learjet (montreal, canada). lj 85, vstab skins, pax door mechanism, test data correlations. stress department. tools: patran/nastran, visual basic. bombardier stress core software. 11/2011-02/1012. company, aya aerospace aernnova (madrid, spain). a-350 htp. fatigue department. tools: abaqus, patran/nastran, isami, visualbasic, python, excel. 05/2011-11/2011. company, atos origin airbus-uk (filton, uk) stress and fatigue specialist. edsam, design values. fatigue of metallic materials. 05/2010-05/2011. company, atos origin atos origin (madrid, spain) stress and fatigue specialist. a30x, s19, design and sizing. tools: patran7nastran, catia v.5, excel, word. airbus software: cofus, ppme, arpa, crippling, urco, ancolab and others, 05/2008-05/2010. company, telvent dgt (madrid, spain) maintenance, operation and analyst of the video recording system located at the road traffic control center (dgt, dirección general de tráfico, spanish agency for road traffic). 2003-2008. company, ct ingenieros airbus-spain (getafe, spain) documents for the final certification of the a380 belly fairing, static calculations. airbus software, panpa, panco, crippling, bulones. documents for the final certification of the a380 belly fairing, fatigue calculations. airbus software, kthole, grieta. developing of the structural modifications for the a330-mrtt, including finite element models, part designing and documentation for the first flight. developing of software tools, in vba and vb in order to automate calculation proceedings as well as documents generation, in all the previous projects. 2003: management in a renault car dealer, including sales and car repair located in ciudad-real, specifically in charge of the next tasks: billing program spare parts program suppliers and customers management program tracking of incidences customer support and client care 1994-2005: working in civil engineering bureau, taking part in several projects developing the following tasks: calculation of metallic civil structures, foundations, cisterns and several civil structures plans budgets making of health and security studies technical prescriptions documents specific courses 2010-2011: master in logistics and commercial distribution (mba). esic business and marketing school 2011: hypermesh course, 10h. 2006: master in catia v.5, dassault systmes, 100h. fatigue course, 40 h. advance excel and word course, 20 h. 2005: course as a specialist in structure calculations by means of finite elements, using patran/nastran, 164 h. 2004: course about techniques in executive and managing skills in human resources, at the spanish state attorney bureau of studies. course about administrative hiring, at the center for legal studies, in collaboration with the thomson-aranzadi publisher. 2003: working day about bankruptcy law, spanish ministry of justice, at the center for legal studies and the collaboration of the banco espaol de crédito. i.t. high skill level in the following computer programs: autocad patran/nastran solid edge catia v.5 micro station matlab mathematica hypermesh knowledge of the operating systems unix/linux. programming in fortran and visual basic/ c++, python advanced knowledge in microsoft office languages english: high level, written and spoken with official courses and exams from the state languages school and the trinity college technical english, high level as used in the making of the documentation for the airbus projects. other information 2007-2008: preparing exams to become a public server at the dgt as a road traffic technician. availability to travel abroad. driving license as well as car of my own. experienced in team work. degree in music, at the conservatory of music jacinto guerrero, 5 years (toledo) with the 5 common voice practice courses, 4 of classical guitar and 2 of chorus.",
+    "text_from_header": "CURRICULUM VITAE",
+    "detected_language": "en",
+    "master_edition": "MASI14"
+}

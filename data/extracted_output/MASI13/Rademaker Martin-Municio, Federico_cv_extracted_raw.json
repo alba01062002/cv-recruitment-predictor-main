@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal details name address phone email gender date of birth : place of birth : nationality education 2007 2012 1994 2007 experience 2012 : federico juan rademaker martin-municio : tapia de casariego 41, 28023 madrid, spain : +34 629 11 53 31 : frademakerf@hotmail.com : male december 7, 1989 madrid, spain : spanish and dutch bachelor aerospace engineering, delft university of technology primary and secondary education, british council school of madrid (pre- university education) design synthesis exercise delft university of technology i was part of a team consisting of 10 students working on a project titled take-off and landing using ground-based power over a period of 10 weeks. the project resulted in a system capable of reducing airport emissions, noise and airplane fuel consumption. we were clasified as the second best out of 18. academic certifications october 2008 june 2006 june 2005 propaedeutic diploma from the bachelor programme in aerospace engineering delft university of technology as-level in physics edexcel london igcse in mathematics edexcel language certifications march 2007 august 2006 certificate of advanced in english (cae) university of cambridge (esol examinations) certificate in french language delf b1 (diplóme detudes en langue francaise) ministry of french education extracurricular activities 1996 present july 2006 july 2006 2004 2005 2003 february 2003 skills languages spanish english french dutch russian scout member grupo scout buen consejo de madrid 095 i have been a member of the group for most of my life and a leader for the past 5 years. as a leader in the scout group we are in charge of organizing events as well as taking responsibility for the wellbeing of the kids. british council scholarship to attend the london university international youth science forum participation at the euro space center, space camp summer programme in belgium guide at the national museum of science and technology of madrid i volunteered as a guide in charge of providing a tour around the exhibits of the museum. certificate of the associated board of the royal schools of music for initial choral singing collaboration with the science and technology museum native bilingual fluent basic basic computer knowledge microsoft office (word, excel, powerpoint, visio, outlook) photoshop frontpage java matlab catia hobbys/other interests playing music cultural history languages fencing scuba diving hiking madrid, september 26, 2012",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI13"
+}

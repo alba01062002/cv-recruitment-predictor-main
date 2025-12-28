@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "currículo vitae datos personales: nombre: jaime apellidos: meneses sánchez fecha y lugar de nacimiento: 4/noviembre/ 1985, madrid d.n.i.: 46.936.658-y domicilio: c/ cisneros, número 29, piso 3, puerta 2* c.p. : 28921 localidad de residencia: alcorcón (madrid) teléfonos: -fijo: 91 643 73 77 -móvil: 665 01 21 46 datos académicos: -estudiante proyecto final de carrera ingeniería industrial, especialidad máquinas y estructuras -selectividad, doble vía, rama de ciencias y rama de tecnología. nota alcanzada: 8,3 y 8,6 respectivamente. -bachillerato de ciencias y la salud, especialidad en ciencias e ingeniería. nota alcanzada: sobresaliente (9,4) idiomas -inglés: alumno escuela oficial de idiomas de alcorcón, nivel intermedio 2 de inglés. -francés: manejo oral y escrito(intermedio) datos profesionales: -becario proyecto final de carrera en aernnova engineering solutions, h-d+1i -mozo de logística, ikea alcorcón, agosto y septiembre 2007 datos adicionales: -manejo de aplicaciones informáticas: abaqus, ansys, solid edge, matlab, excel, word, fortran... -permiso de conducción, licencia b. -diploma en mecanografía, otorgado por la real sociedad económica matritense de amigos del país. -atleta del club atletismo alcorcón, desde temporada 97/98 hasta la presente temporada (ambas inclusive)",
+    "text_from_header": "CURRÍCULO VITAE",
+    "detected_language": "es",
+    "master_edition": "MASI09"
+}

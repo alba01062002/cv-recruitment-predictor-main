@@ -1,0 +1,98 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Ángel Miranda Galán",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": null,
+        "email": "ma.miranda82@qmail.com",
+        "phone": "648881356",
+        "address": "c/ Italia 23, 29 D Fuenlabrada (Madrid) CP: 28943",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Técnico en Informática. Especialidad Gestión",
+            "field": "Informática",
+            "university": "Universidad Rey Juan Carlos, Madrid",
+            "location": "Madrid",
+            "year": "2005-2009",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "IDOM, Ingeniería, Arquitectura y Consultoría S.L.",
+            "position": "Consultor Técnico Área Operaciones y Logística",
+            "description": "",
+            "start_date": "2008-01/2009",
+            "end_date": "2009",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Pikolin",
+            "position": "Diseñador de Nuevo Centro Logístico Industrial",
+            "description": "Diseño del nuevo centro logístico industrial de Pikolin en Zaragoza. Desarrollo de prototipo de bajo nivel de una línea de producción mediante software 3D para presentación con el cliente.",
+            "start_date": "2009-01/2009",
+            "end_date": "2009",
+            "duration_years": 0.0
+        },
+        {
+            "company": "ICEX, Instituto Español de Promoción Comercial",
+            "position": "Ingeniero Consultor",
+            "description": "Implementación de un instrumento de gestión para formación en pasaporte al exterior. Desarrollo de la base de datos (tablas, relaciones, ...) Programación de herramienta de formación mediante la interacción de formularios de MS Access, apoyada en los lenguajes VBA y SQL.",
+            "start_date": "2009-01/2009",
+            "end_date": "2009",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Comunidad de Madrid (Consejería de Medio Ambiente)",
+            "position": "Ingeniero Consultor",
+            "description": "Asistencia técnica para la realización de nuevas inscripciones y seguimiento de obligaciones de las empresas inscritas en el registro de instalaciones emisoras de RCOVs de la Comunidad de Madrid. Desarrollo de la base de datos (tablas, relaciones, ...) Programación de un sistema de gestión para la base de datos mediante la interacción de formularios de MS Access, apoyada en VBA y SQL.",
+            "start_date": "2009-01/2009",
+            "end_date": "2009",
+            "duration_years": 0.0
+        },
+        {
+            "company": "AENA (Administrador del Espacio Aéreo Español)",
+            "position": "Auditor de Software del SATE del Aeropuerto de Málaga. Ingeniero Consultor",
+            "description": "Desarrollo de modelos de bajo nivel de las líneas del SATE. Desarrollo de biblioteca de elementos correspondientes a los modelos de bajo nivel del SATE. Intercambio de señales entre prototipos desarrollados y PLCs mediante tecnologías OPC-Matrigon y TCP/IP. Desarrollo de biblioteca de comunicaciones TCP/IP en lenguaje C++.",
+            "start_date": "2008-01/2009",
+            "end_date": "2009",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Lenguajes de programación",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Sistemas Operativos",
+            "Lenguajes de Programación"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

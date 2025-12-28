@@ -1,0 +1,86 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Venus Fraile Henao",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "venus.fraile.henao@example.com",
+        "phone": "+34 744 40 51 68",
+        "address": "Calle Example 123, Madrid, Spain",
+        "LinkedIn": "https://www.linkedin.com/in/venusfrailehenao/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Electrónica de Comunicaciones",
+            "field": "Ingeniería Electrónica y de Comunicaciones",
+            "university": "Universidad Complutense de Madrid",
+            "location": "Madrid, España",
+            "year": "2018-2023",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "IMBISA (FNMT-BDE)",
+            "position": "Becaria",
+            "description": "Apoyo en la gestión, control, administración y mantenimiento de redes locales y sistemas de comunicación, así como en la implantación y seguimiento de hardware y software.",
+            "start_date": "05/2022",
+            "end_date": "01/2023",
+            "duration_years": 0.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Irlanda",
+            "institution_or_company": "The City and Guilds of London Institute, Dublin",
+            "start_date": "08/2018",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "C/C++",
+            "Python",
+            "Altium",
+            "Sistemas Empotrados (ARM, Arduino)",
+            "Diseño Electrónico de Consumo y Alta Frecuencia",
+            "SPICE",
+            "KiCad",
+            "SAP",
+            "Active Directory",
+            "Linux",
+            "Windows"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.67,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

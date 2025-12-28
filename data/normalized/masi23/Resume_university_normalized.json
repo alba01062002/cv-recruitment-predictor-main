@@ -1,0 +1,147 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Manish Kumar Sah",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "msah602@gmail.com",
+        "phone": "(+977) 985 122 5387",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "B. Tech Mechanical Engineering (University degree)",
+            "field": "",
+            "university": "NIMS University Jaipur, India",
+            "location": "Jaipur, India",
+            "year": "2011-2015",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "University of Cambridge, United Kingdom",
+            "location": "United Kingdom",
+            "year": "2009-2011",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Nepal Airlines Corporation Kathmandu, Nepal",
+            "position": "Senior Technical Officer (Engineer)",
+            "description": "Assisted in troubleshooting PFR defects on A320 and A330 aircraft using AirnavX and Airnav applications. Coordinated with contracted line maintenance organizations to provide maintenance support.",
+            "start_date": "07/2019",
+            "end_date": "12/2023",
+            "duration_years": 4.42
+        },
+        {
+            "company": "Nepal Airlines Corporation Kathmandu, Nepal",
+            "position": "QA Engineer",
+            "description": "Administered the certifying staff authorization process. Monitored airbus aircraft repetitive defects and their applicable ISI and TFU.",
+            "start_date": "07/2019",
+            "end_date": "12/2023",
+            "duration_years": 4.42
+        },
+        {
+            "company": "Nepal Airlines Corporation Kathmandu, Nepal",
+            "position": "QA Auditor",
+            "description": "Certified lead auditor (ISO 9001:2015) by Quality Austria. Conducted management of change for significant changes in the organization.",
+            "start_date": "01/2021",
+            "end_date": "12/2023",
+            "duration_years": 2.92
+        },
+        {
+            "company": "Nepal Airlines Corporation Kathmandu, Nepal",
+            "position": "Senior Technical Officer, MCC (IOC)",
+            "description": "Assisted in troubleshooting PFR defects on A320 and A330 aircraft.",
+            "start_date": "07/2018",
+            "end_date": "07/2019",
+            "duration_years": 1.0
+        },
+        {
+            "company": "Nepal Airlines Corporation Kathmandu, Nepal",
+            "position": "Senior Technical Officer, Aircraft Maintenance",
+            "description": "Performed line maintenance on A330 and A320. Carried out base maintenance on MA-60, Y12-E, and DHC-6 aircraft.",
+            "start_date": "01/2018",
+            "end_date": "07/2019",
+            "duration_years": 1.5
+        },
+        {
+            "company": "Nepal Airlines Corporation Kathmandu, Nepal",
+            "position": "Technician, Ramp Technical Handling",
+            "description": "Carried out maintenance on GSE equipment. Managed shift duty as a shift-in-charge.",
+            "start_date": "07/2016",
+            "end_date": "01/2018",
+            "duration_years": 1.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "India",
+            "institution_or_company": "Heavy Engineering Corporation Ltd., Ranchi (Internship)",
+            "start_date": "03/06/2014",
+            "end_date": "02/07/2014",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Nepali",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AirnavX Application Usage",
+            "Airnav Application Usage",
+            "Audit Techniques",
+            "Certifying Staff Authorization Process Management",
+            "ISO 9001:2015 Compliance",
+            "Maintenance Operations",
+            "MCC (IOC) Troubleshooting"
+        ],
+        "soft_skills": [
+            "Problem-Solving Skills",
+            "Analytical Skills",
+            "Teamwork",
+            "Initiative",
+            "Professionalism",
+            "Communication"
+        ]
+    },
+    "other_interests_normalized": [
+        "Quizzes",
+        "Robotryst-2015 Participant",
+        "Basketball"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Volunteer",
+            "duration": "2010",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

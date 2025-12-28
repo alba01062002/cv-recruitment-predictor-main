@@ -1,0 +1,95 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Álvaro Díaz Aguilar",
+        "date_of_birth": "16/12/1984",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 26,
+        "email": "aldiaz84@gmail.com",
+        "phone": "656945240",
+        "address": "Barriada las Flores C/Palomo 10, Jerez de la Frontera, Cádiz",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Superior en Telecomunicación",
+            "field": "Telecontrol y Robótica",
+            "university": "Escuela Técnica Superior de Ingenieros de Sevilla",
+            "location": "Sevilla",
+            "year": "2002-2008",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "TSK Electrónica",
+            "position": "Operario de Mantenimiento",
+            "description": "",
+            "start_date": "Julio-Agosto 2003",
+            "end_date": "Julio-Agosto 2004",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Quinta Ingeniería S.L.",
+            "position": "Ingeniero de Proyectos de Control",
+            "description": "",
+            "start_date": "Enero 2009",
+            "end_date": "Agosto 2009",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "EEUU",
+            "institution_or_company": "Academia Rennert, NY",
+            "start_date": "Marzo 2007",
+            "end_date": "Septiembre 2008",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Solid Edge",
+            "Programación de Robots Kuka",
+            "Unity Pro XL Wincc",
+            "Lenguaje AS (Robots Kawasaki)",
+            "Herramientas GIS (MapServer, Mapbender, ArcView, GeoNetwork)",
+            "SCADA"
+        ],
+        "soft_skills": [
+            "Trabajo en grupo",
+            "Dinámico",
+            "Inquieto",
+            "Capacidad de aprendizaje"
+        ]
+    },
+    "other_interests_normalized": [
+        "Cine",
+        "Música",
+        "Deporte",
+        "Viajes y naturaleza"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.2
+}

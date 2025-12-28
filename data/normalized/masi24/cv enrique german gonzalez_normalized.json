@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Enrique Germán González Esteo Plaza",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "gonzalezesteoenrique@gmail.com",
+        "phone": "+61 0490 383 162",
+        "address": "continenente,12, 14700 palma del río (córdoba)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, Spain",
+            "year": "September 2020-June 2024",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor of Science in Aerospace Engineering (mention in aerospace vehicles)",
+            "field": "Aerospace Engineering",
+            "university": "University of California, Irvine",
+            "location": "Irvine, California, EEUU",
+            "year": "September 2022-June 2023",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor of Science in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "University of Sydney",
+            "location": "Sydney, Australia",
+            "year": "January 2024-June 2024",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aertec Solutions",
+            "position": "Aerospace Engineer Intern",
+            "description": "Summer internship in the aerospace and defence systems department. Responsible of the aerodynamic design of the air to surface micro-missile fox. Built efficient aerodynamic models using computational fluid dynamics. Proposed and implemented solutions to improve the vehicle performance. Proposed flight test plans. Collaborated with the guidance, navigation and control team to match flight tests with simulated data.",
+            "start_date": "June 2023",
+            "end_date": "December 2023",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "United States of America, Australia",
+            "institution_or_company": "University of California, Irvine, University of Sydney",
+            "start_date": "",
+            "end_date": "",
+            "description": "Studied and interned at the University of California, Irvine and University of Sydney.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "R programming",
+            "Python",
+            "SolidWorks",
+            "Solidedge",
+            "ANSYS",
+            "DATCOM",
+            "XFLRS",
+            "CATIA",
+            "ABAQUS",
+            "Nastran",
+            "LaTeX",
+            "Microsoft Word",
+            "Excel",
+            "PowerPoint"
+        ],
+        "soft_skills": [
+            "Problem solving",
+            "Hard-working",
+            "Leadership",
+            "Teamwork",
+            "Decision making",
+            "Communication",
+            "Analytic thinking"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 6.5
+}

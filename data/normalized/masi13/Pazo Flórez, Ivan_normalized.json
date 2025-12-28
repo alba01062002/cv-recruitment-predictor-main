@@ -1,0 +1,127 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Iván Pazó Flores",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": null,
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Técnico Aeronáutico",
+            "field": "Aeromotores",
+            "university": "Universidad de León",
+            "location": "León",
+            "year": "junio 2009",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master Oficial en Física y Matemáticas",
+            "field": "",
+            "university": "Universidad de Granada",
+            "location": "Granada",
+            "year": "septiembre 2010 - junio 2012",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Ingeniero Aeronáutico",
+            "field": "Propulsión",
+            "university": "Universidad Politécnica de Valencia",
+            "location": "Valencia",
+            "year": "septiembre 2012 - junio 2016",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Grado en Ingeniería Informática (cursando actualmente)",
+            "field": "",
+            "university": "UNED",
+            "location": "Madrid",
+            "year": "actualidad",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Taller de Coches Familiar",
+            "position": "Trabajos de Verano",
+            "description": "Conocimiento profundo de motores y coches, trato con clientes y proveedores.",
+            "start_date": "2004-06",
+            "end_date": "2009-12",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Hotel Albany (León)",
+            "position": "Recepcionista",
+            "description": "",
+            "start_date": "2009-07",
+            "end_date": "2009-12",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Instituto de Investigación CMT-Motores Térmicos",
+            "position": "Técnico CFD (Becario)",
+            "description": "",
+            "start_date": "2012-02",
+            "end_date": "2012-09",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Pais anglo-parlante",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Tres semanas de estancia",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "Japonés",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Ansys (Alto)",
+            "Herramientas CAD (Medio/Alto)",
+            "Programación en C (Bajo)",
+            "Matemáticas (Medio)"
+        ],
+        "soft_skills": [
+            "Trato con clientes y proveedores",
+            "Facilidad para aprender herramientas informáticas nuevas",
+            "Idiomas",
+            "Capacidad comunicativa alta"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

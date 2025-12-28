@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "estudiante de ingeniería de telecomunicaciones con más de 4 aos de experiencia como profesor particular bilingúe. programacion: eo c++ (a html, css, javascript, jquery python gestion de bases de datos mediante mysql conocimientos de hardware de computadores y tecnologia en general conocimientos de ofimatica e informatica facilidad para el aprendizaje de tareas, procesos y habilidades trabajo en equipo miembro de un grupo scout samuel rodriguez gonzalez 605352755 samuel.i.rodriguez.gonzalez@gmail.com c/leopoldo alas clarin, 28806, alcala de henares, madrid mor espaol formación universidad de alcalá alcalá de henares, madrid grado en ingeniería telemática actualmente estudiando 2020 eoi alcalá de henares alcalá de henares, madrid c1 inglés/ advanced 05/2017 ies doctor maraón alcalá de henares, madrid bachillerato: bachillerato científico/tecnológico historial laboral 03/2077 - actual alcalá de henares, madrid profesor particular e gestión eficaz de la clase para propiciar un aprendizaje óptimo. e con iniciativa propia y capacidad de resolución de problemas. e presentación de ideas y conceptos. e inteligencia emocional 01/2017 - 07/2017 centro de estudios alcalá de henares, madrid profesor en centro de estudios cursos architecting with google compute engine programa de 5 cursos ofrecido por google cloud idiomas espaol: idioma nativo inglés: c1 e avanzado",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI22"
+}

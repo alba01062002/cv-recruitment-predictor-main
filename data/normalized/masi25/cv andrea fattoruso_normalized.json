@@ -1,0 +1,109 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Andrea Fattoruso",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "andreafattoruso@hotmail.com",
+        "phone": "+39 3914250882",
+        "address": "via staglie 60, gragnano 80054, na",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "M.Sc. in Aerospace Engineering (Space)",
+            "field": "Aerospace Engineering - Space",
+            "university": "Università di Napoli Federico II",
+            "location": "Napoli, NA, Italy",
+            "year": "2022-2025 (expected)",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "B.Sc. in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Università di Napoli Federico II",
+            "location": "Napoli, NA, Italy",
+            "year": "2019-2022",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Socarrat Cubesat (2U)",
+            "position": "Control & Comms Systems Engineer",
+            "description": "Contributed to the mission design of a 2U cubesat showcasing capabilities in space as part of an international team. Developed the attitude and orbit control system (AOCs) and ground communication subsystem.",
+            "start_date": "2022",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Daphne Cubesat (3U)",
+            "position": "Subsystems Engineer",
+            "description": "Student-led initiative supported by Distretto Aerospaziale Campano (DAC). Designed bus subsystem for a mission measuring space radiation absorption by experimental composite materials. Tasks included thermal, power, and structural considerations.",
+            "start_date": "2023",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Latitudo 40 s.p.a. and Stratobotics",
+            "position": "Engineering Intern (Erasmus+ Program in Czech Republic)",
+            "description": "Engineered a software-defined radio (SDR) based communication system for high altitude platform stations (HAPS). Enabled real-time 720p/30fps video streaming from HAPS to ground, alongside telemetry and inter-platform data link.",
+            "start_date": "2024",
+            "end_date": "2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus + Program in Czech Republic",
+            "country": "Czech Republic",
+            "institution_or_company": "",
+            "start_date": "2024",
+            "end_date": "",
+            "description": "Internship at Latitudo 40 s.p.a. and Stratobotics.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Italian",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB & Simulink",
+            "GNU Radio",
+            "ROS (Robot Operating System)",
+            "Python",
+            "Nastran",
+            "Git",
+            "OpenVSP",
+            "*Ansys Fluent"
+        ],
+        "soft_skills": [
+            "Working in a group and alone",
+            "Efficiency and flexibility"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

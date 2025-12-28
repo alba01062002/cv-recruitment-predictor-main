@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal information last names, first name: address: telephone: e-mail: nationality: date of birth: id number: gender: training gonzález reina, daniel urb. aljamar 3 n2199, 41940 tomares, seville (spain) mobile: (+34) 667 257829 second: (+351) 936 433 811 dangonrei@gmail.com spanish 05.09.1989 (dd.mm.yyyy) 53274625-r male im an industrial engineer specialized in machinery mechanics, graduated in 2013 at university of seville. ive studied one academic year at isep (school of engineering) in porto, portugal, with an erasmus grant. work experience dates: name of the company: name of the employer: type of sector: main activities: march - may 2011 mc2 ingeniería y sistemas enrique del pozo polidoro machinery design and manufacturing. for further information, please visit: www.mc2insiste.com. e design and management of brochures, clients and work orders database e steadicam mechanical design (device that keeps a camera steady while it is being held for filming) non-academic activities 1. competición motostudent dates: march 2011 october 2012 activity's name: competición motostudent (motostudent competition) description: design and manufacture of a competition motorbike by students of different universities, and a later contest. occupation: swing arm study and design. 2. projeto barchetta 01 dates: october 2012 july 2013 activity's name: projecto barchetta 01. description: design of a formula 3 prototype vehicle. occupation: study and improvement of the previous prototype's chassis (barchetta 00). test with composite materials in order to build the barchetta 01's chassis. personal skills and competences languages mother tongue: spanish other languages (self-assessment): language understandidng speaking upper- intermediate english* advanced writing advanced upper- . intermediate intermediate portuguese intermediate french intermediate pre-intermediate pre-intermediate *scored 9.3 out of 10 at the b2 level of english in the language institute at university of seville. computer programming languages: c, m (matlab), batch programs: matlab, catia, solid edge, ansys aditional information driving license b1",
+    "text_from_header": "CURRICULUM VITAE",
+    "detected_language": "en",
+    "master_edition": "MASI14"
+}

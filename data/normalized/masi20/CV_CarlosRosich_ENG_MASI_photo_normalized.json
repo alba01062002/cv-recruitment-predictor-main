@@ -1,0 +1,179 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carlos Rosich Jiménez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "carlos.rosichjimenezo@gmail.com",
+        "phone": "+33 06 26 29 80 34",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Telecommunications, Embedded Systems and Robotics Engineering",
+            "field": "Telecommunications, Embedded Systems and Robotics Engineering",
+            "university": "Institut National des Sciences Appliquées (INSA) de Lyon",
+            "location": "Lyon, France",
+            "year": "2016-19",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "INSA de Lyon",
+            "location": "Lyon, France",
+            "year": "2014-16",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Madrid, Spain",
+            "location": "Madrid, Spain",
+            "year": "2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Alten for BMW Motorbikes",
+            "position": "Software Engineering Consultant",
+            "description": "Hardware in the loop, data analysis, ECU testing, test optimization, tools engineering. Full-time embedded software using Python, C++, Qt, JavaScript, Jira, Gerrit, Git.",
+            "start_date": "03/2019",
+            "end_date": "12/2025",
+            "duration_years": 6.75
+        },
+        {
+            "company": "Alstom",
+            "position": "Consulting and Development Internship",
+            "description": "Client relations, analysis of user needs, team coordination, scrum. Full-time Android, Java and Python development with documentation.",
+            "start_date": "07/2018",
+            "end_date": "06/2018",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Research Project for Cooperative Navigation of Drones",
+            "description": "Positioning algorithms, firmware analysis, UWB and indoor positioning system (IPS) development.",
+            "start_date": "07/2017",
+            "end_date": "10/2017",
+            "duration_years": 0.25
+        },
+        {
+            "company": "",
+            "position": "Project Manager for Web Development",
+            "description": "Project management, team motivator. SQL, HTML5, CSS3 and Python environment.",
+            "start_date": "06/2017",
+            "end_date": "08/2017",
+            "duration_years": 0.17
+        },
+        {
+            "company": "",
+            "position": "Prototyping of a GPS Tracking Device",
+            "description": "Data processing, data analysis. Agile prototyping with Arduino.",
+            "start_date": "10/2016",
+            "end_date": "01/2017",
+            "duration_years": 0.25
+        },
+        {
+            "company": "University's Computer Rooms",
+            "position": "IT Assistant",
+            "description": "Basic maintenance of computers, printers and projectors.",
+            "start_date": "08/2015",
+            "end_date": "05/2016",
+            "duration_years": 0.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "France",
+            "institution_or_company": "INSA de Lyon, France (International Section)",
+            "start_date": "09/2014",
+            "end_date": "06/2016",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Portuguese",
+            "B1"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "C++",
+            "SQL",
+            "Java",
+            "HTML5",
+            "CSS3",
+            "MATLAB",
+            "GNS3",
+            "Simulink",
+            "Adobe Illustrator",
+            "Linux",
+            "Git",
+            "Qt",
+            "Siemens Solid Edge",
+            "MS Office",
+            "ROS"
+        ],
+        "soft_skills": [
+            "Agile methodologies",
+            "Adaptability",
+            "Assertivity",
+            "Creativity",
+            "Curiosity",
+            "Integrity",
+            "Perseverance"
+        ]
+    },
+    "other_interests_normalized": [
+        "Love nature",
+        "Bike and mechanics enthusiast",
+        "Play the piano",
+        "Cycling and hiking",
+        "Self-taught guitar player"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Les Bikers - Student-driven bike-workshop at La Doua's campus, Lyon, France",
+            "role": "Member of the Board of Directors (Team of 5 people)",
+            "duration": "2017-2021",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 8.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

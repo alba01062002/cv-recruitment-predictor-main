@@ -1,0 +1,108 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jaime García del Brio",
+        "date_of_birth": "30/11/1995",
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": 24,
+        "email": "jgarciadelbrio@gmail.com",
+        "phone": "659 164 505",
+        "address": "Q Madrid, Spain",
+        "LinkedIn": "https://www.linkedin.com/in/jaime-garc%C3%ADa-del-brio/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "https://www.academiadavinciaravaca.com"
+    },
+    "education_normalized": [
+        {
+            "degree": "MSc in Aeronautical Engineering",
+            "field": "Aeronautical Engineering",
+            "university": "Carlos III University",
+            "location": "Madrid, Spain",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "BSc in Aeronautical Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Technical University of Madrid",
+            "location": "Madrid, Spain",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Technical University of Madrid",
+            "position": "Teaching Assistant",
+            "description": "Taught graphic engineering and assisted in teaching.",
+            "start_date": "09/2016",
+            "end_date": "12/2025",
+            "duration_years": 9.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Aircraft and Space Vehicles Department",
+            "start_date": "",
+            "end_date": "",
+            "description": "Participated in an internship related to MATLAB.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Volunteering",
+            "country": "Spain",
+            "institution_or_company": "Caritas University",
+            "start_date": "09/2016",
+            "end_date": "",
+            "description": "Volunteer work.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA V5",
+            "Excel"
+        ],
+        "soft_skills": [
+            "Strong willed",
+            "Easily adaptable"
+        ]
+    },
+    "other_interests_normalized": [
+        "Consulting Management Travelling",
+        "3D Printing",
+        "Football"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Caritas University",
+            "role": "Volunteer",
+            "duration": "09/2016 - present",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 9.25,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.9
+}

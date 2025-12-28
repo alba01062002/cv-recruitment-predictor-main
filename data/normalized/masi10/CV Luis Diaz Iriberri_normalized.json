@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Luis Diaz Iriberry",
+        "date_of_birth": "19/08/1983",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 27,
+        "email": "luis.diaz.iriberri@gmail.com",
+        "phone": "+34 696 860 236",
+        "address": "pg/ torras i bages 97, 2-37, 08030 barcelona, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero aeronáutico",
+            "field": "Aerodinámica, Ingeniería CFD, Diseño, Consultoría",
+            "university": "Universitat Politècnica de Catalunya (UPC)",
+            "location": "Castelldefels (Barcelona)",
+            "year": "2005-2008",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Ingeniero técnico aeronáutico, especialidad en aeronavegación",
+            "field": "",
+            "university": "Escola Politècnica Superior de Castelldefels (EPSC) - Universitat Politècnica de Catalunya (UPC)",
+            "location": "Castelldefels (Barcelona)",
+            "year": "2005",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Investigador asistente",
+            "university": "Voralcel S.L.",
+            "location": "Castelldefels (Barcelona)",
+            "year": "2005-2006",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Voralcel S.L.",
+            "position": "Investigador asistente",
+            "description": "Proyecto Skydair, diseño preliminar, simulación CFD, ensamblaje y ensayos en laboratorio",
+            "start_date": "02/2005",
+            "end_date": "12/2005",
+            "duration_years": 0.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B1"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office",
+            "Autocad",
+            "Catia V5",
+            "Fluent Solver",
+            "Gambit CFD Preprocessor",
+            "C++",
+            "Ansys",
+            "Maple",
+            "Matlab",
+            "Labview",
+            "OrCAD PSpice",
+            "Mic-mac"
+        ],
+        "soft_skills": [
+            "Diseño Gráfico",
+            "Informática a nivel de usuario"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 0.83,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.9
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "ingeniero aeronautico información personal nombre herrera garcía , juan fecha de nacimiento 28/05/1985 lugar de nacimiento cádiz nacionalidad espaola dirección pl/ nao victoria ns, 4c, san fernando 11100 (cádiz) teléfono 627527860 / 956884197 email juanherreragarcia@ gmail.com experiencia profesional proyectos realizados + proyecto fin de carrera: implementación e investigación de la formulación de en la universidad: elementos triangulares para extended finite element method (xfem) + disefio del ala de una aeronave incluyendo sus componentes y utilizando cargas reales. posterior análisis estructural para el modelo lineal elástico. tarea llevada a cabo con los programas patran/nastran e incluyó cálculos a mano para verificar los resultados. + diseo de una plataforma para el aeropuerto de sevilla tomando como modelo la aeronave airbus a320. + diseo del modelo de un ala delta usando catia vs. + diseo del terminal de un aeropuerto usando como información la circulación de pasajeros al ao. e aviónica: envio de datos usando el bus arinc 429. software sistema operativo ms-windows ofimática ms-office análisis mef nastran/patran, ansys cad catia v5 programación matlab, python otros simulink, presto juan herrera garcía educación / estudios 2009 2008 2009 2006 2003 2008 2001 2003 idiomas espafiol inglés alemán francés proyecto fin de carrera: implementation and investigation of a triangular element formulation for the extended finite element method (xfem) en la technische universitát zu braunschweig (alemania) estudiante erasmus en la t.u. braunschweig (alemania) seminario de aviónica y sistemas de navegación, sevilla. ingeniería aeronáutica en la escuela superior de ingenieros de sevilla. bachillerato con matrícula de honor en el instituto la bahía de san fernando, cádiz. lengua materna nivel excelente escrito y hablado. julio 2007 y julio 2008: monitor de grupo de estudiantes espaoles de intercambio en toronto (canadá) y bristol (uk ) + 2003: título superior de la escuela oficial de idiomas de san fernando (cádiz) + 2003: first certificate exam in english of cambridge universitiy julio 2002 y agosto 2003: cursos intensivos de inglés en verano en brighton y stoke- on-trent (uk). buenos conocimientos. + cursos de idiomas de niveles al y a2 durante la estancia en braunschweig como estudiante erasmus. buenos conocimientos. otros datos de interés responsable y trabajador. posibilidad de movilidad. gran capacidad para el trabajo en grupo y liderazgo. buena aptitud de adaptación a nuevas situaciones y ambientes de trabajo internacionales carné de conducir. disponibilidad de incorporación inmediata. juan herrera garcía página 2 de 2",
+    "text_from_header": "INGENIERO AERONAUTICO",
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

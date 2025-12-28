@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ignacio Luis Núez Martínez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": null,
+        "email": "nm.nacho@gmail.com",
+        "phone": "+34 675349979",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MSC in Bioengineering",
+            "field": "Major in Biomedical Engineering",
+            "university": "University Miguel Hernández of Elche",
+            "location": "Elche",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Industrial Engineer",
+            "field": "Major in Automation and Control Systems",
+            "university": "University Miguel Hernández of Elche",
+            "location": "Elche",
+            "year": "2003-2009",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Payload Aerospace S.L.",
+            "position": "Propulsion Engineer (Part-time)",
+            "description": "Mention and analyse the requirements of the turbo-pump. Develop and simulate 3D designs with CATIA and MATLAB. Calculate the development costs of the turbo-pump. Create documentation of development.",
+            "start_date": "10/2014",
+            "end_date": "04/2015",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Payload Aerospace S.L.",
+            "position": "Procurement Engineer (Full-time)",
+            "description": "Negotiation with USA, Europe and Asia suppliers.",
+            "start_date": "09/2015",
+            "end_date": "03/2016",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Dental Global S.L.",
+            "position": "Logistics Planning & Monitoring (Full-time)",
+            "description": "Control of the supply chain. Created purchasing protocols.",
+            "start_date": "11/2010",
+            "end_date": "02/2013",
+            "duration_years": 2.25
+        },
+        {
+            "company": "Inclass Mobles S.L.",
+            "position": "Process Engineer (Full-time)",
+            "description": "Identify and implement process improvements. Negotiation with European suppliers.",
+            "start_date": "11/2010",
+            "end_date": "02/2013",
+            "duration_years": 2.25
+        },
+        {
+            "company": "NBio Research Laboratory, University Miguel Hernández of Elche",
+            "position": "Research Engineer (Part-time)",
+            "description": "Developed polymeric membrane for hydrogen batteries.",
+            "start_date": "11/2009",
+            "end_date": "11/2010",
+            "duration_years": 1.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship / Research",
+            "country": "China - Shanghai, Germany - Köln, Brazil - São Paulo, France - Paris, Sweden - Stockholm",
+            "institution_or_company": "NBio Research Laboratory, University Miguel Hernández of Elche; Volkshochschule Köln; Intercail; International Fairs",
+            "start_date": "",
+            "end_date": "",
+            "description": "Attended meetings with suppliers. International fairs.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA"
+        ],
+        "soft_skills": [
+            "Negotiation",
+            "Logistics Planning & Monitoring"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 6.5,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.8
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": ": datos personales: o nombre y apellidos: álvaro díaz aguilar o dirección: barriada las flores c/palomo 10 o localidad: jerez de la frontera o provincia: cádiz o fecha nacimiento: 16-12-1984 o teléfono: 656945240 o e-mail: aldiaz84@ gmail.com formación académica o [2000-2002] titulo de bachillerato [i.e.s. alvar nuez] o [2002-2008] ingeniero superior en telecomunicación, especialidad telecontrol y robótica [escuela técnica superior de ingenieros de sevilla] esta titulación me aporta amplia formación en los siguientes campos entre otros: * electrónica * electromagnetismo * radiocomunicación * sistemas de control * organización industrial * gestión y administración de empresas * tecnologías de transmisión formación extra académica o [mar. 2007-sep. 2008] proyecto fin de carrera o título: creación y puesta en servicio de un servidor de mapas para la isla decepción (antártida). o dirección : http://193.147.162.12/simacweb/ o descripción: se trata de una aplicación destinada a facilitar el trabajo de investigación de científicos destinados a la isla decepción en la antártida, se pretende ofrecer una herramienta de catalogación y consulta de los diferentes tipos de datos recogidos, posee tanto una interfaz gráfica como una alfanumérica para realizar estas consultas jornadas y conferencias o jornadas ingeniería y pensamiento o jornadas sobre jóvenes emprendedores de la junta de andalucia o curso de 45 horas domótica, redes de sensores y actuadores por la etsi de sevilla o curso web 2.0, ruby on rails o seminario nacional sobre aviónica y sistemas de navegación aérea, realizado en la esi de sevilla en abril de 2008 o curso avanzado de programación de robots kuka. idiomas o ingles nivel alto hablado y escrito o certificado curso de 3 semanas de la academia rennert, ny, con estancia de 1 mes en eeuu. o estancia y cursos para perfeccionar el ingles durante el verano de 2009 agosto- septiembre en glasgow y dublín experiencia laboral o [julio-agosto 2003] tsk electrónica [operario de mantenimiento] realizaba tareas de mantenimiento en el mes de parada de la producción de la factoría delphi de puerto real o [julio-agosto 2004] tsk electrónica [operario de mantenimiento] dual al anterior en la siguiente parada de mantenimiento. o [enero 2009 - agosto 2009] quinta ingeniería s.l. [ingeniero de proyectos de control]. realización de las distintas fases en proyectos de ingeniería de control, desde valoración de una oferta hasta la programación del sistema y puesta en marcha del mismo. he realizado en mi estancia en esta empresa proyectos como la automatización del sistema de seguridad ante fallos en el sistema de transformación de alta a baja tensión de la nueva terminal del aeropuerto de barcelona, en proyectos como este he asumido y adquirido experiencia en las siguientes tareas: o planificación de usos de recurso y plazos o reuniones de coordinación y planificación con otras empresas y con el propio equipo de trabajo. o programación de la lógica de los autómatas. o comunicaciones entre equipos (configuración, arquitectura, elección de protocolos...) o labores formativas dirigidas a los usuarios del sistema. o puesta en marcha a pie de obra del sistema completo, realizando trabajos tanto a nivel técnico como de coordinación. informática 000000 programas de ofimatica (openoffice, word, excel, powerpoint...) sistemas operativos (windows 98, xp, vista, msdos, linux) solid edge, programa de edición grafica, curso de 45 horas matlab conocimientos avanzados de hardware/software manejo de s.o. linux lenguajes de programación 00000000000 c visual basic lenguajes textuales de manipuladores robóticos: val ii, y otros ensamblador motorola 68000 autómatas programables (plc) unity pro xl wincc lenguaje as (robots kawasaki) lenguaje de manipuladores kuka herramientas gis (mapserver, mapbender, arcview, geonetwork) scada otras consideraciones persona trabajadora, acostumbrado a trabajar en grupo, dinámico, inquieto y al que le gusta y no le cuesta aprender. dispongo de carné de conducir y vehículo propio disponibilidad para viajar hobbies: música, cine, deporte, viajes y naturaleza entre otros. me interesan mucho otras especialidades de ingeniería, como la mecánica o aeronáutica, estaría dispuesto, y me gustaría formarme en estos temas, y realizar trabajos en estos campos, aunque no sean específicos de mi especialidad, poseo gran capacidad de aprendizaje.",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

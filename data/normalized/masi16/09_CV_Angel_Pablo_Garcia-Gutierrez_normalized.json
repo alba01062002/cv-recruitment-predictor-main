@@ -1,0 +1,134 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ángel Pablo García Gutiérrez",
+        "date_of_birth": "06/05/1988",
+        "gender": "male",
+        "age_reference_year": 2016,
+        "age": 28,
+        "email": "angelpablogarcia@gmail.com",
+        "phone": "+34 610 745 278",
+        "address": "grabado 12, getafe (madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Industrial Engineering: Specialization in Energetic Technologies",
+            "field": "Industrial Engineering, Specialization in Energetic Technologies",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2010-2013",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Bachelor's in Mechanical Engineering, Bachelor in Industrial Engineering",
+            "field": "Mechanical and Industrial Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2006-2010",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Norwegian University of Science and Technology International Exchange in Industrial Ecology and Energetic Technologies",
+            "field": "Industrial Ecology and Energetic Technologies",
+            "university": "Norwegian University of Science and Technology, Trondheim",
+            "location": "Trondheim",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Mi-GSO Project Management Experts",
+            "position": "Project Engineer",
+            "description": "",
+            "start_date": "2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Operations",
+            "position": "Project Engineer for A350 XWB Section 19 & HTP Industrial Support",
+            "description": "",
+            "start_date": "2014-01/2015-12",
+            "end_date": "2015-12",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "International Exchange",
+            "country": "Norway, Spain (Spain)",
+            "institution_or_company": "Norwegian University of Science and Technology / Universidad Carlos III de Madrid",
+            "start_date": "2011-08/2012-06",
+            "end_date": "2012-06",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Italian",
+            "B2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Norwegian",
+            "A2"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Fortran",
+            "Microsoft Office (Word, Excel, Access, Project)",
+            "SAP",
+            "CAD/CAE/CFD: ANSYS Workbench, ANSYS Fluent, SolidWorks, ABAQUS"
+        ],
+        "soft_skills": [
+            "Active participation in the board of European Students of Technology",
+            "President of Best Madrid Carlos III group (2012-2013)",
+            "Proactive, creative, and innovative person",
+            "Used to lead big groups of people",
+            "Team-worker",
+            "Experience working in an international environment"
+        ]
+    },
+    "other_interests_normalized": [
+        "Own car",
+        "Ultra-light aircraft pilots license (U.L.M.)",
+        "Driving license (B1)",
+        "Total availability to travel or change of residence"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2012-2013",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

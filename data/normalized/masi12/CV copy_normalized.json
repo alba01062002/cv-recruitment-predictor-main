@@ -1,0 +1,103 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pau Pérez Audureau",
+        "date_of_birth": "06/02/1984",
+        "gender": "male",
+        "age_reference_year": 2012,
+        "age": 28,
+        "email": "pauperezaud@gmail.com",
+        "phone": "+34 913168956, +34 696158182",
+        "address": "i ramón gómez de la serna, 21, 6b, 28035 madrid (spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería de Telecomunicación",
+            "field": "Telecommunications Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2002-2004",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Curso de Adaptación al Grado en Ingeniería Telemática",
+            "field": "Telematics Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2010-2011",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Ingeniería Técnica en Telecomunicación: Telemática",
+            "field": "Telecommunication Engineering (Telematics)",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2004-2010",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Final Degree Project on Iris Biometrics (pending)",
+            "field": "",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "France",
+            "institution_or_company": "Lycée Français de Madrid",
+            "start_date": "",
+            "end_date": "",
+            "description": "French Baccalaureate (Speciality in Sciences) obtained from 1994 to 2002",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "C#",
+            "C",
+            "Matlab",
+            "Fixed and Mobile Communication Networks",
+            "Databases",
+            "Digital Systems",
+            "Signal Theory",
+            "Computer Vision",
+            "Signal Processing"
+        ],
+        "soft_skills": [
+            "Team Management",
+            "Team Spirit",
+            "Social Skills"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 9.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 20,
+    "detected_language": "en",
+    "master_edition": "MASI12",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.6
+}

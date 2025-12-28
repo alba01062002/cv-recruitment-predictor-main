@@ -1,0 +1,82 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Javier Aguado Menchero",
+        "date_of_birth": "15/11/1989",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 26,
+        "email": "aguadomenchero@gmail.com",
+        "phone": "+34 630311254, +34 916827715",
+        "address": "C/ Hospital de San José 32D, 28901 Getafe, Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Mecánica",
+            "field": "Ingeniería Mecánica",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2009-2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Procoluide Industrial S.A.",
+            "position": "Operario en cadena de fabricación",
+            "description": "Encargado del correcto desarrollo de las actividades de producción.",
+            "start_date": "06/2011",
+            "end_date": "09/2011",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Abaqus",
+            "Solid Works",
+            "Solid Edge",
+            "Fortran",
+            "C"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.25,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

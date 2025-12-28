@@ -1,0 +1,137 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Arturo Gómez Núez",
+        "date_of_birth": "20/08/1997",
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": 24,
+        "email": "arturog97@gmail.com",
+        "phone": "+44749202982",
+        "address": "",
+        "LinkedIn": "linkedin.com/in/arturo-gomez-nunez",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Engineering in Aerospace (Honors)",
+            "field": "Aerospace Engineering",
+            "university": "University of Surrey",
+            "location": "Guildford, England",
+            "year": "2015-2018",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Postgraduate Certificate in Space Engineering",
+            "field": "Space Engineering",
+            "university": "University of Surrey",
+            "location": "Guildford, England",
+            "year": "2018-2020",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Architecture and Systems Engineering: Models and Methods to Manage Complex Systems",
+            "field": "",
+            "university": "MITxPRO",
+            "location": "",
+            "year": "2020-2021",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Spanish Homemade",
+            "position": "Vendedor",
+            "description": "Experience not specified.",
+            "start_date": "08/2015",
+            "end_date": "07/2020",
+            "duration_years": 4.92
+        },
+        {
+            "company": "University of Surrey Starbucks Coffee",
+            "position": "Barista",
+            "description": "Experience not specified.",
+            "start_date": "09/2016",
+            "end_date": "08/2018",
+            "duration_years": 1.92
+        },
+        {
+            "company": "Smartdiyers SL",
+            "position": "Cofundador, atención al cliente y operador de maquinaria",
+            "description": "Experience not specified.",
+            "start_date": "07/2016",
+            "end_date": "12/2025",
+            "duration_years": 9.42
+        },
+        {
+            "company": "",
+            "position": "Clases Particulares a Estudiantes de Secundaria",
+            "description": "Experience not specified.",
+            "start_date": "2012, 2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fusion 360",
+            "SolidEdge",
+            "ANSYS",
+            "AutoCAD",
+            "Aspire",
+            "Cura (3D Slicer)",
+            "Microsoft Office Suite",
+            "MATLAB",
+            "C++"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Leadership",
+            "Critical Thinking",
+            "Analytical Problem Solving",
+            "Project Task-Based Decomposition",
+            "Interpersonal Skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Discovering how the world works around him and using that knowledge to create.",
+        "Innovation and advancing human knowledge.",
+        "Travel"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 21,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

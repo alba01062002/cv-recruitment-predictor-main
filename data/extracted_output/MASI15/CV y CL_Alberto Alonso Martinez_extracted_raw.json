@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "alberto alonso martínez c/ escosura, 19 28015 madrid, spain telephone: +34 699 806510 alberto.alonso88@gmail.com monday 15th of june 2015 dear director, i am writing to enquire about the master in aircraft systems integration at u3cm. my academic preparation, and career interests fit your studies very well, and i enclose my cv for your consideration. i have completed my degree in aeronautical engineering with a specialization in aircrafts and a final degree project entitled analysis of the required thrust of an aircraft aided during take-off and landing by ground-based system using magnetic levitation technology. since september i have been working for airbus as an intern and also a msc in professional development. during this internship my team has studied improvements in the serial production aircrafts a320, a330 and a330-250xl (new beluga) and has been developing new technologies. this experience has taught me the value of communication between team members and how to work well in a team under the pressure of deadlines. in addition, my experience as a youth worker has presented me with a range of responsibilities and develops my ability to contribute effectively. i hope that, on consideration of my cv and my enthusiasm and interest about the experience of working for airbus, you will be persuaded of my potential. i am happy to provide any further information in support of my application and i am available for interview at any time. i look forward to hearing from you in the near future. yours faithfully, alberto alonso martinez alberto alonso martínez calle escosura, 19, 1g, 28015, madrid, spain alberto.alonso88@gmail.com +34 699 806 510 spanish 6th april 1988 experience airbus operations s.l. getafe, spain rfe architecture and integration 2014-present department in charge of concept design phase (mg3 to mg5), performing the following works/activities: a330neo programme (lr) stress analysis activities in rfe for trades (w-saving opportunities) trades of new design proposals for w-savings opportunities. supporting to trm & pdr preparation pre mg5 supporting to product strategy of department. a320neo programme (sa) a320id: implement a350 htp technology on a320 htp. studies design modifies in htp (torsion box, centre joint, leading edge, trailing edge) new beluga (a330-250 xl) studies design proposals (dorsal fin, fish tail, interfaces with s18 and nfa). performance stress calculations (s19: skin and upper frames). estimation resources and associated costs. review of old beluga 2d drawings to support and perform stress analysis activities. atos it madrid, spain static stress analyst 2013-2014 a350-900 structural testing: gfem, dfem and structural strength analysis for s19. use of airbus procedures and manuals. analysis of metallic and composites structures (bearing failure - bolt shear failure - by-pass failure) isami v.7.2.2 (modules: static bolt group - filled hole - l-fitting - bolted joint - frames). use of patran nastran (launcher creation - fem & dfem results analysis - post-process files), excel (macros with vba), textpad. release of strength justification documentation. education master in professional development alcalá de henares, spain universidad de alcalá 2014-present masters degree in aeronautical engineering. specialization in aircrafts valencia, spain universidad politécnica de valencia, etsid 2011-2013 mark obtained: 8,3/10. final project degree: analysis of the required thrust of an aircraft aided during take-off and landing by ground-based system using magnetic levitation technology passed with honours. erasmus programme 2012-2013. politechnika rzeszowska, rzeszów (poland). full academic year and final project degree. bachelors degree in aeronautical engineering. specialization in aircrafts madrid, spain universidad politécnica de madrid, euita 2007-2011 mark obtained: 7,5/10. final project degree: estudio económico del tráfico aéreo passed with honours. languages spanish. native. english. spoken/written: advanced french. b1 level additional training intensive english course of college bristol (bristol, uk) 3 months, 2014 active free online courses webpage coursera member: agilidad y lean. gestionando los proyectos y negocios del s. xxi 90 hour 2013 gestión y dirección de proyectos 60 hour 2013 course patran/nastran, upv 100 hours, 2011 course vba in excel, upv 60 hours, 2011 course catia v5, upm 60 hours, 2008 informatics cad/cae/cam experienced in isami, patran/nastran and catia v5. programming experienced in vba, matlab and c. enterprise management software knowledge in sap. operative systems and office suites experienced in linux, microsoft windows and microsoft office (excel, word, powerpoint). others zamiz, gestión documental, pdmlinc, my doc, fts+, giseh application. others driving license type b. interests: sports, travel, technology, science. good references from previous jobs. availability to travel and/or to change residence. eager to learn.",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI15"
+}

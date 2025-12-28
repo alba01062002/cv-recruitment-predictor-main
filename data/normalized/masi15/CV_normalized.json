@@ -1,0 +1,95 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Andualem Sileshi Lemma",
+        "date_of_birth": "25/07/1986",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 29,
+        "email": "andy.sile@gmail.com",
+        "phone": "+2519-12093385",
+        "address": "Addis Ababa, Piazza, Ethiopia",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BSc. Degree in Electrical Engineering",
+            "field": "Electrical Engineering",
+            "university": "Arba Minch University",
+            "location": "Ethiopia",
+            "year": "2005-2008",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Diploma in Aviation Technology",
+            "field": "Aviation Technology (Aircraft Maintenance)",
+            "university": "Ethiopian Airlines Aviation Academy",
+            "location": "Ethiopia",
+            "year": "2009-2011",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Ethiopian Airlines",
+            "position": "Full-time Boeing 737NG Rated Aircraft Ground Technician and Flight Technician",
+            "description": "",
+            "start_date": "2011",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Training",
+            "country": "Taiwan",
+            "institution_or_company": "K&H Mfg. Co., Ltd.",
+            "start_date": "02/12/2009",
+            "end_date": "02/16/2009",
+            "description": "Training in embedded system and electronic lab course",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD",
+            "Photoshop",
+            "Illustrator",
+            "Sketch Up"
+        ],
+        "soft_skills": [
+            "Adaptability",
+            "Teamwork",
+            "Time Management",
+            "Work Ethics"
+        ]
+    },
+    "other_interests_normalized": [
+        "Modern Literature",
+        "Exploring new things",
+        "Dramas",
+        "Experiencing new cultures and travel",
+        "Watching football"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Blood Donor",
+            "role": "",
+            "duration": "null",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 6.5
+}

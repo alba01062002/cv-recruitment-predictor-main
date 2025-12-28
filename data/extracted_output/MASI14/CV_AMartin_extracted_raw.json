@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "surnames / first name address contact date and place of birth work experience occupation company / dates main activities occupation company / dates main activities occupation company / dates main activities qualifications institution / dates principal subjects title institution / dates topic institution / dates martín recuenco, alberto entrearroyos, 1, 28030 madrid (spain) mobile: +34 654 515367 alberto.martin.recuenco@gmail.com may, 5th. 1985, spain project engineer - hirf/emc & lie specialist gerac (thales subsidiary) - airbus contractor (madrid, spain) september 2011 today * securing the emh and lightning indirect effects (lie) certification (using standards do160, abd0100.1.2) of new developed systems under airbus spain responsibility for the civil programs a350xwb and a320neo. main systems: ata24, ata26, ata33, ata47, ata49. * ensuring the continuous airworthiness for in-service civil programs, mainly for a320, a340, and a380. main systems: ata24, ata26, ata33, ata47, ata49. * follow the equipment manufacturers for airbus by checking the emc control plans, the qualification plans, the test procedures and the test reports. * anticipating and mitigating potential emh risks on the existing systems & equipment to ensure successful a/c integration. * participating in design/qualification reviews and meeting with airbus suppliers to define, justify, and technically negotiate requirements and action plans. * writing technical arguments to support all relevant parties retest to comply with qualification objectives as committed by airbus to authorities (and supplier to airbus) for certification. rf engineer european space agency (darmstadt, germany) september 2009 august 2011 * within the ground station systems division, was involved on the definition of the ground system requirements for ssa (space situational awareness) radar, providing timely design reviews, clearing of review item discrepancies (rid) and attending kick off meetings (kom). * rf segment leader in the designing and building up of a mini radar demonstrator main tasks related to - agreement of validation criteria including test plans, report and requirements spec. - rf designing and testing and signal processing with fpga (ni labview and matlab) implementation. * responsible of the preparation of the station upgrade plan for gaia mission in order to agree the ground station requirements. payload junior engineer hispasat, s.a. (madrid, spain) december 2008 - august 2009 * technical supervision of amz-2 satellites procurement life cycle, including test campaign at eads astrium toulouse carried out in intespace cleanrooms. * participation in internal r&d activities in the satellite communication area: studies, analysis and testing. m.s. in telecommunications engineering technical university of madrid, upm (madrid, spain) september 2003 october 2008 satellite communications, radio communications systems, signal processing, and electromagnetism. erasmus program: technical university of vienna (austria) (2007/2008). final thesis: student space exploration and technology initiative ground station technical university of vienna, tu (vienna, austria) february 2008 october 2008 research that directly contributes to the building up of a ground station in tu vienna for satellites tracking. business administration and management degree administrative and economic sciences faculty, uned (madrid, spain) september 2011 - present additional education title institution / dates title institution / dates publications languages additional information phased array antenna course (40h) given by university college london staff at esa/esoc (darmstadt, germany) october 2010 assistant: ii meeting on space telecom satellites as the engine of technological innovation organised by hispasat in menendez pelayo international university (santander, spain) july 2009 mini-radar test system for esa's ground segment reference facility, 5 esa international workshop on tracking, telemetry and command systems for space applications, september 2010 implementation of a low power mini-radar demonstrator, european space surveillance conference, inta hq, madrid, june 2011 spanish, mother tongue. negotiation level in english advanced in french, intermediate in german test equipments: rf and hf components, spectrum analyzer (rhode and schwarz). programming skills: java, c++, mysql, php, eagle, psice, matlab, simulink, labview. operating systems: windows, linux, mac os x ms office, ms project, latex, lotusnote. piano musical formation (since 1997). driving licenses: b.",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI14"
+}

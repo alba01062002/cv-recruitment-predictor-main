@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro Linde Cerezo",
+        "date_of_birth": "09/06/1992",
+        "gender": "male",
+        "age_reference_year": 2016,
+        "age": 24,
+        "email": "alejandrolindecerezo@yahoo.es",
+        "phone": "+34 699 10 99 36",
+        "address": "calle ci eslovaquia, 3, 28880 meco, madrid - spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelors degree in Telecommunication Systems Engineering",
+            "field": "Telecommunication Systems Engineering",
+            "university": "University of Alcala de Henares, Polytechnic School",
+            "location": "Spain",
+            "year": "2010-2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master of Engineering in Aircraft Systems Integration",
+            "field": "Aircraft Systems Integration",
+            "university": "Masi - Master of Engineering in Aircraft Systems Integration",
+            "location": "",
+            "year": "pending resolution for extraordinary prize",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Deutsches Zentrum fur Luft- und Raumfahrt (German Aerospace Center)",
+            "position": "Student Assistant, Microwave and Radar Institute, SAR Technology Department",
+            "description": "Design, development and software implementation of an efficient and generic [monostatic/bistatic, spaceborne/airborne] subaperture-based SAR image formation algorithm for very high resolution spotlight acquisitions. Software implementation of an efficient and generic monochromatic SAR image formation algorithm for stripmap acquisitions. Development and software implementation of an efficient and generic backgeocoding tool.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Altran Spain",
+            "position": "Junior Consultant Internship, Telecommunications and Media Department",
+            "description": "Testing, operations & management area. OCS (Online Charging System) testing project on Telefonica's mobile network. Automation and execution of functional tests about the different management services and charging processes with the customers software tools. Collaboration on the model network configuration to make the tests. Notification of the developing incidences. Active participation in the team to validate the customers functionalities. Reporting of the project advance.",
+            "start_date": "10/2014",
+            "end_date": "09/2015",
+            "duration_years": 0.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Germany",
+            "institution_or_company": "Deutsches Zentrum fur Luft- und Raumfahrt (German Aerospace Center)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Internship in the Microwave and Radar Institute, SAR Technology Department",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "German",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "Cython",
+            "C",
+            "MATLAB"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Leadership",
+            "Communication"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Teacher and Shop Assistant",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.92,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

@@ -1,0 +1,101 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alfredo Sánchez Martín",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": null,
+        "email": "alfrsanchez@hotmail.com",
+        "phone": "0034609456800",
+        "address": "26 c/Austria, 10, bajo 8 28943 Fuenlabrada (Madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Técnica en Telecomunicaciones",
+            "field": "Sistema Electrónicos",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2002-2007",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ZED",
+            "position": "Programador Júnior",
+            "description": "Desarrollé aplicaciones para PC y dispositivos móviles en Java - J2ME y J2EE.",
+            "start_date": "01/2008",
+            "end_date": "06/2008",
+            "duration_years": 0.42
+        },
+        {
+            "company": "INDRA",
+            "position": "Programador Júnior",
+            "description": "Desarrollé aplicaciones utilizando NACAR para la infraestructura del BBVA en Java.",
+            "start_date": "06/2007",
+            "end_date": "12/2008",
+            "duration_years": 1.5
+        },
+        {
+            "company": "Atos Origin",
+            "position": "Asesor Informático",
+            "description": "Fui encargado de dar mantenimiento a ordenadores y aplicaciones para ICM.",
+            "start_date": "06/2007",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Inglaterra",
+            "institution_or_company": "",
+            "start_date": "10/2007",
+            "end_date": "08/2008",
+            "description": "Mejoré mi inglés con clases durante cuatro meses.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C, C++ (Intermediate)",
+            "HTML (High)",
+            "Java (J2ME: High, JSP, Servlets and JDBC: Intermediate, JavaScript: Intermediate)",
+            "XSL (Intermediate)",
+            "VHDL (Advanced)",
+            "MATLAB (Intermediate)",
+            "LabView (Intermediate)"
+        ],
+        "soft_skills": [
+            "Great learning capacity",
+            "Committed to work",
+            "Formal and hardworking"
+        ]
+    },
+    "other_interests_normalized": [
+        "Fishing",
+        "Play Paddle",
+        "Aeromodelismo"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.3
+}

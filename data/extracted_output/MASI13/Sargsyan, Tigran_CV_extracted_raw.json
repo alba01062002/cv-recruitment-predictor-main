@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "experiencia otras actividades estudios competencias en informática idiomas puntos de interés tigran sargsyan calle prat de la riba 44 2 2%, santa perpetua de mogoda, barcelona 08130 t: 682 87 88 42 e: tigran.sargsyan.a@gmail.com becario en el departamento de máquinas y motores térmicos septiembre 2011 junio 2012 realización del proyecto final de carrera: estudio de fenómenos de transferencia de calor y dinámica de fluidos mediante los métodos de lattice boltzmann y volúmenes finitos. becario en el departamento de lenguajes y sistemas informáticos septiembre 2010 - junio 2011 participación en el desarrollo de material didáctico para una asignatura impartida por el departamento de informática. desarrollo de ejemplos de objetos y punteros en c++. becario en el departamento de organización de empresas septiembre 2008 junio 2011 desarrollo de un analizador cualitativo basado en la lógica difusa en java. desarrollo de una aplicación en java que permite etiquetar fragmentos en documentos de texto, clasificarlos y gestionarlos. realización de tareas de mantenimiento de los equipos de informática en el departamento de organización industrial. miembro de terrassa rocket team (trt) septiembre 2009 octubre 2010 desarrollo de software de simulación de trayectoria en c++. desarrollo de software embarcado para el microprocesador mbed (conectado con diferentes dispositivos externos: acelerómetros, termómetro, motores servo, receptor gps, etc.). miembro de terrassa ground station (tgs) septiembre 2008 - octubre 2009 instalación de una base de antenas para el seguimiento de satélites. curso de erasmus en ecole d'ingénieurs (estaca), paris septiembre 2011 - junio 2012 especialidad en espacio, cursando las siguientes asignaturas: propulsion liquide, propulsion solide et aspects propergols, commande en temps réel, guidage navigation contróle (gnc), programme lanceur, systeme électriques lanceurs, cours de francais. ingenieria aerondutica, especialidad en espacio septiembre 2007 octubre 2012 escuela superior de ingeniería industrial y aeronáutica de terrassa (etseiat), universidad politécnica de catalua (upc) programación en c/c++: compilador de borland en ms-dos compilador de microsoft visual studio 6 conocimiento amplio de las librerías de microsoft foundatio classes (mfc) funciones de win32 api. programación en java: compilador de netbeans 6 y 7 librerías de user interface awt y swing conocimiento amplio y diseo de aplicaciones mediante los objetos base jframe y japplet. programas científicos: programación utilizando matlab modelado usando simulink. programas cad: catia v5 autocad solidedge. otros: sql (nivel medio) sql incorporado con odbc y jdbc uml (nivel medio) con argouml. comprensión oral comprensión escrita hablado escrito inglés buena buena medio medio francés buena buena medio medio espaol / catalán muy buena muy buena muy bueno muy bueno ruso/armenio lenguas maternas lenguajes de programación teoría de control modelización en mecánica de vuelo simulaciones en dinámica de fluidos",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI13"
+}

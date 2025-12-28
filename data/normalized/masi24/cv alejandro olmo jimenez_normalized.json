@@ -1,0 +1,124 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro Olmo Jiménez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "aloljiz000@gmail.com",
+        "phone": "(+34) 668 557 308",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "Carlos III University of Madrid",
+            "location": "Madrid",
+            "year": "September 2022 - Present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's Degree in Industrial Technology (Bilingual)",
+            "field": "Industrial Technologies",
+            "university": "Carlos III University of Madrid",
+            "location": "Madrid",
+            "year": "September 2018 - June 2022",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Carlos III University of Madrid, Department of Mechanical Engineering",
+            "position": "Personal Docent and Research Assistant",
+            "description": "Jornada parcial. Assisted in research in the industrial organization area. Managed MOOCs (Massive Online Open Courses) and databases. Performed data analysis for improving patterns of behavior in MOOC courses. Taught in the Bachelor's Degree in Industrial Technologies.",
+            "start_date": "September 2022",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "USA (Georgia Institute of Technology)",
+            "institution_or_company": "Adaptive Robotic Manipulation Laboratory (ARM Lab), Georgia Institute of Technology, USA",
+            "start_date": "January 2022",
+            "end_date": "May 2022",
+            "description": "Development of a teleoperation platform for remote rapid prototyping tasks: Development of a controller and a six degrees of freedom robotic arm.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "USA (Georgia Institute of Technology)",
+            "institution_or_company": "Georgia Institute of Technology, USA",
+            "start_date": "August 2021",
+            "end_date": "May 2022",
+            "description": "4th year of the bachelor's degree and development of TFG. Member of the cultural and community committee i-house.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "C and C++",
+            "MATLAB",
+            "SQL",
+            "Microsoft Office",
+            "SolidWorks",
+            "Siemens NX",
+            "Solid Edge",
+            "Multisim",
+            "LTspice",
+            "3D prototyping and printing"
+        ],
+        "soft_skills": [
+            "Adaptability - Quick and appropriate adaptation to distance education.",
+            "Efficient adaptation to another university during mobility.",
+            "Teamwork - Participation in numerous group projects both academically and professionally.",
+            "Leadership - Tutor in the COMPAAHEROS program, helping first-year students integrate into university life.",
+            "Continuous learning - Completion of additional courses outside of university."
+        ]
+    },
+    "other_interests_normalized": [
+        "Electronics",
+        "Automation",
+        "Data analysis",
+        "Technology in aerospace"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "COMPAAHEROS",
+            "role": "Tutor and mobility advisor",
+            "duration": "2019, 2020, 2021, 2022",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

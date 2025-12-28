@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Felipe Peláez Harutinian",
+        "date_of_birth": "05/02/1980",
+        "gender": "male",
+        "age_reference_year": 2009,
+        "age": 29,
+        "email": "pelaezfelipe80@gmail.com",
+        "phone": "(0034) 985848712, (0034) 679520535",
+        "address": "Rey Aurelio 2, 4g, Cangas de Onís, Asturias, 33550, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero de Telecomunicación",
+            "field": "Telecommunications Engineering",
+            "university": "Universidad de Oviedo (Asturias, España)",
+            "location": "Asturias, España",
+            "year": "2000 - 2008",
+            "duration_years": 8.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Kauno Technolologijos Universitetas (Kaunas, Lithuania)",
+            "location": "Kaunas, Lithuania",
+            "year": "2007 - 2008",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Empresa Familiar",
+            "position": "Gerencia, Producción y Atención al Cliente",
+            "description": "Trabajo en temporada estival, vacaciones y fines de semana realizando diversas funciones",
+            "start_date": "2000",
+            "end_date": "12/2009",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "",
+            "institution_or_company": "Universidad de Oviedo",
+            "start_date": "",
+            "end_date": "",
+            "description": "Proyecto final de carrera",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "Windows API",
+            "Java",
+            "Delphi",
+            "Microcontroladores",
+            "MATLAB",
+            "ADS",
+            "ORCAD",
+            "COMSOL"
+        ],
+        "soft_skills": [
+            "Comunicativo",
+            "Extrovertido",
+            "Flexible",
+            "Capacidad de Aprendizaje y Resolución de Problemas",
+            "Disponibilidad Total para Viajar"
+        ]
+    },
+    "other_interests_normalized": [
+        "Radiopropagación",
+        "Antenas",
+        "Aviación",
+        "Electrónica",
+        "Microondas",
+        "Arte (Literatura, Pintura, Música)",
+        "Viajar"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 28,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

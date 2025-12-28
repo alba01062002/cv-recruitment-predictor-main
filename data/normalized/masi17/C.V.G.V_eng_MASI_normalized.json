@@ -1,0 +1,118 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Giacomo Viti",
+        "date_of_birth": "26/12/1988",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 29,
+        "email": "za_988.viti@gmail.com",
+        "phone": "+39 3338561219",
+        "address": "via Emilio de Cavalieri, 7, 00198 Rome, Italy",
+        "LinkedIn": "https://it.linkedin.com/in/giacomoviti",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's Degree in Mechanical Engineering",
+            "field": "Energy",
+            "university": "Sapienza, University of Rome",
+            "location": "Italy",
+            "year": "2011-2013",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "MATISA S.p.A. - Railway Construction and Maintenance",
+            "position": "Production Engineer",
+            "description": "Analysis of operational issues and installation of equipment, providing technical support in designing new product prototypes, production planning and material management.",
+            "start_date": "2016-09",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "FINCANTIERI S.p.A. - Marine Propulsion Systems",
+            "position": "Quality Engineer",
+            "description": "Activities aimed at achieving ISO 9001:2015 certification, quality management, internal and suppliers auditing.",
+            "start_date": "2016-06",
+            "end_date": "2016-09",
+            "duration_years": 0.0
+        },
+        {
+            "company": "ROMA GAS&POWER S.p.A. - Energy Efficiency",
+            "position": "Junior Project Manager",
+            "description": "Process and data analysis, budget and expenditure management, suppliers auditing.",
+            "start_date": "2015-12",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "C.A.M.B. S.p.A - Aeronautic and Defence Activities",
+            "position": "Quality Engineer",
+            "description": "FMEA, quality improvement (root cause analysis, corrective and preventive actions), quality planning, first article inspection, quality control.",
+            "start_date": "2014-10",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Italy",
+            "institution_or_company": "Sapienza, University of Rome",
+            "start_date": "2011-09",
+            "end_date": "2013-07",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "A2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "ANSYS",
+            "AutoCAD",
+            "SolidWorks",
+            "ERP systems (Enterprise Resource Planning)"
+        ],
+        "soft_skills": [
+            "effective communication",
+            "negotiating and initiating peer interaction",
+            "organizational and leadership skills",
+            "time managing and problem solving abilities",
+            "multifunctional approach and cross-sectorial interaction",
+            "ability to interact with customers and suppliers",
+            "honest, punctual, outgoing, open-minded, self-motivated, hard working"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Saint Thomas Moore Parish in Rome",
+            "role": "Educator and Event Planner",
+            "duration": "2014-2023",
+            "description": ""
+        }
+    ],
+    "degree_years": 2.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.4
+}

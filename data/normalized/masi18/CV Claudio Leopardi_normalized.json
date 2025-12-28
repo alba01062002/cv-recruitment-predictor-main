@@ -1,0 +1,88 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Claudio David Leopardi Francis",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "u0231380@uniovi.es, clau2593@hotmail.es",
+        "phone": "+34 655927505",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/claudio-david-leopardi-francis/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "www.linkedin.com/in/claudio-david-leopardi-francis/"
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in IT Engineering",
+            "field": "Telecommunication Engineering",
+            "university": "University of Oviedo",
+            "location": "Gijón, Asturias, Spain",
+            "year": "2012-2017",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "EDP Energy Operator",
+            "position": "Operator",
+            "description": "Scholarship in collaboration with the department of analysis and information systems at the Aboo, Spain. Participation in the OSisoft PI servers involved in the management of all sensors (analogical and digital) at the plant. Technical specifications analysis and review. Communicate with engineering staff regarding power plant systems. Ensure the quality services.",
+            "start_date": "2016",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "Word",
+            "Power Point",
+            "Access",
+            "Office",
+            "Calibration and measurement process on VNA network analyser and RF (N99xxa series Keysight Technologies) and spectrum analyser (Rohde Schwarz)",
+            "Matlab, Python, C/C++/C# and Java, MySQL languages",
+            "Advanced Design System (ADS)",
+            "Design of PCBS with RF and microstrip technology. Filters, splitters, directional coupler, low noise amplifier (LNA), VCO's",
+            "High frequency electromagnetic field simulation (HFSS)",
+            "Analog electronics (PSIM), Picoscope oscilloscope",
+            "Raspberry Pi / Arduino"
+        ],
+        "soft_skills": [
+            "Good customer facing and communication skills",
+            "Ability to work under pressure, jobs done before deadlines",
+            "Good analytical skills. Analyse problems and find the way to solve it efficiently",
+            "Fast learner and independent with strong leadership and critical thinking skills",
+            "Aptitude for design and organization of new projects",
+            "Good attending meetings, writing reports and giving presentations aptitude",
+            "Adaptability (to cope with an irregular timetable), flexibility, ability to handle varying workloads",
+            "Aptitude for teamwork in a multidisciplinary/international environment"
+        ]
+    },
+    "other_interests_normalized": [
+        "Technology focused on hardware and aviation/aerospace sector",
+        "Sport experience: MVP Spain Volleyball Championship (2007), Silver medal. Spain Beach Volleyball Championship (2008, 2010) Bronze medal. Spain Beach Volleyball Championship (2012)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.4
+}

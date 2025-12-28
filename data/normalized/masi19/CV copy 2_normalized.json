@@ -1,0 +1,146 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Álvaro Sánchez Olavarrieta",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "alvarosanchezo@outlook.es",
+        "phone": "+(34) 628826119",
+        "address": "Avda. Natalio de Fuentes st. n% 34004 Palencia, Spain; Avda. Donoso Cortés st. n80a 2C 28015 Madrid, Spain",
+        "LinkedIn": "https://es.linkedin.com/in/alvarosanchezo",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2010-2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master's in Decision Making & Innovation",
+            "field": "Decision Making & Innovation",
+            "university": "Universidad de Alcalá (UAH)",
+            "location": "",
+            "year": "2017-2018",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor in Economics",
+            "field": "Economics",
+            "university": "UNED",
+            "location": "",
+            "year": "2017-present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence and Space (D&S)",
+            "position": "Operational Analysis Intern",
+            "description": "Documentation and validation of high speed performance module (HSPM) of mission planning restitution system (MPRS). Design of proof of concepts and tests for software validation. Support for troubleshooting bugs detected. Support strategies for the software evolution and module implementation ensuring agile software development. Management of data between interfaces. C++ implementation of diverse operational analysis models. MBSE application through the management of requisites.",
+            "start_date": "09/17",
+            "end_date": "09/18",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Defence and Space (D&S)",
+            "position": "Collaboration with Strategy Department Intern",
+            "description": "Development of a model in MATLAB OOP to analyze the cargo transportation market and the influence of introducing new types of planes against its competitors.",
+            "start_date": "04/18",
+            "end_date": "06/18",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Inmapa Aeronáutica",
+            "position": "Internship",
+            "description": "Costing of aeronautical parts and development of macros (Excel).",
+            "start_date": "02/17",
+            "end_date": "06/17",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Conectto IT (Start-up)",
+            "position": "Internship",
+            "description": "Firmware development in C++.",
+            "start_date": "06/14",
+            "end_date": "06/15",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "Portuguese",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "VB",
+            "Fortran",
+            "MATLAB Simulink",
+            "Arduino",
+            "Python",
+            "IDE: Microsoft Visual Studio, Esatan (Space Thermal Control)",
+            "Doors",
+            "MBSE: Rational Rhapsody"
+        ],
+        "soft_skills": [
+            "Management of data between interfaces",
+            "C++ implementation of diverse operational analysis models",
+            "MBSE application through the management of requisites"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Actúa UPM",
+            "role": "Participant at the Startup Biotech Service, finalists in the last stage.",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.8
+}

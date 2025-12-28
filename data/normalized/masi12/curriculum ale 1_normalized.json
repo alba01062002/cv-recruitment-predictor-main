@@ -1,0 +1,90 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro Cabezas Poblador",
+        "date_of_birth": "14/06/1987",
+        "gender": "male",
+        "age_reference_year": 2012,
+        "age": 25,
+        "email": "alejandro.cabezas.pobladoro@gmail.com",
+        "phone": "34-911301652",
+        "address": "c/ Andrés Mellado n50, 1 dcha. esc. dcha., 28015 Madrid (España)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Especialidad en Aeronaves",
+            "field": "Aircraft Systems Engineering",
+            "university": "Escuela Técnica Superior de Ingenieros Aeronáuticos, Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, España",
+            "year": "2005-2011",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Sener Ingeniería y Sistemas S.A.",
+            "position": "Becario",
+            "description": "",
+            "start_date": "Noviembre 2010",
+            "end_date": "Julio 2011",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fortran90",
+            "Maple 12",
+            "Matlab",
+            "Solid Edge V20",
+            "EscalaComp",
+            "Componentes de Microsoft Office"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Conducir tipo B con vehículo propio",
+        "Fútbol"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2007-2008",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI12",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.9
+}

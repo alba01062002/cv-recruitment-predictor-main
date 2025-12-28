@@ -1,0 +1,105 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francisco Morales Friás",
+        "date_of_birth": "10/01/1987",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 31,
+        "email": "fmoralesfr@gmail.com",
+        "phone": "+34 646208396",
+        "address": "St. Francisco Gasco Santillan, 28906, Getafe, Madrid (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in electrical power engineering",
+            "field": "Electrical Engineering",
+            "university": "University Carlos III of Madrid",
+            "location": "Madrid, Spain",
+            "year": "2014-2008",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Group",
+            "position": "Quality Conformance Management",
+            "description": "Supported SA and LR PET in Bracknford to manage concessions, supported SQCDP, ICB panel member to analyze mods. DMU investigation of design issues using tools such as CATIA, ZAMIZ, among others.",
+            "start_date": "09/2016",
+            "end_date": "09/2023",
+            "duration_years": 7.0
+        },
+        {
+            "company": "Chester Road, Bracknford, Bristol",
+            "position": "Design Quality Engineer",
+            "description": "Deployment and management of Design Quality Checks (DQC), Quality checks reporting. Q6 deployment and improvement activities.",
+            "start_date": "02/2015",
+            "end_date": "09/2016",
+            "duration_years": 1.58
+        },
+        {
+            "company": "Abgam-Segula",
+            "position": "Design, Development e Design Activities and Technical Support to SA $18, SA DADO Panel, LR FWD Pax Door and SA/LR 519.1 Mod Implementation and Change Proposal",
+            "description": "Analysis and documentation of concessions.",
+            "start_date": "01/2013",
+            "end_date": "12/2014",
+            "duration_years": 1.92
+        },
+        {
+            "company": "Polibea",
+            "position": "Design, Assembly and Checking of Domotics Systems",
+            "description": "Design of 2D documentation for domotics systems. Assembly, checking, and start-up of systems.",
+            "start_date": "09/2014",
+            "end_date": "06/2015",
+            "duration_years": 0.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V4, CATIA V5, Sprint, PSS/E v32, AutoCAD Electrical 2012, MATLAB R2010, PowerFactory, PSIM, Adobe Photoshop, Winmecc and Engines Control Unidrive, SAP, ETS4"
+        ],
+        "soft_skills": [
+            "Positive",
+            "Sportsman",
+            "Responsible",
+            "Efficient",
+            "Hard worker",
+            "Leadership and determination"
+        ]
+    },
+    "other_interests_normalized": [
+        "Teaching private lessons for high school students: both math and physics (2008-2011)",
+        "Teaching judo lessons for children"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 21,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.2
+}

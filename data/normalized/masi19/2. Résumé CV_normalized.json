@@ -1,0 +1,116 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Julia Mellado Gutiérrez",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "ki.melladogutierrez.julia@gmail.com",
+        "phone": "+34 692949844",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Marine Engineering and Bachelor degree in Naval Architecture",
+            "field": "Not specified",
+            "university": "University of Cádiz",
+            "location": "Cádiz",
+            "year": "2012 - 2017",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aeroserv S.L.",
+            "position": "Full-time",
+            "description": "On behalf of Alestis Aerospace",
+            "start_date": "05/2017",
+            "end_date": "12/2025",
+            "duration_years": 8.58
+        },
+        {
+            "company": "Aeroserv S.L.",
+            "position": "Full-time",
+            "description": "",
+            "start_date": "11/2015",
+            "end_date": "04/2017",
+            "duration_years": 1.42
+        },
+        {
+            "company": "Airbus Operations",
+            "position": "Part-time",
+            "description": "",
+            "start_date": "10/2014",
+            "end_date": "09/2015",
+            "duration_years": 0.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Norway",
+            "institution_or_company": "Norwegian University of Science and Technology (NTNU)",
+            "start_date": "09/2012",
+            "end_date": "08/2013",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Norwegian",
+            "A2"
+        ],
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "German",
+            "B2"
+        ],
+        [
+            "French",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5 (mechanical design)",
+            "MAXsurf",
+            "SolidWorks",
+            "AutoCAD",
+            "Microsoft Office: Word, Excel, PowerPoint, Access"
+        ],
+        "soft_skills": [
+            "Lean Manufacturing",
+            "Management Systems",
+            "VSM, PDCA, SPCDPF Board, 5S, Kaizen, PPS, Poka-Yoke",
+            "ERP (SAP)",
+            "Project Management Tools: N2 Meetings, Daily Reports and KPIs"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "Not specified",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

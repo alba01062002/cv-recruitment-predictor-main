@@ -1,0 +1,122 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Antonio De Gregorio Juan",
+        "date_of_birth": "19/10/1988",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 25,
+        "email": "antonio.gregorio88@gmail.com",
+        "phone": "+34 983304543 (+34 625433394)",
+        "address": "calle de san julián del camino, n29, 2%e, 28050 madrid (españa)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Superior Industrial",
+            "field": "Especialidad mecánica, con subespecialidad en transportes",
+            "university": "Universidad de Valladolid",
+            "location": "Valladolid, España",
+            "year": "2006-2011",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Proyecto Fin de Carrera (TFG)",
+            "field": "",
+            "university": "San Diego State University",
+            "location": "San Diego, California, EE.UU.",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Laguna Redonda, S.L.",
+            "position": "Auxiliar Administrativo",
+            "description": "",
+            "start_date": "08/2009",
+            "end_date": "12/2013",
+            "duration_years": 4.33
+        },
+        {
+            "company": "San Diego State University",
+            "position": "Becario de Investigación y Colaboración (Staff Volunteer)",
+            "description": "Miembro del Laboratorio CFD. Investigación en un nuevo código de computación realizando modificaciones para la mejora del mismo y obtención de resultados.",
+            "start_date": "08/2011",
+            "end_date": "06/2012",
+            "duration_years": 0.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship / Study",
+            "country": "EE.UU.",
+            "institution_or_company": "San Diego State University, San Diego, California (EE.UU.)",
+            "start_date": "11/2010",
+            "end_date": "06/2012",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "AutoCAD",
+            "Cype Ingenieros",
+            "FreeCAD",
+            "WorkingModel",
+            "MATLAB",
+            "Mathematica",
+            "Maple",
+            "Tecplot360",
+            "Statgraphics",
+            "Cosmos",
+            "Comsol",
+            "Calener",
+            "Office (Word, PowerPoint, Excel...)",
+            "LaTeX",
+            "Unix y Linux",
+            "Programación en C y Fortran"
+        ],
+        "soft_skills": [
+            "Buena adaptación a distintos entornos de trabajo",
+            "Capacidad de trabajo en equipo",
+            "Iniciativa y ganas de trabajar"
+        ]
+    },
+    "other_interests_normalized": [
+        "Tennis",
+        "Surf",
+        "Pádel",
+        "Motocross",
+        "Natación",
+        "Práctica de baloncesto",
+        "Fitness"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Equipo del Colegio La Salle (Valladolid)",
+            "role": "Miembro, Entrenador y Árbitro",
+            "duration": "11 años",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 5.16,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.2
+}

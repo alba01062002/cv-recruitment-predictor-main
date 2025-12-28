@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "diego sánchez franco estado civil = 24 aos = nacionalidad espaola = permiso de conducir información general +34 679.06.21.81 +33 (0)7.83.70.22.92 diego.sanchez. franco@gmail.com avda. de san luis 93 11e 28033 madrid, espana idiomas \" espaol: lengua nativa inglés: c1, cae (certificate in advanced english - cambridge) francés: b2, institute catholique de toulouse = german: b1, goethe zertifikat deutsche informatica pack office, matlab, fortran, nastran-patran, catia v5, tornado vlm, latex, vba aficiones hobbies: viajar, ski, tenis, futbol, musica, instrumentos. = asociaciones: miembro del club de debate de supaero. ingeniero aeroespacial (etsiae-upm) experiencia profesional 2016 2014 - 2015 2014 prácticas - voltair (airbus group innovations en suresnes, fr). de abril a octubre, (6 meses). e. tfm. concepción general avión e-fan 2.0 analisis de actuaciones del avión e-fan 2.0. + redacción de informes técnicos de análisis aerodinámicos y estructurales. beca gaia - airbus defence space (getafe,es). de septiembre a agosto, (11 meses). + departamento de ensayos en vuelo, methods tools (antiguo taevt4). + análisis de fotogrametría y desarrollo de software en matlab. prácticas - departamento de mecánica de fluidos, linkopings universitet (suecia). de febrero a junio, (5 meses). + tfg. dimensionado de superficies de control y dispositivos hipersustentadores (matlab, tornado vlm, catiav5). educación 2016 - 2017 2015 - 2016 2014 - 2016 2014 - 2015 2014 2010 - 2014 2010 1995 - 2010 masters degree in numerical simulation in engineering with ansys, upm - ansys. e especialidad mecánica de fluidos. intercambio erasmus+ en isae-supaero(francia). + programa de intercambio de un ao en último curso del diploma de ingeniero francés, como parte del máster en ingeniería aeroespacial. especialización en sistemas autónomos y materiales y estructuras. máster universitario en ingeniería aeroespacial, etsiae -upm. +. especialización en aeronaves. master in professional development, universidad de alcalá. + desarrollo de aptitudes transversales y gestión de proyectos. intercambio internacional erasmus en linkúpings universitet (suecia). + cursos de product modelling y advanced aircraft design y trabajo fin de grado (tfg). grado en ingeniería aeroespacial, universidad politécnica de madrid (etsiae - upm). + especialización en aeronaves y vehículos espaciales. premio extraordinario de bachillerato y beca de excelencia de la comunidad de madrid. educación primaria, educación secundaria y bachillerato científico en el colegio cardenal spinola, madrid.",
+    "text_from_header": "ESTADO CIVIL",
+    "detected_language": "es",
+    "master_edition": "MASI17"
+}

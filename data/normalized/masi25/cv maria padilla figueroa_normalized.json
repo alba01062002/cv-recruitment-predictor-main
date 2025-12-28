@@ -1,0 +1,124 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Maria Jimena Figueroa Padilla",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "jimenapadilla21@hotmail.com",
+        "phone": "(+52) 6321037272",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineer",
+            "field": "Not specified in the text, but inferred from 'aeronautical engineer'",
+            "university": "Institute of Technology of Hermosillo",
+            "location": "Hermosillo, Mexico",
+            "year": "2019-2023",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "El Jimsa Renewable Energy",
+            "position": "Quality Engineer (Full-time position)",
+            "description": "* Apply lean methodology to streamline processes, reduce waste, and enhance product quality. * Verify that products and processes comply with relevant industry standards, regulations, and certifications. * Generate detailed reports on quality metrics, issues, and improvement initiatives for management review.",
+            "start_date": "08/11/2022",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Energy and Climate Change Agency",
+            "position": "Project Engineer (Part-time position)",
+            "description": "* Led strategic initiatives and promoted sustainable energy practices. * Coordinated with government and private stakeholders to integrate sustainable energy solutions into large-scale infrastructure projects, demonstrating ability to align technical and regulatory requirements. * Performed overall quality control of the work and reported regularly on project status. * Monitored compliance with applicable codes, practices, qa/qc policies, performance standards and specifications.",
+            "start_date": "19/06/2023",
+            "end_date": "10/01/2024",
+            "duration_years": 0.0
+        },
+        {
+            "company": "El Jimsa Renewable Energy",
+            "position": "Solar Energy Consultant and Technician (Full-time position)",
+            "description": "* Created customized proposals for solar energy systems, including technical design and detailed cost estimates. * Maintained accurate documentation of installation, maintenance, and repair activities. * Conducted quality inspections to ensure compliance with industry standards and specifications. * Installed solar panels, inverters, and other components following engineering specifications and safety guidelines. * Promoted and sold solar energy, products and services to residential or commercial clients. * Educated clients about the environmental and financial benefits of solar energy adoption.",
+            "start_date": "10/04/2019",
+            "end_date": "22/02/2021",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship / Research",
+            "country": "United States of America (USA)",
+            "institution_or_company": "Arizona State University",
+            "start_date": "",
+            "end_date": "04/04/2024",
+            "description": "Lean Six Sigma White Belt - Superant Institute",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship / Research",
+            "country": "International (Collaboration with NASA)",
+            "institution_or_company": "Aexa - International Air and Space Program",
+            "start_date": "20/11/2021",
+            "end_date": "",
+            "description": "Collaborated with NASA-affiliated professionals on a payload experiment for the ISS, gaining hands-on experience in mission-critical systems integration, testing, and international teamwork",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Training / Education",
+            "country": "Not specified",
+            "institution_or_company": "Advanced Space Academy - Space Camp",
+            "start_date": "20/11/2021",
+            "end_date": "",
+            "description": "Successfully completed a rigorous program encompassing space exploration, aerospace technology, leadership development, and team-building competencies.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Lean methodology",
+            "Project management",
+            "Quality control and assurance",
+            "Technical design of solar energy systems",
+            "Installation, maintenance, and repair activities for solar panels and inverters",
+            "Creating customized proposals"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Teamwork",
+            "Communication",
+            "Problem-solving",
+            "Innovation"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

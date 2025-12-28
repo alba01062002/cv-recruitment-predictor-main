@@ -1,0 +1,115 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Blanca Castano Bravo",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "blancacastanobravo@gmail.com",
+        "phone": "646311624",
+        "address": "c/martín santos romero n9 20b, valladolid, c.p: 47016",
+        "LinkedIn": "linkedin",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Double degree in mechanical engineering and design engineering",
+            "field": "Mechanical Engineering and Design Engineering",
+            "university": "University of Deusto",
+            "location": "Bilbao, Spain",
+            "year": "2018-2023",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "University of Deusto",
+            "position": "Collaborator in a materials laboratory",
+            "description": "",
+            "start_date": "2020-01/2023",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "University of Deusto",
+            "position": "Class representative",
+            "description": "",
+            "start_date": "2018-09/2023",
+            "end_date": "12/2023",
+            "duration_years": 0.0
+        },
+        {
+            "company": "University of Deusto",
+            "position": "Faculty representative",
+            "description": "",
+            "start_date": "2021-09/2023",
+            "end_date": "12/2023",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Cyprus",
+            "institution_or_company": "PV Technology Lab in the University of Cyprus",
+            "start_date": "06/2022",
+            "end_date": "08/2022",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Solidworks",
+            "Siemens NX",
+            "Fusion 360",
+            "Keyshot",
+            "Rhino",
+            "Cinema 4D",
+            "Forge",
+            "Moldex",
+            "NX",
+            "Ansys",
+            "Addobe Creative Cloud",
+            "Ultimaker Y Alba 300 3D Printer (cura)",
+            "Laser cutter and vinyl cutter",
+            "Millings machine"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Volunteering in cleaning natural spaces and teaching children with little resources.",
+        "Swimming/triathlon: various Spanish championships",
+        "Scout"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Grupo Scout Parquesol and Txispeleta Eskaut Taldea",
+            "role": "Member and monitor",
+            "duration": "null",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.2
+}

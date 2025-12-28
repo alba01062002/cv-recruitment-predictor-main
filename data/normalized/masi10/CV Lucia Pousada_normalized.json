@@ -1,0 +1,138 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Lucía Pousada González",
+        "date_of_birth": "29/04/1984",
+        "gender": "female",
+        "age_reference_year": 2010,
+        "age": 26,
+        "email": "lucia.pousada@gmail.com",
+        "phone": "+34 639 818 234",
+        "address": "c/deu i mata 144 ppal 24, 08029 Barcelona",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Químico del IQS (Matrícula de Honor)",
+            "field": "Ingeneering",
+            "university": "Institut Químic de Sarriá (IQS) - Universidad Ramón Llull, Barcelona",
+            "location": "Barcelona",
+            "year": "2009",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Ingeniería Industrial en el IQS",
+            "field": "Ingeneering",
+            "university": "Institut Químic de Sarriá (IQS) - Universidad Ramón Llul, Barcelona",
+            "location": "Barcelona",
+            "year": "2007-2008",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Ingeneering Química en el IQS",
+            "field": "Chemical Engineering",
+            "university": "Institut Químic de Sarriá (IQS) - Universidad Ramón Llul, Barcelona",
+            "location": "Barcelona",
+            "year": "2002-2007",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "University of Manchester",
+            "position": "Project Student",
+            "description": "Chemical Engineering & Analytical Sciences Department. Project on adsorption of CO, CH, & N, on activated carbon with different sample preparations.",
+            "start_date": "07/2008",
+            "end_date": "06/2009",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Solvay Química S.L., Planta de Cantabria (Barreda)",
+            "position": "Prácticas realizadas en la unidad de producción de electrólisis",
+            "description": "",
+            "start_date": "07/2007",
+            "end_date": "09/2007",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Nissan, Planta de Cantabria (Los Corrales de Buelna)",
+            "position": "Prácticas realizadas en el laboratorio de fundición",
+            "description": "",
+            "start_date": "07/2006",
+            "end_date": "09/2006",
+            "duration_years": 0.17
+        },
+        {
+            "company": "SNIACE S.L (Torrelavega, Cantabria)",
+            "position": "Prácticas realizadas en el departamento de calidad y medio ambiente",
+            "description": "",
+            "start_date": "07/2005",
+            "end_date": "09/2005",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Residencia",
+            "country": "Reino Unido (UK)",
+            "institution_or_company": "University of Manchester",
+            "start_date": "10/2008",
+            "end_date": "06/2009",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Experiencias de idiomas con familias nativas y cursos intensivos en verano",
+            "country": "Inglaterra, EEUU, Irlanda",
+            "institution_or_company": "",
+            "start_date": "1996-2001",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "German",
+            "A2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Visual Basic",
+            "Microsoft Excel",
+            "Matlab y Mathcad (software matemáticos)",
+            "Hysys (herramienta de simulación de procesos)",
+            "Aloha (herramienta para la estimación del movimiento y la dispersión de gases)",
+            "Ansys (elementos finitos)",
+            "Autocad (software de diseño)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Cine",
+        "Música",
+        "Leer"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 1.43,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.4
+}

@@ -1,0 +1,89 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alonso Perucha Martínez Atienza",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "alonso99@hotmail.es",
+        "phone": "+34 722719420",
+        "address": "Alcalá de Henares, Madrid, Spain",
+        "LinkedIn": "https://www.linkedin.com/in/alonsoperuchamartinez-atienza/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Electrónica y Automática Industrial",
+            "field": "Ingeniería Electrónica y Automática Industrial",
+            "university": "Universidad de Alcalá",
+            "location": "Alcalá de Henares, Madrid",
+            "year": "2019-2023",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Árbitro Federado",
+            "description": "Regional de aficionados 1a categoría (2019-2020), Categoría 2* regional de aficionados (2018-2019), Categoría Juvenil (2017-2018), Categoría Fútbol Base (2016-2017)",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Estados Unidos",
+            "institution_or_company": "Sunset High School (Beaverton, Oregon)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Studies",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C",
+            "VHDL",
+            "Python",
+            "Java"
+        ],
+        "soft_skills": [
+            "Comunicativo",
+            "Planificación y organización",
+            "Atención a los detalles"
+        ]
+    },
+    "other_interests_normalized": [
+        "Guitarra",
+        "Viajar",
+        "Deportes"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Árbitro Federado",
+            "duration": "2016-2023",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.0
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "marcos domínguez suárez born in santa cruz de tenerife, canary islands, spain, on december 8, 1986. calle fernández de los rios, 36. 3 ext. izda. 28015, madrid. +34 678 352 669, mail@marcosdominguez.es e academic qualifications 2010-2013 2006 - 2010 industrial engineering, major in industrial organization. linkóping university, sweden exchange (erasmus) student 2011/2012. carlos ill university of madrid. all courses completed within 2010 8. 2012. grade: 7.2 / 10. final project, presented in 2013: layout design and characterization of an integrated circuit for biomedical applications: sigma delta dual slope analog-to-digital converter. grade: 10 / 10. bachelor's degree in automation and industrial electronics engineering. 3-year degree in electronics engineering (grade: 7.5 / 10) + 1-year adaptation course to bachelor level. carlos ill university of madrid. final project: design of radiation-hardened analog circuits using cmos 0.35 um technology for ts use in the hispasat ag] satellite. grade: 10 / 10. international experience 2011-2012 aeronautical experience linkópings universitet, sweden. erasmus student. 52 ects credits in courses taughtin english about industrial management, organizational change, leadership & teamwork and aeronautics. 02/2013- 11/2013 private pilot license ppl(a). quality fly aviation academy, cuatro vientos, madrid. 40 flight hours, cessna 152. work experience 03/2009 - present languages courses interests research internship at the mixed-signal integrated circuits design laboratory, carlos ill univ. of madrid. integrated circuits designer, webmaster & informatics maintenance (part time & currently full time). ic design: collaboration and responsible of the final design of several cmos integrated circuits (sigma delta analog to digital converters): system level simulations with matlab. transistor and layout design using cadence & mentor graphics. / designed some radiation-hardened analog cmos circuits for space applications (since 2010). laboratory: testing and characterization of the prototype chip behavior using a custom pcb (2013). webmaster of the groups website. based in joomla + custom php and css code (2013). informatics maintenance: installation and maintenance of linux-fedora group servers for the execution of professional design software as cadence, matlab and mentor graphics (since 2009). spanish. native language. english. c1, advanced level. very good speaking. toefl score: 107/120 points (nov. 2012). arguing, debating and convincing (public speaking). 20 h. course, 2009. carlos ill univ. of madrid creativity and problems resolution. 20 hours course, 2009. carlos ill university of madrid. psychology and personal development. 20 hours course, 2008. carlos ill university of madrid. driving license holder. passionate about aviation and flight simulation. widely interested, both from the operational point of view (flying) as well from the engineering side. continuously participated in several activities, both virtual and real ones like online flight simulation, visits to air traffic control centers, activities done within the real aeroclub de tenerife and participated in online debate forums since 13 years old. wide general aeronautics knowledge in operational procedures and aircraft systems. informatics. wide knowledge about operating systems, programs or programming languages as windows, osx, linux, matlab, simulink, cadence, c, php, html or css. great capacity for learning quickly about the use of any informatics application and hardware. photography digital photography amateur. holder of professional equipment. occasional freelance works.",
+    "text_from_header": "MARCOS DOMÍNGUEZ SUÁREZ",
+    "detected_language": "en",
+    "master_edition": "MASI14"
+}

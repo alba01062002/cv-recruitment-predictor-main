@@ -1,0 +1,93 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Manuel Gómez",
+        "date_of_birth": "24/03/1989",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 25,
+        "email": "juanmagogon@gmail.com",
+        "phone": "+34 620511169",
+        "address": "Calle de los Mesones 2, Pa Antequera (Málaga), 29200, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Telecommunication Engineering",
+            "field": "Telecommunication",
+            "university": "University of Granada",
+            "location": "Granada",
+            "year": "2013",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Telefónica I+D",
+            "position": "Part-time Internship",
+            "description": "Projects: Remote patient monitoring, help and rempark (ehealth division).",
+            "start_date": "02/2013",
+            "end_date": "08/2013",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Course",
+            "country": "Scotland",
+            "institution_or_company": "Edinburgh School of English, Edinburgh",
+            "start_date": "",
+            "end_date": "",
+            "description": "General English course, duration: 55 hours. Level C1.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Course",
+            "country": "Spain",
+            "institution_or_company": "Virtual Learning Centre of the University of Granada",
+            "start_date": "",
+            "end_date": "",
+            "description": "Courses: Programming Perl, Release of Free Software Projects, Management Skills, Introduction to Python Programming Language, Introduction to LaTeX Scientific Word Processor. All courses with distinction.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "MATLAB",
+            "C",
+            "Python",
+            "Perl",
+            "LaTeX"
+        ],
+        "soft_skills": [
+            "Programming tools",
+            "PSPICE",
+            "Proteus",
+            "Matlab Simulink",
+            "ADS programs",
+            "Microsoft Word, Excel, PowerPoint, Visio",
+            "Operating Systems: Microsoft Windows, Linux, Mac OS"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.5,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

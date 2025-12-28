@@ -1,0 +1,93 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Iván García Ferreiros",
+        "date_of_birth": "10/06/1985",
+        "gender": "male",
+        "age_reference_year": 2011,
+        "age": 26,
+        "email": "garcia7100@gmail.com",
+        "phone": "(+34) 625 699 335",
+        "address": "C/ Arberoki 28, 31180 Zizur Mayor, Navarra (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Telecommunications Engineering",
+            "field": "Telecommunications",
+            "university": "University of Copenhagen",
+            "location": "Denmark",
+            "year": "2003-2010",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Denmark",
+            "institution_or_company": "University of Copenhagen",
+            "start_date": "09/2009",
+            "end_date": "05/2010",
+            "description": "Final thesis project during the course 2009/2010 at the University of Copenhagen (Denmark). Duration: 10 months.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship",
+            "country": "Mexico",
+            "institution_or_company": "Tecnológico de Monterrey",
+            "start_date": "09/2007",
+            "end_date": "05/2008",
+            "description": "Exchange student during the course 2007/2008 at Tecnológico de Monterrey (Mexico). Duration: 10 months.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Computer Vision",
+            "Image Processing",
+            "Real-Time Data Transmission",
+            "MATLAB",
+            "Linux, Windows and Mac OS",
+            "Office Suites (MS Office and LaTeX)",
+            "Assembler Languages"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication Skills",
+            "Multidisciplinary Team Work",
+            "Organizational and Planning Skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Futsal (Category B)",
+        "Table Tennis"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI11",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

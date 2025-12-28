@@ -1,0 +1,98 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Paloma Álvarez Yáez",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "palomalvarezl5ggmail.com",
+        "phone": "+34 647822852",
+        "address": "Donostia-San Sebastián, Guipúzcoa, España",
+        "LinkedIn": "https://www.linkedin.com/in/palomaalvarezyanez/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "www.linkedin.com/in/palomaalvarezyanez/"
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería en Tecnologías Industriales",
+            "field": "",
+            "university": "Universidad de Oviedo",
+            "location": "Oviedo, España",
+            "year": "2016-2021",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Máster en Ingeniería Industrial",
+            "field": "",
+            "university": "TECNUN - Universidad de Navarra",
+            "location": "Navarra, España",
+            "year": "2021 - actualmente",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Construcciones Metálicas Muiz Hermanos SL",
+            "position": "Prácticas de la Universidad de Oviedo",
+            "description": "Participación en todos los departamentos de la empresa, valoración de ofertas y procesos industriales.",
+            "start_date": "Febrero 2021",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Polonia",
+            "institution_or_company": "Akademia Górniczo-Hutnicza: University of Science and Technology, Cracovia",
+            "start_date": "2018 a 2019",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Autocad",
+            "Autodesk Inventor",
+            "Creo",
+            "Paquete Microsoft Office"
+        ],
+        "soft_skills": [
+            "Gran motivación y disciplina",
+            "Trabajadora en equipo",
+            "Abierta a nuevas experiencias formativas y profesionales"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

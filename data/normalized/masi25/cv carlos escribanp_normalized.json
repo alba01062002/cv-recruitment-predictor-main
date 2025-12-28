@@ -1,0 +1,105 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carlos Escribano Rodríguez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "carlosescribanorguezqgmail.com",
+        "phone": "+34 638 196 275",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Aeronautical Engineering (English)",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2023 - present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor in Aerospace Engineering (English)",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2019 - 2028",
+            "duration_years": 9.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aernnova",
+            "position": "Full-time Intern in the Research and Development Department at Aernnova Engineering Division",
+            "description": "",
+            "start_date": "February 2025",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "English Language and Cultural Immersion Programs",
+            "country": "Ireland",
+            "institution_or_company": "",
+            "start_date": "Summer 2017, Summer 2018",
+            "end_date": "",
+            "description": "Two month-long programs with daily classes and full cultural immersion through a host family stay",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Academic Exchange Program",
+            "country": "UK",
+            "institution_or_company": "",
+            "start_date": "January 2018",
+            "end_date": "",
+            "description": "Cultural and language exchange Madrid-London with mutual host family stays",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Python"
+        ],
+        "soft_skills": [
+            "Solid Edge",
+            "ABAQUS",
+            "XFLR5",
+            "ANSYS Mechanical APDL",
+            "ANSYS Workbench",
+            "LS-PrePost",
+            "HyperMesh"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

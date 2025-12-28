@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "francesco abinante space engineer aerospace engineer graduated in space engineering (msc) from the university of naples federico il, with a focus on space propulsion and practical experience in experimental rocketry through unina rockets. experience 12/2024 - 02/2025 contact tecnosistem spa vico ii san nicola alla dogana 9 - 80133 - naples master thesis student internship phone master thesis student internship in fluid dynamics analysis of an air intake for a (+39) 366 547 7560 supersonic ramjet engine, involving cfd simulations and support for wind tunnel testing. 06/2023 - 02/2025 email unina rockets piazzale tecchio, 80 - 80125 - naples francescoabinante@hotmail.it . o. . . deputy head of the propulsion division and hybrid project address responsible via madonna delle grazie 4, naples - italy e production of a 800 n etoh/lox liquid rocket engine e responsible of the design and production of a n20-abs based hybrid rocket engine 15/09/2024 - 21/09/2024 esec - galaxia training center, transinne, belgium esa academy concurrent engineering workshop - propulsion engineer technical skills matlab - python - c/c++ ansys (fluent, spaceclaim) education latex 09/2022 - 04/2025 cad modeling (catia, inventor) university of naples federico ll piazzale tecchio, 80 master of science - aerospace engineering, space curriculum microsoft office suite master thesis in space propulsion: fluid dynamics study of a mixed-compression supersonic intake for wind tunnel testing rocket propulsion analysis (rpa) final grade: 110/110 cum laude and honours mention cea software university of naples federico il piazzale tecchio, 80 bachelor of science - aerospace engineering fue jp bachelor's thesis in aerospace propulsion: numerical simulations of ramjet critical subsystems additional skills . projects os 03/2024 - 07/2024 in the framework of the space mission design course, worked as the propulsion wp adaptability head on the development of a mars mission, focusing on the study of mit coupling 12/04/2023 - 20/04/2023 c.o.r.e. - coding rocket event communication c.o.r.e. - coding rocket event is a workshop where five teams of five students la ng uages eachcompeted to create the best model rocket, fully equipped with sensors and telemetry. hr 09/2022 - 03/2023 italian - mother tongue heartsat english c1 as part of the space systems course, worked in a team of 10 students on a challenge to design a cubesat. the result is heartsat, a 1u cubesat, which aims to monitor vital signs and position data of the members of rescue organizations",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI25"
+}

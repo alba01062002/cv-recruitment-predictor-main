@@ -1,0 +1,128 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Silvia Belmonte Lorente",
+        "date_of_birth": "13/01/1990",
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": 27,
+        "email": "silviabelmonte@outlook.com",
+        "phone": "679749187",
+        "address": "C/Fundadores N 25, 1D, 28028 Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial",
+            "field": "Ingeniería Industrial",
+            "university": "Universidad Politécnica de Cartagena",
+            "location": "Cartagena, España",
+            "year": "2014",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Selectividad",
+            "field": "",
+            "university": "Murcia, España",
+            "location": "Murcia, España",
+            "year": "2008-2009",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Accenture (España)",
+            "position": "Ingeniería del Software",
+            "description": "Diseño y lógica de programación estructurada, creación, codificación y edición de programas informáticos, codificación de programas COBOL en entorno host, sistema operativo Z/OS. Procesamiento y formateo de datos y ficheros, lógica y aritmética de programación, pruebas y juegos de ensayo, codificación de programas multimodulares y procesamiento de tablas, codificación en lenguaje de control de trabajos (JCL), creación, copia y edición de ficheros, desarrollo de bases de datos en lenguaje SQL, cruce de tablas y ficheros.",
+            "start_date": "04/2015",
+            "end_date": "06/2015",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Alemania",
+            "institution_or_company": "Universidad Técnica de Dresde",
+            "start_date": "",
+            "end_date": "",
+            "description": "Proyecto Fin de Carrera: Estudio de las emisiones de NO en cámaras de combustión, simulaciones con Cantera-python y análisis de los resultados, diseño del sistema de acondicionamiento del aire de combustión para futuros estudios experimentales.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Dresde, Alemania",
+            "institution_or_company": "Universidad Técnica de Dresde",
+            "start_date": "2013-2014",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Mathematica",
+            "Cantera-python",
+            "AutoCAD",
+            "MicroCAD",
+            "CATIA",
+            "Multisim",
+            "SQL",
+            "COBOL",
+            "C++",
+            "Python",
+            "Excel"
+        ],
+        "soft_skills": [
+            "capacidad de trabajo en equipo",
+            "actitud pro-activa",
+            "motivación para el aprendizaje constante",
+            "iniciativa para la resolución de problemas",
+            "creatividad",
+            "gestión eficaz ante conflictos",
+            "buena organización"
+        ]
+    },
+    "other_interests_normalized": [
+        "viajar",
+        "deporte",
+        "cine",
+        "nuevas tecnologías",
+        "leer"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Centro Municipal de Servicios Sociales de Murcia",
+            "role": "Colaboradora en el programa colonia urbana",
+            "duration": "2005-2007",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.17,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

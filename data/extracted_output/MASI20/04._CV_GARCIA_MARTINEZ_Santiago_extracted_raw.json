@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "santiago garía martínez c/ hermanos de pablo, 1, 3f, 28027, madrid (+34) 686798462 santigarti@gmail.com 1. work experience airbus internship at airbus defence & space s.a.u. (1 year full time) nov 2018-nov 2019 jobtitle: trainee for procurement department at systems & equipment commodity - tope + description: coordinator/supporter for different transversal activities for tope commodity + sector: aviation industry defense and space arplus internship at applus+ norcontrol s.l.u. (3 months full time) aug - oct 2018 + job title: vendor inspection coordinator o o + description: inspection and certification activities coordinator at vendor's site + sector: industry and energy 2015 forenex summer courses leisure activities supervisor + summer camp: in charge of 65 children and their activities during the day 2008 - 2017 private teacher activities: maths, physics, chemistry for high school students 2008 - 2012 volunteering leisure activities supervisor * certificate obtained at: training school censa of los salesianos in madrid + summer camp of 260 children with low economic level and integration problems at n* seora de lluc catholic church. + coordination team since 2011: in charge of materiales (logistics) and values formation 2. academic background nn 2010 - 2019 degree on industrial technology engineering - specialization in mechanical engineering + escuela técnica superior ingenieros industriales (etsii). universidad politécnica de madrid. + final degree thesis:study on flight and experimental performances of the turbojet general electric-j85-13, in cooperation with the department of thermal engines 1997 - 2009 high school specialization: technical science * obispo perelló school madrid. 3. courses and additional interests courses advanced excel (25 hours), vba for excel (25 hours), catia v5 (50 hours) technical thermal engines, vehicle theory, railways theory, structures, fluid mechanics, heat transfer, interests science of metal materials, mechanical systems simulation, cad 3d design. 4. languages & it skills te languages spanish: native english: fluent b2 level certified and currently studying c1 level at cambridge school it skills iii] excel & power point ] catia v5 [ii] solid edge !) matlab ]! c/c++ )! festo fluidsim [ kuka sim pro",
+    "text_from_header": "1. WORK EXPERIENCE",
+    "detected_language": "en",
+    "master_edition": "MASI20"
+}

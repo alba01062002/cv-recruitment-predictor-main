@@ -1,0 +1,101 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro Roger Ull",
+        "date_of_birth": "21/03/1989",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 24,
+        "email": "alejandro.rogere@hotmail.com",
+        "phone": "+34 690 69 34 74, +3493 205 89 56",
+        "address": "angel guimera 7, 2-1, 08017 barcelona, spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "aeronautical engineering - aircraft design (5-year degree)",
+            "field": "Aerospace Engineering",
+            "university": "Escola Tècnica Superior d'Enginyeries Industrial i Aeronàutica de Terrassa (ETSEIArt) / Universitat Politècnica de Catalunya (UPC)",
+            "location": "Terrassa, Spain",
+            "year": "2012",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Member of Terrassa Rocket Team for 2 years, a student team whose aim is to acquire further knowledge in rocketry engineering, teamwork skills and project management abilities.",
+            "start_date": "",
+            "end_date": "12/2013",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish, catalan",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++ (with posix threading)",
+            "Visual Basic .Net",
+            "Fortran 95",
+            "MATLAB, Simulink",
+            "Bash",
+            "OpenFOAM (CFD)",
+            "SolidEdge (CAD)",
+            "Microsoft Office, LibreOffice",
+            "Ubuntu, Windows"
+        ],
+        "soft_skills": [
+            "Clear and concise writing of technical reports, manuals, and other documents",
+            "Cycling",
+            "Editing and publishing class notes for several subjects (available online)"
+        ]
+    },
+    "other_interests_normalized": [
+        "Swimming",
+        "Cycling"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Terrassa Rocket Team",
+            "role": "Member for 2 years",
+            "duration": "2010-2012",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

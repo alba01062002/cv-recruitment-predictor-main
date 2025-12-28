@@ -1,0 +1,171 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jenny Albujam",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "['albujamj@gmail.com', 'mjalbuja.ayala@gmail.com']",
+        "phone": "633353029",
+        "address": "calle doctor vallejo najera 2,3b , 28342",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Production and Prevention of Occupational Risks",
+            "field": "Production Engineering",
+            "university": "Universidad Europea de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2020-2021",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Master's in Production and Prevention of Occupational Risks - Safety at Work, Ergonomics and Psychosocial and Industrial Hygiene",
+            "field": "",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2019-2020",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "Escuela Superior Politécnica del Litoral",
+            "location": "Ecuador",
+            "year": "2012-2018",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Puertas Automáticas Lumiplas",
+            "position": "Technical Engineer",
+            "description": "Provided technical support to the engineering department, organized production, and performed equipment maintenance. Designed CAD and conducted measurements.",
+            "start_date": "03/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.75
+        },
+        {
+            "company": "Puertas Automáticas Lumiplas",
+            "position": "Technical Engineer Intern",
+            "description": "Provided technical support to the engineering department, organized production and service maintenance. Prepared and defended offers and assisted in the administration department.",
+            "start_date": "05/2021",
+            "end_date": "03/2022",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Komatsu España",
+            "position": "Sales Support and Technical Advisor for After-Sales Repairs",
+            "description": "Provided technical support in the sale of parts, prepared quotes, customer service, and conducted technical visits.",
+            "start_date": "02/2019",
+            "end_date": "08/2019",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Komatsu Diteca",
+            "position": "Sales Support Engineer",
+            "description": "Handled tools, analyzed failures, post-sales, machine sales, supply chain, preventive and corrective maintenance of Komatsu machinery. Managed suppliers and coordinated inventory in SAP.",
+            "start_date": "08/2018",
+            "end_date": "02/2019",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Powertech Engineer",
+            "position": "Mechanical Engineering Intern",
+            "description": "Prepared plans in AutoCAD, provided mechanical design consultancy for thermal power stations.",
+            "start_date": "06/2018",
+            "end_date": "07/2018",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Cartopel S.A.I",
+            "position": "Maintenance Intern",
+            "description": "Scheduled and programmed the execution of preventive and corrective maintenance tasks. Monitored and controlled daily reports. Implemented 5S methodology.",
+            "start_date": "05/2017",
+            "end_date": "08/2017",
+            "duration_years": 0.25
+        },
+        {
+            "company": "La Ferretera S.A",
+            "position": "Technical Intern",
+            "description": "Collected information, checked and reviewed steam trap lines, prepared reports and 3D plans for ideal systems.",
+            "start_date": "02/2015",
+            "end_date": "04/2015",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD",
+            "SolidWorks",
+            "Siemens Extend Inventor",
+            "MATLAB",
+            "ANSYS",
+            "Excel"
+        ],
+        "soft_skills": [
+            "Networking",
+            "Teamwork",
+            "Proactivity",
+            "Initiative",
+            "Adaptability"
+        ]
+    },
+    "other_interests_normalized": [
+        "Post-sales Repairs",
+        "Technical Advisor",
+        "Sales Support"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Red Cross - Spain",
+            "role": "Social Aid Volunteer in Valdemoro, Madrid",
+            "duration": "2018-2023",
+            "description": ""
+        },
+        {
+            "organization": "Red Cross - Ecuador",
+            "role": "First Aid Training Course for Rescue Cases",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 6.08,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

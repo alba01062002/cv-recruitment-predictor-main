@@ -1,0 +1,97 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daviat Tubilla",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "tubilla2308@gmail.com",
+        "phone": "+34 696771308",
+        "address": "Ermua, Bizkaia, 48260 Tubilla",
+        "LinkedIn": "https://www.linkedin.com/in/daviatubilla",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "null"
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Industrial Electronics and Automation Engineering",
+            "field": "Industrial Electronics and Automation Engineering",
+            "university": "UPV/EHU (EUITI Eibar)",
+            "location": "Eibar",
+            "year": "2010 - 2014",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Danobat Group",
+            "position": "Industrial Electronic Engineer",
+            "description": "Key responsibilities include the development of NC, PLC and software programs for different manufacturing and automation technologies, specializing in grinding and turning. Commissioning in-house and at customer premises, providing technical assistance service by supporting customers remotely and on-site, managing requests, working with robots, automation, and handling systems, project planning, and engaging with various field customers (aerospace, automotive, capital goods, energy).",
+            "start_date": "07/2015",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "null",
+            "country": "null",
+            "institution_or_company": "null",
+            "start_date": "",
+            "end_date": "",
+            "description": "null",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Euskera (basque)",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CNC",
+            "Siemens SINUMERIK",
+            "Fanuc",
+            "PLC Siemens: STEP7, TIA Portal",
+            "PLC Fanuc Ladder",
+            "ABB RobotStudio",
+            "C++",
+            "Matlab"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Planning",
+            "Problem solving"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "null",
+            "role": "null",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

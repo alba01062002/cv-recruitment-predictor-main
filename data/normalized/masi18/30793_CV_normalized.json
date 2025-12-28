@@ -1,0 +1,98 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Natalia Álvarez González",
+        "date_of_birth": "01/05/1991",
+        "gender": "female",
+        "age_reference_year": 2018,
+        "age": 27,
+        "email": "natalya.algo@gmail.com",
+        "phone": "+34 665 78 76 17",
+        "address": "Calle Emilia Pardo Bazan, 6, portal 5, 2c, 28903 Getafe, Madrid, Spain",
+        "LinkedIn": "https://es.linkedin.com/in/natalia-alvarez-gonzalez",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Industrial Engineering",
+            "field": "Mechanics",
+            "university": "Mondragon University",
+            "location": "Guipúzcoa, Pais Vasco",
+            "year": "2013-2015",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Master's degree in Petroleum Engineering (specialization in Reservoir and Drilling/Production)",
+            "field": "",
+            "university": "Clausthal University of Technology (TUC)",
+            "location": "Clausthal-Zellerfeld, Germany",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's degree in Mechanical Engineering",
+            "field": "Mechanics",
+            "university": "University of Oviedo",
+            "location": "Gijón, Asturias",
+            "year": "2009-2013",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Alten - Airbus Defense and Space",
+            "position": "Subcontracted by Airbus Derivatives Chief Engineering Office",
+            "description": "Continue with the activities carried out during the internship period. Acquire new responsibilities since January 2017.",
+            "start_date": "01/2017",
+            "end_date": "12/2025",
+            "duration_years": 8.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Germany",
+            "institution_or_company": "Clausthal University of Technology (TUC)",
+            "start_date": "10/2014",
+            "end_date": "03/2015",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V6",
+            "SolidWorks",
+            "AutoCAD",
+            "Matlab",
+            "Advanced Excel"
+        ],
+        "soft_skills": [
+            "Sport practice",
+            "Management and dosing of work"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 8.92,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.8
+}

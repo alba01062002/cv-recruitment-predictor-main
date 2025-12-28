@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "ricardo 20/07/91 686.89.90.37 918.46.13.41 h u ertas ricardochuertas@gmail.com fran cisco avda. del mediterráneo n221, colmenar viejo, 28770 (madrid), espaa electric and electronic engineer recently graduated from loughborough university (u.k.), eager to learn and competent enough to work in a group or lead it himself. in his last year he specialized in renewable energy systems and telecommunications. education sept 09 jun 14 meeng electrical and electronic engineering loughborough university (uk) graduated with a meng degree in electrical and electronic engineering, specialized in the integration of renewable energy systems and telecommunications. obtained a diploma in industrial studies. sept00jun09 elementary school, high school and sixth form king's college (madrid) work experience jul 12 - jul 13 year in industry (apprentice broadcast eng) eddystone broadcast ltd (uk) whilst working at edddystone broadcast ltd. was involved in the following departments: + quality control and calibration: this was my main role within the company here specilized equipment (network analyzers, spectrum analyzer, etc...) were used in order to configure, test and repair the modules that create a fm transmitter. + mechanical workshop: the workshop was in charge of producing all the relevant machanical parts and cables, as well as assembling the different modules, which required soldering and use of industrial machinery. minor repairs also took place in the workshop and paperwork was filed and attached to the units for their dispatch. jun 08-jul08 sales and logistics assistant tableros huertas s.a. (esp) languages english native level (written and spoken) german al level (written and spoken) additional information european driving license and own vehicle programming languages: matlab, c++ it packages: microsoft office (user level), spice (basic level)",
+    "text_from_header": "RICARDO 20/07/91",
+    "detected_language": "en",
+    "master_edition": "MASI15"
+}

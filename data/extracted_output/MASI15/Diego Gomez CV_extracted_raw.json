@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal information education and training september 2014-currently 2009-2014 2003-2009 diego gómez ramírez diego gómez ramírez aeronautical engineer q c/ guardia civil 23 (valencia, 46020, spain) e +34 625722245 (spain) / +32 491973079 (belgium) u +34 963267074 (spain) já diegmera@icloud.com sex male date of birth 19 may 1991 nationality spanish oooo y final degree thesis: erasmus exchange. ku leuven, leuven, belgium tutor: prof. dirk vandepitte. * topic: optimizing the cubesat star tracker baffle using ray tracing. * main tasks: simulation on matlab the light behaviour inside a room using ray tracing. design and optimization of a baffle. manufacture using 3d printers. real testing of baffles prototypes in a laboratory. * oral defence in english in front of tribunal on date 18/06/2015. aeronautical engineering specialization in propulsion universidad politécnica de valencia, valencia, spain. *5 years engineering program. main subjects: jet engines and gas turbines, reciprocating engines, combustion, aerodynamics, aerospace materials, thermodynamics, orbit control, aerospace structures, air transport: organization and operation, automatic control, electric technology, electronic technology, fluid mechanics, structural calculation finite element method, vibrations. group project: turbofan design. work included: pre-design based on similar turbofans, optimization through an iterative study of the parameters, radial equilibrium. group project: preliminary design of a business jet. work included: weight distribution estimation, airplane polar coefficients at different flight phases, materials, wings and flaps design, stability considerations and economic analysis. + group project: preliminary design of an airport. icao standard and recommended practices were followed strictly in this project. group project: study of the influence of pressure ratio and the inlet turbine temperature in the performance of a jet engine. involved the study of the aero-engine fundamentals and the use of the gasturb software. group project: development of a shock wave simulator. work involved the understanding of the shock waves phenomena and the use of the gui-matlab tool. technical baccalaureate specialized in mathematics, physics and chemistry. le.s ferrer guardia high school, valencia. page 1/2 work experience 2012-2013 2008 personal skills mother tongue(s) english catalan french certificates: managerial skills/ communication computer skills additional information 2003-2009 august 2012 2012 references last update: 12/06/2015 diego gómez ramírez aa private tutor physic, maths and chemistry for high-school students. iaaf world indoor championship. palacio velódromo luis puig, valencia. organization staff. oooo y spanish listening reading speaking writing advanced advanced advanced advanced advanced advanced advanced advanced basic basic basic basic cambridge first certificate in english (fce) 2013. adequate managerial skills acquired working and taking decisions in-group. good communication skills gained through my experience in oral presentations at universidad politécnica de valencia and ku leuven. software: microsoft office tools, mathematica, gasturb, autocad, autodesk and ansys fluent. programming: matlab. operating systems: windows, mac os x. former member of the fent cami mislata athletics club for 6 years. youth national champion in 4x100 relay in 2008. intensive english course at niagara college, welland, canada. lean manufacturing eads course. universidad politécnica de valencia / eads factory travelled in europe in vacations: england, germany, france, italy, austria, slovenia, chezc republic, netherlands, poland, belgium, hungary, greece, croatia and luxemburg. driving license: category b. upon request page 2/2",
+    "text_from_header": "PERSONAL INFORMATION",
+    "detected_language": "en",
+    "master_edition": "MASI15"
+}

@@ -1,0 +1,120 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alvaro Lopez Revuelta",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "alvarolopezrevuelta@gmail.com",
+        "phone": "+34 637 07 17 20",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": "https://github.com/alrevuelta"
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Telecommunication Engineering",
+            "field": "Telecommunications, Signal Processing",
+            "university": "BTH (Blekinge Institute of Technology)",
+            "location": "Karlskrona, Sweden",
+            "year": "2016-2017",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Master's degree in Telecommunication Engineering",
+            "field": "Communications Systems, Networks, Cellular Networks, Electronics and Instrumentation, Signal Processing, Optimization Algorithms, Software Engineering, VOLP, Traffic Modeling, Network Security, IMS, NGN, Project Management, Telecommunication Regulation",
+            "university": "UPM (Technical University of Madrid)",
+            "location": "Spain",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's degree in Telecommunication Engineering",
+            "field": "Algebra, Calculus, Physics, Mechanics, Circuits Theory, Analog and Digital Electronics, Programming, Statics, Signal Processing, Wave Propagation, Digital Transmission, Communication Theory, Microprocessors, Operating System, Networks, Signalling, Economics",
+            "university": "UPM (Technical University of Madrid)",
+            "location": "Spain",
+            "year": "2011-2016",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Bananaut Electronics",
+            "position": "Co-founder, Hardware Development",
+            "description": "Development of Arduino-based hardware (shields) using EagleCAD. Management and supplier relations for electronics components. Software development in C++ code and libraries for hardware. Documentation and manual writing. GitHub repository management. Workshops for students with educational purposes.",
+            "start_date": "02/13",
+            "end_date": "12/2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Everis Spain",
+            "position": "Telecom Internship, Software Development",
+            "description": "Software development in Java, PL/SQL and Bash. Massive data treatment with Excel and Awk using agile methodologies. Software testing (unitary and integration). Documentation of processes and user manuals.",
+            "start_date": "01/12",
+            "end_date": "12/2017",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ student exchange program",
+            "country": "Sweden",
+            "institution_or_company": "",
+            "start_date": "2016-2017",
+            "end_date": "",
+            "description": "Courses in the field of Telecommunication Engineering, Signal Processing and Machine Learning (60 ECTS)",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Java",
+            "C/C++",
+            "SQL",
+            "Python"
+        ],
+        "soft_skills": [
+            "Project management",
+            "Agile methodologies",
+            "Documentation",
+            "User manuals",
+            "GitHub repository management",
+            "Workshops for students"
+        ]
+    },
+    "other_interests_normalized": [
+        "Nature",
+        "Technology",
+        "Electronics",
+        "Music",
+        "Open-source"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

@@ -1,0 +1,99 @@
+{
+    "personal_information_normalized": {
+        "full_name": "md. amanullah rafi",
+        "date_of_birth": "13/04/1993",
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": 27,
+        "email": "rafiaman001agmail.com",
+        "phone": "+639150652980",
+        "address": "personal details : p t ermanen plot 2, avenue-1, section-7, pallabi, mirpur, dhaka-1216",
+        "LinkedIn": "www.linkedin.com/in/amanullahrafi",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Aircraft Maintenance Technology (BSAMT)",
+            "field": "Aircraft Maintenance Technology",
+            "university": "Patts College of Aeronautics",
+            "location": "Manila, Philippines",
+            "year": "2014-2018",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Diploma in Aircraft Maintenance Engineering (AME)",
+            "field": "Aircraft Maintenance Engineering",
+            "university": "Aeronautical Institute of Bangladesh (AIB)",
+            "location": "",
+            "year": "2012",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Secondary School Certificate (SSC)",
+            "field": "Science",
+            "university": "Mirpur Bangla High School",
+            "location": "",
+            "year": "2008",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "MG Aviation Services in Manila, Philippines",
+            "position": "Trainee",
+            "description": "Worked as a trainee from 2017-2018.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "GMG Airlines in Bangladesh",
+            "position": "Trainee Engineer",
+            "description": "Worked as a trainee engineer from 2011-2012.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship / Work",
+            "country": "Philippines, Bangladesh",
+            "institution_or_company": "MG Aviation Services, GMG Airlines",
+            "start_date": "",
+            "end_date": "",
+            "description": "Experience in different airlines for training and hands-on work.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Computer literacy: operating system (Windows, Mac, Android)",
+            "Software: Microsoft Office Package (MS Word, Excel, PowerPoint) & other software",
+            "Internet: Expert in internet for information search, browsing, communication, and e-mailing"
+        ],
+        "soft_skills": [
+            "Honest, professional, confident, efficient and goal-oriented",
+            "Good communication skills",
+            "Ability to learn quickly",
+            "Sincere for the assigned work",
+            "Ability to work under pressure",
+            "Creative thinking"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 9.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.0
+}

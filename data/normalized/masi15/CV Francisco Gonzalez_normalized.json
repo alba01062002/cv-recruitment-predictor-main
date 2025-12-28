@@ -1,0 +1,127 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francisco Gonzalez",
+        "date_of_birth": "20/10/1985",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 30,
+        "email": "francisco.gonzalez.loez@gmail.com",
+        "phone": "+34 636 938668",
+        "address": "calle batalla de brunete 24, 4? derecha, 28912 leganés (spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Videogames Development",
+            "field": "Video Games Development",
+            "university": "Escuela Trazos",
+            "location": "Madrid",
+            "year": "2009",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "field": "Computer Science",
+            "university": "Carlos III University (University Carlos III Madrid)",
+            "location": "Madrid",
+            "year": "2009-2003",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Tecnobit",
+            "position": "Software Engineer",
+            "description": "Develop and integrate tactical data link capabilities in Link 11, Link 16 and Link 22 NATO standards within Linpro Motadalli project for the Dutch Navy. Also work on a solo project to implement an offline sniffer tool for Linpro.",
+            "start_date": "07/2012",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Grupo Transhotel (San Sebastián de los Reyes)",
+            "position": "Project Management Technician",
+            "description": "Managed analysis and maintenance stages of diverse software web-oriented projects for enhancing the communication workflow with company's suppliers.",
+            "start_date": "08/2011",
+            "end_date": "06/2012",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Pyxel Arts Digital Entertainment (Leganés)",
+            "position": "Technical Director",
+            "description": "Took decisions regarding the game content integration process.",
+            "start_date": "03/2011",
+            "end_date": "06/2011",
+            "duration_years": 0.25
+        },
+        {
+            "company": "Grupo Transhotel (San Sebastián de los Reyes)",
+            "position": "Software Engineer",
+            "description": "Developed game controllers and artificial intelligence algorithms for non-player characters.",
+            "start_date": "09/2010",
+            "end_date": "06/2011",
+            "duration_years": 0.75
+        },
+        {
+            "company": "Mercury Steam (San Sebastián de los Reyes)",
+            "position": "Test Engineer",
+            "description": "Assured that the final product fulfilled quality standards required for an AAA console title to be released.",
+            "start_date": "03/2010",
+            "end_date": "08/2010",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Ecuador, Peru and Spain",
+            "institution_or_company": "Complutense University (Universidad Complutense)",
+            "start_date": "06/2001",
+            "end_date": "07/2001",
+            "description": "Participant in Ruta Quetzal BBVA Expedition, chosen after my paperwork to become a member of the academic expedition declared of universal interest by UNESCO and supported by the European Union. Honors: honorary guest of the Republic of Ecuador and distinguished guest of the city of Quito.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "C",
+            "XML",
+            "UML",
+            "Lua",
+            "Unreal Script",
+            "SVN",
+            "Qt",
+            "Doors",
+            "Enterprise Architect",
+            "VXWorks",
+            "Eclipse IDE",
+            "Jenkins"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Travelling abroad on holidays with friends",
+        "Practicing all kinds of sports (such as paddle, tennis, cycling, football, etc.)",
+        "Spending time with my family anytime come back to my hometown"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 18,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.2
+}

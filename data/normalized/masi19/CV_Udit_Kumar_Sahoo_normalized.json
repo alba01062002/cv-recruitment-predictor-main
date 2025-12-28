@@ -1,0 +1,122 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Udit Kumar Sahoo",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "udit.kumar.sahoo0@gmail.com",
+        "phone": "+91-88670-38373",
+        "address": "",
+        "LinkedIn": "http://in.linkedin.com/in/uditkumarsahoo",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Technology (B.Tech.)",
+            "field": "Aerospace Engineering",
+            "university": "SRM University",
+            "location": "",
+            "year": "2010-2014",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Tata Consultancy Services",
+            "position": "Systems Engineer",
+            "description": "Developer of embedded systems, software requirements review and feedback, application software development based on DO-178B Level A using model-based artisan studio tool for control system.",
+            "start_date": "October 2014",
+            "end_date": "May 2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Rolls-Royce",
+            "position": "Controls Sub-System Engineer",
+            "description": "Airframe engine integration engineer and control systems engineer, resolved control system requirement inconsistencies, verification strategy definition for the engine control system, improved customer relations by coordinating flight test events.",
+            "start_date": "May 2017",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Simple Labs",
+            "position": "Robotics & Embedded Systems Engineer (Intern)",
+            "description": "Programmed microcontrollers (Arduino) for robotics & embedded application, interface various sensors, actuators and other peripheral devices.",
+            "start_date": "October 2011",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Work",
+            "country": "United Kingdom",
+            "institution_or_company": "Rolls-Royce",
+            "start_date": "May 2017",
+            "end_date": "",
+            "description": "International work experience in system design and integration",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Work",
+            "country": "United Kingdom",
+            "institution_or_company": "Tata Consultancy Services",
+            "start_date": "October 2014",
+            "end_date": "",
+            "description": "International work experience in software design",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Systems Engineering (MBSE, DOORS)",
+            "Requirements Management",
+            "Traceability",
+            "Configuration Management",
+            "Control Systems",
+            "Product Development",
+            "Software Engineering",
+            "DO-178B",
+            "ARP4754",
+            "Embedded Systems",
+            "Machine Learning",
+            "Avionics",
+            "C",
+            "C++",
+            "MATLAB",
+            "Simulink",
+            "Python",
+            "Ada",
+            "VBA",
+            "TCL"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Problem Solving",
+            "Customer Relationship Management",
+            "Project Planning",
+            "Scheduling and Monitoring",
+            "Team Management"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.6
+}

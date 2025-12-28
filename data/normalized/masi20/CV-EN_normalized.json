@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Antonio José Caada Urea",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "ajcanadaurena@gmail.com",
+        "phone": "",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/antonio-jose-caada-urea/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Decision Making & Innovation",
+            "field": "Digital Capacities and Effective Communication, Innovation, Investments and Finance, Product Management and Productivity",
+            "university": "Universidad de Alcalá de Henares (Spain)",
+            "location": "",
+            "year": "2018-2019",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Industrial Engineering Master (Qualifying Master's Degree)",
+            "field": "Industrial Technologies, Management, Facilities and Constructions",
+            "university": "Escuela Politécnica Superior, Jaén (Spain)",
+            "location": "",
+            "year": "2011-2016",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Degree in Industrial Technology Engineering",
+            "field": "Quality Control and Programming, Design of Productive Systems: Demand Forecast and Inventory Management, Production Planning, MRP and OPT Systems, Decision Making Tools: DEA, Multicriteria and Multiobjective Analysis, Lean Manufacturing, Logistic and Optimization Techniques",
+            "university": "Escuela Politécnica Superior, Sevilla (Spain)",
+            "location": "",
+            "year": "2009-2013",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Accenture",
+            "position": "Disassembly Planning Engineer",
+            "description": "Stock management, MRTT disassembly planning, KPI reports, SAP module SP1 (production), orders and operations management, work time setting, internship planning and production control",
+            "start_date": "11/2018",
+            "end_date": "12/2020",
+            "duration_years": 2.08
+        },
+        {
+            "company": "Airbus",
+            "position": "Disassembly Planning Engineer",
+            "description": "Member of the aircraft delivery team supporting several activities with the customer, development and implementation of improvements, definition and report of KPIs, point of contact with different departments as part of a multifunctional team, provide high-level administrative support to Ho departments, representative in multidisciplinary meetings for area management",
+            "start_date": "11/2019",
+            "end_date": "12/2020",
+            "duration_years": 1.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Project",
+            "Presto (Budgets)",
+            "Andelec for the establishment of high voltage lines",
+            "SAP Planning Module",
+            "Vensim",
+            "Simulink",
+            "Winmecc and Aspen Plus",
+            "Contact Language (LD)",
+            "Structured Text (ST)",
+            "Function Block Diagram (FBD)",
+            "Grafcet (SFC)"
+        ],
+        "soft_skills": [
+            "Team player",
+            "Ability to handle high-pressure environments",
+            "Objective oriented",
+            "Analytical mindset",
+            "Multi-tasking",
+            "Good command of the office package"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 3.16,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.0
+}

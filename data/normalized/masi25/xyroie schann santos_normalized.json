@@ -1,0 +1,110 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Xyroie Schann B. Santos San Miguel",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "santosxyroie@gmail.com",
+        "phone": "+63 9078943729",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's/College degree in Aeronautical Engineering",
+            "field": "Aerospace/Aeronautics Engineering",
+            "university": "Holy Angel University (Hau)",
+            "location": "Pampanga, Philippines",
+            "year": "2019",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's/College degree in Aeronautical Engineering",
+            "field": "Aerospace/Aeronautics Engineering",
+            "university": "Patts College of Aeronautics Engineering (PACE)",
+            "location": "Bulacan, Philippines",
+            "year": "2018",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Senior High School Diploma in STEM",
+            "field": "",
+            "university": "Patts College of Aeronautics Science, Technology, Engineering and Mathematics (STEM)",
+            "location": "Bulacan, Philippines",
+            "year": "2016",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Omni Aviation Training Institute",
+            "position": "Aviation Intern",
+            "description": "Performed evaluations of safety procedures in aviation and learned to use maintenance manuals. Performed tasks such as requesting new parts using IPC, checking aircraft airworthiness, conducting routine inspections, and using personal protective equipment (PPE).",
+            "start_date": "06/2019",
+            "end_date": "06/2020",
+            "duration_years": 1.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Autocad 2020",
+            "MS Excel (Visual Basic Analysis)",
+            "SolidWorks 2020",
+            "MS Office (Word, PowerPoint)",
+            "Aircraft Maintenance Program Development",
+            "Minimum Equipment List Familiarization",
+            "Continuing Airworthiness Management Course",
+            "Aircraft Structures Repair & Assessment Course",
+            "Flight Planning & Dispatch Overview",
+            "Introduction to Communication, Navigation & Surveillance Air Traffic Management System",
+            "Aircraft Manuals & Documents Familiarization",
+            "Propelling the Aviation Industry Forward Through Innovation"
+        ],
+        "soft_skills": [
+            "Technical and Computer Expertise",
+            "Written and Oral Communication Skills",
+            "Research Skills",
+            "Problem-Solving Skills"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 1.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

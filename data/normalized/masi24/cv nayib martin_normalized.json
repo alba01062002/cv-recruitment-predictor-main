@@ -1,0 +1,97 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Nayib Martín Goushesh",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "nayib3_13_1@gmail.com",
+        "phone": "+34 634580566",
+        "address": "",
+        "LinkedIn": "linkedin blog +",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "blog"
+    },
+    "education_normalized": [
+        {
+            "degree": "Ing. de Sistemas Aeroespaciales",
+            "field": "Ingeniería de Sistemas Aeroespaciales",
+            "university": "Universidad Politécnica de Cataluña (UPC)",
+            "location": "Castelldefels, Barcelona",
+            "year": "2020-2024",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Finalista del Reto Design Thinking",
+            "description": "Participación en el Reto Design Thinking de Seat Barcelona.",
+            "start_date": "03/2024-05/2024",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "CRIA (R&D Center for ATM Innovation)",
+            "position": "Beca para Concurso Clúster ATM",
+            "description": "Desarrollo de un servicio de separación táctica para drones en el contexto de U-Space basado en Deep Reinforcement Learning y entrenamiento en un entorno virtual realista.",
+            "start_date": "02/2024-presente",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Blogger",
+            "description": "Escribir sobre intereses personales como misiones espaciales, aprendizaje profundo y gestión.",
+            "start_date": "03/2023-presente",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Freelance Programador",
+            "description": "Desarrollo de un script para prueba de estrategias comerciales basada en indicadores técnicos, desarrollo de modelos de predicción y clasificación utilizando diferentes arquitecturas de machine learning.",
+            "start_date": "01/2022-presente",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+",
+            "country": "Bucarest, Rumanía",
+            "institution_or_company": "Universitatea Politehnica din Bucuresti (UPB)",
+            "start_date": "02/2023-06/2023",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Bucarest, Rumanía",
+            "institution_or_company": "Universitatea Politehnica din Bucuresti (UPB)",
+            "start_date": "02/2023-06/2023",
+            "end_date": null,
+            "description": "Erasmus+",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.0
+}

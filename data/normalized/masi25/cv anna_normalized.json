@@ -1,0 +1,87 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Anna Gueto Martinez",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "anna.gueto@gmail.com",
+        "phone": "+34 626409892",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/annaguetomartinez",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "B.S. in Aerospace Technologies Engineering",
+            "field": "Aerospace engineering",
+            "university": "Universitat Politècnica de Catalunya (UPC)",
+            "location": "Terrassa, Barcelona, Spain",
+            "year": "2020-2024",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ATEXIS ITC",
+            "position": "Training Content Developer",
+            "description": "Development and update of training manuals for both flight and ground crews using computer-based training. Related documentation includes FCOM, FCTM, AMM, QRH, and MEL.",
+            "start_date": "09/2024",
+            "end_date": "12/2025",
+            "duration_years": 1.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "ACITURRI Aerostructures",
+            "start_date": "01/2024",
+            "end_date": "07/2024",
+            "description": "Non-conformance, KPI and quality indicators management. Daily updates of the state of QA controls to reduce recurrent crises. Product delivery documentation handling.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Jovi S.A.",
+            "start_date": "06/2019",
+            "end_date": "09/2019",
+            "description": "Analysis of industrial processes and flow chart elaboration using Visio. Identification of vulnerable points in different production chains.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "C++",
+            "MATLAB"
+        ],
+        "soft_skills": [
+            "SAP PowerBI",
+            "Microsoft Suite",
+            "SBT Tools",
+            "TNA Tool"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 1.25,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.7
+}

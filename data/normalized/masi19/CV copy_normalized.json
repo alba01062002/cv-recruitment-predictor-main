@@ -1,0 +1,111 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Luis Enrique Gracia Diez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "enrique.gracia.diez@gmail.com",
+        "phone": "0034 619 961 306",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Aerospace Engineering and Double Degree student",
+            "field": "Aerospace Engineering",
+            "university": "Ecole Centrale de Nantes, Universidad Tecnica de Madrid (UPM)",
+            "location": "France/Spain",
+            "year": "2015-2018",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Bachelor's degree in Aerospace Engineering",
+            "field": "Aerospace Sciences and Technologies",
+            "university": "Universidad Tecnica de Madrid (UPM)",
+            "location": "Spain",
+            "year": "2011-2015",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Madrid, Spain",
+            "position": "Internship in Airframe R&T - Rear End Engine Integration",
+            "description": "Development of new structural solutions within airframe R&T rear end environment. Development of a new engine integration from design (CATIA V5) and structure (Patran- Nastran) point of view.",
+            "start_date": "2018 April",
+            "end_date": "Currently",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Saint Nazaire, France",
+            "position": "Six Month Internship",
+            "description": "Active member of the structural design group of the MAP (Mise à Point). Realization of technical reference and decision trees used for the treatment of fuselage structural repairs applied to the A350 program.",
+            "start_date": "2017 February",
+            "end_date": "2017 July",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "France, Spain",
+            "institution_or_company": "Ecole Centrale de Nantes, Universidad Tecnica de Madrid (UPM)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Double degree student and Master's studies in France alongside Bachelor's studies in Spain.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Patran-Nastran",
+            "Abaqus",
+            "Python",
+            "Matlab",
+            "Macro Excel (Visual Basic)",
+            "Qt-Designer Graphic Interface",
+            "CATIA and SolidWorks Graphic Design, CATIA Surface Module, Arias Module"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "Teamwork",
+            "Communication Skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Santiago de Compostela Pilgrimage (Way of St James)",
+        "Basketball"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Santa María del Pilar Club of Madrid",
+            "role": "Basketball Player and Captain for Six Years",
+            "duration": "2018 - Currently",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

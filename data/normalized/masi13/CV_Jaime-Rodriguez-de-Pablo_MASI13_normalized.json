@@ -1,0 +1,102 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jaime Rodriguez Depablo",
+        "date_of_birth": "04/10/1988",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 25,
+        "email": "jaimerodriguezdp@gmail.com",
+        "phone": "+34690396134/+34936754342",
+        "address": "c/bolívar n 4, 08197 sant cugat del vallés, spain",
+        "LinkedIn": "http://www.linkedin.com/in/jaimerodriguezdepablo",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Five-year industrial engineering degree",
+            "field": "Electronics",
+            "university": "Escola Tècnica Superior d'Enginyeria Industrial de Barcelona (ETSEIB). Universitat Politècnica de Catalunya",
+            "location": "Barcelona",
+            "year": "2011-2016",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Nub3d S.L.",
+            "position": "Intern in the engineering department",
+            "description": "Platforms: Windows, Linux and Mac OS. General software: MS Office (Word, Excel and Power Point), Photoshop, Internet. Complete English to Spanish translation of PolyWorks' 3D metrology software (more than 30,000 interface lines translated). Research in LED projection technology leading to an optimization proposal of this technology for its future integration in white light 3D digitizing systems.",
+            "start_date": "10/2011",
+            "end_date": "09/2012",
+            "duration_years": 0.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Catalan",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB/Simulink",
+            "Ansys",
+            "AutoCAD",
+            "SolidWorks",
+            "Polyworks",
+            "PSIM",
+            "Quartus",
+            "VHDL",
+            "C/C++",
+            "Assembly"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Astronomy",
+        "Football",
+        "Digital photography (awarded in contests)",
+        "Skiing",
+        "Mountain biking",
+        "Traveling"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.92,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 28,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

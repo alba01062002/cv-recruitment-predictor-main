@@ -1,0 +1,88 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Javier González Castelao",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": null,
+        "email": "jgonzalez9390@gmail.com",
+        "phone": "658 89 28 60, 985 33 43 30",
+        "address": "c/Adosinda, 5 - 3 d - 33202 Gijón (Asturias)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial: Electricidad",
+            "field": "Electricidad",
+            "university": "E.P.S. de Ingeniería de Gijón",
+            "location": "Gijón (Asturias)",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "HC Energía, grupo EDP",
+            "position": "Becario",
+            "description": "Departamento de Líneas y Redes.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Cohega S.A Taller eléctrico",
+            "position": "Becario",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD 2006"
+        ],
+        "soft_skills": [
+            "Gran capacidad de trabajo en equipo y liderazgo"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.2
+}

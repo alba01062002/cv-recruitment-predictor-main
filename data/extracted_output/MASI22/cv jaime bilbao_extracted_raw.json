@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "jaime bilbao macarena 5, 28016, madrid, spain +34 626 446 838 m jaime.bilbao98@gmail.com linkedin.com/in/jbilbaocierva about me aerospace engineer with a motivation to work in aviation, helicopter, spacecrafts and renewable energies. numerous experiences designing mechanical systems with concern for structures, cost, manufacturability and easy access for assemblies. good engineering computer literacy aimed towards design, modelling and office packages. education university of bath, www.bath.ac.uk, uk aerospace engineering, meng (hons) 2016 - 2021 o degree class awarded: first-class honours (1:1). o relevant modules: aerospace structures, aircraft propulsion, aircraft performance, manufacturing & design. engineering projects advanced cooling experiment 2021 o transpiration cooling experiment aimed towards understanding the effects of a gyroid porous surface on adiabatic effectiveness to increase understanding for future use in industry. o dueto covid the experiment was run through simulation using commercially available cfd. o cfd model was validated with previous/similar experiments and then later used to compare changes in performance with different porosity and varying coolant quantities. airbus commercial transport aircraft 2020 o structural lead in a large group project aimed towards doing the preliminary design of a new airbus aircraft capable of short-range flights with minimum fuel burn and commercial viability. o proposed design was a composite strut-braced wing design in which did the wings first iteration sizing of spars, struts, skin and ribs. laminate design was carefully considered until a reasonable configuration was achieved. o was also responsible for the aircraft's environmental effects and the design changes to mitigate them. work experience azora capital, www.azora.es, spain 12/2021 - present independent investment manager with focus on sustainability, renewable energy and real estate. analyst, energy and infrastructure o part of a team responsible of building a specialized private equity fund aimed towards companies contributing to the uns sustainable development goals. o research and valuation of different investment opportunities with interest on how sustainable measures will add value in the future. técnicas reunidas, www.tecnicasreunidas.es, spain 3/2019 - 6/2019 world leaders in engineering and construction in the international energy industry, particularly in the oil and gas sectors. mechanical engineer, duqm refinery project o quality control of documentation provided by the rotary equipment suppliers. o prepared documentation and attended meetings between clients and suppliers to clarify and modify aspects of the design of some of the equipment being procured. ferrovial agroman, www.ferrovial.com, uk 6/2018 - 2/2019 global infrastructure and mobility operators focused on services, constriction, highways and airports. design engineer, northern line extension project o evaluated value engineering proposals with the objective of reducing cost of mechanical and electrical infrastructure. each change had to be validated by both an external consultant and the client. o as part of quality control of the project was responsible for procuring the necessary documentation and information about the purchased electrical equipment being installed. languages o fluent: spanish and english. o intermediate: french. o beginner: japanese. computer skills o office: word, power point, excel. o design: cad (inventor, solid edge), cfd (ansys cfx). o modelling/programming: matlab, python. additional information and interests o interests: reading, travelling, motorsports, gaming, skiing and surfing. o soft skills: hardworking, eager to learn, flexible and enthusiastic.",
+    "text_from_header": "JAIME BILBAO",
+    "detected_language": "en",
+    "master_edition": "MASI22"
+}

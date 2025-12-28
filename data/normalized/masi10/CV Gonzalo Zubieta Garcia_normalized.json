@@ -1,0 +1,77 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Gonzalo Zubieta García",
+        "date_of_birth": "22/03/1984",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 26,
+        "email": "ezubieta1820@gmail.com",
+        "phone": "916383881 - 690374963",
+        "address": "Avda. Los Clavles, 29-2 C (Urbanización Las Norias), 28221 Majadahonda (Madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Licenciatura en Ingeniería Industrial Superior",
+            "field": "Automática y Electrónica",
+            "university": "Escuela Politécnica Superior Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2002-2009",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Finlandia",
+            "institution_or_company": "Helsinki University of Technology",
+            "start_date": "Febrero 2009",
+            "end_date": "Junio 2009",
+            "description": "Realización del proyecto fin de carrera (LONANI, un robot de escritorio para interacción remota), con beca Erasmus.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Sistema operativo Linux, Windows (95, 98, 2000, XP, Vista)",
+            "Lenguajes de programación: C, C++, PL7, ensamblador, HTML, Fortran 90",
+            "Microsoft Office: Excel, Access, PowerPoint, Word",
+            "Aplicaciones matemáticas: MATLAB, Mathcad, ANSYS, Maple, Stat Graphics",
+            "Aplicaciones de diseño gráfico: AutoCAD, Solid Edge",
+            "Aplicaciones de diseño de circuitos electrónicos: PSIM, ORCAD, Quartus II"
+        ],
+        "soft_skills": [
+            "Internet, navegadores, correo electrónico"
+        ]
+    },
+    "other_interests_normalized": [
+        "Música: Batería (miembro de un grupo desde 2001), Guitarra, Conciertos",
+        "Deportes: Fútbol sala (3a división de Majadahonda), Rugby, Snowboard, Surf, Skate, Tenis",
+        "Lectura: Astronomía, ciencia ficción, literatura fantástica"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.0
+}

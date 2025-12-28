@@ -1,0 +1,83 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Marta Lucio Postigo",
+        "date_of_birth": "08/04/2000",
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": 22,
+        "email": "martaluciopostiga@gmail.com",
+        "phone": "+34 669557363",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/marta-lucio-postigo-65a734225",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "www.linkedin.com/in/marta-lucio-postigo-65a734225"
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid - ETSIAE-UPM",
+            "location": "Madrid, Spain",
+            "year": "2018-2023",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Vector Renewables",
+            "position": "Technical Asset Specialist",
+            "description": "Performance monitoring of photovoltaic plants. Technical due diligence of photovoltaic and wind assets. Performance evaluations.",
+            "start_date": "02/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "FORTRAN95",
+            "Microsoft Office (Excel, PowerPoint, Word)"
+        ],
+        "soft_skills": [
+            "Systems Integration",
+            "Team Management",
+            "Leadership",
+            "Self-learning"
+        ]
+    },
+    "other_interests_normalized": [
+        "Swimming",
+        "Lifesaving and Lifeguarding"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2018-2020",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 3.83,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 6.5
+}

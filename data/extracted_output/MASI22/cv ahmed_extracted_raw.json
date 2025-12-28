@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "ahmed elrufaie (err) rufa3ie@gmail.com (416) 356-2501 www.linkedin.com/in/ahmed-elrufaie-66075184kitchener, ontario, canada summary of qualifications e proficient in matlab, soldiworks, catia, ansys, engineering sketching, dimensioning and project management. e = skilled in stress analysis and fluid dynamics through different projects landing gear analysis and stability and control. e trained to work in a manufacturing environment, promoting efficiency and health and safety. e experienced in technical reports, product analysis, instruction manuals and market analysis. e experienced in working in both team environments and independently through design teams and projects. e = trained in customer service relations, acquired excellent communication and real time problem solving skills. e proficient in microsoft office used in all of my projects, technical reports and presentations. e registered in the professional engineers of ontario as an engineering intern (eit) projects stability & control team lead electric cessna 172 capstone ryerson university jan 2019 apr 2019 won 1* place in a capstone competition of 4 teams. optimized tail boom length from wing root by using stability equations in matlab, solving for length. calculated optimum vertical and horizontal fin sizes by using stability equations in matlab, iterating for fin dimensions. e simulated the stability and control using aerodynamic vortex lattice (avl by mit) by inputting wing, fin and body dimensions with various criterions. arduino and gps integration team lead drone attachment project ryerson university sept 2019 dec 2019 integrated the circuits of the gps chip to the prototype by installing and coding it into the circuit board. programmed the gps using arduino script to locate current location by connecting to at least three satellites and give real time coordinates. e tested the gps by moving to several points on ryerson campus, resulting in correct approximate coordinates. static mass balance lead carbon fiber & fiber glass glider ryerson university jan 2017 apr 2017 e performed moment, static balance analysis and optimization using matlab. e optimized mass allocation of the glider by iterating the position of the weights on the glider using matlab. e tested the mass allocation by statically balancing the glider while experimenting with weight distribution. e successfully prototyped and tested the glider achieving highest flight time and range in a controlled environment. experience part time flex associate simcoe parts service, alliston, ontario jul 2021 sep 2021 picked and organized automotive totes into their respective areas organized carts to be used for automotive parts transport worked as a team that is led by the section leader to make sure the parts go to honda canada manufacturing in time for production of the latest honda civic 2022 e quality control of automotive parts that are checked thoroughly before production. education bachelor of engineering aerospace engineering ryerson university sept 2013 apr 2019 certificate : intro to aerospace structures and materials , delft university 2020 certificate: aircraft design fundamentals course, aerospace society 2018",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI22"
+}

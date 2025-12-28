@@ -1,0 +1,115 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Samuel Fernandez Fernandez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "s.fedez.fedez@gmail.com",
+        "phone": "+34 622 054 579",
+        "address": "c/ Juan Duque, 32b, 35, Madrid, Spain",
+        "LinkedIn": "linkedin.com/in/s-fedez-fedez",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2011-2015",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "Experimental Tests on Non-Stationary Flow over an Airfoil",
+            "university": "University of Alcala (UAH)",
+            "location": "Alcala de Henares, Spain",
+            "year": "2017-2018",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space",
+            "position": "Internship - Design Organisation Approvals (DOA)",
+            "description": "Performing preliminary analysis of incoming changes on aviation authorities regulatory requirements. Development and implementation of several e-learning courses (DOA School). Supporting financial, transformation & engineering departments for the management of several transversal projects.",
+            "start_date": "2017-08",
+            "end_date": "2018-06",
+            "duration_years": 0.0
+        },
+        {
+            "company": "IMDEA Materials",
+            "position": "Internship - Non-linear FEM Simulations",
+            "description": "Responsible for the introduction to the use of LS-DYNA as an alternative numerical tool to ABAQUS CAE for impact simulation on composite laminates. Development of subroutines or UMAT's to simulate the non-linear behavior of composites such as Zylon or Kevlar.",
+            "start_date": "2017-08",
+            "end_date": "2018-06",
+            "duration_years": 0.0
+        },
+        {
+            "company": "University Institute Ignacio Da Riva",
+            "position": "Internship - Unsteady Aerodynamics Experimental Testing",
+            "description": "Calibration of all the necessary equipment to carry out a wind tunnel experiment. Development of the scripts to control the data-acquisition process, the data processing and data analysis.",
+            "start_date": "2015-08",
+            "end_date": "2016-07",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "USA",
+            "institution_or_company": "ALCC course in New York, USA",
+            "start_date": "2015-08",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Catia",
+            "LS-Dyna",
+            "VBA",
+            "Abaqus Cae"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Teamwork"
+        ]
+    },
+    "other_interests_normalized": [
+        "Cycling",
+        "Motorsport",
+        "Video games",
+        "Mountain hiking"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.7
+}

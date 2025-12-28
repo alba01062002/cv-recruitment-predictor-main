@@ -1,0 +1,118 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rafael Bosque Martínez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "r.bosque.martinez@gmail.com",
+        "phone": "+34 91 553 89 13",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MSc in Aeronautical Engineering (2:1)",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "September 2016 - Present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master in Professional Development",
+            "field": "",
+            "university": "Universidad Alcalá de Madrid (Online)",
+            "location": "",
+            "year": "October 2016 - Present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor in Aerospace Engineering (2:2)",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "September 2011 - September 2016",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence and Space",
+            "position": "Intern in TAQOD (Final Assembly Line Quality Department)",
+            "description": "Analysing costs of non-quality, applying improvement plans and lean philosophy. Developed teamwork skills.",
+            "start_date": "October 2016",
+            "end_date": "12/2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "MTorres",
+            "position": "Mechanical Design Engineer",
+            "description": "Introducing improvements in 2D and 3D models with CATIA V5. Proved reliability and responsibility.",
+            "start_date": "Summer 2016",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA V5",
+            "Visual Basic",
+            "Excel",
+            "ANSYS Fluent",
+            "SAP"
+        ],
+        "soft_skills": [
+            "Highly motivated and diligent",
+            "Organized with excellent time management and multitasking ability",
+            "Developed independently after full-time working days",
+            "Hardworking and eager to learn and improve",
+            "Committed to giving best in personal and professional lives",
+            "Flexible and able to change objectives quickly"
+        ]
+    },
+    "other_interests_normalized": [
+        "Reading",
+        "Boxing",
+        "Teaching"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.2
+}

@@ -1,0 +1,118 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Raphael Andrés Rubiano Vasco",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "ranruva02o@hotmail.com",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Aerospace Engineering",
+            "field": "Aircrafts",
+            "university": "Universidad Europea de Madrid",
+            "location": "Madrid",
+            "year": "2016",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Ayesa Air Control",
+            "position": "Engineering Department - Manufacturing and Process Engineering",
+            "description": "Project on technical instructions development for removal, reworks and reinstallations on the A330 MRTT of Airbus Defence and Space. Update of information regarding technical instructions, documentation and configuration for the A330 MRTT project.",
+            "start_date": "2016",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Blink Corner",
+            "position": "Store Shift Manager - Sale of mobile phones and products related to mobile telephony",
+            "description": "- Customer service and problem solver. - Costs and sales control. - Stock control.",
+            "start_date": "July-August 2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Café Gourmet",
+            "position": "Junior Manager",
+            "description": "- Task assignment and timetable control. - Customer service and loyalty. - Payment control. - Stock control.",
+            "start_date": "July-August 2014/2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Personal Classes for High School Students",
+            "position": "",
+            "description": "- Teaching methods according to specific needs. - Academic observation and evaluation of the student. - Use of new technologies as a supplement in the development of the student.",
+            "start_date": "July-August 2013/2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "null",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA",
+            "Auto CAD",
+            "Photoshop",
+            "Workbench and Patran / Nastran",
+            "Structural Analysis including FEA, Modal Analysis, Test and Verification and Fluid Dynamics Analysis"
+        ],
+        "soft_skills": [
+            "Office Skills Advance User Level (DTP, Word Processors, Spreadsheets, Internet, Mail, etc.)",
+            "Training Course on CMS's 3D at AAC (October 2016)",
+            "Training Course on Lean Manufacturing at AAC (April 2016)",
+            "Training Course on Manufacturing and Assembly in Aerospace Engineering at AAC (April 2016)",
+            "Course of Military Aircraft Normative - Spanish Legislation and European Framework at AAC (March 2016)",
+            "Course of AMMA Certification at Airbus Defence and Space (March 2016)",
+            "Training Course on FOD Prevention and PG-133 at AAC (March 2016)"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.3
+}

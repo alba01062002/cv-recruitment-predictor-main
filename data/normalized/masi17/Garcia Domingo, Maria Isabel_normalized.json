@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Isabel García",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "sabel.gdomingo@gmail.com",
+        "phone": "+34 699 861 484",
+        "address": "Marques de Villamanrique,22, Sevilla la Nueva, Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Beng in Aerospace Engineering, specialization in Air Navigation",
+            "field": "Aerospace Industrial Design",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2013-2014",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Professional Master in Aerospace Engineering on Aerospace Industrial Design",
+            "field": "",
+            "university": "University of Leon",
+            "location": "",
+            "year": "2012",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defense and Space (Madrid, Spain)",
+            "position": "Aerospace Design Engineer",
+            "description": "Aerospace composite parts tooling design. Designing composite lay-up tools for the program Airbus A350 S19 using CATIA V5 as per Airbus specifications and methodology.",
+            "start_date": "Feb 2016",
+            "end_date": "12/2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Internship in Customization Department (A330 MRTT)",
+            "description": "Reporting to the head of customization at Airbus DS. Verify in conjunction with supply chain the PO for all customizable parts in the aircraft, customer liaison to set up the cabin layout and equipment configuration as part of fully customized orders from different air forces.",
+            "start_date": "Nov 2013",
+            "end_date": "Mar 2014",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Volunteering",
+            "country": "Canada",
+            "institution_or_company": "Halifax International Language Institute (ILI) and Ecology Action Center, Halifax, NS; Maritime Museum of the Atlantic in Halifax, NS.",
+            "start_date": "2014-2015",
+            "end_date": "",
+            "description": "Studying an intensive course of English. Volunteer work including bicycle tune-up and fixing at Ecology Action Center and helping on different activities at the Maritime Museum of the Atlantic in Halifax, NS.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5: Expert level",
+            "Part Design = Tool Design",
+            "2 Sheet Metal",
+            "2 Generative Shape Design Assembly",
+            "DMU",
+            "Composites (CPD)",
+            "Harness",
+            "MATLAB",
+            "Microsoft Project",
+            "Microsoft Office"
+        ],
+        "soft_skills": [
+            "Good communication skills gained through international work environment at Airbus, dealing with US and French suppliers."
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Halifax International Language Institute (ILI), Ecology Action Center, Halifax Museum of the Atlantic",
+            "role": "",
+            "duration": "2014-2015",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

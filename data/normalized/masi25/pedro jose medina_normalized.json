@@ -1,0 +1,109 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pedro José Medina Sánchez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "020400pm@gmail.com",
+        "phone": "+34 617 60 07 56",
+        "address": "cra. espeluy n. 24, 23620 Mengíbar, Jaén",
+        "LinkedIn": "https://www.linkedin.com/in/pedro-medina-sánchez-8976811a7",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "www.linkedin.com/in/pedro-medina-sánchez-8976811a7"
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Informática, Intensificación en Ingeniería de Computadores",
+            "field": "Ingeniería de Computadores",
+            "university": "Universidad de Castilla-La Mancha (UCLM)",
+            "location": "Móstoles",
+            "year": "junio 2025",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Grado Superior en Desarrollo de Aplicaciones Web (Daw)",
+            "field": "",
+            "university": "I.E.S. Las Fuentezuelas, Jaén",
+            "location": "Jaén",
+            "year": "junio 2021",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachillerato Tecnológico",
+            "field": "",
+            "university": "1.E.S. María Cabeza Arellano Martínez, Mengíbar",
+            "location": "Mengíbar",
+            "year": "mayo 2018",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Dapda Motor Digital",
+            "position": "Desarrollador Back-end (Contrato de Prácticas)",
+            "description": "Participé en el desarrollo de un plugin de WordPress destinado a estandarizar y automatizar las operaciones de desarrollo dentro de la empresa, facilitando así el trabajo por parte de otros desarrolladores, además de aumentar el rendimiento de las aplicaciones desarrolladas.",
+            "start_date": "febrero 2021",
+            "end_date": "mayo 2021",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Verilog",
+            "SystemVerilog",
+            "Xilinx Vivado, Vitis HLS y Vitis",
+            "FPGA Implementation and Validation",
+            "RISC-V Processor Architecture",
+            "Embedded Systems Design",
+            "Computer Architecture",
+            "Web Development (PHP, JavaScript)",
+            "WordPress Plugin Development"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "Team Collaboration",
+            "Problem Solving",
+            "Debugging and Troubleshooting"
+        ]
+    },
+    "other_interests_normalized": [
+        "Microelectronics",
+        "Aviation and Aerospace Systems",
+        "Electronics",
+        "Digital System Design"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

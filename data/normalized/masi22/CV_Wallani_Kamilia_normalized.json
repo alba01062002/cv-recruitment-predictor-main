@@ -1,0 +1,120 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Kamilia Wallani",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "kamilia.wallani@alumnos.upm.es",
+        "phone": "+34 655 039384",
+        "address": "carrera de aviador de francisco, 7, 28901 getafe, madrid, spain",
+        "LinkedIn": "https://www.linkedin.com/in/kamilia-wallani",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Diploma in Aeronautical Engineering",
+            "field": "Aeronautical and Space Engineering",
+            "university": "Polytechnic University of Madrid (UPM) Higher Technical School of Aeronautical and Space Engineering (ETSIAE)",
+            "location": "Madrid, Spain",
+            "year": "2022",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Diploma of Academic Studies in the First Cycle",
+            "field": "",
+            "university": "Higher School of Aeronautics and Technologies (ESAT)",
+            "location": "Tunis, Tunisia",
+            "year": "2019",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Diploma of Academic Studies in the First Cycle",
+            "field": "",
+            "university": "Higher School of Aeronautics and Technologies (ESAT)",
+            "location": "Tunis, Tunisia",
+            "year": "2017",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Not specified in the text",
+            "position": "Not specified in the text",
+            "description": "Not specified in the text",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus + Scholarship",
+            "country": "Spain",
+            "institution_or_company": "Polytechnic University of Madrid (UPM) Higher Technical School of Aeronautical and Space Engineering (ETSIAE)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Not specified in the text",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C",
+            "C++",
+            "Java",
+            "Python",
+            "Matlab",
+            "Arduino",
+            "Proteus",
+            "CATIA V5",
+            "SolidWorks",
+            "Ansys",
+            "Abaqus"
+        ],
+        "soft_skills": [
+            "Adaptability",
+            "Perseverance",
+            "Organizational"
+        ]
+    },
+    "other_interests_normalized": [
+        "Digital Marketing & Sales",
+        "Sports",
+        "Plastic Arts"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Enactus ESAT Club",
+            "role": "Participation in the Tcheezen Project",
+            "duration": "2017-2019",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

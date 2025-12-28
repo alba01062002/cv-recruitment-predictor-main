@@ -1,0 +1,94 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Joaquín Martínez Castelló",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "ximomartinez97@gmail.com",
+        "phone": "622 020 330",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "Universidad Miguel Hernández",
+            "location": "Elche",
+            "year": "2019-2022",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "UMH Racing Team (Motostudent)",
+            "position": "Team Management and Design",
+            "description": "Tareas de gestión de un equipo de 9 personas para el proyecto motostudent, diseño de chasis tubular y realización de planos para la motocicleta.",
+            "start_date": "2019-06",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "ALTEC Soluciones Técnicas, S.L.",
+            "position": "Technical Design and Automation Engineering Collaboration",
+            "description": "Colaboración con los ingenieros de la plantilla para el diseño de maquinaria de automatización industrial.",
+            "start_date": "",
+            "end_date": "2019-06",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Spain",
+            "institution_or_company": "Universidad Internacional Menéndez Pelayo",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Autodesk Inventor",
+            "SolidWorks",
+            "Ansys",
+            "Siemens NX"
+        ],
+        "soft_skills": [
+            "Responsibility",
+            "Teamwork",
+            "Fast Learning",
+            "Adaptability"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2017",
+            "description": ""
+        }
+    ],
+    "degree_years": 3.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.9
+}

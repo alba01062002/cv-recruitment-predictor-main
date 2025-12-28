@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales experiencia educación cursos de formación idiomas informática alberto martín carrillo e fecha de nacimiento: 3 - abril - 1984 (toledo) e dirección: ronda buenavista 4 bloque c 3izquierda e población: toledo, toledo e cp: 45005 e teléfono: 925353685 / 625629524 e correo electrónico: albertmc84@gmail.com e universidad carlos iii de madrid - 11/2008 actualidad becario de colaboración departamento de tecnología electrónica de la universidad carlos hi de madrid. estudio y diseo de sistema optoacústicos para detección de cáncer de mama. implementación de un simulador de seales optoacústicas. e universidad carlos iii de madrid - 2002-actualidad ingenieria superior de telecomunicaciones. especialidad planificación y gestión de las telecomunicaciones (a falta de finalizar el proyecto fin de carrera, presentación del mismo prevista para enero 2009) 07/2006. curso de verano sobre delitos informáticos (universidad carlos iii de madrid) 07/2006. curso de verano sobre m-learning (universidad carlos iii de madrid) 07/2006. curso de verano sobre sonido en el cine (universidad carlos iii de madri ingles: nivel medio-alto, hablado y escrito. o 07/2007. estancia de un mes en la escuela de inglés global village en toronto, canadá. nivel upper-intermediate. o 08/2008. estancia de un mes en la escuela de inglés global village en vancouver, canadá. nivel pre-advance. espaol. lengua materna e francés. nivel básico e portugués. nivel básico e conocimientos de sistemas operativos: windows (nivel administrador) y linux (nivel usuario) e lenguajes de programación: java, c, perl, vhdl, ensamblador. e paquetes de software usados habitualmente: matlab, microwave office, microsoft office, otros datos de interés carnet de conducir: b1 vehículo propio: si. disponibilidad para viajar: sí disponibilidad cambio de residencia: sí disponibilidad para trabajar en el extranjero: sí",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI09"
+}

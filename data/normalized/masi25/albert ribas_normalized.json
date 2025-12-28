@@ -1,0 +1,91 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Albert Ribas Cardete",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "a albertribas916@gmail.com",
+        "phone": "+34654241229",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Aerospace Engineering",
+            "field": "Aerospace Systems Engineering",
+            "university": "UPC-EETAC, Universitat Politècnica de Catalunya",
+            "location": "Castelldefels, Spain",
+            "year": "2021-2025",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Applus+ Idiada",
+            "position": "ADAS Engineering Intern",
+            "description": "Designed software tool to evaluate test telemetry; conducted detailed test analysis; created innovative solutions for testing procedures.",
+            "start_date": "2024-10",
+            "end_date": "2025-07",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "MIT Engineering Design Workshop",
+            "start_date": "2022-09",
+            "end_date": "2024-09",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalan",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Ansys Analysis",
+            "3D CAD Design",
+            "Data Analysis",
+            "Design Development",
+            "Engineering Software Project Report Generation"
+        ],
+        "soft_skills": [
+            "Technical Analysis",
+            "Project Development",
+            "Teamwork in High-Tech Environments"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

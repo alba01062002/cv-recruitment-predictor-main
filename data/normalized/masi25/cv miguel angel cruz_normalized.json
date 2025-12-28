@@ -1,0 +1,134 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Ángel Cruz Torres",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "immiguelcruz@gmail.com",
+        "phone": "+34 689 81 87 85",
+        "address": "Paseo de Juan XXIII 23, 52 14, 28040 Madrid, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado Bilingüe en Ingeniería Eléctrica",
+            "field": "Ingeniería Eléctrica",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, España",
+            "year": "2023-2025",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Estudiante de Intercambio",
+            "field": "",
+            "university": "University of New Mexico (UNM) Anderson School of Management",
+            "location": "Albuquerque, NM, USA",
+            "year": "2023-2024",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Nadara - Prácticas Extraprogramáticas",
+            "position": "Ingeniero de Análisis de Rendimiento en Prácticas",
+            "description": "Análisis de datos y rendimiento operativo de parques eólicos y plantas fotovoltaicas, uso de SCADA para cálculo de KPIs, estudios de pérdidas, identificación de mejoras, análisis de producción con Excel y PowerBI.",
+            "start_date": "10/2024",
+            "end_date": "06/2025",
+            "duration_years": 0.67
+        },
+        {
+            "company": "Redes 3D - Prácticas Curriculares",
+            "position": "Ingeniero Eléctrico en Prácticas",
+            "description": "Desarrollo y ejecución de proyectos integrales de infraestructura civil y eléctrica, planificación, modelado, validación y supervisión de proyectos.",
+            "start_date": "06/2024",
+            "end_date": "07/2024",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Madridista Real",
+            "position": "Escritor Colaborador",
+            "description": "Artículos de opinión en la revista deportiva especializada online y edición en papel trimestral.",
+            "start_date": "04/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.67
+        },
+        {
+            "company": "UNM Recreational Services",
+            "position": "Encargado de Gimnasio / Servicio de Atención al Cliente",
+            "description": "Capacitación en primeros auxilios y respuesta ante emergencias, seguridad y bienestar de los miembros del gimnasio.",
+            "start_date": "10/2023",
+            "end_date": "05/2024",
+            "duration_years": 0.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Intercambio Universitario",
+            "country": "Irlanda",
+            "institution_or_company": "Moyle Park English Language College",
+            "start_date": "",
+            "end_date": "",
+            "description": "Cursos intensivos de inglés CEFR C1 de un mes de duración, viviendo con una familia nativa.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "Matlab",
+            "AutoCAD",
+            "Dialux",
+            "Siemens Solid Edge",
+            "PSS/E",
+            "PowerBI"
+        ],
+        "soft_skills": [
+            "Escritura Creativa",
+            "Redacción y Edición de Textos",
+            "Gestión y Comprensión de Redes Sociales",
+            "Resolución de Problemas",
+            "Ingeniería de Prompt",
+            "Análisis de Datos"
+        ]
+    },
+    "other_interests_normalized": [
+        "Artes Marciales",
+        "Percusión",
+        "Cine",
+        "Boxeo",
+        "Historia y Cultura General",
+        "Música"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 2.0,
+    "total_work_years": 5.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

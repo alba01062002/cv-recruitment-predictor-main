@@ -1,0 +1,145 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carlos López Cortegano",
+        "date_of_birth": "10/08/1989",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 24,
+        "email": "clopezco@hotmail.com",
+        "phone": "663-366839",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Aeronáutico",
+            "field": "Aeronautical Engineering",
+            "university": "UPM (Universidad Politécnica de Madrid)",
+            "location": "Madrid, Spain",
+            "year": "2012",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Beca de colaboración en Gamesa Corporación Tecnológica (Octubre 2011 - Septiembre 2012) dependiendo directamente del director de desarrollo de producto. Tema: análisis del sector eólico.",
+            "start_date": "10/2011",
+            "end_date": "09/2012",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Gamesa Corporación Tecnológica",
+            "position": "",
+            "description": "Proyecto de fin de carrera en Gamesa Corporación Tecnológica (Enero 2012 - Septiembre 2012). Tema: escalado de aerogeneradores.",
+            "start_date": "01/2012",
+            "end_date": "09/2012",
+            "duration_years": 0.67
+        },
+        {
+            "company": "",
+            "position": "",
+            "description": "Beca de colaboración otorgada en cuarto curso (10/11) para realizar tutorías colectivas de apoyo a los alumnos de primer curso en las asignaturas de matemáticas(1) y matemáticas(2).",
+            "start_date": "10/2011",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "",
+            "position": "",
+            "description": "Beca de colaboración otorgada en tercer curso (09/10) para realizar tutorías colectivas de apoyo a los alumnos de primer curso en las asignaturas de matemáticas generales y cálculo infinitesimal.",
+            "start_date": "09/2010",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "",
+            "position": "",
+            "description": "Beca de excelencia otorgada en tercer curso (09/10). Trabajo de colaboración e investigación (acústica en vidrios laminados).",
+            "start_date": "09/2010",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "",
+            "position": "",
+            "description": "Beca de excelencia otorgada en segundo curso (08/09). Trabajo de colaboración e investigación (resolución numérica de una integral).",
+            "start_date": "08/2009",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Francia",
+            "institution_or_company": "Lycée International des Pontonniers de Estrasburgo",
+            "start_date": "2005-2007",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Francia",
+            "institution_or_company": "Liceo Español Luis Buñuel de París",
+            "start_date": "2005",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Solid Edge ST3",
+            "Fortran90",
+            "Nerea (similar a Flex)",
+            "HAWCStab",
+            "Maple",
+            "MathLab",
+            "Windows",
+            "Paquete Office",
+            "Internet"
+        ],
+        "soft_skills": [
+            "Capacidad de trabajo individual y en equipo",
+            "Gran capacidad de aprendizaje",
+            "Versatilidad",
+            "Responsabilidad",
+            "Disponibilidad para cambiar de residencia"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2010-2012",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.9
+}

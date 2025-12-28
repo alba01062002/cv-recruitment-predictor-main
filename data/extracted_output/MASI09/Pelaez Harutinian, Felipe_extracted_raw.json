@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "felipe peláez harutinian fecha de nacimiento: 5 de febrero de 1980 dirección: rey aurelio 2, 4g, cangas de onís, asturias, 33550, espana teléfono: (0034) 985848712 móvil: (0034) 679520535 correo electrónico: pelaezfelipe80@gmail.com formación académica 2000 - 2008 universidad de oviedo (asturias, espaa) ingeniero de telecomunicación 2007 - 2008 kauno technolologijos universitetas (kaunas, lituania) proyecto final de carrera (beca erasmus) cursos y seminarios 2008 análisis de redes y análisis de espectro. (agilent technologies) 2008 microbótica: desarrollo de micro-robots móviles. (univ. oviedo) 2006 instalación de sistemas de captación de seales. (univ. oviedo) 2005 aspectos básicos en instalaciones de baja tensión. (univ. oviedo) experiencia laboral 2000 - presente trabajo en temporada estival, vacaciones y fines de semana en empresa familiar desempeando funciones de gerencia, producción y atención al cliente. idiomas espaol: lengua materna. inglés: nivel alto (leído, hablado y escrito). habilidades informáticas lenguajes: c++, windows api, java, delphi, microcontroladores. programas de ingeniería: matlab, ads, orcad, comsol. aptitudes personales comunicativo, extrovertido, flexible, capacidad de aprendizaje y resolución de problemas, disponibilidad total para viajar. intereses académicos electrónica, radiopropagación, antenas, microondas. intereses y aficiones arte (literatura, pintura, música), viajar, aviación.",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI09"
+}

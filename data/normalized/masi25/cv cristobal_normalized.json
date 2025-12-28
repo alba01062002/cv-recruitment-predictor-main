@@ -1,0 +1,101 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Manuel Cristobal Garcia Garcia",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "mcgg100302@gmail.com",
+        "phone": "+34 658 798 459",
+        "address": "",
+        "LinkedIn": "@linkedinamilinkedin",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeroespacial",
+            "field": "Ingeniería Aeroespacial",
+            "university": "Escuela Técnica Superior de Ingeniería, Universidad de Sevilla",
+            "location": "Sevilla",
+            "year": "2020-2024",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Moreys Piers",
+            "position": "Lider de Equipo Operador de Atracciones",
+            "description": "Lideré un equipo de operadores de atracciones en un parque de atracciones en New Jersey, Estados Unidos. Adquirí diversas cualidades como: trabajo bajo alta presión, organización y coordinación de personal, comunicación face-to-face con el cliente e resolución eficaz de problemas.",
+            "start_date": "Julio-2024",
+            "end_date": "Octubre-2024",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Intercambio cultural / Beca Erasmus",
+            "country": "['Reino Unido', 'Francia', 'Polonia']",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Tres intercambios culturales y una beca Erasmus de seis meses en la Universidad de Roma Sapienza. Participé en el intercambio a Manchester, Reino Unido; posteriormente a Nantes, Francia; finalmente a Cracovia, Polonia.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "Italian",
+            "B1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SAP",
+            "CATIA V5",
+            "Matlab"
+        ],
+        "soft_skills": [
+            "Trabajo bajo alta presión",
+            "Organización y coordinación de personal",
+            "Comunicación face-to-face con el cliente",
+            "Resolución eficaz de problemas"
+        ]
+    },
+    "other_interests_normalized": [
+        "Voluntariado",
+        "Idiomas",
+        "Tecnología"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2020-2024",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

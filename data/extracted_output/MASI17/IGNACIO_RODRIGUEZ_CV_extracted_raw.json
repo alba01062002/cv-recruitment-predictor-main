@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "ignacio rodríguez méndez : rodriguez.mendez.ignacio@gmail.com calle marea n2, nationality: spanish @: +34 628 769 974 11500 cadiz, spain age: 25 years old a2 : b license industrial engineer production engineer airbus d&s fal a400m de education and training 2014-2015 aix-marseille university, marseille, france master in aeronautics and space 2013-2015 ecole centrale marseille, marseille, france ingenieur centralien (scholarship for double degree program) specialized in fluid mechanics. aerodynamics, numerical methods in engineering, turbulence modeling, fluid-structure interactions 2009-2015 etsi-escuela técnica superior de ingenieros de sevilla, seville, spain industrial engineer. equivalent to meng (2:1 grade). specialized in energy engineering. internal combustion engines, thermal energy generation, thermal systems optimization, turbo machinery design experience feb 2016 - airbus defence : space, seville, spain currently internship as part of production team in final assembly line a400m e participate in the development of the production planning e collaborate in the entire necessary procedures established in order to get the proper aircraft configuration e ensure the department objectives in terms of deliveries e promote the continuous improvement of procedures in the area and reduction of hncs e follow the osw of partners (auk, nantes, ifa) april-october airbus helicopters, internal aerodynamics department, marignane, france 2015 internship 6 months: development of a model of the helicopter main rotor by the means of an unsteady actuator disk e 3d geometry preparation, high quality mesh generation e cfd simulation using fluent in hpc cluster environment e coding udf in c++ with parallel considerations e advanced post processing june-august veolia propreté, marseille, france 2014 internship 3 months. business case: study of the replacement of the smoke's warming systems of the nimes incineration plant e thermodynamic 1d analysis of the plant e investment analysis and profitability of the operation languages and it knowledge english negotiation level cfd software space claim (geometry cleaning), icem, fluent meshing, fluent (solver), tecplot (post) french fluent programming and os c++, python, matlab linux, windows, office, sap spanish native mechanical design catia, solid edge, matlab, ees, simulink personal interests and other experiences 2010-2012 work on the organization of the new technologies forum of the hernando colon, seville, spain 2008-2009 participant in physics olympiads representing cadiz, spain sports water polo, climbing and kitesurf about me good team player, multicultural skills, positive attitude and good performance in high pressure environments, proactive and able to work autonomously if necessary, target oriented",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI17"
+}

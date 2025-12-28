@@ -1,0 +1,122 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Eduardo Baez",
+        "date_of_birth": "22/07/1981",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 37,
+        "email": "ebaez3@gmail.com",
+        "phone": "1-829-646-6848",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Industrial Engineer",
+            "field": "Not specified",
+            "university": "Instituto Universitario Santiago Mario",
+            "location": "Venezuela",
+            "year": "2005",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Diploma in Business and Finances Management",
+            "field": "Not specified",
+            "university": "Metropolitana University",
+            "location": "Venezuela",
+            "year": "2007",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master in Transport and Logistic Management",
+            "field": "Logistics",
+            "university": "Oviedo University",
+            "location": "Spain",
+            "year": "2012-2015",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Certified Supply Chain Professional (CSCP)",
+            "field": "Supply Chain Management",
+            "university": "APICS, The Premier Association for Supply Chain Management",
+            "location": "Dominican Republic",
+            "year": "2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master Planning of Resources APICS (MPR)",
+            "field": "Supply Chain Management",
+            "university": "APICS, The Premier Association for Supply Chain Management",
+            "location": "Dominican Republic",
+            "year": "2012",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Medtronic",
+            "position": "Sr Warehouse Supervisor (3PL Warehouse)",
+            "description": "",
+            "start_date": "current",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Covidien",
+            "position": "Warehouse Supervisor",
+            "description": "",
+            "start_date": "01/2010 - 06/2014",
+            "end_date": "06/2014",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Arcelor Mittal",
+            "start_date": "01/2009 - 06/2009",
+            "end_date": "06/2009",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "MATLAB"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Problem Solving"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Not specified",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

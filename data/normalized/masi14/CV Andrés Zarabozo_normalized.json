@@ -1,0 +1,131 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Andrés Zarabozo Martínez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": null,
+        "email": "andres.zarabozo@gmail.com",
+        "phone": "+34 649 198 001",
+        "address": "villa 6, 6c, barcelona 08017",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical engineering",
+            "field": "Aircraft design",
+            "university": "ETSEIA T, UPC (Polytechnic University of Catalonia)",
+            "location": "Barcelona",
+            "year": "2007 - 2013",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Newtown School, Waterford, Ireland",
+            "location": "Waterford",
+            "year": "2004 - 2007",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "École primaire et collège de Bourg-Madame, France",
+            "location": "France",
+            "year": "1995 - 2004",
+            "duration_years": 9.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "LEAM UPC (Acoustical and Mechanical Engineering Laboratory)",
+            "position": "Intern in the department of mechanics",
+            "description": "Working in dynamic analyses for the construction of new underground lines in Sabadell and Badalona. Dynamic analyses performed using FEM.",
+            "start_date": "2013",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Academia Ases, near ETSEIA T",
+            "position": "Teacher of Calculus 1 for students of aeronautical engineering",
+            "description": "N/A",
+            "start_date": "2010",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "Catalan",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fortran",
+            "C++ (with POSIX)",
+            "Visual Basic.NET",
+            "MATLAB (with Simulink)",
+            "GID (pre and post processor)",
+            "MD Nastran",
+            "MD Patran",
+            "Solid Edge (CAD)",
+            "Photoshop"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Playing music (piano and flute)",
+        "Travelling",
+        "Flight simulator",
+        "Reading"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

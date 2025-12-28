@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "es europass sergio ramos guerrero permiso de trabajo: espaola nacionalidad: espaola fecha de nacimiento: 20/03/2001 lugar de nacimiento: algeciras, espaa género: masculino , número de teléfono: (+34) 674706928 4 dirección de correo electrónico: sergioramosguerrero20@gmail.com q domicilio: guadalbullón 11, 5d, 41013 seville (espaa) experiencia laboral el atexis - sevilla, espaa población: sevilla pais: espaa training content developer [ 13/01/2025 - actual ] * desarrollo de contenido formativo técnico para las aeronaves a400m y a330 mrtt. + uso de estándares de documentación aeronáutica y herramientas especializadas de autoría. * participación en revisiones de calidad y procesos de validación de manuales. el elefante azul - espaa país: espaa técnico de lavadero de coches (jornada completa) [01/12/2024 - 15/01/2025] atención al cliente y mantenimiento básico de máquinas de lavadero de coches carrefour - algeciras, espaa población: algeciras país: espaa reponedor de carrefour (jornada parcial) [01/07/2023 - 12/09/2023] reposición de productos y control de inventario decathlon - los barrios, espaa población: los barrios país: espaa responsable de sección de running (jornada completa) [ 15/07/2022 - 20/09/2022 ] atención al cliente, gestión de stock y asesoramiento técnico en productos deportivos educación y formación ingeniero aeroespacial universidad de cádiz [ 23/09/2019 - 18/12/2024 ] población: cádiz país: espaa sitio web: https://www.uca.es/ nivel en el mec: nivel 6 eqf-mec bachillerato en rama de tecnología ies kursaal [ 11/09/2017 - 08/06/2019] población: algeciras país: espaa nivel en el mec: nivel 4 eqf-mec educación secundaria obligatoria (eso) [ 08/09/2013 - 09/06/2017 ] población: algeciras país: espaa nivel en el mec: nivel 3 eqf-mec competencias de idiomas lengua(s) materna(s): espaol otro(s) idioma(s): inglés b2 cambridge comprensión auditiva c1 comprensión lectora c1 expresión escrita b2 producción oral b2 interacción oral b2 niveles: a1 y a2 (usuario básico), b1 y b2 (usuario independiente), c1 y c2 (usuario competente) capacidades arduino / matlab / simulink / c++ / python (programación informática) / visual basic / fusion 360 / proceso de impresión en 3d / ansys fluent / microsoft excel / solidworks / cad modelling with catia v5 / software creador / latex proyectos [ 15/02/2024 - 18/11/2024] prototipo de plataforma estabilizadora para la ayuda al aterrizaje de helicópteros en alta mar este proyecto presenta el diseo y la construcción de un prototipo a escala de una plataforma de estabilización para asistir en el aterrizaje de helicópteros en barcos en entornos marítimos. el objetivo principal es minimizar los efectos adversos del movimiento del barco (balanceo y cabeceo) causados por la acción del oleaje durante las operaciones de aterrizaje. el helicóptero seleccionado para el estudio es el sikorsky mh-60r seahawk, y la plataforma fue diseada teniendo en cuenta el comportamiento dinámico de una fragata de la marina de los estados unidos, debido a su mayor inestabilidad en comparación con embarcaciones de mayor tamao. la solución mecánica elegida se basa en el concepto octo-bouncer, una plataforma stewart simplificada con 3 grados de libertad, que utiliza cuatro motores paso a paso y un sensor inercial (mpu6050) para estabilizar activamente la plataforma. el desarrollo incluyó: + análisis estructural mediante el software skyciv * evaluación de diferentes materiales (acero, aluminio, fibra de carbono) y secciones de vigas * programación en arduino con control pid en tiempo real * fabricación mediante impresión 3d utilizando plástico abs y * simulación de condiciones realistas en matlab simulink. el prototipo mostró ciertas limitaciones en cuanto a su viabilidad a escala real, pero demostró potencial para mejorar la seguridad durante las operaciones de aterrizaje marítimo. el proyecto concluye con propuestas de optimización y recomendaciones para futuros desarrollos a escala completa. premios y distinciones [ 05/03/2022 ] unión europea erasmus k-31 beca de erasmus otorgada para estudiar un ao en varsovia diferentes asignaturas del grado de ingeniería aeroespacial. [ 03/02/2017 ] banco unicaja beca de 3 semanas a chicago, illinois, usa beca de unicaja de inmersión linguística en libertyville, una ciudad pequea cercana a chicago, en el estado de illinois, donde se convivió de primera mano durante las 3 semanas con una familia estadounidense, se visitó el instituto como un alumno más y se realizaron diferentes actividades de turismo y vida social estadounidense. [ 04/02/2018 ] ies kursaal intercambio de una semana a rennes, francia una semana de intercambio en rennes, francia, donde se convivió con una familia francesa para una inmersión lingúística y afianzamiento del idioma francés. [ 10/03/2015 ] ef 3 semanas de estudio de inglés en oxford curso de inglés de 3 semanas en oxford conviviendo con una familia inglesa y participando en clases de inglés, además de realizar diferentes actividades y aprendizaje cultural. permiso de conducción permiso de conducción: a2 permiso de conducción: b",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI25"
+}

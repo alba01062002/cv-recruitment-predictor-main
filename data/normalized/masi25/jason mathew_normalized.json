@@ -1,0 +1,114 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jason Mathew",
+        "date_of_birth": "20/10/2000",
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": 25,
+        "email": "jasonmathew350@gmail.com",
+        "phone": "(+91) 9962514068",
+        "address": "Nelson Chamber, A 27, 4th floor, 115 Nelson Manickam Road, 600029, Chennai, India (home)",
+        "LinkedIn": "www.linkedin.com/in/jasonmathew350",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "https://hindustanuniv.ac.in"
+    },
+    "education_normalized": [
+        {
+            "degree": "BSc in Avionics",
+            "field": "Avionics and Engineering Trades",
+            "university": "Hindustan Institute of Technology and Science",
+            "location": "Chennai, India",
+            "year": "2018-2021",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "B2 Avionics",
+            "field": "",
+            "university": "Hindustan Institute of Engineering Technology",
+            "location": "Chennai, India",
+            "year": "2018-2022",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Senior Secondary School (Plus Two)",
+            "field": "",
+            "university": "St Vincent's School",
+            "location": "Chennai, India",
+            "year": "2006-2016",
+            "duration_years": 10.0
+        },
+        {
+            "degree": "Central Board of Secondary Education (Class Ten)",
+            "field": "Physics, Chemistry & Mathematics",
+            "university": "Asan Memorial School",
+            "location": "Chennai, India",
+            "year": "2006-2016",
+            "duration_years": 10.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "GMR Airports Limited (Hyderabad)",
+            "position": "Junior Aircraft Technician",
+            "description": "Performing base maintenance which deals with heavy maintenance of the aircraft, where every panel of the aircraft is opened and the contents within the panel inspected, every test would be performed to check the overall health of the aircraft, every wiring route would be checked for any damage or discrepancy and a thorough inspection is carried out.",
+            "start_date": "06/19/2024",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "AME Production Tata Advanced Systems",
+            "position": "Performing Major Component Assemblage of Airbus C295 Aircraft Structure",
+            "description": "",
+            "start_date": "02/07/2023",
+            "end_date": "01/19/2024",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Malayalam",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "MATLAB"
+        ],
+        "soft_skills": [
+            "FOD certified"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 21,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

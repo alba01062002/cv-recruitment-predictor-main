@@ -1,0 +1,125 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alexandre Moritz",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "alexmoritz@outlook.com",
+        "phone": "+44 7732 413693",
+        "address": "Flat 5, 172 Market Street, Aberdeen, AB11 5PP, United Kingdom",
+        "LinkedIn": "https://uk.linkedin.com/in/alexmoritz",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Embry-Riddle Aeronautical University",
+            "location": "Prescott, AZ, USA",
+            "year": "2014 - 2015",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Certificate in Disruptive Strategy with Clay Christensen",
+            "field": "Disruptive Strategy",
+            "university": "Harvard Business School (HBX)",
+            "location": "Cambridge, MA, USA",
+            "year": "2016 - present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Expro Group",
+            "position": "Subsea Engineering Work Placement - Full Time",
+            "description": "Work closely with company leadership in self-propelled training programme. Collaborate with projects, project support, analyses and products teams. Research subsea safety systems developed by Expro.",
+            "start_date": "09/2016",
+            "end_date": "12/2025",
+            "duration_years": 9.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study Abroad",
+            "country": "Spain",
+            "institution_or_company": "Saint Louis University - Madrid",
+            "start_date": "2011 - 2012",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study Abroad",
+            "country": "Portugal",
+            "institution_or_company": "Catholic University of Portugal - Lisbon",
+            "start_date": "2010 - 2011",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Portuguese",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Ansys Mechanical FEA Software",
+            "MATLAB and Simulink Programming",
+            "Python Programming",
+            "Dassault Catia V5",
+            "SolidWorks",
+            "PTC Creo",
+            "AutoCAD"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Management",
+            "Innovation",
+            "Systems Engineering",
+            "Structural Mechanics",
+            "Materials Science",
+            "Sustainable Design",
+            "Additive Manufacturing",
+            "Organic Structures"
+        ]
+    },
+    "other_interests_normalized": [
+        "Swimming",
+        "International Cultures & Languages",
+        "Hiking",
+        "Traveling"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 1.0,
+    "total_work_years": 9.25,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

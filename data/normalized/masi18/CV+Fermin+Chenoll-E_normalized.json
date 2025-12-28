@@ -1,0 +1,127 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Fermin Chenoll Barberá",
+        "date_of_birth": "10/06/1987",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 31,
+        "email": "theferminso@outlook.com",
+        "phone": "+491737196717",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/pub/fermin-chenoll/66/428/719",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in composite materials",
+            "field": "Composite materials",
+            "university": "Norges teknisk-naturvitenskapelige universitet (Norwegian University of Science and Technology)",
+            "location": "Trondheim, Norway",
+            "year": "2011",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Industrial engineer (di)",
+            "field": "Mechanics",
+            "university": "Universidad Politécnica de Valencia, Spain",
+            "location": "Valencia, Spain",
+            "year": "2010",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "High school education",
+            "field": "Technology and sciences",
+            "university": "Padres Agustinos, Valencia, Spain",
+            "location": "Valencia, Spain",
+            "year": "2005",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Alten GmbH for Audi AG",
+            "position": "Project Engineer by Alten GmbH for Audi AG dept. I/E-G-81",
+            "description": "Realization of full-car FEM for electromagnetic compatibility simulations, realization of high-end CAD engine shells by using 3D-Evolution and ANSA for crash simulations within Audi I/EK-14, as well as heat-transfer simulations within I/EG-33. Support for tasks related with data acquisition-convertion and distribution for different simulation purposes like crash /EK-14, CFD/heat-transfer N/EG-33, CFD/aerodynamics I/EK-441.",
+            "start_date": "01/2012",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus program",
+            "country": "Norway (Trondheim)",
+            "institution_or_company": "Norges teknisk-naturvitenskapelige universitet (NTNU)",
+            "start_date": "2011-09",
+            "end_date": "2011-08",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "German",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Thai",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CAD software",
+            "CAE software",
+            "Audi Struktur. Soft.",
+            "Mathematical software",
+            "Microsoft Office",
+            "Operative systems",
+            "SolidWorks",
+            "AutoCAD",
+            "CATIA V5",
+            "DMU",
+            "ProE",
+            "ABAQUS",
+            "Altair",
+            "Animator",
+            "ANSYS",
+            "Fluent",
+            "PAM-CRASH",
+            "Meta Post",
+            "3D Evolution Connect",
+            "KVS",
+            "LCS",
+            "ECAD",
+            "ProDESIGN Modeler"
+        ],
+        "soft_skills": [
+            "Data bank systems: Connect, Teamcenter 10, KVS and PresDM as well as about the integration and organization of the car components in an overall structure"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

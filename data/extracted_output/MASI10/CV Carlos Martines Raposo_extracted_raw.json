@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "curriculum vitae información personal apellido(s) / nombre(s) dirección (direcciones) teléfono(s) correo(s) electrónico(s) nacionalidad fecha de nacimiento sexo empleo deseado / familia profesional educación y formación fechas cualificación obtenida principales materias o capacidades nombre y tipo del centro de estudios fechas cualificación obtenida principales materias o capacidades profesionales estudiadas nombre y tipo del centro de estudios fechas cualificación obtenida martínez-raposo villar carlos c/lrene fernández perera 23 esc.14 83210 gijón, asturias, espaa 985 385 778 c.mtnez.raposo@gmail.com movil 679838297 espaola 21 de enero 1984 masculino ingeniero superior de telecomunicación septiembre 2008 - julio 2009 proyecto final de carrera el proyecto consistió en el diseo de una antena en tecnología ltcc (low temperature co-fired ceramics) para operar a 10 ghz con el mayor ancho de banda posible. la antena estaba compuesta por una guía de onda triangular de 9 milimetros de lado con dieléctrico de alta permitividad en el interior y un parche triangular alimentado por un conector coaxial. una vez diseada la antena individual, el proyecto final consistió en el diseo de un array de seis aperturas triangulares incrementando la ganancia de la antena. universidad tecnológica de delft (tu delft holanda) octubre 2002 - julio 2009 ingeniero superior de telecomunicación fundamentos matemáticos, fundamentos físicos, electromagnetismo, arquitectura de computadores, arquitectura de redes, electrónica analógica y digital, teoría de la seal, fundamentos de microondas, antenas, sistemas de transmisión por onda radioeléctrica y comunicaciones ópticas. universidad publica de navarra octubre 2005 - julio 2007 título transversal en seguridad y prevención de riesgos laborales página 1 / 2 - de martínez-raposo villar carlos principales materias o capacidades profesionales estudiadas nombre y tipo del centro de estudios capacidades y competencias personales idioma materno otros idiomas autoevaluación nivel europeo (*) inglés francés capacidades y competencias sociales capacidades y competencias organizativas capacidades y competencias técnicas capacidades y competencias informáticas permiso(s) de conducción -introducción a la seguridad y la salud -técnicas de prevención -organización y gestión de la prevención universidad publica de navarra espaol comprensión habla escritura comprensión lectura interacción oral capacidad oral auditiva ct usuario c2 usuario ct usuario ct usuario ct usuario competente competente competente competente competente aq usuario a2 usuario a usuario a usuario a usuario básico básico básico básico básico (*) nivel del marco europeo común de referencia (mecr) -capacidad de trabajar en un equipo multidisciplinar -capacidad de liderazgo -capacidad de comunicación -iniciativa -resolución efectiva de problemas / imprevistos -buenas dotes organizativas, de planificación y comunicación -disponibilidad para viajar -capacidad de aprendizaje b página 2 / 2 - de martínez-raposo villar carlos -experto en varios sistemas operativos (windows 9x, xp, linux) -uso avanzado en suites ofimáticas (office, open office, latex) -conocimientos medios de programación (c, php, ensamblador) -entornos de simulación y tratamiento de datos (matlab, s-plus, cst, empire xcel, feko) -nivel usuario (autocad, html, dreamweaver) -disponibilidad para el cambio de residencia y la movilidad geográfica tanto dentro como fuera de espaa",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

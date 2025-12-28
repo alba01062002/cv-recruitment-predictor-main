@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "francisco roberto maya pérez-ventana nacido en sevilla el 19/01/1992 residencia: av/ príncipe de asturias n2 44, 12d 28670 / madrid contacto: 652 76 07 87 framaypero gmail.com 2013-2016 2008-2010 junio 2016- actualidad septiembre 2015-2016 diciembre 2011- enero 2012 marzo - mayo 2012 conocimientos de informática. grado en ingeniería industrial en electrónica y automática (actualmente 4 curso) universidad europea de madrid bachiller rama tecnológica academia preuniversitaria, sevilla management of big data diamondfans s.l. (www.playmuser.com) miembro del equipo de electrónica del formula vem - (equipo de la universidad europea en la competición formula student) media markt santa justa, sevilla cargo: promotor de la marca garmin. tienda movistar, av. republica argentina sevilla cargo: promotor de móviles de la marca sony programas: - catia v5 - mongodb - paquete office(word, powerpoint, excel) - ni multisim: - ni labview - software arduino - autocad 2013 - quartus - matlab & simulink - programación en c otra información e permisos de conducción: a y b. vehículo propio. nivel de inglés intermedio e aficionado a los uavs",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI17"
+}

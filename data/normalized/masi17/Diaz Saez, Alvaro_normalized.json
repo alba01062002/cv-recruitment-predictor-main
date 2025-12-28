@@ -1,0 +1,103 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alvaro Diaz Saez",
+        "date_of_birth": "05/06/1990",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 27,
+        "email": "diazsaezalvaro@gmail.com",
+        "phone": "+34 620 628 212",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aerospace Engineering",
+            "field": "Aeronautical Engineering",
+            "university": "Universidad Politécnica de Madrid, ETSIA Madrid, Spain",
+            "location": "Madrid",
+            "year": "2015",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "AKKA Technologies",
+            "position": "Full-time Junior Consultant at Airbus DS E DOA Surveillance Activities",
+            "description": "Suppliers: L&M, Airbus Derivatives and A400M programme. Meetings with suppliers and Airbus DS Design Office. Analysis of technical documents and deliverables provided by the suppliers in coordination with Airbus DS Design Office (PTS, qualification documents, concessions, vendor service bulletins, etc). Local delegated administrator for SAP PAC tool. Management of A400M Concessions and Design Query Notes. Airbust DS DOA Independent Monitoring.",
+            "start_date": "May 2016",
+            "end_date": "12/2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus DS",
+            "position": "DOA Internship",
+            "description": "Support to the head of DOA independent monitoring in the management of the DOA school. Improvement projects aimed at increasing the robustness of the design assurance system. Responsible for managing the DOA suppliers database and DOA independent monitoring website.",
+            "start_date": "October 2015",
+            "end_date": "May 2016",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Spain, Portugal, UK",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Living and studying in different cities such as Madrid (Spain), London (UK, 3 months), and Lisbon (Portugal, 1 year).",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Lisbon",
+            "institution_or_company": "Instituto Tecnico Superior, Lisbon, Portugal",
+            "start_date": "2014-2015",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Portuguese",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Solid Edge",
+            "Abaqus",
+            "LaTeX",
+            "SAP",
+            "SAP PAC Administrator"
+        ],
+        "soft_skills": [
+            "Commitment and team working",
+            "Capable to assume important responsibilities and get involved to achieve common objectives"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

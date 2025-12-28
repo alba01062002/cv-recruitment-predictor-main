@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "darío briongos varela industrial engineer phone: +32 662 437 106 date of birth: 20/10/1989 address: c/ alcalá 108, 82 dcha y madrid, spain, pc 28009 ya\" e-mail: dariobriongoso gmail.com objective: studying in canada, as well as in spain, has led me to discover my deep interest in challenging engineering undertakings. in addition, working at gmv this last year involved in two big projects has introduced me to the aeronautical field. this has proved to be a wonderful experience, and therefore would like to keep exploring and developing myself in this area. work experience: + junior engineer at gmv aerospace & defense (oct 2015 - today): gui implementation in the fits program, subcontracted in airbus getafe. internship at gmv aerospace & defense (nov 2014 - sep 2015): full-time job designing the crane system ecu (electronic control unit) inside the a400m plane: motor controlling strategy, sw design and implementation, testing rig design. + assistant teacher in laboratory classes in école polytechnique de montréal (jan 2013 - may 2013): part-time job assisting principal teacher in microcontrollers and applications and biomedical instrumentation courses. work oriented in helping students apply knowledge in different kind of realistic projects. + member of induforum 2012 (sept 2011 - may 2012): part-time job in the marketing group of induforum, a student association that organizes each year a job fair in the industrial engineering university of upm. work involved in fair promotion with web page, social networks, activities, meetings... education: + ecole polytechnique de montréal (exchange program, aug 2012 - jun 2013), canada: last year degree and final degree project, titled: implementation of stereo vision algorithms in low-cost microcontrollers. final mark: a (excellent). + escuela superior de ingenieros industriales (etsii), universidad politécnica de madrid (2007- 2012), spain: industrial engineering, branch in automation, electronics and robotics. average mark: 7.5/10. + lycée francais de madrid (1994 - 2007), spain. language skills: spanish english french mother-tongue fully bilingual: fully bilingual cambridge certificate: baccalauréat computer skills: proficiency (cpe). office, c, c++, python, vhdl, matlab/simulink, rational rose, linux, pspice other information: + athens scholarship (oct 2010), ensta paristech, france: one-week course on eolic propulsion. mit online course: introduction to computer science and programming using python. 135 hours course ended on october 2015.",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI16"
+}

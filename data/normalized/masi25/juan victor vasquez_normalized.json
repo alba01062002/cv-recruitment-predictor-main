@@ -1,0 +1,159 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Victor Vasquez Zea",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "juan.vasquez-zea@hotmail.com",
+        "phone": "+51 932984509",
+        "address": "O) av.san borja sur 137, 15036 Lima, Peru",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree",
+            "field": "Aerospace Engineering",
+            "university": "Wichita State University",
+            "location": "Wichita, KS, USA",
+            "year": "2019",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Bauhaus Luftfahrt AG",
+            "position": "Data Analyst",
+            "description": "Developed data scenarios for the development of commercial air transport with a focus on hydrogen-powered aircraft.",
+            "start_date": "07/2024",
+            "end_date": "09/2024",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Benecke-Kaliko AG",
+            "position": "Intern Product and Process Industrialization",
+            "description": "Continual improvement of production processes, development of testing processes to detect quality deviations.",
+            "start_date": "06/2023",
+            "end_date": "11/2023",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Move III / TUM Munich",
+            "position": "Internal Control System Engineer (Attitude Determination and Control Systems Team)",
+            "description": "Designed attitude determination and control systems for a nanosatellite.",
+            "start_date": "09/2021",
+            "end_date": "12/2021",
+            "duration_years": 0.25
+        },
+        {
+            "company": "TECSUP Institute, Lima, Peru",
+            "position": "Intern",
+            "description": "",
+            "start_date": "10/2019",
+            "end_date": "03/2020",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Leon Foundation / .e. 1247 Nuestra Senora del Carmen, Lima, Peru",
+            "position": "Intern",
+            "description": "",
+            "start_date": "08/2019",
+            "end_date": "12/2019",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Wichita State University, Wichita, KS, USA",
+            "position": "Ausbildung 2020 (Apprenticeship/Training)",
+            "description": "",
+            "start_date": "06/2015",
+            "end_date": "07/2015",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Peru, Germany",
+            "institution_or_company": "",
+            "start_date": "08/2016 - 05/2017",
+            "end_date": "",
+            "description": "Ausbildung 2020 (Apprenticeship/Training) at Universidad Nacional, Lima. Completed advanced Excel, VBA and macros de ingeniería.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Peru",
+            "institution_or_company": "",
+            "start_date": "2019",
+            "end_date": "2019",
+            "description": "Completed apprenticeship/training at DMC Peru, Python for analytics.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "USA",
+            "institution_or_company": "",
+            "start_date": "2018",
+            "end_date": "2018",
+            "description": "Completed apprenticeship/training at Wichita State University, CATIAcad.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "German",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "Matlab",
+            "VBA",
+            "Java",
+            "SQL database",
+            "CATIA",
+            "AutoCAD Inventor",
+            "Simulink",
+            "Arduino",
+            "Microsoft Office 2010",
+            "Cad-software",
+            "Ansys CFX"
+        ],
+        "soft_skills": [
+            "Data analysis",
+            "Process automation in industrial plants",
+            "Volunteer instructor in programming and robotics for middle school students (9-12 years)"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Middle school students (programming and robotics)",
+            "role": "Volunteer instructor",
+            "duration": "2017",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 1.67,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

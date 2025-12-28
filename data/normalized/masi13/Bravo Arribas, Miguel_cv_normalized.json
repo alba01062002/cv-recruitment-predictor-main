@@ -1,0 +1,127 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Bravo Arribas",
+        "date_of_birth": "24/12/1986",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 27,
+        "email": "miguel.bravoarribas@gmail.com",
+        "phone": "+34 676572213",
+        "address": "c/Gabriel y Galán 5, p3, 5a, Getafe, Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "CCNA (Cisco Certified Network Associate)",
+            "field": "Communication Systems Engineering",
+            "university": "PPEscuelas Escolapios School, Spain",
+            "location": "Spain",
+            "year": "2012",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Communication System Engineering",
+            "university": "Carlos III Madrid University, Spain",
+            "location": "Madrid",
+            "year": "2008-2012",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "Computers and Electronics Specialization Course",
+            "university": "PPEscuelas Escolapios School, Spain",
+            "location": "Spain",
+            "year": "2006-2008",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "The British Museum",
+            "position": "Members Staff (full-time)",
+            "description": "Attending customers at the Great Court Cafe",
+            "start_date": "09/2012",
+            "end_date": "11/2012",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Carlos III Madrid University, Spain",
+            "position": "Computers and Networking Manager (part-time)",
+            "description": "Management of the computers and the university network",
+            "start_date": "09/2011",
+            "end_date": "06/2012",
+            "duration_years": 0.75
+        },
+        {
+            "company": "ISESA Audiovisual, Madrid, Spain",
+            "position": "Electronics and Telecommunications Technician (full-time)",
+            "description": "Installation, configuration and repairing electronic and telecommunication devices in houses, companies and banks",
+            "start_date": "04/2008",
+            "end_date": "08/2008",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Work",
+            "country": "United Kingdom (UK)",
+            "institution_or_company": "The British Museum, London",
+            "start_date": "07/2012",
+            "end_date": "09/2012",
+            "description": "Attending customers in the Great Court Cafe. Full-time.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "United Kingdom (UK)",
+            "institution_or_company": "Delfin English School, London",
+            "start_date": "07/2012",
+            "end_date": "09/2012",
+            "description": "Studying English. Intensive course. 40h/week",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [],
+        "soft_skills": [
+            "outgoing",
+            "high capacity for effort and initiative",
+            "quick learner",
+            "friendly",
+            "responsible"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 2.0,
+    "total_work_years": 1.25,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.8
+}

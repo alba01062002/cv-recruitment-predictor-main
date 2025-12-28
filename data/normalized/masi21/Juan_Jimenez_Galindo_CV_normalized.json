@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Jiménez Galindo",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "jimenezgalindojuan@hotmail.com",
+        "phone": "680 527 094",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/juanjimenezgalindo/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "www.linkedin.gom/in/ juanjimenezgalindo"
+    },
+    "education_normalized": [
+        {
+            "degree": "",
+            "field": "",
+            "university": "",
+            "location": "",
+            "year": "",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "NewRest Madrid S.A.",
+            "position": "Encargado del mantenimiento y mejora de rendimiento",
+            "description": "Responsable del mantenimiento y mejora del rendimiento de los robots colaborativos instalados en las líneas semi-automatizadas de las plantas de Madrid y Barcelona. Diseño e instalación de componentes mecánicos para los robots colaborativos. Implementación de mejoras tipo Lean y EMS a la planta de Madrid. Apoyo al equipo internacional de ingenieros en la instalación de una nueva línea semi-automatizada en Gatwick, Londres.",
+            "start_date": "10/2019",
+            "end_date": "12/2019",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Goals A+N",
+            "position": "Técnico de logística de reacondicionamiento de espacios empresariales",
+            "description": "Responsable del realojamiento de amplios espacios de oficinas en diferentes inmuebles según el plan logístico previamente establecido, acorde con las fechas de finalización de obra.",
+            "start_date": "01/2017",
+            "end_date": "07/2017",
+            "duration_years": 0.5
+        },
+        {
+            "company": "GEQMYTSAS A.S.A.",
+            "position": "Ingeniero de diseño CAD",
+            "description": "Responsable del diseño y simulación de componentes estructurales mediante SolidWorks como parte de un proyecto marítimo de I+D. Colaboración con equipos internacionales, trabajo en contextos multidisciplinares.",
+            "start_date": "01/2021",
+            "end_date": "12/2025",
+            "duration_years": 4.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD",
+            "CATIA V5",
+            "SolidWorks",
+            "Simulación e Ansys",
+            "Ofimática (Paquete Office)",
+            "Cálculo estadístico BD EES",
+            "BD Maple",
+            "BD Math-Lab"
+        ],
+        "soft_skills": [
+            "Gestión de recursos",
+            "Habilidades comunicativas",
+            "Competencias profesionales resolutivo soluciones enfocadas a cada cliente",
+            "Gran capacidad de aprendizaje",
+            "Innovación en diseño",
+            "Creatividad en diseño",
+            "Capacidad de adaptación"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 5.59,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

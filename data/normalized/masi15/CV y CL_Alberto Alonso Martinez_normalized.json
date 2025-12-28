@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alberto Alonso Martínez",
+        "date_of_birth": "06/04/1988",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 27,
+        "email": "alberto.alonso88@gmail.com",
+        "phone": "+34 699 806510",
+        "address": "Calle Escosura, 19, 1g, 28015 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Professional Development",
+            "field": "Aeronautical Engineering",
+            "university": "Universidad de Alcalá",
+            "location": "Alcalá de Henares, Spain",
+            "year": "2014-present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Masters Degree in Aeronautical Engineering",
+            "field": "Specialization in Aircrafts",
+            "university": "Universidad Politécnica de Valencia, ETSID",
+            "location": "Valencia, Spain",
+            "year": "2011-2013",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's Degree in Aeronautical Engineering",
+            "field": "Specialization in Aircrafts",
+            "university": "Universidad Politécnica de Madrid, EUITA",
+            "location": "Madrid, Spain",
+            "year": "2007-2011",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Operations SL",
+            "position": "Static Stress Analyst",
+            "description": "Performed stress analysis activities in RFE for trades (W-saving opportunities) and new design proposals. Supported TRM & PDR preparation, and product strategy of the department.",
+            "start_date": "09/2014",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Poland",
+            "institution_or_company": "Politechnika Rzeszowska, Rzeszów",
+            "start_date": "09/2012",
+            "end_date": "08/2013",
+            "description": "Full academic year and final project degree.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "MATLAB",
+            "AutoCAD",
+            "SolidWorks",
+            "CATIA V5",
+            "ISAMI",
+            "Patran/Nastran",
+            "VBA",
+            "C"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Teamwork under pressure",
+            "Problem-solving"
+        ]
+    },
+    "other_interests_normalized": [
+        "Travel",
+        "Sports",
+        "Science",
+        "Technology"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Youth Worker",
+            "duration": "2014-present",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "cv - sergio sánchez romero teléfono: 655 801 645 e-mail: sergio17791@gmail.com nacimiento: toledo, 17/07/1991 residencia: madrid permiso de conducir b experiencia profesional 05/2018 - 10/2018 airbus, getafe. contract manager en research technology (r&t) business development - responsable de propuestas de financiación de proyectos de i+d mediante la determinación del alcance técnico, empresas colaboradoras, presupuesto, entregables y liderazgo de acciones con los distintos stakeholders. - monitorización de la ejecución del portfolio frente a contratos de financiación. - soporte a planning interno, reporte y mejora de métodos de trabajo. 03/2017 - 03/2018 airbus, getafe. beca en r&t business development - soporte a justificaciones para auditoría externa de contratos de financiación. - monitorización de costes de proyectos mediante el análisis de bases de datos. estudios realizados 09/2014 - 10/2016 universidad politécnica de madrid (upm). máster en ingeniería industrial 08/2015 - 06/2016 erasmus en aalborg universitet, dinamarca 09/2009 - 09/2014 upm. grado en ingeniería en tecnologías industriales conocimientos y habilidades idiomas inglés c1 = software ms excel = catia v5 = matlab 2 ansys fluent \"a ma ma c++ = sap = = 01/2017 -02/2017 curso de excel avanzado 10/2018-12/2018 curso de catia v5 proyectos y logros 10/2016 - 12/2016 tercer premio entre 217 participantes en las ideas se mueven, un concurso de ideas de negocio organizado por endesa y fue 09/2015 - 06/2016 trabajo fin de master en grupo sobre simulaciones cfd en procesos de combustion en aalborg universitet",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI19"
+}

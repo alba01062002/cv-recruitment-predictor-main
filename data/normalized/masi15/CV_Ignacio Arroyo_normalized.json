@@ -1,0 +1,107 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ignacio Arroyo Calvente",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": null,
+        "email": "i.arroyocalvente@gmail.com",
+        "phone": "+34678684705",
+        "address": "Villa de Marín, 45. Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Industrial Electronics and Automation Engineering",
+            "field": "Industrial Electronics and Automation Engineering",
+            "university": "Polytechnic University of Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2009-2015",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Master in Professional Development",
+            "field": "",
+            "university": "Universidad de Alcalá",
+            "location": "Madrid, Spain",
+            "year": "Present (started 2014)",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Operations SL",
+            "position": "Manufacturing Engineering",
+            "description": "Tooling design with CATIA V5. Preparing technical documentation for tooling due to a rate increase program. Supporting the industrial leader of the belly fairing package in the A-320 program.",
+            "start_date": "Jul 2014",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus programme",
+            "country": "Finland",
+            "institution_or_company": "Arcada, University of Applied Sciences",
+            "start_date": "Jan 2014",
+            "end_date": "Jun 2014",
+            "description": "Developed communication and teamwork skills working with students from various European universities.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "Simatic Step 7 Siemens",
+            "SolidWorks",
+            "VHDL",
+            "AutoCAD",
+            "SAP",
+            "Microsoft Project",
+            "LabVIEW",
+            "C++ programming language"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Perseverance",
+            "Communication",
+            "Leadership",
+            "Problem-solving"
+        ]
+    },
+    "other_interests_normalized": [
+        "Running or cycling",
+        "Football",
+        "Reading",
+        "Padel tennis and tennis",
+        "Traveling around the world",
+        "Cinema"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.4
+}

@@ -1,0 +1,110 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Samuel Expósito Ruiz",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "exposamuelo@gmail.com",
+        "phone": "+34657668650",
+        "address": "Calle A Plaza Azafrán n2 1b, 19200 Azuqueca de Henares, Guadalajara",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado superior en automatismos y robótica industrial",
+            "field": "Automatismos y robótica industrial",
+            "university": "Universidad de Alcalá de Henares",
+            "location": "Azcuqueca de Henares, Guadalajara",
+            "year": "2020-2022",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Verallia",
+            "position": "Funciones de mantenimiento electromecánico",
+            "description": "",
+            "start_date": "Marzo2022",
+            "end_date": "Actualmente",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Kids&US",
+            "position": "Profesor docente de inglés",
+            "description": "Tareas realizadas: atención al cliente, manejo de caja y cocina",
+            "start_date": "Marzo2022",
+            "end_date": "Junio2022",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Burger King",
+            "position": "Profesor docente de inglés (voluntario)",
+            "description": "Tareas realizadas: atención al cliente, manejo de caja y cocina",
+            "start_date": "Agosto2020",
+            "end_date": "Marzo2022",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Reino Unido",
+            "institution_or_company": "",
+            "start_date": "2018-2020",
+            "end_date": "",
+            "description": "Período de convocatoria, capacidad. Ayudé a facilitar reuniones y elaboré informes de progreso para grupos de 20 a 24 representantes voluntarios de una organización no gubernamental. Se me dieron responsabilidades adicionales para ayudar a capacitar y orientar a otros representantes.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Arduino",
+            "CAD (AutoCAD)",
+            "Programación (C++, Processing, Python, MATLAB, STEP7, RobotStudio, FluidSim)",
+            "Office Tools (Excel, Project)"
+        ],
+        "soft_skills": [
+            "Liderazgo",
+            "Resolución de problemas",
+            "Atención al cliente",
+            "Comunicación eficaz",
+            "Trabajo en equipo"
+        ]
+    },
+    "other_interests_normalized": [
+        "Juego de fútbol",
+        "Interacción con público"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Voluntario",
+            "duration": "2018-2020",
+            "description": ""
+        }
+    ],
+    "degree_years": 2.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

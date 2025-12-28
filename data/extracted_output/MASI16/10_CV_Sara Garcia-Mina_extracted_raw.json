@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal data name and surname: sara garcía-mina martínez address: sector pueblos 11 city: madrid (tres cantos) postal code:28760 phone: +34609566672 date and place of birth: 04-june-1990, madrid age: 25 studies degrees: -telecommunication and electrical engineering at the universidad autónoma de madrid (5 years-course degree). languages: -spanish (native) -english very high level (academic year 2006-2007 in nova scotia, canada. toefl:96) experience - scholarship: collaboration in areas of research with biometric research group atvs in escuela politécnica de la univesidad autónoma de madrid. experience with signal processing, pattern recognition, computer vision and machine learning algorithms under matlab and c++ environments. 2010 2014. -scholarship: collaboration with cátedra uam-telefónica. agreement between department of electronic and communication technologies ( escuela politécnica de la univesidad autónoma de madrid) and telefonica. 2010 2012. -everis aerospace and defence. junior consultant (full-time) november 2014 a gust 2015.",
+    "text_from_header": "CURRICULUM VITAE",
+    "detected_language": "en",
+    "master_edition": "MASI16"
+}

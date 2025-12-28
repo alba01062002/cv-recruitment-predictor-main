@@ -1,0 +1,107 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Angel Moya Carrasco",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree, Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "Universidad de Sevilla",
+            "location": "Seville, Spain",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's degree, Industrial Engineering (specialized in Robotic and Automatic)",
+            "field": "Industrial Engineering",
+            "university": "Universidad de Sevilla",
+            "location": "Seville, Spain",
+            "year": "2011-2015",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Master's in Design and Experimentation of Unmanned Aerial Systems",
+            "field": "Unmanned Aerial Systems",
+            "university": "Universidad Internacional de Andalucía",
+            "location": "",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aertec Solutions",
+            "position": "Systems Engineer",
+            "description": "Development of aerospace engineering projects in the aerospace & defense systems department. Software and hardware design, projects with Airbus DS focused on modeling and simulation of systems models, innovation and development.",
+            "start_date": "2017-01",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Aertec Solutions",
+            "start_date": "2017-01",
+            "end_date": "2017-12",
+            "description": "Redaction of project deliverables. Design and programming of gyroscopic table for the testing of aerospace equipment, system modeling in MATLAB-Simulink (MBSE).",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB-Simulink",
+            "Communication Interfaces between Platforms",
+            "Extraction and Import of Data",
+            "MATLAB GUI",
+            "MATLAB Compiler",
+            "Stateflow",
+            "Visual Basic (medium-advanced level)",
+            "LabVIEW (medium level)",
+            "Engineering Softwares: ANSYS, CATIA, ROS, SFC FBD and ST Languages, Unity Pro, Codesys, Arduino, Somachine"
+        ],
+        "soft_skills": [
+            "Development of Team Innovation Projects",
+            "Ability to Propose Effective Solutions that Adapt to Customer Requirements",
+            "Effective Management of Deadlines",
+            "Project Manager in Last Year's Degree",
+            "Adaptability to Multicultural Environments"
+        ]
+    },
+    "other_interests_normalized": [
+        "Availability of Travel to Other Cities or Countries",
+        "Disposition and Availability for Work in Rotating Schedules",
+        "Social Collaboration with Parish of Santa Eufemia, Tomares",
+        "Determined to Carry Out Volunteer Actions on Vacations",
+        "Driving License"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.7
+}

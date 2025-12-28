@@ -1,0 +1,84 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Iván Miguélez Calvo",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "ivanmiguelez101@gmail.com",
+        "phone": "681208083",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/iv%C3%A1n-migu%C3%A9lez-calvo-390b9b217/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería en Tecnologías Industriales",
+            "field": "Ingeniería Industrial",
+            "university": "Universidad de Oviedo, EPI Gijón",
+            "location": "Gijón",
+            "year": "2013-2019",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Máster en Ingeniería Industrial (habilitante)",
+            "field": "",
+            "university": "Universidad de Oviedo, EPI Gijón",
+            "location": "Gijón",
+            "year": "2019-2021",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Máster de Energías Renovables, Ahorro y Eficiencia Energética",
+            "field": "",
+            "university": "",
+            "location": "",
+            "year": "noviembre 2021-",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "Castellano",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Excel (niveles avanzado y básico, con macros, VBA, tablas dinámicas)",
+            "Ansys",
+            "CYPE",
+            "RFEM",
+            "AutoCAD",
+            "PVGIS",
+            "PVCase",
+            "PVSyst"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 6.5
+}

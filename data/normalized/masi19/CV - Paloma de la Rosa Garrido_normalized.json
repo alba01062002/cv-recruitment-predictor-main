@@ -1,0 +1,114 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Paloma de la Rosa Garrido",
+        "date_of_birth": "13/11/1991",
+        "gender": "female",
+        "age_reference_year": 2019,
+        "age": 28,
+        "email": "palomadelarosa@outlook.es",
+        "phone": "(+34) 620 96 84 10",
+        "address": "Ave. Eduardo Dato 22, apartment 310, Sevilla, 41018 Spain",
+        "LinkedIn": "https://www.linkedin.com/in/palomadelarosa/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Professional Development 4.0 (60 ects)",
+            "field": "Not specified",
+            "university": "University of Alcalá de Henares",
+            "location": "Madrid, Spain",
+            "year": "2017",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor of Science in Aerospace Engineering (249 ects)",
+            "field": "Aerospace Engineering",
+            "university": "University of Seville",
+            "location": "Seville, Spain",
+            "year": "2016",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Ayesa Air Control - San Pablo Sur",
+            "position": "Manufacturing Engineer (GAIA program)",
+            "description": "",
+            "start_date": "Not specified",
+            "end_date": "12/2019",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus - San Pablo Sur",
+            "position": "Quality Engineer for A400M Powerplant",
+            "description": "Feb - Apr 2016",
+            "start_date": "02/2016",
+            "end_date": "04/2016",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Airbus - Tablada",
+            "position": "Aerospace Engineering Intern",
+            "description": "Jul - Aug 2014",
+            "start_date": "07/2014",
+            "end_date": "08/2014",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "Digitalibiz Inc.",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "description": "Rockville, Maryland USA",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA",
+            "Produce drawings, maintain, archive and retrieve CAD files",
+            "Draw documents required for project completion, as well as parametrization through Excel sheets.",
+            "MATLAB - Ability to produce and maintain mathematical codes.",
+            "Nastran-Patran - Produce structural analysis and designs as required by project lead.",
+            "LaTeX - Development and maintenance of documents through this software designed to produce technical and scientific documentation.",
+            "Camtasia - Ability to produce and maintain videos."
+        ],
+        "soft_skills": [
+            "Proficient in Microsoft Office Suite: Word, Outlook, Access, Visio, Excel, PowerPoint, Outlook, VBA, etc.",
+            "Team-building",
+            "Multi-tasking",
+            "Intercultural communication"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.25,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

@@ -1,0 +1,118 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Fernando Villa Rodríguez",
+        "date_of_birth": "15/06/1988",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 29,
+        "email": "['fernanado.villa.r@hotmail.com', 'fernandovillarodriguez15@qmail.com']",
+        "phone": "+34 669.309.261",
+        "address": "Paseo de Extremadura 32, 3D, 28011 Madrid (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Components, Jigs & Tools and Structures Design",
+            "field": "Metallic structures design related to aeronautical field by CATIA V5",
+            "university": "CEPPE, Leganés, Spain",
+            "location": "Spain",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master in Professional Development 4.0",
+            "field": "",
+            "university": "Fundación Empresa de Madrid, Spain",
+            "location": "Spain",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor of Aeronautical Engineer in Air Navigation",
+            "field": "",
+            "university": "Polytechnic University of Madrid, Spain",
+            "location": "Spain",
+            "year": "2013-2015",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Aerospace Engineering Degree",
+            "field": "",
+            "university": "Polytechnic University of León, Spain",
+            "location": "Spain",
+            "year": "2012-2014",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus",
+            "position": "Internship in Getafe Plant Facilities",
+            "description": "Facilities, AIRBUS COC Project & Programme Management: Control of projects which enhance various line programs (A320, A330, A350 and A380). Leaner Business Improvement Projects (LBIP+), is the Airbus methodology for business improvement projects. Tools design, small tools were designed in CATIA V5, mechanical design to make the job easier for workers in section 19 A380.",
+            "start_date": "2016-01",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Airbus Getafe Plant Facilities",
+            "start_date": "",
+            "end_date": "",
+            "description": "Facilities, AIRBUS COC Project & Programme Management: Control of projects which enhance various line programs (A320, A330, A350 and A380). Leaner Business Improvement Projects (LBIP+), is the Airbus methodology for business improvement projects. Tools design, small tools were designed in CATIA V5, mechanical design to make the job easier for workers in section 19 A380.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "Matlab",
+            "Microsoft Office Professional Suite",
+            "Airport EPCM Projects",
+            "Airbus Improvement Projects"
+        ],
+        "soft_skills": [
+            "Problem-solving and dedication",
+            "Rapid learning of elements or processes",
+            "Working in groups",
+            "Teaching English for a year",
+            "Astronomy guide at NASA Museo Lunar Fresnedillas de la Oliva on weekends"
+        ]
+    },
+    "other_interests_normalized": [
+        "Study of command and control systems",
+        "Remote sensing using Synthetic Aperture Radar (SAR) for agriculture applications",
+        "Working with WGS84 to design air routes",
+        "Designing aeronautical servitudes at airports based on ICAO specifications"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 27,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

@@ -1,0 +1,108 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Andrei-Iuliu Maniu",
+        "date_of_birth": "26/05/1991",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 24,
+        "email": "andreimaniu26@gmail.com",
+        "phone": "+34 622014892 / +34 915433171 / +39 388 951 4537",
+        "address": "c/ Cea Bermúdez 61 (28003, Madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineer",
+            "field": "Aircraft Systems Integration",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2009-2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Private Tutor for High School Students",
+            "description": "Gave private lessons to high school students in mathematics, physics, and chemistry.",
+            "start_date": "08/2008",
+            "end_date": "12/2012",
+            "duration_years": 4.33
+        },
+        {
+            "company": "EUIT Aeronáuticos (Universidad Politécnica de Madrid)",
+            "position": "Intern in Physics and Chemistry Department",
+            "description": "Created and wrote up exercises/practices for students during one academic year.",
+            "start_date": "09/2012",
+            "end_date": "08/2013",
+            "duration_years": 0.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Exchange Programme",
+            "country": "Italy",
+            "institution_or_company": "Università degli Studi di Roma La Sapienza",
+            "start_date": "09/2013",
+            "end_date": "08/2014",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Italian",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5.0",
+            "AutoCAD",
+            "Nastran-Patran",
+            "MATLAB"
+        ],
+        "soft_skills": [
+            "Teaching",
+            "Creativity in Exercise Design",
+            "Problem Solving"
+        ]
+    },
+    "other_interests_normalized": [
+        "Ping-Pong",
+        "Athletics",
+        "Football",
+        "Puzzles",
+        "Basketball",
+        "Cooking"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "NIO Jesús Hospital",
+            "role": "Volunteer with Save the Children International NGO",
+            "duration": "2014",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 5.25,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

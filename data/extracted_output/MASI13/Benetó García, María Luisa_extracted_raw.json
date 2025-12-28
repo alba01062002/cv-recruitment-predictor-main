@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "maria luisa benetó garcía address: avenida del sur 30 22 32, carlet, valencia (espaa) 46240 telephone: 685838032 e-mail: marisabeneto@gmail.com date of birth: 27 december 1989 spanish nationality education 8: qualifications oct 2011- sept 2012 sept 2008- sept 2012 sept 2006- jun 2008 cranfield university, bedfordshire, uk msc advanced lightweight structures and impact (double degree programme) main subjects included, crashworthiness, composite materials, finite element method, structural integrity, structural stability. group project: design of an electric light duty vehicle in charge of the chassis frame, the goal of the work group was to design and analyze the contribution of each part of the vehicle to obtain the maximum score in the euroncap crash tests. working within a team of thirty, the project involved group meetings, detailed planning of the work process and preparation and presentation of reports. use of hypermesh and ls-dyna mainly. thesis: simulation of the ditching test naca 2929 using the cranfield coupled fe/sph code. supervisor: dr. james campbell the aim was the assessment of the code capability to reproduce the test accurately, which consists on an airplane model impacting against water. the project is part of the european project smart aircraft in emergency situations (smaes). universitat politécnica de valencia, spain aerospace engineering. option: aircraft and space vehicle main subjects included, flight mechanics, aircraft structural design, aerospace materials, aerodynamics, airport engineering. group project: design of a commercial aircraft the objective of the project was to design the principal aspects of a regional aircraft with some innovative characteristics. working within a team of five, final presentation and detailed report were required. colegio maría inmaculada, carcaixent, spain awarded with honors. a level equivalent in mathematics, physics, chemistry, technical drawing. computing skills software: hypermesh, ls-dyna, ls-prepost, nastran/patran, catia (basic), microsoft office, microsoft project (basic), mathematica (basic), derive programming: matlab (basic), dyna3d and mcm cranfield coupled code languages spanish: mother tongue catalan: mother tongue english: fluent extra curriculum activities sept 2000- conservatorio profesional de música perfecto garcía chornet, carlet, spain jun 2008 elementary music level (flute) elementary level certificate obtained and until the third year of middle level completed. activities 8. interests member of unió musical carlet, part of the band playing the flute and participating in concerts and parades. perseverance and dedication are qualities acquired. personal mathematics, physics and chemistry teacher for several high school and university pupils, and monitor of a group of ten children between 6 and 7 years old. travelled in europe in vacation: germany, italy, france, belgium. driving license: category b. referees dr. james campbell dr. andrés omar tiseira cranfield university universitat politécnica de valencia j.campbell@cranfield.ac.uk antilomot.upv.es",
+    "text_from_header": "EDUCATION 8: QUALIFICATIONS",
+    "detected_language": "en",
+    "master_edition": "MASI13"
+}

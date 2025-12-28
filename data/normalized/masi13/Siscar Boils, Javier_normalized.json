@@ -1,0 +1,103 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Javier Siscar Boils",
+        "date_of_birth": "24/09/1988",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 25,
+        "email": "siscar181@hotmail.com",
+        "phone": "+34 625990073",
+        "address": "C/ Eduardo Soler y Pérez, 10 4B 18 46015 Valencia (España)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Aeronáutica",
+            "field": "Aeronaves y Aeropuertos",
+            "university": "Universidad Politécnica de Valencia",
+            "location": "Valencia, España",
+            "year": "2012-2006",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Transporte Aéreo de Mercancías",
+            "university": "Dublin Institute of Technology (School of Civil & Building Services Engineering)",
+            "location": "Dublin, Irlanda",
+            "year": "2010/2011",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Bachillerato de Ciencias",
+            "university": "IES Campanar Valencia",
+            "location": "Valencia, España",
+            "year": "2006-2004",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Universidad Politécnica de Valencia",
+            "position": "Beca de Colaboración Asociada a la Cátedra Eurocopter",
+            "description": "Identificación y catalogación de componentes de turbina de gas para aviación (CFM56), desarrollo de un laboratorio virtual aeronáutico.",
+            "start_date": "06/2012",
+            "end_date": "11/2011",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Intercambio Académico",
+            "country": "Irlanda",
+            "institution_or_company": "Dublin Institute of Technology (School of Civil & Building Services Engineering)",
+            "start_date": "09/2010",
+            "end_date": "08/2011",
+            "description": "Cursado dentro del programa Erasmus, obteniendo todos los créditos de la carrera.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Simulink",
+            "LabView",
+            "Programación en C",
+            "Ansys Fluent",
+            "CATIA VS",
+            "AutoCAD (2D)",
+            "Mathematica",
+            "Mathcad"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 18,
+    "detected_language": "es",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

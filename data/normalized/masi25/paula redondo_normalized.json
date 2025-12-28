@@ -1,0 +1,117 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Paula Redondo Sastre",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "paularedondosastre@gmail.com",
+        "phone": "+34 644 30 00 88",
+        "address": "madrid, spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in mathematical engineering",
+            "field": "Mathematical Engineering",
+            "university": "Francisco de Vitoria University",
+            "location": "Madrid, Spain",
+            "year": "2021 - 2025",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Degree in quantum computing",
+            "field": "Quantum Computing",
+            "university": "Francisco de Vitoria University",
+            "location": "Madrid, Spain",
+            "year": "2022 - 2025",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Fundación Vithas",
+            "position": "Research Intern at Brain Tumor Lab",
+            "description": "Developed algorithms for large-scale data analysis. Contributed to cross-functional engineering projects.",
+            "start_date": "2024-01",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Havas Media Group, S.A.U.",
+            "position": "Data Science Intern",
+            "description": "Analyzed impact data using Power BI and BigQuery. Bridged communication between clients and tech teams.",
+            "start_date": "2023-10",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Freelance Private Tutor",
+            "description": "Provided personalized math and physics lessons. Designed tailored learning plans for each student.",
+            "start_date": "2025-07",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "null",
+            "country": "null",
+            "institution_or_company": "null",
+            "start_date": "",
+            "end_date": "",
+            "description": "null",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "C",
+            "C++",
+            "SQL",
+            "R",
+            "Machine Learning",
+            "Power BI",
+            "BigQuery",
+            "MATLAB",
+            "IBM Qiskit"
+        ],
+        "soft_skills": [
+            "Problem solving & teamwork"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Caritas",
+            "role": "Volunteer in inclusive educational programs",
+            "duration": "2025-2026",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.6
+}

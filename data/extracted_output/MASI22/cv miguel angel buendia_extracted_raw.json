@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "miguel ángel buendía urea date of birth: 17/10/1993 email: ma.buendia@hotmail.com phone number: (+34) 606673723 address: calle teniente compaired 17, 28026 madrid (spain) aeronautical engineer with 3 years of experience in ct ingenieros working for a prestigious client in the sector, looking forward to working for leading projects in the aerospace industry. my recent support to airbus des at their facilities have provided me a really strong customer orientation, which in my opinion is the key to success of a company. work experience e (december 2018 present, full time) aeronautical systems engineer: department of technical publications for combat aircraft. integrated logistic support (ils) analysis: - creation and update of initial provisioning lists (ipl) for the maintenance of on-board systems and aerospace ground equipment (age) according to asd 2000m specification. - creation of draft, formal and master messages to update ip data and answer observation lists (col) from clients. - compilation and maintenance of the illustrations used in the illustrated part catalogue (ipc). - update information in cms and drl and eapf analysis. - review of maintenance data modules to align them with the ipl. - direct contact with client and supplier to communicate the changes to be addressed and solve possible contingencies. e (october 2017 october 2018, full time) supply chain engineer: - automation and development of manuals using visual basic. - development of a visual basic script to automate the placement of items on-board depending on the type of aircraft of the fleet. - stock management and needs calculation using sap. e (february 2017 july 2017, part time) research assistant: -final master project researching ultra-fast heating effects on different steels. -microstructure analysis and mechanical testing of different type of steels. education e master's degree in aeronautical engineering (muia) (2015-2017) technical university of madrid (etsiae/upm) specialty in aircraft design (average mark 7.6) e bachelor in aerospace engineering (2011-2015) technical university of madrid (etsiae/upm) specialty in science and aerospace technology (average mark 7.2) e master in decision making and innovation (2017-2018) alcalá university (madrid) (uah) it skills experienced with microsoft office, microsoft excel advanced level, catia v5, ietp (interactive ef2000 manual), cms, stilo and different airbus applications. knowledge in programming using matlab and visual basic (vba). languages and other information e english c1 e driving license e willing to travel",
+    "text_from_header": "MIGUEL ÁNGEL BUENDÍA UREÑA",
+    "detected_language": "en",
+    "master_edition": "MASI22"
+}

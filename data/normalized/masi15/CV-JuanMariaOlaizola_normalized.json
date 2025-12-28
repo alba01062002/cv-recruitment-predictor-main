@@ -1,0 +1,116 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan María Olaizola Arranz",
+        "date_of_birth": "28/11/1990",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 25,
+        "email": "olaizola.arranz@gmail.com",
+        "phone": "+34 628 555 601",
+        "address": "c/Marqués de Urquijo 33 22D, 28008 Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science in Aeronautics / Aeronautical Engineer Specialized in Aircraft (A1)",
+            "field": "Aircraft Systems Integration",
+            "university": "Universidad Politécnica de Madrid, Escuela Técnica Superior de Ingenieros Aeronáuticos",
+            "location": "Madrid",
+            "year": "2008-2014",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Group",
+            "position": "Intern in A380 S19 & S19.1 Design Office",
+            "description": "Elaboration of technical reports based on finite element modeling, stress analysis and modification strength justifications (MSJ) for the stress department.",
+            "start_date": "2014-07",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Sogeclair",
+            "position": "Stress Engineer in A330 Neo Horizontal Tail Plane - Elevator Sizing Justification, Stress Analysis Based on Load Redistribution from A330 CEO",
+            "description": "Reserve factor recalculation based on flux comparison. Trailing edge sizing justification.",
+            "start_date": "2014-10",
+            "end_date": "2015-01",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Finite Element Modeling, Analysis (MSC Nastran, MSC Patran)",
+            "Stress Software (.on.Ancolab, Ares, Mamest, Urco, Cofus)",
+            "CFD Finite Element Modeling, Analysis (Fluent)",
+            "Design Software (CATIA V5)",
+            "Word 2010",
+            "Excel 2010",
+            "Power Point 2010",
+            "Programming (Fortran 90)"
+        ],
+        "soft_skills": [
+            "Problem-solving",
+            "Teamwork and Collaboration",
+            "Interpretation of Results",
+            "Technical Report Preparation"
+        ]
+    },
+    "other_interests_normalized": [
+        "Karate (Brown Belt)",
+        "Driving License B",
+        "Orienteering"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "C.D. Contiendas (Valladolid) and C.D. Nebrija (Madrid)",
+            "role": "Federated Basketball Player",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "organization": "C.M.U Isabel de España",
+            "role": "Basketball Trainer of the Team, Delegate/Coordinator of the Science Club",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

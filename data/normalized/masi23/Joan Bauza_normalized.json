@@ -1,0 +1,87 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Joan Bauca Julve",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "joanbj80@gmail.com",
+        "phone": "(+34) 669448801",
+        "address": "",
+        "LinkedIn": "linkedin.com/in/joan-bauca-julve",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Systems and Air Navigation",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2018-2023",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "SAATA Department, ETSIAE",
+            "position": "Internship - Airspace Structure and Flight Procedure Design",
+            "description": "Carried out projects with experienced professionals to enhance airspace structure, including reducing CTR regions around Spanish airports.",
+            "start_date": "06/02/2023",
+            "end_date": "12/2023",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Catalan",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "FORTRAN 90",
+            "Global Mapper",
+            "Microsoft Office (Microsoft 365)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Healthy lifestyle - trying to follow a healthy lifestyle based on practising sport and dieting."
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Student Representation Department Sataa Delegate, Universidad Politécnica de Madrid",
+            "role": "Represent fellow students in meetings with the Sataa department to vote for decisions about aspects of the grade and its organization.",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

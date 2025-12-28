@@ -1,0 +1,76 @@
+{
+    "personal_information_normalized": {
+        "full_name": "David Barragán Gómez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "davidbarragangomez@qmail.com",
+        "phone": "+34 662 669 026",
+        "address": "",
+        "LinkedIn": "https://linkedin.com/in/david-barragan-gomez",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Mecánica",
+            "field": "",
+            "university": "Universidad de Castilla-La Mancha",
+            "location": "Ciudad Real",
+            "year": "2016-2022",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Centro Nacional del Hidrógeno (CNH2)",
+            "position": "Estudiante Colaborador (Trabajo Fin de Grado)",
+            "description": "+ Análisis de porosidad en ánodos de pilas de combustible SOFC mediante impresión 3D. + Diseño de canales de alimentación en interconectores de celdas de combustible SOFC. + Fabricación de interconectores para stacks de celdas SOFC mediante moldeo por inyección de polvos. + Prototipado de una monocelda SOFC testeada durante más de 200 horas.",
+            "start_date": "02/2021",
+            "end_date": "06/2021",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Fertiberia Puertollano",
+            "position": "",
+            "description": "+ Diseño de piezas y ensamblajes en CAD 3D con SolidWorks. - Estudios de pérdidas económicas en materia de coste-oportunidad de equipo defectuoso.",
+            "start_date": "06/2020",
+            "end_date": "08/2020",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SolidWorks (avanzado)",
+            "CYPE (intermedio)",
+            "Paquete Office (intermedio)",
+            "Impresión 3D"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Voluntariado"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Proyecto Smile",
+            "role": "Animación de hospital",
+            "duration": "2020-2022",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.5,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 6.0
+}

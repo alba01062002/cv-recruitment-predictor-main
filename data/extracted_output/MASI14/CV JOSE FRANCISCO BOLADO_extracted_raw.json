@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "josé francisco bolado san josé mobile +34 606 793 467 e-mail fran907@hotmail.com linkedin http://www.linkedin.com/in/josefranciscobolado address corbanera 14 monte, 39012 santander, spain date of birth 15/03/1990 place of birth santander (spain) nationality spanish education 2012- 2013 master of science (msc), industrial engineering university of technology (tu/e), the netherlands received scholarship for last year of my degree for erasmus exchange program master thesis assessment of the market value of energy storage . software tool implemented in matlab which shows the market value of energy storage devices in the european electricity market. e considered day-ahead electricity market and made price forecasting with neural networks. e technical specifications of each device and the european regulatory framework were taken into account. 2008 2013 industrial engineering, specialization in electricity university of cantabria (uc), spain five-year degree which helped me gain thorough knowledge of different technologies required in the industry (mechanics, electronics, electricity, chemistry, comunications, computer systems or it engineering), as well as organization and management skills. other courses 09/2013 - 01/2014 quality management systems iso 9001 (70 hours) bureau veritas business school (bvbs) currently studying 07/2012 energy management iso 50001 (25 hours) university of cádiz (uca), spain industrial energy management according to market conditions, industrial needs and government regulations. 07/2012 renewable energy sources (25 hours) university of cádiz (uca), spain overview of the current situation with different renewable energy sources presented in the industry: thermal energy storage, photovoltaic conversion, solar energy, wind power, hydropower, hydrogen technology and biomass. engineering experience 07/2012 08/2012 internship management of electrical and mechanical maintenance cepsa (compaía espaola de petróleos, s.a.u) , spain http: //www.cepsa.com learned how to do the following: e manage a team according to a schedule and under tight deadlines e manage equipment breakdowns taking expenditures and budgets into account e identify common breakdowns in engines and pumps e conduct operations in a substation e use sap software language skills spanish native english advanced german basic dutch basic computer skills proficient in windows (xp,vista and 7) and its main office suites (ms office, openoffice and libreoffice) proficient in matlab and simulink proficient in autocad, civil 3d, inventor and ansys intermediate level in fortran basic knowledge of sap sofware aditional information driving license for category b elementary grade in music (flute) available to relocate internationally",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI14"
+}

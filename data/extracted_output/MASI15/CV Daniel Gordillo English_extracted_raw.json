@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "cv daniel gordillo barragán personal data name: daniel gordillo barragán e-mail: d.gordillo.b.90@gmail.com phones: +34667341885 / +34913864571 address: cándido mateos 16, esc 1, 4b, 28035 madrid, spain place and birth date: madrid, 8th march 1990 education sept 2008 july 2014: meng aeronautical engineering, upm madrid. intensification: aeronautical propulsion. grades: 7.49/10 i acquired the mathematical and physical basis for approaching and resolving analytical and numerical problems. i also obtained knowledge on thermal and mechanical design, aerodynamics and fluid mechanics and general understanding of an aircraft. sept 2002 may 2008. eso and bachillerato, ies cardenal herrera oria, madrid. grades (bachillerato): 9.4/10. graduated with honours. i obtained a grant in recognition of excellence in academic performance (excellence scholarship). work experience feb 2014 july 2014. empresarios agrupados, madrid. simulation engineer, internship preparation of the masters project design and development of a tool for aeronautical propulsion systems simulation. in it, a fixed-configuration tool for simple preliminary design and performances was developed, using the software ecosimpro/proosis. during the project, experience and skills were acquired, focusing mainly in the following aspects: object-oriented modelling and simulation, since the library used (turbo v3.2.2) was modified in order to properly adapt to the project. turbojet and turbofan performance analysis (design and off-design). development of a simplified mathematical engine model to avoid initialization issues. managing and testing proosis excel external connection and decks generation. as a member of proosis development team, testing proosis capabilities and suggesting new wizard (predefined) calculations. jan 2009 april 2009. excellence scholarship research participation in a project which aimed to select the best flying model aircraft in the market in order to use it in low reynolds-number performances. i was part of a team of four students responsible for research and selection of the propellers of the models. feb 2007 sept 2013. tutor. private tutor for several students (from secondary school to university) who needed help in mathematics, physics, chemistry, technical design, spanish and english. languages spanish. mother tongue english. fluent (c1 level). 1994-2008: attendance to annual english courses al british council. 2009: obtained cae (certificate of advanced english) of cambridge. (c grades) understanding speaking writing listening reading spoken interaction spoken production english c1 c1 c1 c1 c1 cae (c) computes skills object oriented modeling and simulation (ecosimpro/proosis, expert level) programing: fortran, matlab (medium level) c/c++(basic level) cad design: catia v5 medium level cfds (fluent/gambit) basic level, finite elements (nastran/patran) basic level. gas turbine engine simulation: gasturb, gsp, proosis complementary engineering courses introduction to numerical techniques in fluid mechanics (cfds) (20h) aeronautical structures life verification (30h) introduction to fem structural calculus: nastran/patran (20h) other data participation in a radio broadcast programme about videogames called pakugamers(106.6 fm, radio las águilas). interpersonal skills both as a team member and project manager. good response and highly motivated when facing a new challenge and able to learn from it hobbies: sport (cycling, tennis, basketball, etc.), audiovisual media (films, tv series, videogames, internet), reading. spanish drivers license (b) references pedro cobas. head of the development team of the ecosimpro and proosis modelling & simulation tools pce@empre.es / pce@ecosimpro.com dr. jose luis montaés. head of engine propulsion and thermofluid dynamics department in etsia upm joseluis.montanes@upm.es page page 2 of numpages 2 page page 1 of numpages 2",
+    "text_from_header": "PERSONAL DATA",
+    "detected_language": "en",
+    "master_edition": "MASI15"
+}

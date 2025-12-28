@@ -1,0 +1,131 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Nazariy Klachko",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "nazar.klachko@gmail.com",
+        "phone": "678 742 365",
+        "address": "c/ arroyo fontarron 447, 4d madrid, madrid, 28030",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science: Mechanical Design",
+            "field": "Aeronautical Engineering",
+            "university": "UPM - Polytechnic University of Madrid",
+            "location": "Madrid",
+            "year": "2014-2013",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Altran",
+            "position": "System Engineer",
+            "description": "Experienced system engineer with over 3 years of experience in aeronautical system engineering. Excellent reputation for resolving problems, improving customer satisfaction and supplier management.",
+            "start_date": "2019-05",
+            "end_date": "12/2020",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Altran",
+            "position": "System Engineer (ATA33-40 - A350 Coordinator)",
+            "description": "Coordination of the activities related to the exterior lights of Airbus A350 fleet within Altran. Weekly activities report to Airbus responsible system engineer ATA33-40, Madrid, Madrid. Technical assistance for all kind of in-service issues related to exterior lights of all Airbus fleets (currently A350 - including elco sw). Preparation and revision of technical documentation (TN, SDD, TRS, AMM, RCA, etc.). Preparation of ground and flight test requests. Suppliers management: specification definition meetings, equipment development follow-up meetings, investigations related to in-service issues. Focal point between Airbus departments impacted by exterior lights and supplier.",
+            "start_date": "2016-06",
+            "end_date": "2019-05",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Adatica Engineering",
+            "position": "System Design Engineer",
+            "description": "Electrical harnesses routing & connector selection. Oxygen pipes routing. Racks design and equipment installation.",
+            "start_date": "2015-05",
+            "end_date": "2016-06",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Alestis Aerospace",
+            "position": "Internship",
+            "description": "Electrical & mechanical systems design. Structural design (composite, sheet metal, etc.). Stress and thermal analysis.",
+            "start_date": "2014-05",
+            "end_date": "2015-05",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Catalan",
+            "C1"
+        ],
+        [
+            "Russian",
+            "C1"
+        ],
+        [
+            "Ukrainian",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5 SEEXP V2.8.4 V4",
+            "DOORS",
+            "Outlook",
+            "Microsoft Office",
+            "Nastran/Patran Airbus tools",
+            "System design"
+        ],
+        "soft_skills": [
+            "Systems engineering",
+            "Technical knowledge",
+            "Teamwork",
+            "SW tools ease",
+            "Engineering systems testing",
+            "Problem-solving approach",
+            "Working under pressure"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

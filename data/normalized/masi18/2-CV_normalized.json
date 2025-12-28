@@ -1,0 +1,105 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rodrigo Hernández",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "rodrihercif mail.com",
+        "phone": "qs 798 358",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "B.Eng in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "UPM, Madrid",
+            "location": "Madrid",
+            "year": "2010-2016",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "M.Sc in Semiotics and Information Theory",
+            "field": "Semiotics and Information Theory",
+            "university": "UCM, Madrid",
+            "location": "Madrid",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "M.Sc in Humanities and Media Studies",
+            "field": "Humanities and Media Studies",
+            "university": "CEU, Madrid",
+            "location": "Madrid",
+            "year": "2017-2018",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Deutsche Bank (London)",
+            "position": "Multimedia Production and Corporate Communication IT Technician",
+            "description": "Profile, creation and implementation of strategic marketing and communication campaigns.",
+            "start_date": "07/2011",
+            "end_date": "05/2017",
+            "duration_years": 5.83
+        },
+        {
+            "company": "Royal Bank of Scotland (London)",
+            "position": "Senior IT Technician - VC Systems Installation Supervisor",
+            "description": "Budgeting, scheduling and coordination of a team of 5 technicians. Executive profile customer liaison.",
+            "start_date": "01/2016",
+            "end_date": "12/2025",
+            "duration_years": 9.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "UK (London)",
+            "institution_or_company": "Deutsche Bank, Royal Bank of Scotland",
+            "start_date": "07/2011",
+            "end_date": "05/2017",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Japanese",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MathWorks MATLAB/Simulink",
+            "Computational Mechanics: 2D&3D mechanisms programming, kinematic and dynamic analysis, FEM programming for simple structures",
+            "G/ APT CNC Programming languages (C / C++), Siemens Step 7 (PLC and basic software development)",
+            "CAD/CAM: CATIA V5 (machining module), Autodesk Inventor",
+            "2D sketching: AutoCAD"
+        ],
+        "soft_skills": [
+            "Communication, Team play, Problem solving"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.3
+}

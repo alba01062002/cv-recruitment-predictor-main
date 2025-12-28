@@ -1,0 +1,116 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Paúl del Corral Arroyo",
+        "date_of_birth": "11/01/1983",
+        "gender": "male",
+        "age_reference_year": 2009,
+        "age": 26,
+        "email": "paulcorral@hotmail.com",
+        "phone": "(91)6410356",
+        "address": "C/Polvoranca, 76. 92d, escalera a cp: 28923 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Aeronáutico (Sistemas de Propulsión)",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2001-2008",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aernnova",
+            "position": "Ingeniero de Fatiga",
+            "description": "",
+            "start_date": "Sep 2008",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "INDRA Sistemas",
+            "position": "Ingeniero de Software / Realización de Simulaciones Numéricas con CFD",
+            "description": "",
+            "start_date": "Nov 2007",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "INDRA Sistemas",
+            "position": "Realización de Simulaciones Numéricas con CFD",
+            "description": "",
+            "start_date": "Mar 2008",
+            "end_date": "Mar 2007",
+            "duration_years": 0.0
+        },
+        {
+            "company": "INDRA Sistemas",
+            "position": "Realización de Simulaciones Numéricas con CFD",
+            "description": "",
+            "start_date": "Oct 2007",
+            "end_date": "Nov 2007",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Inglaterra y América",
+            "institution_or_company": "",
+            "start_date": "null",
+            "end_date": "null",
+            "description": "Estancia de cinco meses en el extranjero",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fortran",
+            "C++",
+            "Matlab",
+            "CATIA",
+            "Solid Edge",
+            "Gasturb",
+            "Ecosimpro"
+        ],
+        "soft_skills": [
+            "Running",
+            "Ping Pong",
+            "Ajedrez",
+            "Literatura y Viajar"
+        ]
+    },
+    "other_interests_normalized": [
+        "Running",
+        "Ping Pong"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2003/2004",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.9
+}

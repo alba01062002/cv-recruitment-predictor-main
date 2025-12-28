@@ -1,0 +1,108 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro Lorenzo Prada",
+        "date_of_birth": "06/10/1986",
+        "gender": "male",
+        "age_reference_year": 2012,
+        "age": 26,
+        "email": "alexinone@gmail.com",
+        "phone": "675 158774",
+        "address": "calle leganés n2 57 62b 28945 fuenlabrada (madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero en Telecomunicación",
+            "field": "Redes y Sistemas de Telecomunicaciones",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2004-2011",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Centro Español de Subtitulado y Audiodescripción (CESYA)",
+            "position": "Ingeniero Desarrollador",
+            "description": "Desarrollo de diversos proyectos relacionados con la TDT: sealización, desarrollo de servicios de accesibilidad, monitorización, subtitulado DVB y EBU Teletext, etc.",
+            "start_date": "07/2010",
+            "end_date": "12/2012",
+            "duration_years": 2.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "C",
+            "PHP",
+            "HTML",
+            "CSS",
+            "XML",
+            "Matlab",
+            "Statgraphics",
+            "Labview",
+            "Microwave Office",
+            "Web Services",
+            "Android"
+        ],
+        "soft_skills": [
+            "Voluntad de superación",
+            "Madurez",
+            "Responsabilidad",
+            "Liderazgo",
+            "Constancia",
+            "Don de gentes",
+            "Creatividad",
+            "Iniciativa",
+            "Vitalidad",
+            "Alta capacidad de deducción",
+            "Pasión por el trabajo bien realizado",
+            "Facilidad para integrarse en equipos multidisciplinares"
+        ]
+    },
+    "other_interests_normalized": [
+        "Baloncesto en 1* división de liga local"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Miembro de equipo de baloncesto",
+            "duration": "1* división de liga local (2004-2011)",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 2.42,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI12",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.9
+}

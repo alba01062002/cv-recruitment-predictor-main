@@ -1,0 +1,180 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Deniz Ince",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "ince.deniz@laposte.net",
+        "phone": "+90 505 889 03 55",
+        "address": "",
+        "LinkedIn": "deniz ince",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "B.Sc. Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "Cyprus International University",
+            "location": "Nicosia",
+            "year": "2008-2015",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Proax Software",
+            "position": "Software Consultant",
+            "description": "Coding and developing apps for Microsoft AppSource, defining and matching solutions with Dynamics for industries, visiting companies and service providers to analyze their business.",
+            "start_date": "07/2017",
+            "end_date": "12/2025",
+            "duration_years": 8.42
+        },
+        {
+            "company": "Joker (Start-up)",
+            "position": "Founder & System Engineer",
+            "description": "Following new technologies, combining different platforms for better solutions, creating algorithms for suggested approaching flight plans.",
+            "start_date": "12/2015",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "FIS (International Ski Federation)",
+            "position": "Shaper",
+            "description": "Responsible for all measurement and design of snowboard giant slalom slopes, working with a multi-cultural FIS team.",
+            "start_date": "03/2015",
+            "end_date": "12/2018",
+            "duration_years": 3.75
+        },
+        {
+            "company": "Orta Anadolu Mensucat Textile",
+            "position": "Planning & Quality Engineer (Internship)",
+            "description": "Production line work study, machine and worker time study and quality analysis, optimizing and improving work orders for increased capacity.",
+            "start_date": "08/2013",
+            "end_date": "09/2013",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Cyprus Airport Services",
+            "position": "Operation Officer",
+            "description": "Flight balance table and load schema calculation, filling and gathering necessary documentation.",
+            "start_date": "06/2013",
+            "end_date": "08/2013",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Merkez Celik",
+            "position": "Continuous Improvement Engineer (Internship)",
+            "description": "Supporting Kaizen and 6 Sigma projects, defining batch size production capacity for furniture painting machine to reduce setup time defects.",
+            "start_date": "07/2012",
+            "end_date": "08/2012",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship",
+            "country": "Germany",
+            "institution_or_company": "Joker (Start-up)",
+            "start_date": "12/2015",
+            "end_date": "",
+            "description": "Following new technologies, combining different platforms for better solutions, creating algorithms for suggested approaching flight plans.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship",
+            "country": "France",
+            "institution_or_company": "FIS (International Ski Federation)",
+            "start_date": "03/2015",
+            "end_date": "",
+            "description": "Responsible for all measurement and design of snowboard giant slalom slopes, working with a multi-cultural FIS team.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship",
+            "country": "Germany",
+            "institution_or_company": "Airbus BizLab Hamburg",
+            "start_date": "",
+            "end_date": "",
+            "description": "Selected among the best 20 innovative start-up by Airbus, creating a system which can forecast future aircraft positions considering data, correcting flight paths and cooperating with smart cities.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship",
+            "country": "Germany",
+            "institution_or_company": "Airbus Fly Your Ideas (Team Joker)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Selected among the best 13 shortlisted start-up, aimed to eliminate all of trolleys/carts in the aircraft, designing overhead and automated cart along the aisle which connected with proposed inflight vending machine.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Turkish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "C++ Language",
+            "Assembly Language",
+            "Ubuntu",
+            "Office Applications",
+            "MS Project",
+            "Smart Draw",
+            "Photoshop",
+            "AutoCAD",
+            "Arena Simulation",
+            "Minitab"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Team Player",
+            "Creative",
+            "Passionate",
+            "Responsibility"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Team Joker",
+            "role": "Founder & Member",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "organization": "Playground Riders Team",
+            "role": "Official Member",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

@@ -1,0 +1,92 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Francisco Padilla Leiva",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "ba dfpadillaleiva@gmail.com",
+        "phone": "(+34) 660 593 686",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/daniel-padilla-leiva",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://www.linkedin.com/in/daniel-padilla-leiva"
+    },
+    "education_normalized": [
+        {
+            "degree": "Degree in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "University of Cadiz (UCA)",
+            "location": "Not specified",
+            "year": "Expected graduation: 2025",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space",
+            "position": "EDV Manufacturing and Process Engineer",
+            "description": "Industrialisation and support tasks for the ADS LTA enhancements and development of versions (EDV) programme. Support certification process for new systems & versions of LTA serial production. R&D implementation for ground and flight tests (SNT, Sipla, SAP). C-295 prototype/demo aircrafts maintenance. Industrialisation and production support engineer",
+            "start_date": "February 2025",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "SAP",
+            "SIPLA",
+            "3DAV Documentation Tools: MS Office & Adobe Acrobat"
+        ],
+        "soft_skills": [
+            "Technical Writing",
+            "Oral Communication in English"
+        ]
+    },
+    "other_interests_normalized": [
+        "Oral Communication in English",
+        "Technical Writing",
+        "Aerospace Engineering"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "ATEXIS",
+            "role": "Trainee as a Technical Author",
+            "duration": "November 2022 - March 2023",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

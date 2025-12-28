@@ -1,0 +1,151 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Haro Maldonado",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": null,
+        "email": "miguel.haro@himperia.com",
+        "phone": "+34646266160",
+        "address": "c/ Lanza en Astillero, 2 edif. 5, 28906 Getafe (Madrid), Spain",
+        "LinkedIn": "https://es.linkedin.com/in/miguelharo/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BS in Telecommunication Engineering",
+            "field": "Telecommunication Systems",
+            "university": "Polytechnic University of Madrid, UPM",
+            "location": "Madrid",
+            "year": "1998-2001",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "MS in Telecommunications Engineering",
+            "field": "Communications",
+            "university": "Polytechnic University of Madrid, UPM",
+            "location": "Madrid",
+            "year": "2002-2005",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "",
+            "field": "Aeronautical Engineering (Second Academic Year)",
+            "university": "Polytechnic University of Madrid, UPM",
+            "location": "Madrid",
+            "year": "2006-2010",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Himperia IIS Madrid (Technical Consultancy)",
+            "position": "Co-founder; Senior Consultant Engineer; Business Development Manager; Storage Project Manager",
+            "description": "Creation of a company for provision of consulting services in telematics engineering and IT management fields. In charge of the technical team, particularly for the products creation, service development and research strategies definition. Working as business development manager and storage project manager.",
+            "start_date": "Feb'07",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Himperia IIS Madrid (Technical Consultancy)",
+            "position": "Senior Consultant Engineer",
+            "description": "Working for Telefónica. In charge of all storage systems engineering in 7 datacenters (5 in Madrid and 2 in Barcelona). Engineering task (planning, deployment and re-engineering) over SAN networking solutions and midrange/high-end storage servers (IBM, HDS, EMC and NetApp). Analysis and implementation of backup and disaster recovery solutions over IBM and EMC hardware and Symantec software. IT deployment tasks.",
+            "start_date": "Ene'08",
+            "end_date": "Ago'11",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Amper Madrid (Technical Consultancy)",
+            "position": "Consultant Engineer",
+            "description": "Planning and deployment of messaging platforms and other VAS for Telefónica Móviles. Primarily developed efforts focused on proper network integration of internal and external services.",
+            "start_date": "Abr'07",
+            "end_date": "Ene'08",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Tecsidel Madrid (Technical Consultancy)",
+            "position": "Integration and Support Engineer",
+            "description": "Developing task as telecommunication platforms integration and high level technical support of Telefónica Móviles added values services. Fulfilment of consulting labours in Telefónica I+D company to study and integrate a policy access management system for Telefónica Móviles.",
+            "start_date": "May'05",
+            "end_date": "Mar'07",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Amena Coslada (Madrid) (GSM/GPRS/UMTS Network Operator)",
+            "position": "Trainee in Technological Innovation Center",
+            "description": "Developing activities for open service architecture (OSA/PARLAY) testing and implantation, which Amena was integrating in its mobile network.",
+            "start_date": "Sep'03",
+            "end_date": "Feb'04",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Telefónica Móviles España Madrid (GSM/GPRS/UMTS Network Operator)",
+            "position": "Trainee in Network Engineering Division",
+            "description": "Engineering and coordination of network and management activities for the correct integration of hardware/software platforms for mobile services.",
+            "start_date": "Apr'02",
+            "end_date": "Apr'03",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "France",
+            "institution_or_company": "National Institute for Applied Sciences (INSA) in Lyon, France",
+            "start_date": "",
+            "end_date": "",
+            "description": "Duration: 6 months",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C, Objective C and Java programming",
+            "OS (MS Windows, Linux-based operative systems and Solaris 11)",
+            "Office tools",
+            "Simulation tools (Microwave Office, Orcad, Tango, Protel, MATLAB)",
+            "Shell scripting over Linux server",
+            "F5 Big-IP v9 course",
+            "HP Integrity Architecture"
+        ],
+        "soft_skills": [
+            "Highly analytical thinking with demonstrated talent for identifying, scrutinizing, and improving technical processes",
+            "Computer-literate with extensive software knowledge covering a wide variety of applications",
+            "Skilled team player who thrives in complex environments requiring ability to effectively prioritize multiple concurrent projects"
+        ]
+    },
+    "other_interests_normalized": [
+        "Cinema",
+        "Snowboarding",
+        "Music",
+        "Table Tennis",
+        "Travel",
+        "Science and Technology"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "1998-2001; 2002-2005; 2006-2010",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

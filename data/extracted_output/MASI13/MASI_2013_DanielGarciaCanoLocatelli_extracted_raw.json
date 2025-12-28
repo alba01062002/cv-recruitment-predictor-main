@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal data daniel juan garcía-cano locatelli résumé name daniel juan surname garcía-cano locatelli date of birth 19.10.1983 nationality spanish mobile 0049-0174-883-1849 e 0034-677-70-18-74 city-country hamburg - germany email danielgclocatelli@gmail.com professional networks my linkedin work experience march 2012 - currently systems engineer for airbus on bahalf of alten technology gmbh (germany) * program a400m aircraft condition and monitoring system eymm4 digital flight data recording system eyndd * main functions \" focal point validation &verification process = configuration management \" certification and qualification = safety and maintainability * other functions = to analyse customer data and configuration management tools. to manage systems requirements, test campaign, results and new issues. * airbus contact = kersten borchers (wp leader recording) masi'13 daniel juan garcía-cano locatelli july 2011 february 2012 systems engineer for airbus on bahalf of ct ingenieros (madrid-spain) * program: single aisle apu electrics & electronic control dpt. * main functions = design validation & verification process design reviews * other functions = to review supplier documentation (ptcd, edes, etc) to prepare reading forms and training auxiliary power unit. = to prepare teleconferences with supplier (united states, germany). = to solve airlines queries and to support for fal queries. * airbus contact \" pablo jiménez tuón (head of apu electrics & electronic control department) february 2009 august 2009 internships by eads military air systems (getafe, madrid, spain) * program: uav ice accretion physics simulation * main functions = to study ice accretion physics and to modify onera software model of the icing growth. = fortran program language and vba macros excel * other functions = flight mission in icing conditions = to study training manuals, to prepare documentation and to support ecs department. * eads contact julia andrés enrique soriano minano masi'13 2 daniel juan garcía-cano locatelli education and training october 2002 september 2011 masters industrial engineering universidad carlos iii de madrid * specialized energetic technologies x= main knowledge * fluid dynamics and heat transfer * solar technology, heat exchanger, power stations = manufacturing, economy, management = optimization and simulation = structural engineering * masters thesis = interface control of humanoid hoap-3 in matlab = design and simulation trajectories in operational space and joint space. = interpolation, robot kinematics, inverse kinematics algorithm. = program language: matlab & simulink. * 3d simulation in vrml with matlab. * references = paolo pierro m.carmen rodríguez hidalgo masi'13 3 daniel juan garcia-cano locatelli personal skills and competences languages spanish mother tongue english full professional proficiency. advance level, written and spoken attended an international school. november 2012 toefl certificate german professional working proficiency. medium level, written and spoken living in germany since march 2012 preparing zertifikat deutsch fiir den beruf italian elemental working proficiency. basic level, written and spoken computer skills and competences airbus tools doors, grefie, track-dev, icc office word, excel, power point, outlook, visio, access programming fortran, c, c++, vba macros excel technical matlab, matchcad, autocad, fluent, gambit social and organisational skills leadership and team player, ability to work under pressure and creative. masi'13",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI13"
+}

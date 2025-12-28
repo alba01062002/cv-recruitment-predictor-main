@@ -1,0 +1,133 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Joaquin Anton Fernandez",
+        "date_of_birth": "30/10/1998",
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": 25,
+        "email": "",
+        "phone": "+34 682 19 35 86",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/joaquin-anton-fernandez/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "Polytechnic University of Madrid",
+            "location": "Madrid, Spain",
+            "year": "2020-2022",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's degree in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "Miguel Hernandez University",
+            "location": "",
+            "year": "2016-2020",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "John Deere Iberica",
+            "position": "Plant & Facilities Engineer",
+            "description": "Management, design and manufacture of lifting devices, cranes, and hoists. Project management for continuous improvement and safety.",
+            "start_date": "04/2022",
+            "end_date": "12/2022",
+            "duration_years": 0.67
+        },
+        {
+            "company": "John Deere Iberica",
+            "position": "Product Engineer (Internship)",
+            "description": "Project management and definition of new setting method at John Deere Iberica. Design, optimization and calculation of tapered bearing setting methods.",
+            "start_date": "09/2021",
+            "end_date": "03/2022",
+            "duration_years": 0.5
+        },
+        {
+            "company": "John Deere Iberica",
+            "position": "Product Engineer (Internship)",
+            "description": "Standardization of calculation methods, documentation and updating of calculations for new John Deere Iberica products.",
+            "start_date": "10/2020",
+            "end_date": "03/2021",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Enerpac",
+            "position": "Custom Product Engineer",
+            "description": "Mechanical design and calculation with Creo Parametric, Ansys, Matlab, Excel. Design of cylinders of high capacity and high nominal pressure.",
+            "start_date": "01/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "John Deere Iberica, Getafe",
+            "start_date": "09/2021",
+            "end_date": "03/2022",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "John Deere Iberica, Getafe",
+            "start_date": "10/2020",
+            "end_date": "03/2021",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Valencian",
+            "C2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Creo Parametric",
+            "Ansys",
+            "Matlab",
+            "Excel",
+            "Kisssoft transmission design software",
+            "SolidEdge",
+            "Inventor",
+            "SolidWorks",
+            "Autocad",
+            "SAP",
+            "Microsoft Project"
+        ],
+        "soft_skills": [
+            "Analytical thinking in search of the best technical solution",
+            "Ability to communicate and listen others"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 4.51,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

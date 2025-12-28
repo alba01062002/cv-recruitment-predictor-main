@@ -1,0 +1,111 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro Gutiérrez Sanjurjo",
+        "date_of_birth": "15/02/1993",
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": 27,
+        "email": "alejandro150293@gmail.com",
+        "phone": "600798164 / 916772247",
+        "address": "Calle los curas 68 4c, Torrejón de Ardoz, 28850, Madrid",
+        "LinkedIn": "https://www.linkedin.com/in/alejandro-guti%C3%A9rrez-sanjurjo-967a7b162/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://www.linkedin.com/in/alejandro-gutiérrez-sanjurjo-967a7b162/"
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "Tampere University of Technology",
+            "location": "Finland",
+            "year": "2018",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's degree in Industrial Electronics and Automatic Engineering",
+            "field": "Industrial Electronics and Automatic Engineering",
+            "university": "Universidad Politécnica de Alcalá de Henares",
+            "location": "Spain",
+            "year": "2016-2016",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Minsait (Indra)",
+            "position": "Inside the Department of Advanced Technologies, in the Division of Robotic Automation of Processes",
+            "description": "Functional definition with the client of processes to be automated. Definition of environments with process automation tools: UiPath, Kofax Kapow, BluePrism. Maintenance of robots in production. Development of enhancements in the robots to improve their functionality and reliability.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Alleria Spain, S.A. (Saint-Gobain Vicasa, SA)",
+            "position": "Development and Monitoring of the Industrial Excellence System",
+            "description": "Design and implementation of OPL's, SOP's, elaboration of procedures standards, protocols, etc. Monitoring of process indicators (KPIs and KAI's) for the detection of deviations to act in real time. Cooperation in the progress in the 5S program of the plant.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Long Xiang Importacion Exportacion, S.L. (Visiotech)",
+            "position": "Internship",
+            "description": "Laboratory tests and technical requirements for new CCTV products. Verification of technical specifications for quality control in security and CCTV devices.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Finland",
+            "institution_or_company": "Tampere University of Technology",
+            "start_date": "",
+            "end_date": "",
+            "description": "Master's degree in Industrial Engineering (2016-2018)",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Word",
+            "Microsoft Excel",
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "3D Design: AutoCAD, SolidWorks",
+            "Programming Tools: Android Studio, Keil, MATLAB, IntelliJ, TIA Portal, LabVIEW, Maxima, RobotStudio, VisualComponents 4.0, Simulink, Kofax Kapow, UiPath, BluePrism",
+            "SQL",
+            "Oracle"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Adaptability",
+            "Motivation",
+            "Leadership"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

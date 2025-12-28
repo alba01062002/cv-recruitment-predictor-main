@@ -1,0 +1,126 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Álvaro de los Reyes Margarit",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "alvarodlreyes@gmail.com",
+        "phone": "+34 686315990",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/alvaro-de-los-reyes-margarit-6b378a206/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "University of Seville",
+            "location": "Seville",
+            "year": "pending TFM",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master in Organizational Management in Technological Environments and Data Analytics",
+            "field": "",
+            "university": "University Camilo José Cela",
+            "location": "",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space with Discover Scholarship",
+            "position": "Internship",
+            "description": "Project management of medium and light and tanker business development, product policy and portfolio management. Avionics development for C295 AC - 295 transport standard configuration development - R&D and industrialization projects for C295 and A330 MRTT - MRTT integrated product policy - Bids and offers for C295",
+            "start_date": "Mar 2022",
+            "end_date": "Feb 2023",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Grupo Sevilla Control",
+            "position": "Internship",
+            "description": "Production planning for CNC machines in the machining area of an aeronautical company, demand estimation and resource allocation. Lean manufacturing projects. IT tools development for the calculation of KPLS",
+            "start_date": "Aug 2021",
+            "end_date": "Feb 2022",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Ayesa Air Control Ingeniería Aeronáutica S.A.",
+            "position": "Internship",
+            "description": "Project documentation: autopilot for drones operating indoors",
+            "start_date": "Jan 2020",
+            "end_date": "Mar 2020",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Italy",
+            "institution_or_company": "University of Bologna",
+            "start_date": "Course 2017/18",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Italian",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "MATLAB",
+            "Python",
+            "Lingo",
+            "C++",
+            "AutoCAD",
+            "R",
+            "SQL",
+            "SAP"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "Eagerness to learn and start new projects",
+            "Aerospace",
+            "Quick adaptation to new tasks",
+            "Team management",
+            "Broad scientific and technological base",
+            "Systems design",
+            "Development of manufacturing processes",
+            "Researching new technologies and trends",
+            "Teamwork in the manufacturing industry"
+        ]
+    },
+    "other_interests_normalized": [
+        "Aerospace",
+        "Team management",
+        "Quick adaptation to new tasks"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

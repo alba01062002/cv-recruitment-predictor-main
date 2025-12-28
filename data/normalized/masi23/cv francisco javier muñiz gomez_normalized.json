@@ -1,0 +1,116 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francisco Javier Muiz Gómez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "framungomlogmail.com",
+        "phone": "+34 608054371",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/francisco-muniz-gomez",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science, Aerospace Engineering",
+            "field": "Aerospace engineering",
+            "university": "Universidad de Sevilla ETSI",
+            "location": "Sevilla, Spain",
+            "year": "2018 - 2023",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Capgemini Engineering",
+            "position": "Quality Assurance Engineer",
+            "description": "Analysis and design quality assurance; support to engineering quality manager in PPS investigations and APQP methodology development.",
+            "start_date": "05/2023",
+            "end_date": "Ongoing",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Defence & Space",
+            "position": "Quality Assurance Engineer",
+            "description": "Support to engineering quality manager; implementation of 8D/9S and DFMEA methodologies; leader in multi-functional team awareness and process follow-up.",
+            "start_date": "04/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.67
+        },
+        {
+            "company": "Accenture",
+            "position": "Supply Chain & Quality Engineer",
+            "description": "New industrialization and transfer of work projects; development of new inspection methods for metallic and composite materials.",
+            "start_date": "09/2022",
+            "end_date": "04/2023",
+            "duration_years": 0.58
+        },
+        {
+            "company": "Atexis",
+            "position": "A400M / A330 MRTT Flight Simulator Engineer",
+            "description": "Maintenance and technical support for airbus flight simulators; study of procedures and systems implementation.",
+            "start_date": "05/2022",
+            "end_date": "08/2022",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Python",
+            "Ansys Fluent",
+            "OpenFOAM",
+            "Excel",
+            "Google Sheets",
+            "Google Workspace",
+            "Airbus Tools (SMP, Airina, APQP IT Tool, DMS, SNT)"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "Leadership",
+            "Problem Solving",
+            "Technical Support",
+            "Collaboration"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 3.5,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

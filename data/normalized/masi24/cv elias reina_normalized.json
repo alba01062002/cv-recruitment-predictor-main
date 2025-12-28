@@ -1,0 +1,127 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Elias Reina Bolaños",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "elias.reinab@gmail.com",
+        "phone": "+34 665 64 06 28",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "ETSI de Sevilla (Escuela Técnica Superior de Ingeniería y Arquitectura)",
+            "location": "Seville, Spain",
+            "year": "2019-2024",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "UC3M (Universidad Carlos III de Madrid)",
+            "location": "Leganés, Madrid",
+            "year": "2023-2024",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "ITU (İstanbul Technical University)",
+            "location": "Istanbul, Turkey",
+            "year": "2022-2023",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Jaguar Land Rover Workshop",
+            "position": "Internship",
+            "description": "",
+            "start_date": "2024",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Maquinaria Boldoba, Burgos",
+            "position": "Internship in Construction Machinery Workshop",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "International Mobility (Erasmus)",
+            "country": "Turkey",
+            "institution_or_company": "ITU (İstanbul Technical University)",
+            "start_date": "2022/23",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "National Mobility (SICUE)",
+            "country": "Spain",
+            "institution_or_company": "UC3M (Universidad Carlos III de Madrid)",
+            "start_date": "2023/24",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Flightgear flight simulator"
+        ],
+        "soft_skills": [
+            "Autocritical analysis",
+            "Teamwork",
+            "Adaptability"
+        ]
+    },
+    "other_interests_normalized": [
+        "First Lego League (LEGO and Robotics Project Competition 2019)",
+        "Edition Clubs de Ciencia España 2018",
+        "Pre-university Debate League 2018 (University Camilo José Cela, Madrid)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Fundación Vicente Ferrer",
+            "role": "",
+            "duration": "2018, Anantapur, India",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

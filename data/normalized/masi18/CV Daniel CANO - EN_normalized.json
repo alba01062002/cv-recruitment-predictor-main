@@ -1,0 +1,107 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Cano Guereña",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "daniel.cano.guerena@gmail.com",
+        "phone": "+34 669 02 00 35",
+        "address": "c/Ramonet n212, 52D, 28033 Madrid, ESPAA",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in International Innovation (Product Development)",
+            "field": "Mechatronics Engineering",
+            "university": "Ecole Nationale Supérieure des Arts et Métiers ParisTech - ENSAM",
+            "location": "Paris, France",
+            "year": "Nov 13/Nov 14",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master's in Professional Development",
+            "field": "",
+            "university": "Universidad de Alcalá de Henares (UAH)",
+            "location": "Madrid, Spain",
+            "year": "Sep 11/Feb 13",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Industrial Engineer (Double Degree: UC3M + ENSAM)",
+            "field": "Automation and Electronics Engineering",
+            "university": "Universidad Carlos III de Madrid - UC3M",
+            "location": "Madrid, Spain",
+            "year": "Sep 06/June 13",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence and Space (On behalf of CT Ingenieros)",
+            "position": "Medium & Light Chief Engineer Office - In Service Aircrafts",
+            "description": "TAEIT member, responsible for service bulletins planning and coordination between services and engineering. Management of the service bulletin approval cycle.",
+            "start_date": "Mar 15",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Defence and Space (Internship)",
+            "position": "Airbus Derivatives Chief Engineer Office - Program A330 MRTT, AWACS",
+            "description": "Member of CGM, PCB, CCC and SBCB: management of technical modifications with internal and external departments. New offers: requirements management, technical specification processes.",
+            "start_date": "Nov 13",
+            "end_date": "Nov 14",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "France",
+            "institution_or_company": "",
+            "start_date": "Nov 13",
+            "end_date": "Nov 14",
+            "description": "Airbus Derivatives Chief Engineer Office - Program A330 MRTT, AWACS",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "MATLAB",
+            "CATIA",
+            "AutoCAD",
+            "Simulink"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

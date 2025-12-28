@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "zayd aslam 91 wilmington gardens, barking, essex, ig119tr - 079 6474 8251 zaydaslam786@gmail.com aerospace engineering graduate, first class, with it infrastructure background that can bring expertise and experience from both fields to the table when tackling problems. education (2016 2020) beng aerospace engineering, university of hertfordshire first class (predicted) final year project: as hydrogen has high energy density compared to other storage methods, it is often advantageous for use in transport application. the paper focused on developing a methodology that can be used to design a system for any uav. by using a hydrogen fuel cell as the main power source, and an additional energy storage system to carry any transient loads, performance of the uav can be optimized. the methodology was then applied to a case study and simulated using matlab simscape where performance of the fuel cell was analysed. findings include the efficacy of the sizing methodology and limitations in hydrogen storage methods within aerospace applications. we are currently drafting a communication paper which will be published pending peer review. relevant modules: aero structural design and analysis, aerospace vehicle design, aerospace systems modelling and control, engineering application of mathematics, materials and electrical science, fluid mechanics and thermodynamics, aerodynamics. (2013 - 2014) it apprenticeship, firebrand btec level 3 diploma in professional competence for it and telecoms professionals btec level 3 certificate in ict systems and principles microsoft: qualifications include: network fundamentals, security fundamentals, + 3 additional 2008 - 2013 gsce & a-levels, barking abbey school / sixth form a-levels: biology, chemistry, physics, applied mathematics gcses: 11, including: english literature, english language, mathematics, and double science. experience july 2017 present (part-time) project engineer, am networking projects include: e set up secure documentation server on the aws cloud platform using docker and secured by allowing access to specific ips and only allowing encrypted connections. e implemented ubiquities cloud network platform to build and manage network infrastructure. september 2015 september 2016 it support / project engineer, lady aisha academy projects include: e migrated their systems to office365, including mail servers, and created an online sharing platform using sharepoint online. e automating tasks using scripts and gpos. december 2013 september 2015 it support engineer, techquarters projects include: e assisting with migration to cloud platforms, and training users in their use. key responsibilites: e produced technical documentation on various technologies for support knowledge bases e researched technical solutions to customer problems, produced system designs of solutions, and once the customer had signed off, implemented the project, and handed over to the customer, while ensuring it met their expectations. e provided support to customers, ensuring client service and customer satisfaction was paramount. e took charge of and managed projects from conception to delivery, often working in teams, and ensuring seniors and clients were up to date along the way. e managed, deployed, and supported network and cloud infrastructure. skills e system modelling using matlab, simulink and e scripting using bash, powershell, and python. simscape. e project management and deployment e cad software catia and solidworks e communication skills with both technical and non- e cfd software star-ccm+ technical audiences e engineering simulation using ansys e comprehensive understanding of engineering e analytical and problems solving abilities physics. e highly it literate achievements lam currently in the process of drafting a communication paper with the help of my project supervisor, discussing the findings of my final year report. the aim is to submit it to the journal of power sources, where it will then be published, pending peer review. enjoy working on a variety of home projects, one of which was a solid-state cooler, based on thermoelectric cooling technology (rather than using phase change refrigeration). a second home project was building dml (distributed mode loudspeaker) speakers for my home computer, the aim was to build a system that gives a surround sound effect in a cost-effective manner. references available on request.",
+    "text_from_header": "ZAYD ASLAM",
+    "detected_language": "en",
+    "master_edition": "MASI21"
+}

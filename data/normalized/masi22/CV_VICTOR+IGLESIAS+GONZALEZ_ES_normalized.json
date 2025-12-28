@@ -1,0 +1,109 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Victor Iglesias González",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "victor.iglesias.gonzalez00@qmail.com",
+        "phone": "+34 626 07 67 59",
+        "address": "Espartinas, Sevilla 41807, Spain",
+        "LinkedIn": "https://www.linkedin.com/in/victor-iglesias-espartinas/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Mechatronics and Robotics Engineering",
+            "field": "Mechatronics and Robotics System Modelling and Simulation, Automatic Control, Industrial Automation and Instruments, Digital Electronics and Microcontrollers, Industrial Communications and Information Technology",
+            "university": "Universidad Loyola, Sevilla (Spain)",
+            "location": "Sevilla",
+            "year": "2018 - Present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Soccer Manager Esparținas C.F., Sevilla (Spain)",
+            "position": "Manager",
+            "description": "Managed a young soccer team, educated team cooperation, arranged trainings, analyzed rivals, and integrated new players. Achieved promotion to full manager for the season.",
+            "start_date": "September 2020",
+            "end_date": "June 2021",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Germany",
+            "institution_or_company": "Technische Hochschule Rosenheim",
+            "start_date": "September 2021",
+            "end_date": "July 2021",
+            "description": "Participated in an academic exchange program focusing on automation systems, image processing for automated production, industrial process control, real-time and embedded systems, and mechanical design.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Rosenheim (Germany)",
+            "institution_or_company": "Technische Hochschule Rosenheim",
+            "start_date": "September 2021 - July 2021",
+            "end_date": null,
+            "description": "Automation Systems, Image Processing for Automated Production, Industrial Process Control, Real Time and Embedded Systems, Mechanical Design",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "Python",
+            "SQL",
+            "MATLAB + Simulink (Advanced User)",
+            "Siemens PLC and SCADA Programming (LD Language)",
+            "Schneider Electric PLC Programming (LD Language)",
+            "CODESYS PLC and SCADA Programming (SFC Language)",
+            "SolidWorks (Confident User)",
+            "RobotStudio (Well Known User)",
+            "MS Office (Experienced and Confident User of Word, Excel, PowerPoint)"
+        ],
+        "soft_skills": [
+            "Time Management",
+            "Leadership",
+            "Problem Solving",
+            "Communication",
+            "Team Coordination"
+        ]
+    },
+    "other_interests_normalized": [
+        "Traveling and Visiting Other Countries",
+        "Indulging in New Cultures",
+        "Actual Non-Professional Soccer Player",
+        "Occasional Tennis Player",
+        "Passionate Fan of Individual and Team Competitive Sports"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

@@ -1,0 +1,134 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alvaro Hernando Bailly-Bailliere",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "alvaro.hernando980@hotmail.com",
+        "phone": "+34 646 75 52 07",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/alvaro-hernando-bailly-bailliére/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://www.avsaddedvaluesolutions.com/"
+    },
+    "education_normalized": [
+        {
+            "degree": "MSc in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "Tecnun - Universidad de Navarra",
+            "location": "Madrid",
+            "year": "2021-2022",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "BSc in Industrial Technologies Engineering",
+            "field": "Industrial Technologies Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2016-2021",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "AVS Added Value Solutions & URA Thrusters Oxford",
+            "position": "Space Projects Engineer",
+            "description": "Requirements management, product assurance. Support to project management in interfaces and schedule control.",
+            "start_date": "01/23",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "AVS Added Value Solutions & URA Thrusters Oxford",
+            "position": "Space Projects Product Assurance Engineer (PA)",
+            "description": "Worked in projects with prime contractors tackling all phases from kick-off to final review. Got familiarized with EN9100 standard for QMS and ECSS standards.",
+            "start_date": "Jul 22",
+            "end_date": "Dec 22",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Personal Teacher",
+            "position": "Engineering Student Personal Teacher",
+            "description": "Math, Physics, Thermodynamics, Mechanics and Control, all with high passing rate.",
+            "start_date": "June 2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Germany",
+            "institution_or_company": "Bosch Buhl",
+            "start_date": "",
+            "end_date": "",
+            "description": "Prototype rotor wiring & assembly, data gathering of prototype testing courses.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Volunteering",
+            "country": "Spain",
+            "institution_or_company": "Caritas Mallorca Food Distribution Centres",
+            "start_date": "2022",
+            "end_date": "",
+            "description": "Managing on-shelf availability of food, providing care and guidance to the centers users.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "MS Office: Excel",
+            "CAD: SolidWorks, CATIA",
+            "Agile: Jira",
+            "Electronics: Analysis",
+            "Python, C",
+            "Word, PowerPoint, SOLIDEDGE, PTC Creo Confluence",
+            "MultiSim, LabVIEW Ansys, ABAQUS Power BL"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Team Management",
+            "Project Management",
+            "Requirements Management",
+            "Product Assurance",
+            "Thermal and Structural Analysis",
+            "Audit Leadership"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Caritas Mallorca Food Distribution Centres",
+            "role": "Managing on-shelf availability of food, providing care and guidance to the centers users.",
+            "duration": "2022",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

@@ -1,0 +1,95 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jesus Zurita Ares",
+        "date_of_birth": "30/07/1985",
+        "gender": "male",
+        "age_reference_year": 2009,
+        "age": 24,
+        "email": "jesus.zurita@gmail.com",
+        "phone": "+34 607 28 35 93, +34 954 34 37 39",
+        "address": "C/ Olivares n 6a, 41010 Sevilla, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Superior Aeronáutica. Especialidad en Infraestructuras del Transporte Aéreo",
+            "field": "Aeronáutica",
+            "university": "Universidad de Sevilla",
+            "location": "España",
+            "year": "2003-2008",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "EADS IW",
+            "position": "Ingeniero de Materiales Compuestos",
+            "description": "",
+            "start_date": "2004",
+            "end_date": "2005",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "France",
+            "institution_or_company": "École Centrale Paris, EADS IW",
+            "start_date": "",
+            "end_date": "2008",
+            "description": "Participación en un proyecto de prediseño de un lanzador especial entre la ECP y EADS Astrium",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Inglés, francés",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab (y sus aplicaciones como Simulink)",
+            "Nastran-Patran",
+            "Samcef Field",
+            "Fluent",
+            "CATIA V.5",
+            "Autocad",
+            "Microsoft Office"
+        ],
+        "soft_skills": [
+            "Trabajo en equipo y liderazgo",
+            "Capacidad comunicativa",
+            "Fuerzas capacidades interpersonales"
+        ]
+    },
+    "other_interests_normalized": [
+        "Baloncesto",
+        "Fútbol"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Ninos con problemas de movimiento Salesiano, Pozoblanco",
+            "role": "Animador y organizador de los grupos de voluntarios",
+            "duration": "2005 & 2004 (julio-agosto)",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

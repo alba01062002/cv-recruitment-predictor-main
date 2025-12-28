@@ -1,0 +1,136 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pablo Nieto Martin",
+        "date_of_birth": "26/03/1990",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 27,
+        "email": "pablonietomartin@gmail.com",
+        "phone": "+34 664 30 94 74",
+        "address": "9 c/ claudio guerin 13, 102 a 41005 sevilla",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Engineering (BEng + MEng) in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "University of Seville",
+            "location": "Seville, Spain",
+            "year": "2008-2016",
+            "duration_years": 8.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Systems Engineer at Production Department",
+            "description": "SW loading on power on & no power on equipments. Loading SW in a/c from amat. SW loading simulation on crypto equipment. Charge of A400M and C295 batteries.",
+            "start_date": "03/2016",
+            "end_date": "Currently",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Defence & Space",
+            "position": "Internship at Production Department",
+            "description": "Design and implementation of a management tool in VBA for the analysis and control of productions performance. Coordination of HNC y ZC IDS. Process improvement making use of lean manufacturing techniques. Workshop support, managing a group of 20+ people in assembly processes.",
+            "start_date": "05/2015",
+            "end_date": "03/2016",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Militarytechnologie, Dienst and Uberwachung (Carbures Group)",
+            "position": "",
+            "description": "SW loading on power on & no power on equipments. Loading SW in a/c from amat. SW loading simulation on crypto equipment. Charge of A400M and C295 batteries.",
+            "start_date": "03/2016",
+            "end_date": "Currently",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Spanish Air Force",
+            "position": "",
+            "description": "Giving support at Eurofighter Typhoon and P3 Orion. Working at the propulsion workbench and engine assembly department.",
+            "start_date": "07/2013",
+            "end_date": "09/2013",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Scholarship",
+            "country": "Ireland (Dublin Institute of Technology)",
+            "institution_or_company": "",
+            "start_date": "09/2013",
+            "end_date": "05/2014",
+            "description": "Award of best product design project with communities at DIT.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "International Mobility Scholarship",
+            "country": "Guadalajara, Spain (Santander-Universidad de Sevilla)",
+            "institution_or_company": "",
+            "start_date": "08/2012",
+            "end_date": "12/2012",
+            "description": "Average of 92/100 points of the modules realised.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Visual Basic",
+            "C++",
+            "Matlab",
+            "SAP",
+            "Sipla",
+            "Autocad",
+            "Solid Edge",
+            "Solid Works",
+            "Smart Sketch",
+            "Catia (Master Catia V5 Mechanical Design)"
+        ],
+        "soft_skills": [
+            "Lean Manufacturing Techniques",
+            "Management Tool Development in VBA",
+            "Process Improvement Coordination"
+        ]
+    },
+    "other_interests_normalized": [
+        "Halfmarathon preparation (on-going)",
+        "Football",
+        "Basketball"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Volunteering with charities",
+            "duration": "2016-Currently",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 1.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

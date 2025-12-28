@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro Alvarez Ruiz-Hidalgo",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "",
+        "phone": "+34 618388437",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BSc Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Rey Juan Carlos",
+            "location": "Madrid, Spain",
+            "year": "2017-2022",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "BSc Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Istanbul Technical University",
+            "location": "Istanbul, Turkey",
+            "year": "2020-2021",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Akkadis Technologies Spain",
+            "position": "Power Plant Control Systems Engineer",
+            "description": "Worked on the design, verification, and validation of propulsion management systems and interfaces for subcontracted Airbus Defence and Space projects.",
+            "start_date": "01/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.92
+        },
+        {
+            "company": "CITD Engineering and Technologies",
+            "position": "Stress Engineer (Trainee)",
+            "description": "Performed analysis, design of aerospace structures with the finite element method, evaluated mechanical behavior of CFRP-made hydrogen tanks under cryogenic conditions, researched different tank structures, conducted testing and validation.",
+            "start_date": "07/2021",
+            "end_date": "10/2021",
+            "duration_years": 0.25
+        },
+        {
+            "company": "CITD Engineering and Technologies",
+            "position": "Stress Engineer",
+            "description": "Improved modeling of CFRP samples using the finite element method, shortened computation time and reduced cfrp waste through perception and characterization of delaminations.",
+            "start_date": "03/2022",
+            "end_date": "07/2022",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Turkey, England, Germany",
+            "institution_or_company": "",
+            "start_date": "2014-2015",
+            "end_date": "2015-2021",
+            "description": "Erasmus exchanges in Turkey (Istanbul), England (Ilkley), and Germany (Sindelfingen, Stuttgart).",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "English",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Ansys SCADE",
+            "Altair Hyperworks, Hypermesh and Hyperview",
+            "Python, MATLAB & Simulink",
+            "AutoCAD"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Critical thinking",
+            "Decision-making"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Itaka Escolapios Foundation",
+            "role": "Monitor, organizing a summer camp for kids on the brink of poverty",
+            "duration": "2017-2022",
+            "description": ""
+        },
+        {
+            "organization": "Ecovidrio",
+            "role": "Recycling waste from La Vuelta cycling race",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 3.5,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.6
+}

@@ -1,0 +1,103 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Samuel Martín Ortega",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "samuel.m.0.980@hotmail.com",
+        "phone": "+34 674955364",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/samuel-martín-ortega/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachiller en Ciencias Técnicas",
+            "field": "",
+            "university": "Colegio Tres Olivos",
+            "location": "",
+            "year": "2014-2016",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Formación en Ingeniería Aeroespacial en Aeronavegación e Ingeniería en Tecnologías de la Telecomunicación",
+            "field": "",
+            "university": "Universidad Rey Juan Carlos",
+            "location": "",
+            "year": "2016-present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Professor Particular",
+            "description": "Taught high school and baccalaureate students.",
+            "start_date": "02/2016",
+            "end_date": "07/2020",
+            "duration_years": 4.42
+        },
+        {
+            "company": "Restaurante Caballos la Vereda",
+            "position": "Camarero Extra",
+            "description": "Worked as a weekend and summer waiter.",
+            "start_date": "08/2020",
+            "end_date": "11/2022",
+            "duration_years": 2.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Hungary (Budapest)",
+            "institution_or_company": "Obuda University",
+            "start_date": "02/2021",
+            "end_date": "06/2021",
+            "description": "Mobility Erasmus program.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "Java",
+            "GAMS",
+            "SQL",
+            "Matlab",
+            "Office"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Public relations",
+            "Speaking in public"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "ONG Otro Punto de Partida",
+            "role": "Academic support instructor",
+            "duration": "2016-2020",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 6.67,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.3
+}

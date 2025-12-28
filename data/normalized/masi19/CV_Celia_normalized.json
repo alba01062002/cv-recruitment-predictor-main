@@ -1,0 +1,90 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Celia Raya Pozo",
+        "date_of_birth": "21/09/1994",
+        "gender": "female",
+        "age_reference_year": 2019,
+        "age": 25,
+        "email": "celia2194@hotmail.com",
+        "phone": "656 260 891",
+        "address": "c/ bodeguera carmen Pérez Barquero, 22. Montilla",
+        "LinkedIn": "https://www.linkedin.com/in/celia-raya-pozo-617a1b169/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Mecánica",
+            "field": "Ingeniería Mecánica",
+            "university": "Universidad de Málaga",
+            "location": "Málaga",
+            "year": "2012-2018",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Graduada en Ingeniería Mecánica que busca un trabajo para desarrollar mis capacidades y habilidades profesionales. Mi objetivo principal es encontrar un trabajo para probar mis conocimientos y continuar mi formación.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD",
+            "WordPress"
+        ],
+        "soft_skills": [
+            "Facilidad para trabajar en equipo",
+            "Resolutiva",
+            "Empática y asertiva",
+            "Habilidades para aprender con rapidez"
+        ]
+    },
+    "other_interests_normalized": [
+        "Permisos de conducir tipo B"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.1
+}

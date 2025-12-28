@@ -1,0 +1,151 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Brianda Madera Falcón",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "bria.mf95@gmail.com",
+        "phone": "+34 647 82 28 61",
+        "address": "",
+        "LinkedIn": "linkedin.com/in/alejandra-madera-2405671b0/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Industrial Design Engineering",
+            "field": "Industrial Design Engineering",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "Madrid",
+            "year": "2019-2020",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's in Industrial Design Engineering and Product Development",
+            "field": "Industrial Design Engineering and Product Development",
+            "university": "University of Las Palmas de Gran Canaria",
+            "location": "Las Palmas, Spain",
+            "year": "2013-2019",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Bachelor's in Industrial Technical Engineering",
+            "field": "Industrial Technical Engineering",
+            "university": "University of Las Palmas de Gran Canaria",
+            "location": "Las Palmas, Spain",
+            "year": "2013-2014",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Boissier Architects",
+            "position": "Internship - Interior Design and Space Organization",
+            "description": "Interior design and space organization. Drawing and interior furniture design. Material search.",
+            "start_date": "2019-01",
+            "end_date": "2019-12",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Time AZ",
+            "position": "Event Host at UDLPGC Stadium Football Event",
+            "description": "Customer service and information provision. Problem resolution.",
+            "start_date": "2016-01",
+            "end_date": "2019-12",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Heineken Promotions",
+            "position": "Promotion",
+            "description": "Product promotion, customer service, event reports.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "JTI",
+            "position": "Sales and Stock Control",
+            "description": "Product promotion, client search, sales, stock count, team work, problem solving.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ Study Abroad",
+            "country": "Italy",
+            "institution_or_company": "University of Politecnico Di Milano",
+            "start_date": "2017-09",
+            "end_date": "2018-06",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Milan, Italy",
+            "institution_or_company": "University of Politecnico Di Milano",
+            "start_date": "2017-2018",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "Italian",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Autocad",
+            "SolidWorks",
+            "Catia",
+            "Sketchup",
+            "Altair Inspire",
+            "Blender",
+            "Excel",
+            "PowerPoint",
+            "Photoshop",
+            "3DMax"
+        ],
+        "soft_skills": [
+            "Proactive and responsible",
+            "Result-oriented",
+            "Team player",
+            "Creative ideas",
+            "Quick adaptation to new environments"
+        ]
+    },
+    "other_interests_normalized": [
+        "Driving license B",
+        "Musical education at ESMUT (School of Music, Dance and Theatre)",
+        "Dance and theater training"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

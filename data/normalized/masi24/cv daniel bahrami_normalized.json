@@ -1,0 +1,89 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Bahrami Planchuelo",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "danielbahrami02@gmail.com",
+        "phone": "608491062",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Telemática",
+            "field": "Ingeniería de Sistemas y Redes Telemáticas",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2018-actualidad",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Técnico de Proyecto en prácticas",
+            "description": "SIRE Sistemas y Redes Telemáticas, donde trabajó de septiembre 2023 a mayo 2024.",
+            "start_date": "09/2023",
+            "end_date": "05/2024",
+            "duration_years": 0.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "C",
+            "Java",
+            "JavaScript"
+        ],
+        "soft_skills": [
+            "Trabajo en equipo",
+            "Adaptabilidad a entornos dinámicos",
+            "Resolución de problemas y toma de decisiones"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Fundación UC3",
+            "role": "Participante en el taller 'Cómo ser más productivo en nuestro trabajo individual y colectivo, claves prácticas'",
+            "duration": "2023",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.67,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.4
+}

@@ -1,0 +1,145 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Clara Carricajo",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "clara.carricajo@gmail.com",
+        "phone": "+33627237918",
+        "address": "1 rue emile zola, 69001 lyon, france",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Electrónica e Informática (MSc)",
+            "field": "Electrical and Electronic Engineering",
+            "university": "NTUST (National Taiwan University of Technology)",
+            "location": "Taiwan",
+            "year": "2019",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Ingeniería Electrónica y Electrónica",
+            "field": "Electrical and Electronic Engineering",
+            "university": "Swinburne University of Technology Sarawak Campus",
+            "location": "Malaysia",
+            "year": "2016",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Scientific Baccalaureate with Honors",
+            "university": "Lycée Condorcet Saint-Priest",
+            "location": "",
+            "year": "2013",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Groupe SEB",
+            "position": "Project Electronic Lead",
+            "description": "Leading the IT team in project conception using Agile method. Created an electronic component database and centralized orders for components, saving money on bulk purchases.",
+            "start_date": "04/2018",
+            "end_date": "08/2018",
+            "duration_years": 0.33
+        },
+        {
+            "company": "O Noise",
+            "position": "Sustainability Vice President",
+            "description": "Conducted environmental education for students on sustainable development. Collaborated with scientists to reduce global warming, and organized social innovation workshops.",
+            "start_date": "05/2017",
+            "end_date": "03/2018",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Saint-Gobain",
+            "position": "Marketing Deputy Director",
+            "description": "Studied material specifications and applications for the Korean market. Established a database model with product lines, technical requirements, applications, clients, and countries (Japan, Australia, Indonesia, Malaysia).",
+            "start_date": "01/2017",
+            "end_date": "02/2017",
+            "duration_years": 0.08
+        },
+        {
+            "company": "JEECE Junior Company",
+            "position": "Head of Prospecting",
+            "description": "Managed customer outreach and technical specifications for service sales. Conducted client prospecting and contract bidding.",
+            "start_date": "10/2015",
+            "end_date": "09/2016",
+            "duration_years": 0.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work",
+            "country": "Taiwan, Malaysia",
+            "institution_or_company": "NTUST, Swinburne University of Technology Sarawak Campus",
+            "start_date": "",
+            "end_date": "",
+            "description": "Semester abroad in Taipei and internship at Swinburne University.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "TensorFlow",
+            "Python",
+            "C, C++, C#",
+            "Java",
+            "SQL",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "MongoDB",
+            "React.js",
+            "Assembly language",
+            "Arduino",
+            "ISIS Proteus",
+            "PSPICE"
+        ],
+        "soft_skills": [
+            "Agile Methodologies",
+            "Cascaded Methodologies",
+            "Team Leadership",
+            "Project Management",
+            "Innovation and Social Entrepreneurship",
+            "Sustainability Education",
+            "Environmental Awareness",
+            "Technical Documentation"
+        ]
+    },
+    "other_interests_normalized": [
+        "Muay Thai",
+        "Electronic Music: Composition/Production",
+        "Traveling around the world"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Start-up Founder",
+            "duration": "2014 - Present",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 2.16,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

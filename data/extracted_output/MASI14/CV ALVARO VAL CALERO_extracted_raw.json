@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "información personal apellidos / nombre val calero, álvaro dirección avenida de la libertad 28, 30510 yecla (murcia) espaa nacionalidad espaola fecha de nacimiento 16 octubre 1989 teléfono +34 618 884197 email alvaca89 0 gmail.com experiencia y educación oct - 2012, jul - 2013 ao en el extranjero proyecto final de carrera technische universitat wien viena sep - 2010, sep - 2012 ingeniería industrial upv (universidad politécnica de valencia). sep 2007, - jul - 2010 ingeniería técnica industrial, mecánica upv (universidad politécnica de valencia) competencias e idiomas inglés nivel c1 alemán nivel a2.2 2012-2013 a1.2, a2.1 and a2.2 innes international network for educational support in hihger education (viena) jul-2009 curso de inglés en ces swadean school of worthing (united kingdom) nivel intermedio 2008-2010 tiempo parcial clases de apoyo alumnos de secundaria jun, jul, ago - 2008 clases de apoyo alumnos de secundaria ene-2003, actualmente tiempo parcial atención al público el molino del pienso conocimientos informáticos y habilidades conocimiento informático: excel, word, access, power point. conocimiento software científico: mathematica 7, matlab, mathcad, solid works, ansys, star-cd, auto cad y latex. información adicional atención al cliente carnet de conducir deportes de montaa, senderismo y bicicleta de montaa",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI14"
+}

@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sergio Gil López",
+        "date_of_birth": "17/05/1992",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 26,
+        "email": "sergio.glopez92@gmail.com",
+        "phone": "+34 (91) 810 37 43",
+        "address": "c/ ruiseores 12 grión, Madrid 28971, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Aerospace Engineering, Specialization: Aerospace Propulsion",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid & Politecnico di Torino",
+            "location": "Madrid, Spain; Torino, Italy",
+            "year": "2010-2016",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Master's Degree in Professional Development",
+            "field": "",
+            "university": "Universidad de Alcalá (UAH)",
+            "location": "Madrid, Spain",
+            "year": "2016-present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus",
+            "position": "Present",
+            "description": "",
+            "start_date": "September 2016",
+            "end_date": "12/2018",
+            "duration_years": 0.0
+        },
+        {
+            "company": "DIM Industría de Turbo Propulsores, S.A.",
+            "position": "February 2016 - June 2016; September 2015 - January 2016",
+            "description": "Internship in Airbus Defence & Space - Sales Performance Governance Department: support to sales pipeline maintenance : planning. support to different campaigns with the maturity gate process. international meetings : discussions. helping implement mysales 2.0 (based on Microsoft Dynamics CRM).",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Academic year in Politecnico di Torino",
+            "country": "Italy",
+            "institution_or_company": "Politecnico di Torino",
+            "start_date": "2015",
+            "end_date": "",
+            "description": "Taught entirely in Italian.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Italian",
+            "B1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "LabVIEW",
+            "CATIA (Computer-aided three-dimensional interactive application)",
+            "ANSYS Fluent",
+            "Unigraphic",
+            "Microsoft Project",
+            "Microsoft Dynamics CRM"
+        ],
+        "soft_skills": [
+            "Communication skills: excellent command of verbal and written communication, based on listening, empathy, and ability to participate in projects requiring trained teamwork.",
+            "Organisational/managerial skills: development of teamwork, supported by communication, trust, respect, and ethics."
+        ]
+    },
+    "other_interests_normalized": [
+        "Excellent command of office suite (word processor, spreadsheet, presentation software) with use of VBA macros.",
+        "Organisational/managerial skills",
+        "Communication skills"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "Not specified",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.7
+}

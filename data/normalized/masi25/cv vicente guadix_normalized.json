@@ -1,0 +1,93 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Vicente Guadix Zamora",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "vicenteguadixzamora@gmail.com",
+        "phone": "+34 606 500 243",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/vicente-guadix-zamora-0a59a5174/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in aerospace engineering",
+            "field": "Aerospace Engineering, Specialization in Aero Vehicles Design",
+            "university": "University of Seville",
+            "location": "Seville",
+            "year": "2016-2022",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Bertrandt Technology, Spain",
+            "position": "Camo Engineer",
+            "description": "Airworthiness engineer for the A330MRTT Global Fleet on behalf of Airbus DS E. Technical development of new A330 MRTT maintenance program (AMP). Issues for different airbus clients worldwide.",
+            "start_date": "Aug. 2024",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Pegasus Aerogroup, Spain",
+            "position": "Cam&Project Engineer",
+            "description": "Support to CAMO holder and fleet responsibles in the airworthiness monitoring of small/large rotorcrafts (CS27/CS29) and small airplanes (CS23). Technical support in projects to CAMO holder and clients. Fleet management: work orders generation, corrective/preventive maintenance tasks. ME development update technical documentation such as ICAs, Sb, Amm, FMS.",
+            "start_date": "Aug. 2022",
+            "end_date": "Aug. 2024",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5: Part Design, Assembly Design, Generative Shape Design, DMU Kinematics, Wireframe and Surface Design",
+            "FreeCAD: Mechanical Design Modules, Fem Module, Assembly Module, Tech Draw Module",
+            "Python: User Level",
+            "Matlab: Mid Level",
+            "Simulink: User Level",
+            "Excel: Mid Level",
+            "Power BI & Power Query: User Level orion & tipi (Airbus Technical Publications Software)",
+            "Airbus CSWP, Airbus World, Airbus CDLS, Airbus SIPLA",
+            "My Bell (Bell Textron Publications Software)",
+            "Aeronautical ERP Software: Envision by Rusada"
+        ],
+        "soft_skills": [
+            "Mechanical Design",
+            "System Design",
+            "Certification of Modifications",
+            "Technical Documentation Analysis"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.9
+}

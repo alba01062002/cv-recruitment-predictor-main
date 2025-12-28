@@ -1,0 +1,104 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge Escribano Diaz-Maroto",
+        "date_of_birth": "22/01/1998",
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": 25,
+        "email": "jorge.escribano.980@gmail.com",
+        "phone": "+34 690 967 658",
+        "address": "c. Felipe de África 28907, Getafe, Madrid, Spain",
+        "LinkedIn": "https://www.linkedin.com/in/jorge-escribano-diaz-maroto/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Mechanical Engineering Degree (Bilingual)",
+            "field": "Mechanical Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2016-2021",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Bosch",
+            "position": "Intern in TEF 3 Department",
+            "description": "Control and follow-up of a program related with machine maintenance, SAP for maintenance purposes: MTTR and MTBF computation, support in organizing preventive maintenance of machines, support preparing industrial layouts.",
+            "start_date": "07/2021",
+            "end_date": "08/2021",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Verisure - Securitas Direct",
+            "position": "Intern in Quality Assurance Department",
+            "description": "Redaction of reports, procedures and guidelines, management of databases, carrying out tasks related with the Reach regulation.",
+            "start_date": "11/2021",
+            "end_date": "10/2022",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Exceltic",
+            "position": "Rams Engineer",
+            "description": "Redaction of preliminary definitions for railway projects, support in tasks related with Rams engineering.",
+            "start_date": "10/2022",
+            "end_date": "12/2022",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Airbus Defence & Space - Capgemini Engineering",
+            "position": "Continuous Improvement and Automation Engineer - TASM",
+            "description": "Programming in VBA for different projects in different departments, improvement of different processes and macros oriented to the aerospace defense industry, use of SAP in daily tasks.",
+            "start_date": "01/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.92
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "FORTRAN",
+            "Visual Basic",
+            "Solid Edge",
+            "ANSYS Fluent",
+            "CYPE",
+            "ABAQUS",
+            "SpaceClaim",
+            "Excel",
+            "SAP",
+            "Mathcad"
+        ],
+        "soft_skills": [
+            "Programming",
+            "Quality Assurance",
+            "Database Management",
+            "Process Improvement"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 5.09,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

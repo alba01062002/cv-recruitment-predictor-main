@@ -1,0 +1,116 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alberto Martínez Arroyo",
+        "date_of_birth": "04/11/1983",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 34,
+        "email": "alberto.ma.martinez@airbus.com",
+        "phone": "+34 675403476",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Telecommunications Engineer (5-year degree)",
+            "field": "Planning and management",
+            "university": "Universidad Carlos III Madrid, Spain",
+            "location": "Madrid",
+            "year": "2009",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus DS",
+            "position": "Simulation Engineer for Aerospace Projects",
+            "description": "Responsible for UAV platform: mission computer, flight control system and other aircraft systems. \"SE-RPASII (UAS simulator trainer) for Spanish Air Force\"",
+            "start_date": "12/2013",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Tecnobit",
+            "position": "Simulation Engineer for Defence Projects",
+            "description": "SimAF (Fire Support Simulator) for Brazilian Army. Complete life cycle meeting customer needs from initial design to in-service. \"Artificial intelligence. Weapons and navigation systems. UAV. Real time simulation\"",
+            "start_date": "08/2011",
+            "end_date": "11/2013",
+            "duration_years": 2.25
+        },
+        {
+            "company": "SEPSA SCI",
+            "position": "Embedded Software Engineer for Railway Projects",
+            "description": "Real time and embedded systems (train event recorders). Systems life cycle responsible: analysis, design, implementation, integration and validation tests, maintenance and technical documentation (SRS, SDD, STD)",
+            "start_date": "03/2010",
+            "end_date": "02/2011",
+            "duration_years": 0.92
+        },
+        {
+            "company": "CESYA",
+            "position": "Researcher for Accessibility Projects",
+            "description": "Design of a cinema subtitling system: choice of hw (head mounted display, Zigbee SOC, video card), construction of a prototype, sw development and tests. \"Subtitling in real time into APEINta project\"",
+            "start_date": "10/2008",
+            "end_date": "02/2010",
+            "duration_years": 1.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Swap program participant",
+            "country": "Germany",
+            "institution_or_company": "Manching",
+            "start_date": "",
+            "end_date": "11/2016",
+            "description": "PC-21 simulator. Testbench for sound module",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "German",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C/C++",
+            "C#",
+            "Python",
+            "Aeronautics knowledge",
+            "Avionics knowledge",
+            "Railway systems knowledge",
+            "Enterprise architect (UML)",
+            "DoORS",
+            "PFORGE (Jira, Confluence), Trac",
+            "Microsoft Office",
+            "Microsoft Project"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.4
+}

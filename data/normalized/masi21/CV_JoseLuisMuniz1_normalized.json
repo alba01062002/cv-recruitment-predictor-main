@@ -1,0 +1,100 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José Luis Muiz Cacho",
+        "date_of_birth": "30/10/1998",
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": 23,
+        "email": "luis.muniz.cacho@gmail.com",
+        "phone": "",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/jose-luis-muiz-cacho-aeronautica-y-del-espacio-en-madrid-upm",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "3er Grado en Ingeniería Aeronáspacial",
+            "field": "Vehículos Aéreos",
+            "university": "Escuela Técnica Superior de Ingeniería del Aerospaciables (ETSIAE) - Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2016-2021",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Uniteco",
+            "position": "Analista de Datos en Excel",
+            "description": "",
+            "start_date": "September 2020",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Actúa UPM (UPM)",
+            "position": "Ingeniero Aeronáutico para Analizar y Resolver Proyecto Dronex",
+            "description": "Analisis, diseño y fabricación de un UAV con especificaciones exigidas. Parcial de la red de drones Dronex + Diseño del Business Plan y presentación del proyecto",
+            "start_date": "March 2021",
+            "end_date": "May 2021",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "Nastran Patran",
+            "HyperWorks",
+            "MATLAB",
+            "Simulink",
+            "Excel (macros, powerpoint, word)"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Leadership",
+            "Time Management",
+            "Self-Learning"
+        ]
+    },
+    "other_interests_normalized": [
+        "Diseño de Superficies Aeronáuticas en CATIA V5",
+        "Deportes",
+        "Participación en Actividades del Colegio Mayor"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Organización de Eventos Universitarios en Madrid",
+            "role": "Encargado de Crear Eventos y Gestionar un Equipo de Difusión",
+            "duration": "October 2018 - February 2020",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

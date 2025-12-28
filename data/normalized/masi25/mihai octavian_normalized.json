@@ -1,0 +1,137 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Mihai Octavian Stanescu",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "mihai.o.stanescu@gmail.com",
+        "phone": "",
+        "address": "",
+        "LinkedIn": "www.linkedin.com/in/mihai-octavian-stanescu",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Micro-credential in Open Architecture Processors Design",
+            "field": "Embedded Systems",
+            "university": "Escuela Tecnica Superior de Ingenieros Industriales Universidad Politecnica de Madrid, Madrid",
+            "location": "Madrid",
+            "year": "2025",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Future Leaders Program, Business Expert",
+            "field": "",
+            "university": "ThePower Business School",
+            "location": "",
+            "year": "2023-2024",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Master in Embedded and Distributed Systems",
+            "field": "Embedded Systems",
+            "university": "Escuela Tecnica Superior de Ingenieria de Sistemas Informaticos Universidad Politecnica de Madrid, Madrid",
+            "location": "Madrid",
+            "year": "2020-2022",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor in Computer Engineering",
+            "field": "",
+            "university": "Escuela Tecnica Superior de Ingenieria de Sistemas Informaticos Universidad Politecnica de Madrid, Madrid",
+            "location": "Madrid",
+            "year": "2016-2020",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "TechTeamz",
+            "position": "QA for Embedded Software - Full Time",
+            "description": "Working in an ISO9001 environment to provide QA for cryptographic accelerators based on the RISC-V architecture. Responsibilities included V&V process, adding value to CI/CD pipeline, testing features of company products, developing user-level command-line applications, and mentoring new team members.",
+            "start_date": "05/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.58
+        },
+        {
+            "company": "Teldat",
+            "position": "R&D Embedded Software Developer - Full Time",
+            "description": "Enhanced OSDX and CIT routers by implementing new features in C, C++, and Python. Automated test creation using the Robot Framework, developed scripts for testing scenarios, authored documentation using Sphinx framework, and facilitated onboarding process.",
+            "start_date": "04/2021",
+            "end_date": "04/2023",
+            "duration_years": 2.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Romanian",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C",
+            "C++",
+            "Python",
+            "LaTeX",
+            "Bash",
+            "Robot Framework",
+            "Pytest",
+            "Coverity",
+            "Jenkins",
+            "SVN",
+            "Linux",
+            "Windows",
+            "Jira",
+            "Gerrit",
+            "Jama",
+            "Phabricator"
+        ],
+        "soft_skills": [
+            "Source Insight",
+            "Visual Studio Code",
+            "Beyond Compare",
+            "Meld",
+            "Spirent TestCenter",
+            "Automation",
+            "Documentation",
+            "Testing",
+            "Project Management",
+            "Team Mentoring"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 4.58,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

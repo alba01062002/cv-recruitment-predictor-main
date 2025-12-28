@@ -1,0 +1,93 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sara García Díaz",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "saragarcia.diaz@hotmail.com",
+        "phone": "+34 656 33 86 74",
+        "address": "calle lago blanco 4, parla (madrid) 28981",
+        "LinkedIn": "www.linkedin.com/in/saragarciadiaz",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Arquitectura Naval e Ingeniería Marítima",
+            "field": "Ingeniería Naval y Oceánica",
+            "university": "Universidad de Cádiz",
+            "location": "Cádiz, España",
+            "year": "2015-2022",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Navantia S.A.",
+            "position": "Becaria en Departamento de Producción",
+            "description": "Trabajo en equipo con otros ingenieros y jefes de unidad productiva en el departamento de prearmamento para el proyecto corvettes AVT2200 para la Armada de Arabia Saudí. Gestión y seguimiento de materiales mediante SAP y Windchill, contacto con el cliente, inspección y verificación a bordo de elementos montados tubería, tanques estructurales, equipos y calderería (mechanical completion), participación en reuniones de coordinación y pruebas de las construcciones C549 y C550 del proyecto corvettes AVT2200, control y asesoramiento de trabajos a realizar en obra y coordinación de actividades empresariales.",
+            "start_date": "Marzo 2021",
+            "end_date": "Marzo 2022",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SAP",
+            "FORAN + paquete office",
+            "CATIA",
+            "AutoCAD",
+            "Maxsurf"
+        ],
+        "soft_skills": [
+            "trabajo en equipo",
+            "capacidad para trabajar bajo presión",
+            "organización",
+            "proactividad",
+            "dinamismo",
+            "capacidad de comunicación"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

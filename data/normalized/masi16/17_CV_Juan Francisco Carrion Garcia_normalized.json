@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Francisco Carrion Garcia",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2016,
+        "age": null,
+        "email": "juanfracarrion@yahoo.es",
+        "phone": "686531804",
+        "address": "Calle La Seda, n 5, 4D, 30800 Lorca (Murcia)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Técnica Superior de Industriales",
+            "field": "Mecánica",
+            "university": "Universidad Politécnica de Valencia, España",
+            "location": "Valencia",
+            "year": "2009-2015",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Master en Mecatrónica",
+            "field": "Not specified in detail",
+            "university": "Universidad Técnica de Hamburg-Harburg, Alemania",
+            "location": "Hamburg (Germany)",
+            "year": "2013-2014",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Centro de Motores Térmicos Universidad Politécnica de Valencia",
+            "position": "Asistente de Investigación en el área de Control",
+            "description": "Elaboración de estrategias de control para reducir el consumo y emisiones contaminantes en vehículos híbridos. Programación en MATLAB y C++.",
+            "start_date": "09/2014",
+            "end_date": "03/2015",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Alemania",
+            "institution_or_company": "Universidad Técnica de Hamburg-Harburg, Alemania",
+            "start_date": "10/2013",
+            "end_date": "09/2014",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "C/C++",
+            "Python",
+            "Photoshop",
+            "ANSYS"
+        ],
+        "soft_skills": [
+            "MS Office",
+            "OpenOffice",
+            "LaTeX",
+            "Pro/E",
+            "AutoCAD",
+            "Catia",
+            "Nadador en la categoría máster",
+            "Acompañamiento a estudiantes Erasmus",
+            "Mentor en el buddy-program para alumnos internacionales"
+        ]
+    },
+    "other_interests_normalized": [
+        "Nadador en la categoría máster del Club Natación Lorca",
+        "Aficionado a la carrera a pie",
+        "Equipo universitario de baloncesto de la Tuhh, Hamburgo, Alemania"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Universidad Politécnica de Valencia, España",
+            "role": "Mentor en el buddy-program para alumnos internacionales",
+            "duration": "2012-2013",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 0.5,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

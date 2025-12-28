@@ -1,0 +1,93 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge Escobar Guerrero",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "jorge.escobar.guerrero@gmail.com",
+        "phone": "+34 692575553",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/jorge-escobar-guerrero-b5b40a240",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Engineering (Habilitation)",
+            "field": "Industrial Engineering",
+            "university": "University Rey Juan Carlos",
+            "location": "Madrid",
+            "year": "2022 - present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor of Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "Madrid",
+            "year": "2018 - 2022",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Ingenieros AAL, S.L.",
+            "position": "Engineering Technical Support Engineer",
+            "description": "Provided support for the A400M project in the generation department. Generated documentation delivered to the aircraft and fleet, containing the configuration of all components and their lifecycle and maintenance cycles.",
+            "start_date": "07/2022 - present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Fablab ETSIDI Ingenia Madrid",
+            "position": "Mechanical Engineer (Internship)",
+            "description": "Project planning and elaboration, sales and promotion of manufacturing technologies. Study and analysis of product viability, prototyping creation. Customer communication and consulting.",
+            "start_date": "02/2022 - 05/2022",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "Autodesk Inventor",
+            "Inventor CAM",
+            "AutoCAD",
+            "Fusion 360",
+            "MATLAB",
+            "ANSYS Workbench",
+            "Granta EduPack 2000",
+            "Programming in C++ and C",
+            "EEs (Engineering Equation Solver)",
+            "Fagor CNC",
+            "Siemens Simatic Step 7",
+            "Microsoft Office (Word, Excel, PowerPoint)"
+        ],
+        "soft_skills": [
+            "Organized",
+            "Works well under pressure",
+            "Daily hard work"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 9.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 6.9
+}

@@ -1,0 +1,96 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carmen López Liébanas",
+        "date_of_birth": "10/03/1988",
+        "gender": "female",
+        "age_reference_year": 2013,
+        "age": 25,
+        "email": "cliebanaso@gmail.com",
+        "phone": "+34 678087865",
+        "address": "Pasaje de la Mora 2, Chalet 3, Pozuelo de Alarcón, Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Double Degree in Industrial Engineering Specialized in Automatics and Electronics",
+            "field": "Industrial Engineering",
+            "university": "Universidad Carlos III de Madrid (UC3M) and École Nationale Supérieure d'Arts et Métiers (ENSAM)",
+            "location": "Madrid, Spain and Paris, France",
+            "year": "2006-2010 / 2008-2010",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Military (EADS)",
+            "position": "Full-time Intern",
+            "description": "Working in the Power Plant Domain for the A400M aircraft. Analyzing flight test data to evaluate power plant characteristics and collaborating with control/FADec group.",
+            "start_date": "September 2010",
+            "end_date": "February 2011",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Madrid School",
+            "position": "Mathematics and Physics Teacher",
+            "description": "Preparing students for their exams.",
+            "start_date": "March 2011",
+            "end_date": "12/2013",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "France",
+            "institution_or_company": "École Nationale Supérieure d'Arts et Métiers (ENSAM)",
+            "start_date": "September 2011",
+            "end_date": "June 2011",
+            "description": "Design of a technical solution, the treatment of NMEA parameters for maritime transport in partnership with Skywave.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "Assembler",
+            "PL7 in GRAFCET",
+            "FORTRAN",
+            "Microsoft Office (Word, Excel, PowerPoint)",
+            "AutoCAD",
+            "MySQL",
+            "Windows Server",
+            "STATGRAPHICS"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

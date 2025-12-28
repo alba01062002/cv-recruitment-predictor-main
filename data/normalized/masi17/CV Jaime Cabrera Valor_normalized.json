@@ -1,0 +1,134 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jaime Cabrera Valor",
+        "date_of_birth": "03/04/1991",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 26,
+        "email": "jaimecv8@gmail.com",
+        "phone": "+34 696 95 22 99",
+        "address": "",
+        "LinkedIn": "https://es.linkedin.com/in/jaimecvalor/en",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Professional Development - Gaia Program",
+            "field": "Professional Development",
+            "university": "Universidad de Alcalá",
+            "location": "Madrid, Spain",
+            "year": "2016-2017",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's Degree + Master's in Aerospace Engineering (EQF Level 7) - Specialization in Aircrafts, Aerodynamics, Aeroelasticity and Flight Dynamics",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2009-2016",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Group",
+            "position": "Intern: Research and Technology Airframe HTP : VTP Design",
+            "description": "Design new airframe solutions using CATIA V5. New lay-up distribution for new projects. Optimization and integration of current options in terms of weight, cost and performance. Technical specification for contract documentation with external companies.",
+            "start_date": "03/2016",
+            "end_date": "12/2017",
+            "duration_years": 1.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Exchange Programme",
+            "country": "Czech Republic",
+            "institution_or_company": "CTU Prague",
+            "start_date": "2015",
+            "end_date": "",
+            "description": "Design, model, and test of a water rocket. Perform an optimal solution.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Athens Course",
+            "country": "Belgium",
+            "institution_or_company": "Leuven University (Athen's course)",
+            "start_date": "2013",
+            "end_date": "",
+            "description": "Course on Wind Power Development, Wind Energy.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Student Exchange Program",
+            "country": "United Kingdom",
+            "institution_or_company": "Guildford English (Student Exchange Company)",
+            "start_date": "2011-2015",
+            "end_date": "",
+            "description": "Spanish students group leader. Varied activities, helping native teachers.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A1"
+        ],
+        [
+            "Korean",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "MATLAB-Simulink",
+            "ANSYS-Fluent",
+            "Microsoft Office",
+            "Python"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Organizational Skills",
+            "Client Management",
+            "Technical Documentation"
+        ]
+    },
+    "other_interests_normalized": [
+        "Cinema",
+        "Reading",
+        "Basketball",
+        "Theatre",
+        "Economy",
+        "Swimming",
+        "Automobiles",
+        "Sailing"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Halcon Viajes and Xcape (Travel Agency)",
+            "role": "Coordinator: Organizing the international trip for big groups. Seeking out new customers and responsible for finance strategies.",
+            "duration": "2012",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 1.75,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

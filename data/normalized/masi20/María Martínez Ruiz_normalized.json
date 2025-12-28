@@ -1,0 +1,143 @@
+{
+    "personal_information_normalized": {
+        "full_name": "María Martínez Ruiz",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "martinezruiz.mmr@gmail.com",
+        "phone": "+34 611 196 424",
+        "address": "",
+        "LinkedIn": "linkedin.com/in/maria-martinez-ruiz",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Business Administration (MBA)",
+            "field": "",
+            "university": "University Rey Juan Carlos through Gade Business School",
+            "location": "Madrid",
+            "year": "2019-2020",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Master in Decision Making and Innovation",
+            "field": "",
+            "university": "University of Alcalá de Henares",
+            "location": "",
+            "year": "2019",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Expert Course in Cyber Security and Ethical Hacking",
+            "field": "",
+            "university": "Comunix Group School",
+            "location": "",
+            "year": "2018",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Degree in Industrial Organization Engineering - Production Branch",
+            "field": "Industrial Engineering",
+            "university": "University of Málaga",
+            "location": "Málaga",
+            "year": "2015-2019",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Avon Moto",
+            "position": "Student QE (Performance and Improvement Department)",
+            "description": "Expert in process automatization with Excel macros on VBA; creation of workload vs workforce automatic analysis; generation of new proposal for continuous improvement: kaizen, 5S, lean; demat responsible: managing analysis, regular reporting and supporting users; KPI definition, performance monitoring and feedback providing; to keep, manage and analyze SPCD panels",
+            "start_date": "01/2018",
+            "end_date": "12/2019",
+            "duration_years": 1.92
+        },
+        {
+            "company": "",
+            "position": "Quality Assurance and Audits (Clue Technologies Quality Management Department)",
+            "description": "Implementation of ISO standard: 9100, 9001; managing EASA certification (ADOA); coordinate all key stakeholders; procedures documentation and handbooks",
+            "start_date": "2018",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "BF Comércio e Servicos",
+            "position": "Commercial and Sales Agent",
+            "description": "Supervision and coordination of work teams in a sales company",
+            "start_date": "01/2014",
+            "end_date": "12/2015",
+            "duration_years": 1.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Portuguese",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Linux",
+            "Windows",
+            "Microsoft Office",
+            "C++",
+            "VBA",
+            "UiPath",
+            "Solid Edge",
+            "AutoCAD",
+            "Sony Vegas",
+            "Photoshop",
+            "Matlab",
+            "GAMS",
+            "Arena",
+            "Lean Manufacturing",
+            "Business Strategy 3",
+            "Planning",
+            "Production Control",
+            "Project Management",
+            "Agile Methodology",
+            "Continuous Improvement"
+        ],
+        "soft_skills": [
+            "Quality Analysis and Optimization",
+            "Negotiation Capability",
+            "Leadership and Communication",
+            "Teamwork"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 3.84,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.9
+}

@@ -1,0 +1,148 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alaeddine Charfi",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "aldaddin.charfi87@gmail.com",
+        "phone": "+34 634 21 41 83",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/ala-eddine-charfi/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aeronautical Engineering",
+            "field": "Aeronautical Engineering",
+            "university": "Universidad de Jaén",
+            "location": "Spain",
+            "year": "2021-2024",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Higher School of Aeronautics and Technologies, Tunisia",
+            "location": "",
+            "year": "2019-2021",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Institute for the Preparatory Studies for Engineering Studies of Sfax (IPEIS), Tunisia",
+            "location": "",
+            "year": "2019-2021",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Fadhel Ben Achour High School, Tunisia",
+            "location": "",
+            "year": "2018-2019",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Universidad de Jaén (Spain)",
+            "position": "Erasmus Mobility Exchange Student",
+            "description": "Internship focused on the design and simulation of a biomass gasifier, including parametric studies.",
+            "start_date": "01/2024",
+            "end_date": "12/2025",
+            "duration_years": 1.92
+        },
+        {
+            "company": "Tunisair Express (Tunisia)",
+            "position": "Technical Reliability Data Management Intern",
+            "description": "Data management for ATR72-600 aircraft and study of the 2-year visit dossier.",
+            "start_date": "07/2023",
+            "end_date": "08/2023",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Tunisair Technics (Tunisia)",
+            "position": "Maintenance Internship",
+            "description": "Observation of maintenance interventions on A320 aircraft.",
+            "start_date": "03/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ Scholarship Mobility Exchange",
+            "country": "Spain",
+            "institution_or_company": "Universidad de Jaén",
+            "start_date": "01/2024",
+            "end_date": "",
+            "description": "Internship focused on the design and simulation of a biomass gasifier, including parametric studies.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Arabic",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "Java",
+            "RDM6",
+            "ANSYS",
+            "Python",
+            "Abaqus",
+            "Arduino",
+            "CATIA V5",
+            "Pack Office",
+            "STM32",
+            "iSiS Proteus",
+            "Raspberry Pi",
+            "MATLAB/Simulink"
+        ],
+        "soft_skills": [
+            "creativity",
+            "teamwork",
+            "motivation",
+            "problem solving"
+        ]
+    },
+    "other_interests_normalized": [
+        "travel",
+        "sport"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Aeromodelisme Club",
+            "role": "Member",
+            "duration": "2024",
+            "description": ""
+        },
+        {
+            "organization": "Robotics and Artificial Intelligence Club",
+            "role": "Member",
+            "duration": "2024",
+            "description": ""
+        }
+    ],
+    "degree_years": 3.0,
+    "total_work_years": 5.75,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.6
+}

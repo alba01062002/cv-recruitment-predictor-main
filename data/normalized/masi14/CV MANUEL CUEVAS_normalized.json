@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Manuel Cuevas Ezquerra",
+        "date_of_birth": "07/25/1989",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 25,
+        "email": "mcuevasez@gmail.com",
+        "phone": "+34 675950710",
+        "address": "Leonor de la Vega 5 6c, 39300 Torrelavega (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Degree in Industrial Engineering",
+            "field": "Industrial Engineering and Telecommunications",
+            "university": "Escuela Técnica Superior de Ingenieros Industriales y de Telecomunicaciones, Universidad de Cantabria",
+            "location": "Cantabria, Spain",
+            "year": "2007-2013",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Dissertation",
+            "field": "Production, Development and Automotive Engineering",
+            "university": "Inegi (Mechanical Engineering and Industrial Management Institute)",
+            "location": "Portugal",
+            "year": "2012-2013",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Sicue Scholarship",
+            "field": "Industrial Engineering",
+            "university": "Escuela Técnica Superior de Ingenieros Industriales, Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2010-2011",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Tratamiento Integral de Residuos Cantabria SL (TIRCANTABRIA SLU) Urbaser",
+            "position": "Project Engineer - Slag Valuation and Management Project",
+            "description": "Responsibilities included energy-from-waste facility operation and management of the slag valuation and management project.",
+            "start_date": "07/15/2013",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Tratamiento Integral de Residuos Cantabria SL (TIRCANTABRIA SLU) Urbaser",
+            "position": "Assistant Shift Manager - Energy-from-Waste Facility Operation",
+            "description": "Operated energy-from-waste facility for 3 months.",
+            "start_date": "07/15/2013",
+            "end_date": "09/30/2013",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Portugal",
+            "institution_or_company": "Faculdade de Engenharia, Universidade do Porto",
+            "start_date": "09/2010",
+            "end_date": "07/2011",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Portuguese",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fortran programming",
+            "Vlisp programming",
+            "Fluid mechanics",
+            "MATLAB",
+            "AutoCAD (basic knowledge)"
+        ],
+        "soft_skills": [
+            "Team work",
+            "Fast adaptation and learn easy",
+            "Good communication skills",
+            "Will power and self-improvement"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

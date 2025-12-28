@@ -1,0 +1,97 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Javier Sanzlobo",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "jsanzlobo@gmail.com",
+        "phone": "638 55 82 72",
+        "address": "c/ villamanin, n 2c 6c, 28011 madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Aeronautical Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Escuela de Postgrado en Ingeniería y Ciencias Básicas Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's degree in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "ETSI Aeronáutica y del Espacio Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2012-2017",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Sistemas de Control Remoto",
+            "position": "Internship in Remote Control Systems Design and Manufacturing",
+            "description": "Designed 3D CAD composite components for UAVs, built wiring diagrams and drawings for UAV electrical systems, collaborated on the integration of UAV systems, performed aerodynamics and flight dynamics analysis of a hand-launched UAV (Tucan) as part of bachelor thesis.",
+            "start_date": "06/2017",
+            "end_date": "11/2017",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "XFlow (computational fluid dynamics software) user level",
+            "CATIA V5-6 (CAD software) intermediate level",
+            "KiCad (electronics design software) user level",
+            "MATLAB (numerical computing software) intermediate level"
+        ],
+        "soft_skills": [
+            "Teamwork and client demand fulfillment",
+            "Project management",
+            "Problem-solving and conflict resolution"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.42,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

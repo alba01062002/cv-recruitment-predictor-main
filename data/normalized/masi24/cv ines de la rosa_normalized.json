@@ -1,0 +1,128 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Inés de la Rosa Núñez",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "m4nnes.delarosa0l(amgmail.com",
+        "phone": "+34633482812",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Aerospace Engineering",
+            "field": "Aeronavigation",
+            "university": "Universidad Rey Juan Carlos",
+            "location": "Madrid, Spain",
+            "year": "2019-2024",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "GESTAIR MRO",
+            "position": "Internship in Aircraft Maintenance Engineering",
+            "description": "Development of work packages based on maintenance schedules and manufacturers manuals, update the aircraft status and manage the purchase orders of skills materials required, resolve possible problems found during the maintenance, support to the technical director.",
+            "start_date": "03/2023",
+            "end_date": "08/2023",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Inditex - Zara Home",
+            "position": "Shop Assistant",
+            "description": "Negotiating skills, problem solving, orientation and customer service, in-store replenishment.",
+            "start_date": "01/2024",
+            "end_date": "12/2025",
+            "duration_years": 1.92
+        },
+        {
+            "company": "Inditex - Zara Warehouse",
+            "position": "Warehouse Worker",
+            "description": "Work under pressure, shop and warehouse replenishment and stock control, customer orientation.",
+            "start_date": "04/2022",
+            "end_date": "09/2022",
+            "duration_years": 0.42
+        },
+        {
+            "company": "ABC Personal Waitress and Staff",
+            "position": "* Bar waitressing services at festivals * Cash and card control for obtaining services at festivals",
+            "description": "",
+            "start_date": "06/2021",
+            "end_date": "09/2021",
+            "duration_years": 0.25
+        },
+        {
+            "company": "Madrilena de Servicios SL",
+            "position": "Lifeguard",
+            "description": "Control and treatment of the swimming pool, care of the environment and the people in it, especially children.",
+            "start_date": "2020",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Tutor",
+            "position": "Study help and support in mathematics, physics and chemistry",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Poland (Erasmus) - Spain (Internship)",
+            "institution_or_company": "Politechnika Rzeszowska, Inditex - Zara Home, Inditex - Zara Warehouse",
+            "start_date": "",
+            "end_date": "",
+            "description": "Erasmus work experience ies gran capitán, internship at Inditex",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Office Automation: Word/Excel/PowerPoint/Outlook",
+            "Programming: C, C++, MATLAB, Pascal"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Problem solving",
+            "Customer orientation",
+            "Organisation and planning"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Not specified in the CV",
+            "role": "Tutor in mathematics, physics and chemistry",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 3.01,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.9
+}

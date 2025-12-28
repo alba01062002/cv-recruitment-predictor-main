@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ahmed Elrufaie",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "rufa3ie@gmail.com",
+        "phone": "(416) 356-2501",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/ahmed-elrufaie-66075184kitchener, ontario, canada",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Engineering in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Ryerson University",
+            "location": "Toronto, Ontario, Canada",
+            "year": "2013-2019",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Certificate: Intro to Aerospace Structures and Materials",
+            "field": "",
+            "university": "Delft University",
+            "location": "",
+            "year": "2020",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Certificate: Aircraft Design Fundamentals Course",
+            "field": "",
+            "university": "Aerospace Society",
+            "location": "",
+            "year": "2018",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Simcoe Parts Service, Alliston, Ontario",
+            "position": "Part Time Flex Associate",
+            "description": "Picked and organized automotive parts into their respective areas. Organized carts for parts transport.",
+            "start_date": "07/2021",
+            "end_date": "09/2021",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "SolidWorks",
+            "CATIA",
+            "ANSYS",
+            "Engineering Sketching",
+            "Dimensioning",
+            "Project Management",
+            "Stress Analysis",
+            "Fluid Dynamics",
+            "Arduino Programming"
+        ],
+        "soft_skills": [
+            "Technical Reports Writing",
+            "Product Analysis",
+            "Instruction Manuals",
+            "Market Analysis",
+            "Teamwork",
+            "Customer Service Relations",
+            "Communication Skills",
+            "Problem Solving"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "profile 21 years, am interested in working with control systems, mechatronics and avionics. e driving license contact telephone: +34665837636 email: imenam2000@gmail.com skills teamwork meticulous hard-working and constancy solving problems self-learning capacity experience with: freecad, epanet, virtual machines, excel, word, openfast, dymola, codesys, labview, eagle, opentrack, flight simulator, railway operation simulator, arduino. knowledge: - controller design - analogic, digital and power electronics - design and knowledge of vehicles elements - avionics systems jimena martinez paino engineering student education baccalaureate degree ies dr. rodriguez delgado 15/09/2016 - 15/06/2018 technology branch subjects like physics and maths. average mark: 9.53/10 honourable mention bachelor's degree in electronic engineering, robotics and mechatronics university of seville - university of málaga starting date: 15/09/2018 university of seville: 3 years university of málaga: 1 year currently finishing final year. currently average mark: 7.96/10 honours in the subjects: control basis and strength of materials programming skills knowledge about: e ctt vhdl, fpgas microcontroller programming assembler programming matlab - simulink openfast languages e spanish: mother tongue e english: bl certificate, cambridge university b2 certificate, cambridge university cl certificate, cambridge university projects am currently working on my final project in which have to deal with pid control as well as robust control to develop a pitch control for an off-shore wind turbine.",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI22"
+}

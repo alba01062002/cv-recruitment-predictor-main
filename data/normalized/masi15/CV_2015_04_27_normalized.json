@@ -1,0 +1,86 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Natalia Romero Rueda",
+        "date_of_birth": "13/03/1990",
+        "gender": "female",
+        "age_reference_year": 2015,
+        "age": 25,
+        "email": "nrruedasoyahoo.es",
+        "phone": "+34 695813669",
+        "address": "callejuela del codo, 4 carmona (seville), spain",
+        "LinkedIn": "linkedin natalia romero rueda",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Industrial Engineer (Plan 98). Specialty of Materials.",
+            "field": "Materials Engineering",
+            "university": "Escuela Técnica Superior de Ingeniería (ETSI)",
+            "location": "University of Seville",
+            "year": "2014-2023",
+            "duration_years": 9.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Extracurricular training in Airbus Defence and Space. Airbus Group. TAOEU Test&Lin-Dustrial Means Department. Quality Area, San Pablo Sur Factory in Seville. Knowledge acquired: > Concepts of lean management. 5S > Getting started with Visual Basic macros. > SAP viewing and reviewing documentation tools. > Templates translations and modifications",
+            "start_date": "",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus + (training) program",
+            "country": "Italy",
+            "institution_or_company": "University of Calabria, Dimeg Department",
+            "start_date": "sep. 14-dec. 14",
+            "end_date": "",
+            "description": "Working with LS-DYNA in high-speed incremental forming simulations",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "C++",
+            "Office - Microsoft Office",
+            "Visual Basic",
+            "CAD - AutoCAD, CATIA V5",
+            "Others - Nastran-Patran, Ansys, CEEduPack, EES, LS-Dyna, CYPE"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Playing guitar",
+        "Quite cinephile"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Estiem (organisation for European students of industrial engineering and management)",
+            "role": "Collaborator student",
+            "duration": "2013-2014",
+            "description": ""
+        }
+    ],
+    "degree_years": 9.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.1
+}

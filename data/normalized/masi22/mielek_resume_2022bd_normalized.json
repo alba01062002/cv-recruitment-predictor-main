@@ -1,0 +1,96 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Muhammet Ikbal Elek",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "muhammet.elek@gmail.com",
+        "phone": "+905354017079",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Electronics Engineering",
+            "field": "Electronics Engineering",
+            "university": "Gebze Technical University",
+            "location": "Gebze, Turkey",
+            "year": "2014-2020",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Master of Science in Strategy and Innovation",
+            "field": "Strategy and Innovation",
+            "university": "Gebze Technical University",
+            "location": "Gebze, Turkey",
+            "year": "2020",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "SoftTech - Aircar",
+            "position": "Technical Business Developer",
+            "description": "Day-to-day flying car market monitoring, analysis and benchmarking, preparing and presenting pitching decks, searching for investments and managing investor relations, identifying new business models and creating opportunities, resource, time and cost planning to support aircraft production schedule, technical coordination with suppliers and producers.",
+            "start_date": "09/2019",
+            "end_date": "12/2022",
+            "duration_years": 3.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "United States of America (Texas, Virginia)",
+            "institution_or_company": "GTU Space Team for CANSAT Competition",
+            "start_date": "06/2018",
+            "end_date": "06/2019 and 06/2020",
+            "description": "Built the GTU-Sat 7 space team to build unmanned aerial and land vehicles, model satellites, rockets and various robots. Became the 1st in Turkey and 8th in the world in PDR stage of CANSAT competition held under NASA sponsorship.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB"
+        ],
+        "soft_skills": [
+            "Solution-Oriented",
+            "Innovative",
+            "Team Player",
+            "Pioneer Spirit",
+            "Leadership"
+        ]
+    },
+    "other_interests_normalized": [
+        "Latin Dances",
+        "Camping",
+        "Scuba Diving"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Underwater Cleaning Association",
+            "role": "Volunteer Diver",
+            "duration": "2016 to present",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 3.25,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

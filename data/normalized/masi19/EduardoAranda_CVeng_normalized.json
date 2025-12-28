@@ -1,0 +1,90 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Eduardo Aranda Cuerva",
+        "date_of_birth": "23/09/1996",
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": 23,
+        "email": "eduardoarandac@gmail.com",
+        "phone": "+34 653 856 256",
+        "address": "av./ derechos humanos 31 1a, leganés (madrid, spain) 28914",
+        "LinkedIn": "https://www.linkedin.com/in/eduardo-aranda-cuerva-417987163",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://oa.upm.es/52466/"
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Technologies and Sciences",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "School of Aeronautical and Space Engineering",
+            "year": "2013-2018",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Drone Hopper",
+            "position": "Internship Simulations Engineer",
+            "description": "Development of non-stationary aerodynamic simulations, and design of aerodynamic systems of the vehicle. Mathematical models for simplified performances of multirotor drone.",
+            "start_date": "03/2019",
+            "end_date": "05/2018",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Ansys Fluent",
+            "CATIA",
+            "SolidWorks",
+            "FORTRAN 95"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Team leadership",
+            "Time management"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

@@ -1,0 +1,130 @@
+{
+    "personal_information_normalized": {
+        "full_name": "David Aguiar Rodríguez",
+        "date_of_birth": "06/04/1989",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 25,
+        "email": "david.aguiar18@gmail.com",
+        "phone": "+34 691 21 65 95",
+        "address": "",
+        "LinkedIn": "https://es.linkedin.com/in/aguiardavid",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "ETSEIArt - Polytechnic University of Catalonia (UPC)",
+            "location": "Barcelona, Spain",
+            "year": "2013",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Master's in Aerospace Engineering",
+            "university": "Technical University of Braunschweig",
+            "location": "Braunschweig, Germany",
+            "year": "2012-2013",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Institute of Flight Guidance (IFF), TU-Braunschweig",
+            "position": "Investigator Engineer",
+            "description": "Development of an algorithm that uses airport geometric features to generate an optimal taxiway layout from a given setting. Worked with MATLAB, GUI, MILP algorithms.",
+            "start_date": "10/2012",
+            "end_date": "06/2013",
+            "duration_years": 0.67
+        },
+        {
+            "company": "LEAM (UPC)",
+            "position": "Investigator Engineer",
+            "description": "Design and implementation of railway models in 3D with CAD software CATIA V5. FEM analysis with Patran 2010 and Nastran 2010. Genetic algorithm programming for multi-linear equations with MATLAB.",
+            "start_date": "08/2011",
+            "end_date": "07/2012",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Mercedes-Benz Vitoria (RDT Ingenieros)",
+            "position": "Catia V5 Draughtsman",
+            "description": "Supervision, rectification and creation of CAD 3D files with CATIA V5. Draft implementation of Catia V5 3D files.",
+            "start_date": "07/2011",
+            "end_date": "08/2011",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Germany",
+            "institution_or_company": "Technical University of Braunschweig",
+            "start_date": "",
+            "end_date": "",
+            "description": "Exchanged during the master's program in Aerospace Engineering from September 2007 to June 2013.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalan",
+            "C2"
+        ],
+        [
+            "Galician",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5 (Advanced user in part design, assembly design, surface design, 3D concept design, 2D drawings implementation)",
+            "Autocad 2010 (Advanced user)",
+            "Solid Works 2010 (Advanced user)",
+            "Solid Edge (Advanced user)",
+            "Nastran-Patran 2010 (Medium user)",
+            "Ansys (Basic user)",
+            "MATLAB (Advanced user)",
+            "Java (Medium user)",
+            "C++ (Medium user)",
+            "LaTeX (Advanced user)",
+            "VHDL (Basic user)",
+            "Linear Programming (Advanced user)"
+        ],
+        "soft_skills": [
+            "Team work",
+            "Managing skills",
+            "Intercultural skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Enjoy practicing some sports like swimming, jogging, ping pong and volleyball.",
+        "Federated Water Polo Player for 10 years",
+        "Love to travel and experience different points of view."
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 1.0,
+    "total_work_years": 1.67,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

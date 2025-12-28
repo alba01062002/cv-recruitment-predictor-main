@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pablo Armada Jiménez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "pablo.armada.jimenez@gmail.com",
+        "phone": "+34 690 37 52 73",
+        "address": "C/ Real no. 33, 28250 Torrelodones, Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BSc/MSc in Aeronautical Engineering (Ingeniero aeronáutico superior)",
+            "field": "Aircraft Systems Integration",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Simon-Kucher & Partners",
+            "position": "Associate Consultant Banking Division",
+            "description": "Strategy consultant for top-tier banks worldwide. Worked on projects for retail, corporate and investment banking. Presented recommendations to CEO of a bank with 72m customers. Managed several non-consultant teams to fulfill the aims of the projects. Organized the 2017 Spanish Banking Simon-Kucher Strategy Forum.",
+            "start_date": "Jan 2017",
+            "end_date": "12/2018",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Repsol Fuel Station Extremadura, Spain",
+            "position": "Assistant",
+            "description": "Collaborated in the creation and management of my father's company (11 employees).",
+            "start_date": "2009",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+",
+            "country": "Austria",
+            "institution_or_company": "",
+            "start_date": "Jul 2013",
+            "end_date": "Aug 2015",
+            "description": "Led a group of bachelors in an Erasmus+ summer exchange. Aims: reducing unemployment, especially among young people; encouraging participation in European democracy; supporting innovation, cooperation and reform; promoting cooperation and mobility with EU partner countries.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "PowerPoint",
+            "Excel",
+            "Access",
+            "MATLAB (intermediate level)",
+            "Fortran (intermediate level)",
+            "CATIA V5 (intermediate level)",
+            "Java (basic level)",
+            "C+ (basic level)"
+        ],
+        "soft_skills": [
+            "Analytics",
+            "Structure",
+            "Synthesis",
+            "Communication"
+        ]
+    },
+    "other_interests_normalized": [
+        "Teaching: teacher in mathematics, calculus and technical drawing at university level",
+        "Healthcare, fitness and diet: dietary advisor and personal trainer in local gym. Member of amateur cyclist team.",
+        "Cinema: more than 1000 films criticized in filmaffinity.com"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Love and Care for People Worldwide",
+            "role": "Engineer in Ingenieros Sin Fronteras. Collaborator with the local church Nuestra Seora de la Asunción assisting poor and sick people.",
+            "duration": "Aug 2015 - present",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

@@ -1,0 +1,132 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Leonor Anibarro Gorostiza",
+        "date_of_birth": "22/05/2001",
+        "gender": "female",
+        "age_reference_year": 2025,
+        "age": 24,
+        "email": "leonor.anibarro22@gmail.com",
+        "phone": "+34 699 122 631",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "Polytechnic University of Madrid (UPM)",
+            "location": "Madrid",
+            "year": "2019-2024",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelors in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "University of the Basque Country (UPV/EHU)",
+            "location": "Bilbao",
+            "year": "2017-2020",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "",
+            "field": "Management Analytics in the Age of Big Data",
+            "university": "London School of Economics (LSE)",
+            "location": "",
+            "year": "Not specified",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "French Baccalaureate",
+            "university": "Lyceé Français de Bilbao (LFB)",
+            "location": "Bilbao",
+            "year": "Completed",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "President of the Youth Festival Committee of Pedernales, Private Tutor for High School Students",
+            "description": "Planning, budgeting, and managing the festival bar; serving as a bartender at festival events. Also provided private tutoring for high school students.",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ program",
+            "country": "Italy",
+            "institution_or_company": "Polytechnic University of Milan (Polimi)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Not specified",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Python",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "Matlab",
+            "C1"
+        ],
+        [
+            "Solidworks",
+            "C1"
+        ],
+        [
+            "Basque",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "Matlab",
+            "Solidworks",
+            "Ansys Flexsim",
+            "NX"
+        ],
+        "soft_skills": [
+            "Planning and budgeting",
+            "Project management",
+            "Communication and teamwork"
+        ]
+    },
+    "other_interests_normalized": [
+        "Private Tutoring for High School Students"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Youth Festival Committee of Pedernales",
+            "role": "President, Member (bartender)",
+            "duration": "Not specified",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 19,
+    "detected_language": "es",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

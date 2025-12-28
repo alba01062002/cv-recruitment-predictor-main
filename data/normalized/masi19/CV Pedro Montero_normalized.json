@@ -1,0 +1,88 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pedro Montero López",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "pedro.monlopez@gmail.com",
+        "phone": "+34 669061390",
+        "address": "Madrid, Spain",
+        "LinkedIn": "https://www.linkedin.com/in/pedro-montero/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aeronautical Engineering",
+            "field": "Aircraft Systems Integration",
+            "university": "Carlos III University of Madrid",
+            "location": "Madrid",
+            "year": "2017-2019",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Sistemas de Control Remoto S.L. (SCR)",
+            "position": "Intern in Unmanned Aerial Target Department",
+            "description": "Supported the UAT department: Procedures standardization, aerodynamics analysis, CAD components design with CATIA and contribution to the design of a new unmanned aerial target.",
+            "start_date": "02/2017",
+            "end_date": "07/2017",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA",
+            "Excel"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Time Management",
+            "Flexibility",
+            "Teamwork"
+        ]
+    },
+    "other_interests_normalized": [
+        "Aircraft Maintenance",
+        "Defence Military",
+        "Airlines Management"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2017-2019",
+            "description": ""
+        }
+    ],
+    "degree_years": 2.0,
+    "total_work_years": 0.42,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.4
+}

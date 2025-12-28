@@ -1,0 +1,160 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Victor de la Fuente Rey",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "victor.delafuente@outlook.com",
+        "phone": "+34-645844008/+44-7397102802",
+        "address": "Calle Prado del Rey, 5, 28223 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Aerospace Engineering - Aerodynamics",
+            "field": "Aerospace Engineering",
+            "university": "University of Southampton (UoS)",
+            "location": "Southampton, United Kingdom",
+            "year": "2020-2021",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Degree in Aerospace Engineering - Aerodynamics",
+            "field": "Aerospace Engineering",
+            "university": "University of Southampton (UoS)",
+            "location": "Southampton, United Kingdom",
+            "year": "2016-2019",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Individual Project: Drag Reduction System Study with Wavy Leading Edges",
+            "field": "",
+            "university": "University of Southampton (UoS)",
+            "location": "Southampton, United Kingdom",
+            "year": "2016-2019",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Bilingual Baccalaureate in Technology",
+            "field": "",
+            "university": "British Council School (BCS)",
+            "location": "Madrid, Spain",
+            "year": "2002-2016",
+            "duration_years": 10.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Group Madrid",
+            "position": "A350 Aiframe Engineering Department Engineer",
+            "description": "Work with database & programming among others. Interface design in Visual Basic, facilitating interaction with databases for internal use.",
+            "start_date": "09/2019",
+            "end_date": "09/2020",
+            "duration_years": 1.0
+        },
+        {
+            "company": "Compass Group Scolarest Madrid",
+            "position": "Customer Service & Sales Intern",
+            "description": "Work with databases, attending calls & providing new sales.",
+            "start_date": "06/2014",
+            "end_date": "07/2014",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Instituto Europeo de Fertilidad Madrid",
+            "position": "Rotating in Embriology, Genetics & Andrology Departments",
+            "description": "",
+            "start_date": "06/2013",
+            "end_date": "07/2013",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Romania",
+            "institution_or_company": "House of Angels Orphanage in Gaesti",
+            "start_date": "",
+            "end_date": "",
+            "description": "Voluntary programme",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "Catalan",
+            "C2"
+        ],
+        [
+            "Chinese",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office (Word, PowerPoint, Excel)",
+            "CFD (Fluent, Star CCM+)",
+            "CAD (SolidWorks, AutoCAD)",
+            "Programming: Arduino, Python, Visual Basic",
+            "Database Languages: Jupyter, MATLAB"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Silver Lifeguard Diploma",
+        "ABRSM Piano Level 5",
+        "Violin Level 5"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Cruz Roja Española",
+            "role": "Volunteer during the COVID-19 Pandemic",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "organization": "A Nursing Home in Pozuelo de Alarcón, Madrid",
+            "role": "Volunteer",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "organization": "House of Angels Orphanage in Gaesti, Romania",
+            "role": "Voluntary Programme",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "organization": "Down Syndrome Association",
+            "role": "Voluntary Assistant on Various Occasions",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 1.0,
+    "total_work_years": 1.16,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

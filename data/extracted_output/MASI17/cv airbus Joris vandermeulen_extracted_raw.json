@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "joris vandermeulen telephone +34 684 235 284 address calle del locum 15 email vdm.joris@gmail.com 45001 toledo skype jorisvandermeulen spain personal information birth date 20 february 1989 birth place belgium nationality belgian gender man employment history 2015-2016 junior data engineer at predicube (full-time) e developed or assisted in developing and optimising: o automated analysis of predicube data o dataflow from raw files to spark to mysql database predicube dashboard o predicube cookie e assisting in design decisions 2012-2015 research engineer at ku leuven university (full-time) e researched sound analysis for livestock animals in an international environment o scream sound detection for pigs o couch sound detection for calves in collaboration with animal scientists and/or farmers e composed proceedings book and academic program of ec-plf 2013 conference e presented research results at two international conferences academic output journal papers: e discerning pig screams in production environment published in plosone e early recognition of bovine respiratory disease in calves using automated continuous monitoring of cough sounds published in compag education 2010-2012 master of science in electrical engineering: multimedia and signal-processing with elective courses in data mining ku leuven, leuven grade: cum laude 71.83% 2007-2010 bachelor of science in engineering: electrical-mechanical engineering ku leuven, leuven grade: cum laude 68.85% languages dutch mother tongue english good french intermediate spanish beginner german beginner other experience driving license b computer knowledge programming python, pyspark good programming javaandc, basic linux, docker sufficient mysql database, sufficient math program, matlab, good microsoft office (word, excel, powerpoint), good",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI17"
+}

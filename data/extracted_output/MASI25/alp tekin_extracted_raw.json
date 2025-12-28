@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "alp tekin education istanbul technical university b.sc. electrical engineering cgpa: 3.19 2016-2022 agh university of science and technology erasmus+ exchange programme gpa: 3.27 2021-2021 long island university english language course 2014-2014 east london university british language course 2013-2013 work experience turkish aerospace industries full-time 11.2022 present working as an electrical design and system integration engineer mainly on landing gear system, hydraulic power system, canopy actuation system and life support system of hurjet and tf-x aircraft projects. e preparing system wiring requirements documents (swrd) and electrical schematics. e determining software requirements (frs) and cockpit indications (icaws, cautions, mfls and pfls) e preparing and conducting ground test procedures for prototype aircrafts. e managing the development processes of electronic equipment to be used in the prototype aircraft with subcontractor companies ford otosan - full-time 09.2022 11.2022 worked as a calibration engineer on electrified powertrain system of commercial electric truck. baykar technology - internship 06.2022 07.2022 worked as a research and development engineer in electronic hardware team. main focus was on propulsion systems on unmanned aerial vehicles. arlight/fagerhult - internship 08.2021 - 09.2021 worked on the production line and production planning office. career objectives as a dedicated electrical engineer with nearly three years of hands-on experience in the aviation industry, am eager to enhance my expertise by pursuing a master's degree in aircraft system integration. my professional background in electrical systems, combined with direct involvement in aircraft projects, has sparked a strong interest in the integration of complex subsystems within modern aerospace platforms. through this program, aim to deepen my technical knowledge, gain interdisciplinary insight, and contribute to innovative solutions in aircraft design and system optimization. am particularly motivated by the opportunity to work alongside experienced professionals and researchers to address real-world engineering challenges, and to build a solid foundation for future leadership roles in the aerospace sector. projects eaxial flux brushless direct current motor design and vibration analysis used in electric scooters (graduation project) design and vibration analysis of axial flux bldc motor by using ansys electronic desktop software e500 kva transformer design detailed design and technical drawing of core type transformer by using autocad eflyback converter design for luminaries design and implementation of the converter circuit contact 03 tekin.alp22es@gmail.com +90 531 861 3735 istanbul, turkey linkedin.com/in/alptekin58 skills eprograms: matlab/simulink, ltspice, autocad, zuken e3 series, teamcenter, ibm doors, microsoft office programs languages: turkish (native), english (c1, ielts: 7.5) elective courses special electrical machines, renewable energy systems, industrial automated systems, electrical energy quality and harmonics, design of power electronics circuits, security in electrical facilities.",
+    "text_from_header": "ALP TEKIN",
+    "detected_language": "en",
+    "master_edition": "MASI25"
+}

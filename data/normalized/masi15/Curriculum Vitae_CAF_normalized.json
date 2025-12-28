@@ -1,0 +1,125 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Cristian Alonso Fiz",
+        "date_of_birth": "22/11/1992",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 23,
+        "email": "fizcris@gmail.com",
+        "phone": "+34 600 525 556",
+        "address": "rua nova s/n 32696 vilaseca-trasmiras ourense (spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Industrials Engineering",
+            "field": "Electronics and Automatics",
+            "university": "Escuela Técnica Superior de Ingenieros Industriales de la Foreseen UNED (Spanish National University of Distance Education)",
+            "location": "Madrid, Spain",
+            "year": "2014-2017",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Grade in Mechanical Engineering",
+            "field": "Design and Manufacturing",
+            "university": "EEI - Escola de Enxeña Industrial de Vigo",
+            "location": "Spain",
+            "year": "2010-2014",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "LARPro Engineering",
+            "position": "Mathematical Model and Control Systems Designer",
+            "description": "",
+            "start_date": "10/2014",
+            "end_date": "05/2015",
+            "duration_years": 0.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus program",
+            "country": "France",
+            "institution_or_company": "IFMA - Institut Français de Mécanique Avancée, Clermont-Ferrand",
+            "start_date": "",
+            "end_date": "",
+            "description": "Final year project",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus program",
+            "country": "France",
+            "institution_or_company": "Eurocenters School - Biarritz French School",
+            "start_date": "",
+            "end_date": "",
+            "description": "Host family stay (2 weeks in 2013), school visit (3 weeks in 2010)",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "Portuguese",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "Maple",
+            "Maplesim",
+            "SimulationX",
+            "MSC Adams",
+            "Scilab",
+            "Xcos",
+            "LabVIEW",
+            "TIA Portal",
+            "Control Builder",
+            "Proteus V6",
+            "C",
+            "C#",
+            "C++",
+            "Assembler",
+            "Visual Basic",
+            "Arduino",
+            "Java",
+            "Cocoa"
+        ],
+        "soft_skills": [
+            "Programming, design and manufacturing of a scale functional segways model with open source tools",
+            "Design and manufacturing of an innovating rotating shelves system",
+            "Design and manufacturing of a machine for bearing testing",
+            "Armature die for plastic injection, design and manufacturing"
+        ]
+    },
+    "other_interests_normalized": [
+        "Enduro",
+        "Swimming",
+        "Surf",
+        "Running"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 0.58,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

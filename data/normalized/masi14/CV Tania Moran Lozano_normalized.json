@@ -1,0 +1,131 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Tania Moran Lozano",
+        "date_of_birth": "22/07/1986",
+        "gender": "female",
+        "age_reference_year": 2014,
+        "age": 28,
+        "email": "taniamoranlozano@gmail.com",
+        "phone": "+49 15211714180",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Telecommunication Engineering",
+            "field": "Telecommunication Engineering",
+            "university": "University of Kassel, Germany and Bilbao Engineering School, Spain",
+            "location": "Kassel, Germany and Bilbao, Spain",
+            "year": "2010-2013",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Cognizant Technology Solutions GmbH",
+            "position": "SAP PI Consultant Team Lead",
+            "description": "Analyze customer requirements, creation of technical specification document, design, implementation and support of interfaces, unit test of interfaces, integration of a2a and b2b applications using SAP PL.",
+            "start_date": "09/2011",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Institute of Nanostructure Technologies and Analytics (INA)",
+            "position": "Collaborator as Electronic Engineer for the Technological Electronics Department",
+            "description": "Analysis and improvement of silicon oxide insulation layers for micro mirror arrays, training and experience in several instruments.",
+            "start_date": "03/2011",
+            "end_date": "09/2011",
+            "duration_years": 0.5
+        },
+        {
+            "company": "University of the Basque Country (UBA)",
+            "position": "Coordinator of the Student-Tutor Program and Collaborator of the Student-Tutor Program",
+            "description": "Goal was to facilitate new students integration into the university.",
+            "start_date": "09/2008",
+            "end_date": "06/2010",
+            "duration_years": 1.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Scholarship",
+            "country": "Germany (Kassel)",
+            "institution_or_company": "",
+            "start_date": "09/2010",
+            "end_date": "06/2011",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C",
+            "C++",
+            "Java",
+            "HTML",
+            "SQL",
+            "VHDL",
+            "Matlab",
+            "SAP PI",
+            "SAP Solution Manager",
+            "Eclipse",
+            "MySQL",
+            "Nepenthes",
+            "Nmap",
+            "Snort",
+            "Wireshark",
+            "Commnet Ill",
+            "Sirenet",
+            "ORCAD",
+            "MAX+PLUS II",
+            "MPLAB"
+        ],
+        "soft_skills": [
+            "Team Lead",
+            "Analyzing customer requirements",
+            "Technical specification document creation",
+            "Interface design and implementation",
+            "Support of interfaces",
+            "Unit test of interfaces",
+            "Integration of a2a and b2b applications using SAP PL",
+            "Electronic engineering for the technological electronics department",
+            "Analysis and improvement of silicon oxide insulation layers for micro mirror arrays",
+            "Training in several instruments",
+            "Coordinating student-tutor program"
+        ]
+    },
+    "other_interests_normalized": [
+        "Sports and travelling"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Represent Cognizant Graduate Program at Career Fairs",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 3.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.3
+}

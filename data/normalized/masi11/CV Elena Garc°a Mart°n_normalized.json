@@ -1,0 +1,126 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Elena García Martín",
+        "date_of_birth": "19/01/1984",
+        "gender": "female",
+        "age_reference_year": 2011,
+        "age": 27,
+        "email": "elena.g.mar@googlemail.com",
+        "phone": "636.20.11.90",
+        "address": "c/ Valmojado 119-1 A, 28047 Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Industrial Engineering (Speciality: Production)",
+            "field": "Engineering - Industrial",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2002-2007",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "RWTH Aachen University",
+            "location": "Germany",
+            "year": "2007-2008",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Sepides",
+            "position": "Technician",
+            "description": "",
+            "start_date": "25/01/2010",
+            "end_date": "12/2011",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Ministerio de Industria, Turismo y Comercio. S.G. de Programas Estratégicos",
+            "position": "Evaluation and Monitoring of Projects",
+            "description": "",
+            "start_date": "01/11/2006",
+            "end_date": "31/07/2007",
+            "duration_years": 0.0
+        },
+        {
+            "company": "18/12/2006 - 03/01/2007, 17/07/2006 - 28/07/2006",
+            "position": "",
+            "description": "",
+            "start_date": "18/12/2006",
+            "end_date": "31/07/2007",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Universidad Politécnica de Madrid - Escuela Técnica Superior de Ingenieros Industriales. Grupo C. GFI Informática, S.A.",
+            "position": "Laboratory Assistant",
+            "description": "",
+            "start_date": "01/02/2003",
+            "end_date": "01/07/2007",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Samur",
+            "position": "Administrative Assistant",
+            "description": "",
+            "start_date": "01/11/2006",
+            "end_date": "31/07/2007",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Germany",
+            "institution_or_company": "RWTH Aachen University - Werkzeugmaschinenlabor (WZL)",
+            "start_date": "01/09/2007",
+            "end_date": "31/08/2008",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "German",
+            "B2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "Visio",
+            "Project",
+            "CATIA V5",
+            "Specific Software: C, C++, Pascal, TwinCat (programming PLC)",
+            "StarUML (modelling language)",
+            "CPN/Tools (Petri-net)",
+            "WinUnisoft-V13 (numerical control)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Volleyball",
+        "Driving Licence: European Driving License Class B",
+        "Available for commuting using own vehicle"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI11",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.8
+}

@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Fernando Rodriguez Martinez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "martandorgueex@gmnai.com",
+        "phone": "+34 608 5219568",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Baccalauréat",
+            "field": "",
+            "university": "IES Drago",
+            "location": "",
+            "year": "2013 - 2015",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Aerospace Engineering with a major in Aerospace Vehicles",
+            "field": "Aerospace Engineering",
+            "university": "Technical University of Madrid and École Polytechnique de Montreal",
+            "location": "",
+            "year": "2016 - 2023",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Universidad Politécnica de Madrid",
+            "position": "Students Representative",
+            "description": "Head of the International and Exchange Students Department. Organized activities in the aerospace sector for international students. Participated in several meetings defending the students' rights.",
+            "start_date": "2017-09",
+            "end_date": "2019-08",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Aula Airbus Universidad Politécnica de Madrid",
+            "position": "Member",
+            "description": "Took part in different aeronautical research projects such as Idea Challenge or Flight Testing.",
+            "start_date": "2021-09",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Intern in the Research Group in Durability of Materials and LAPOM École Polytechnique de Montreal",
+            "position": "Intern",
+            "description": "Carried out a project on mechanical properties of Inconel 625 superalloy produced by laser powder bed fusion, partnering with the company Reaction Dynamics.",
+            "start_date": "2022-09",
+            "end_date": "2023-08",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "France",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Participated in several exchange programs.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB"
+        ],
+        "soft_skills": [
+            "Team working",
+            "Leadership"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Danhostel Aarhus City",
+            "role": "Managed and coordinated the international team.",
+            "duration": "2018",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

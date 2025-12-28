@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "jose f. roger verdeguer date of birth: 7 march 1988 nationality: spanish address: c/ camí reial, 116 pta. 7 46470 catarroja (spain) @ +34 659 517 067 ><) josrover@gmail.com education and qualifications 2010-2011 2006-2011 languages english: french: spanish: catalan: msc in autonomous vehicle dynamics and control (msc in aerospace dynamics) cranfield university, united kingdom grade: first class honours, 74 thesis: development of a visual odometry system for the aegis uav aerospace engineering option: aircraft and spacecraft design universidad politécnica de valencia, spain grade: sobresaliente (first class honours), 9.1 award to the best student in the etsi disefio by the upv social council advanced level studying in the united kingdom for 12 months toefl, score of 99, april 2010 spoken esol, grade 10, july 2006 advanced level tcf, score of 445, february 2008 native speaker native speaker certificat de coneixements de grau superior de valencia (jqcv), july 2006 computing skills software: autodesk inventor 2011, gasturb 11, mathcad 14, mathematica 7, microsoft office 2010 programming: c, c++, matlab, opencv, python, userrpl, vhdl other activities and interests activities: fly your ideas (airbus): access to the 2\" round, december 2010 brainstorming session (airbus), paris-le bourget, june 2009 chemistry olympiad: silver medal in the national final, vigo, april 2006 driving licence: b-1 hobbies: kayaking in a local club hiking with friends and scouting playing guitar",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI12"
+}

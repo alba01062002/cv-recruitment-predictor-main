@@ -1,0 +1,188 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Mustapha Farhat",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "mustaphafarhat1@gmail.com",
+        "phone": "+34 631 67 36 45",
+        "address": "Calle Malga 8, Jaen, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineering Degree",
+            "field": "Aerospace engineering",
+            "university": "University College of Aviation and Technology",
+            "location": "Jaen, Spain",
+            "year": "2019-2022",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "",
+            "field": "First Cycle (Mathematics, Physics,...)",
+            "university": "University College of Aviation and Technology",
+            "location": "Jaen, Spain",
+            "year": "2017-2019",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "Secondary Education/Bachelor's Degree in General Sciences",
+            "university": "Menzel Bouzelfa High School",
+            "location": "",
+            "year": "2009-2013",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Kaschke Bourns (Maintenance Services)",
+            "position": "Intern",
+            "description": "Maintenance services",
+            "start_date": "Dec/2021",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Tunisair",
+            "position": "Intern",
+            "description": "Aeronautical maintenance",
+            "start_date": "Aug/2020",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Opium (Nightclub)",
+            "position": "Technical and Communication Manager",
+            "description": "",
+            "start_date": "2019-2021",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Original, Smartegy, Eagle Com",
+            "position": "Freelance Marketing Digital",
+            "description": "",
+            "start_date": "2017-2021",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Schäfke Oil Packaging Company Schäfke",
+            "position": "Purchase Manager",
+            "description": "",
+            "start_date": "2014-2017",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Global Agricultural Services Society MSA",
+            "position": "Customer Relationship Manager",
+            "description": "",
+            "start_date": "2013-2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Spain",
+            "institution_or_company": "Jaen University",
+            "start_date": "2019-2022",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Arabic",
+            "C2"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Pack Office",
+            "Abaqus / Ansys",
+            "CATIA",
+            "Solid Works",
+            "C++",
+            "Python"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Information Technology",
+            "Team Work",
+            "Problem Solver",
+            "Lean/Six Sigma"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "IVAO International Virtual Aviation Organisation",
+            "role": "Member",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "organization": "ONE.T Tunisian National Children's Organization",
+            "role": "Animator",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "organization": "Enactus Tunisia - Entrepreneurship - Action - US",
+            "role": "Member",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "organization": "Red Cross",
+            "role": "Membre",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "organization": "Mourakiboun Association",
+            "role": "To Supervise the Election (Observer)",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "organization": "Sammayy Musical Club",
+            "role": "Piano Teacher",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 9.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

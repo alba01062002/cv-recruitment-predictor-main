@@ -1,0 +1,103 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Manuel Ruiz Aguilar",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "aguilarruizmanuel@gmail.com",
+        "phone": "+34 689609333",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "University of Seville",
+            "location": "Seville, Spain",
+            "year": "2023-2025",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's degree in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "University of Seville",
+            "location": "Seville, Spain",
+            "year": "2017-2023",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Technological Corporation of Andalusia",
+            "position": "Intern Engineer",
+            "description": "",
+            "start_date": "2024",
+            "end_date": "12/2024",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Sugal Group",
+            "position": "Quality Management",
+            "description": "Analysis of the quality requirements of raw materials, implementation of quality management systems such as lean maintenance and TPM, machinery calibration, troubleshooting.",
+            "start_date": "2018-2023",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Summer School",
+            "country": "China",
+            "institution_or_company": "Beihang University",
+            "start_date": "2024",
+            "end_date": "",
+            "description": "Industrial software and manufacturing",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C/C++",
+            "Python",
+            "MATLAB and VHDL",
+            "Office Package CAD (CATIA, SolidEdge)"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Troubleshooting",
+            "Time management",
+            "Team coordination"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

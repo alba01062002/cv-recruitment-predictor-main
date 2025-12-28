@@ -1,0 +1,89 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jaime Carballo",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "ta jaime.carballo.d@gmail.com",
+        "phone": "+34 644 265 148",
+        "address": "",
+        "LinkedIn": "www.linkedin.com/in/jaime-carballo",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Industrial Engineering",
+            "field": "Industrial Engineering with a major in Automotive",
+            "university": "Universidad Francisco de Vitoria and Motor Sport Institute",
+            "location": "Madrid, Spain",
+            "year": "2018 - present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Dassault Systèmes Madrid (Spain)",
+            "position": "Industry Process Consultant",
+            "description": "Assist the industry process consultant team in the project with CAF, helping in parallel to the Solidworks team in Barcelona. Project management tasks activities.",
+            "start_date": "January 2022",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SolidWorks"
+        ],
+        "soft_skills": [
+            "Project management",
+            "Leadership",
+            "Communication"
+        ]
+    },
+    "other_interests_normalized": [
+        "Skating instructor",
+        "Hockey player (Spanish First Division)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Nursing home",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

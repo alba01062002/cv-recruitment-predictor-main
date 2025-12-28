@@ -1,0 +1,136 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Norberto Simionato Neto",
+        "date_of_birth": "26/02/1985",
+        "gender": "male",
+        "age_reference_year": 2011,
+        "age": 26,
+        "email": "norberto.simionato@gmail.com",
+        "phone": "+33 (0) 643396729",
+        "address": "37, rue de stalingrad chez m.mercado, nanterre, 92000, france",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Electrical / Electronic Engineering",
+            "field": "Electrical and Electronic Engineering",
+            "university": "State University of Campinas (UNICAMP)",
+            "location": "Campinas, SP, Brazil",
+            "year": "2004-2007 and 2009",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Master's in Science and Executive Engineering with major in Industrial Economics",
+            "field": "Industrial Economics",
+            "university": "Ecole Nationale Supérieure des Mines de Paris (ENSMP)",
+            "location": "Paris, France",
+            "year": "2007-2009",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Allagi Engineering",
+            "position": "Weblab Developer",
+            "description": "Creation of a software using LabVIEW from National Instruments to remotely control instruments in the Photonics Laboratory of UNICAMP. Expansion of this software for remote experiments.",
+            "start_date": "02/2006",
+            "end_date": "06/2006",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Cybertécnica, São Paulo, Brazil",
+            "position": "Consultant Analyst",
+            "description": "Support of HP solutions for software quality assurance at Vale do Rio Doce company.",
+            "start_date": "06/2010",
+            "end_date": "08/2010",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Renault Technology Center, Paris, France",
+            "position": "Internship - Movie 12 Project",
+            "description": "Development of a computer program that acts as communication gateway between MATLAB/Simulink or IBM's Statemate and EB Guide Studio for test bench creation.",
+            "start_date": "03/2009",
+            "end_date": "07/2009",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Givaudan Flavors Model Office, Zurich, Switzerland",
+            "position": "Trainee - Flavor Product Repository Project",
+            "description": "Development of training material for Givaudan employees to use their new global database. Opportunity management project analyzing commercial data.",
+            "start_date": "06/2008",
+            "end_date": "09/2008",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Universidad Politécnica de Madrid",
+            "start_date": "",
+            "end_date": "11/2008",
+            "description": "Space System Engineering course: Mission analysis and project management.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Poland",
+            "institution_or_company": "Warsaw University of Technology",
+            "start_date": "03/2008",
+            "end_date": "",
+            "description": "Principles of Nanotechnologies course: Quantum physics and its applications in nanodevices.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Portuguese",
+            "C2"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ],
+        [
+            "Spanish",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "Statemate",
+            "PSPICE",
+            "Microsoft Office",
+            "LabVIEW",
+            "C",
+            "SQL",
+            "Pascal programming languages"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 1.08,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 19,
+    "detected_language": "en",
+    "master_edition": "MASI11",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

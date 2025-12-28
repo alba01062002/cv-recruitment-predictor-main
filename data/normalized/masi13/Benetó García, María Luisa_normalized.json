@@ -1,0 +1,116 @@
+{
+    "personal_information_normalized": {
+        "full_name": "María Luisa Beneto García",
+        "date_of_birth": "27/12/1989",
+        "gender": "female",
+        "age_reference_year": 2013,
+        "age": 24,
+        "email": "marisabeneto@gmail.com",
+        "phone": "685838032",
+        "address": "Avenida del Sur 30 22 32, Carlet, Valencia (España) 46240",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MSc Advanced Lightweight Structures and Impact",
+            "field": "Advanced Lightweight Structures and Impact",
+            "university": "Cranfield University, Bedfordshire, UK",
+            "location": "UK",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Aerospace Engineering (Option: Aircraft and Space Vehicle)",
+            "field": "Aerospace Engineering",
+            "university": "Universitat Politècnica de València, Spain",
+            "location": "Spain",
+            "year": "2008-2012",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Colegio María Inmaculada, Carcaixent, Spain",
+            "location": "Spain",
+            "year": "2006-2008",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "UK",
+            "institution_or_company": "Cranfield University, Bedfordshire",
+            "start_date": "10/2011",
+            "end_date": "09/2012",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "HyperMesh",
+            "LS-Dyna",
+            "LS-PrePost",
+            "Nastran/Patran",
+            "CATIA (basic)",
+            "Microsoft Office",
+            "Microsoft Project (basic)",
+            "Mathematica (basic)",
+            "Derive",
+            "MATLAB (basic)",
+            "Dyna3D and MCM Cranfield Coupled Code"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Project management",
+            "Report preparation",
+            "Communication",
+            "Problem solving",
+            "Perseverance",
+            "Dedication"
+        ]
+    },
+    "other_interests_normalized": [
+        "Monitor of a group of ten children between 6 and 7 years old",
+        "Personal mathematics, physics and chemistry teacher for high school and university pupils",
+        "Traveled in Europe: Germany, Italy, France, Belgium"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Unió Musical Carlet",
+            "role": "Flute player, concert and parade participant",
+            "duration": "2000-2008",
+            "description": ""
+        }
+    ],
+    "degree_years": 1.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.7
+}

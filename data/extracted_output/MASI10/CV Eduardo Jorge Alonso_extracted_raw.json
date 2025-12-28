@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "dirección: cvilla del padro, 1, 6a, 28045, madrid. teléfono: 680583230 fecha de nacimiento: 25 de febrero de 1984, en logroo dni: 16609109-g e-mail: hyperlink \"mailto:eduardojorgealonso@gmail.com\" eduardojorgealonso@gmail.com formación académica 2008: ingeniero de telecomunicación por la universidad pública de navarra con calificación final de carrera de sobresaliente. carrera acabada en 55 aos incluido el pfc. idiomas inglés: nivel medio tanto hablado como escrito. actualizándolo actualmente. informática programación: conocimientos de programación en c, pascal, ensamblador y en el entorno gráfico labview. programas específicos de ingeniería: conocimientos altos de programas de aplicación en ingeniería: autocad, spice, l-edit, matlab, labview, op-net y op-sim, entre otros. programas específicos de antenas: microwave wizard paquete office: dominio de todos los programas que componen el paquete ofimático. otros: quarkxpress experiencia laboral -programador analista en indra : he trabajado en dos proyectos de tráfico aéreo paralelamente haciendo desarrollo de software y pruebas bajo la plataforma unix solaris y en código ada. además he realizado revisiones de código para el departamento de calidad. camarero de terraza y en barra, camarero de catering, peón de campo, trabajador en carpintería metalizada. otros datos de interés carné de conducir clase b: con coche propio. carrera acabada al ao junto con el pfc!!! eduardo jorge alonso",
+    "text_from_header": "DNI: 16609109-G",
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

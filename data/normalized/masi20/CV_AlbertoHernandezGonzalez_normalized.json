@@ -1,0 +1,130 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alberto Hernández González",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "alhego7@hotmail.com",
+        "phone": "+34 665-82-86-69",
+        "address": "",
+        "LinkedIn": "https://linkedin.com/in/albertohernandezgonzalez",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "Universidad Carlos III Madrid",
+            "location": "Madrid",
+            "year": "2015-2018",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Bachelor's in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "University of La Laguna U/LL",
+            "location": "",
+            "year": "2011-2015",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Instituto Tecnológico y de Energías Renovables ELA ITER",
+            "position": "Project Engineer I+D+I",
+            "description": "",
+            "start_date": "Jun2019",
+            "end_date": "12/2020",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Mesa Rufino Ingenieros Asociados, S.L.P.",
+            "position": "Curricular Internship",
+            "description": "",
+            "start_date": "2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Australia",
+            "institution_or_company": "Pacific English Study, Queensland",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "France",
+            "institution_or_company": "Ecole Polytechnique, Paris",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship",
+            "country": "Poland",
+            "institution_or_company": "Warsaw University of Technology",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD",
+            "SolidWorks",
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "PHP",
+            "MySQL",
+            "ROS",
+            "Cosirop",
+            "KOP"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Surfing",
+        "Dance",
+        "Painting",
+        "Guitar"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "[2019]",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

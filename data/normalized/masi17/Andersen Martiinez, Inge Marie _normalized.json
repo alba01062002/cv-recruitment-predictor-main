@@ -1,0 +1,118 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Inge Marie Andersen Martínez",
+        "date_of_birth": "14/07/1988",
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": 29,
+        "email": "ingeandersenmartinezo@gmail.com",
+        "phone": "+49 - 1525 8886340, +34 - 660 282878",
+        "address": "Hintern Brúdern 26p, 38100 Braunschweig (Germany)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master",
+            "field": "Hydrology Engineering",
+            "university": "Universität Siegen",
+            "location": "Germany",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Industrial Engineering",
+            "field": "not specified in the document",
+            "university": "University of Vigo",
+            "location": "Spain",
+            "year": "2011-2006",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Volkswagen AG",
+            "position": "Process Control Engineer, Prototyping Center",
+            "description": "Responsible for the sourcing process of pre-series parts from development until final assembly in prototypes and concept cars.",
+            "start_date": "05/2013",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Startup Europe Program",
+            "position": "Technical Project Manager",
+            "description": "Implementation of project management basics by optimizing development processes for the new Seat Ibiza. Participated in various seminars on automotive industry, project management, teamwork, VW strategy 2018, and lean manufacturing.",
+            "start_date": "02/2013",
+            "end_date": "04/2013",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Kopenhagen Fur, Glostrup",
+            "position": "Danish-Spanish Translator",
+            "description": "Translation project of the enterprise website from Danish to Spanish.",
+            "start_date": "10/2012",
+            "end_date": "01/2013",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Exchange Program",
+            "country": "Germany",
+            "institution_or_company": "Universität Siegen, Department of Hydrology Engineering",
+            "start_date": "",
+            "end_date": "",
+            "description": "Analysis of the suitability of existing dams for energy storage. Published in Water Resources Management.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "ERP (Enterprise Resource Planning) Infor Worktop: proficient user",
+            "MATLAB: intermediate user",
+            "CYPE: intermediate user",
+            "CATIA V5 and DMU Navigator: basic user",
+            "AutoCAD: basic user",
+            "Visual Basic: basic user",
+            "Microsoft Project: basic user"
+        ],
+        "soft_skills": [
+            "Leadership and coordination of a small subcontracted team for a given project",
+            "Feasibility study of parts in terms of costs, technologies, and deadlines",
+            "Budget estimation and fulfillment during the process",
+            "Technical negotiation with worldwide external suppliers and final assignment for prototyping stage",
+            "Arranging and managing technical meetings with developers, clients, and suppliers",
+            "Supervising supplier delivery timelines during their manufacturing process",
+            "Managing logistics of parts and controlling stock",
+            "Resolving unexpected problems during the final assembly of parts",
+            "Assuring quality of parts through analysis of measurement reports"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 18,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.7
+}

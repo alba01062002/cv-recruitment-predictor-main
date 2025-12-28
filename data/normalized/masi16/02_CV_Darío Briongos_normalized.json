@@ -1,0 +1,137 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Darío Briongos Varela",
+        "date_of_birth": "20/10/1989",
+        "gender": "male",
+        "age_reference_year": 2016,
+        "age": 27,
+        "email": "dariobriongoso@gmail.com",
+        "phone": "+32 662 437 106",
+        "address": "c/ Alcalá 108, 82 dcha, Madrid, Spain, PC 28009",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Industrial Engineering",
+            "field": "Automation, Electronics and Robotics",
+            "university": "Escuela Superior de Ingenieros Industriales (ETSI), Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2007-2012",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Lycée Français de Madrid",
+            "location": "Madrid, Spain",
+            "year": "1994-2007",
+            "duration_years": 10.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "GMV Aerospace & Defense",
+            "position": "Junior Engineer",
+            "description": "GUI implementation in the FITS program, subcontracted in Airbus Getafe.",
+            "start_date": "10/2015",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "GMV Aerospace & Defense",
+            "position": "Internship",
+            "description": "Full-time job designing the crane system ECU (electronic control unit) inside the A400M plane: motor controlling strategy, SW design and implementation, testing rig design.",
+            "start_date": "11/2014",
+            "end_date": "09/2015",
+            "duration_years": 0.83
+        },
+        {
+            "company": "",
+            "position": "Assistant Teacher in Laboratory Classes",
+            "description": "Part-time job assisting principal teacher in microcontrollers and applications and biomedical instrumentation courses. Work involved in helping students apply knowledge in different kinds of realistic projects.",
+            "start_date": "01/2013",
+            "end_date": "05/2013",
+            "duration_years": 0.33
+        },
+        {
+            "company": "",
+            "position": "Member of InduForum 2012",
+            "description": "Part-time job in the marketing group of InduForum, a student association that organizes each year a job fair in the industrial engineering university of UPM. Work involved in fair promotion with web page, social networks, activities, meetings.",
+            "start_date": "09/2011",
+            "end_date": "05/2012",
+            "duration_years": 0.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Canada",
+            "institution_or_company": "Ecole Polytechnique de Montréal (Exchange Program)",
+            "start_date": "08/2012",
+            "end_date": "06/2013",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "France",
+            "institution_or_company": "ENSTA ParisTech (Athens Scholarship)",
+            "start_date": "10/2010",
+            "end_date": "",
+            "description": "One-week course on eolic propulsion.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Canada",
+            "institution_or_company": "Ecole Polytechnique de Montréal (Exchange Program)",
+            "start_date": "Aug 2012 - Jun 2013",
+            "end_date": null,
+            "description": "Final Degree Project: Implementation of stereo vision algorithms in low-cost microcontrollers",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C",
+            "C++",
+            "Python",
+            "VHDL",
+            "Matlab/Simulink",
+            "Rational Rose",
+            "Linux",
+            "Pspice"
+        ],
+        "soft_skills": [
+            "Helping students apply knowledge in realistic projects"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "InduForum 2012",
+            "role": "Marketing Group Member",
+            "duration": "09/2011 - 05/2012",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

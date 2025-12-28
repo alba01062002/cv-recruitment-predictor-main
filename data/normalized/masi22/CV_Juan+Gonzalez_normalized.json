@@ -1,0 +1,109 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Carlos Gonzalez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "jcsaul93@gmail.com",
+        "phone": "+34656712425",
+        "address": "Barcelona, Catalonia, Spain",
+        "LinkedIn": "https://www.linkedin.com/in/juan-carlos-gonzalez/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master degree in Home and Industry Automation",
+            "field": "Automation Engineering",
+            "university": "La Salle, Universidad Ramon Llull",
+            "location": "Barcelona",
+            "year": "2021-2022",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor degree in Production Engineering",
+            "field": "",
+            "university": "Universidad Centroccidental Lisandro Alvarado",
+            "location": "Barquisimeto, Venezuela",
+            "year": "2012-2018",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Nestlé Purina Petcare",
+            "position": "Project Engineer Internship",
+            "description": "Participated in the implementation of TPM methodology, collaborated in an event management system, and created standards for technical documentation.",
+            "start_date": "01/2022",
+            "end_date": "06/2022",
+            "duration_years": 0.42
+        },
+        {
+            "company": "SG Ingeniería Industrial",
+            "position": "Sales Consultant",
+            "description": "Managed customer database, updated and upgraded products, reduced costs by 10%, coordinated project start-up and ramp-up.",
+            "start_date": "03/2019",
+            "end_date": "03/2021",
+            "duration_years": 2.0
+        },
+        {
+            "company": "Venequip S.A.",
+            "position": "Maintenance Engineer Internship",
+            "description": "Programmed daily maintenance activities, customized procurements and stock levels, introduced maintenance plan for technical and industrial robots, built KPI database.",
+            "start_date": "02/2018",
+            "end_date": "11/2018",
+            "duration_years": 0.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "MATLAB",
+            "AutoCAD",
+            "SolidWorks",
+            "CATIA"
+        ],
+        "soft_skills": [
+            "Project management",
+            "Team leadership",
+            "Cost analysis",
+            "Customer service",
+            "Sales and marketing"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 3.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.6
+}

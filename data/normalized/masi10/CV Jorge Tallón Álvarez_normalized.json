@@ -1,0 +1,109 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge Tallon Álvarez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": null,
+        "email": "jorgetallonalvarez@hotmail.com",
+        "phone": "680252849",
+        "address": "Avda. de los toreros n28 esc.1 1b, Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Industrial",
+            "field": "Mecánica-maquinas",
+            "university": "ETSII, Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid",
+            "year": "2002-2009",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Centro de Investigación en Tecnologías Ferroviarias (CITEF)",
+            "position": "Becario",
+            "description": "Realizando el proyecto fin de carrera.",
+            "start_date": "03/2009",
+            "end_date": "09/2009",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Empresarios Agrupados",
+            "position": "Becario",
+            "description": "Realizando proyectos de centrales de ciclo combinado en el departamento mecánico.",
+            "start_date": "09/2008",
+            "end_date": "03/2009",
+            "duration_years": 0.5
+        },
+        {
+            "company": "ETSII, Universidad Politécnica de Madrid (UPM)",
+            "position": "Monitor de prácticas ETSII",
+            "description": "",
+            "start_date": "10/2007",
+            "end_date": "05/2008",
+            "duration_years": 0.58
+        },
+        {
+            "company": "Socorrista",
+            "position": "Trabajador temporal",
+            "description": "",
+            "start_date": "Verano 2002",
+            "end_date": "Verano 2007",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Becario",
+            "country": "España",
+            "institution_or_company": "Centro de Investigación en Tecnologías Ferroviarias (CITEF)",
+            "start_date": "03/2009",
+            "end_date": "09/2009",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "Ansys Workbench",
+            "Ansys",
+            "AutoCAD",
+            "Office",
+            "SolidWorks",
+            "Moldflow"
+        ],
+        "soft_skills": [
+            "Trabajo individual",
+            "Trabajo en equipo"
+        ]
+    },
+    "other_interests_normalized": [
+        "Ver series en VOS (Versión Original Sin Traducir)",
+        "Cocinar",
+        "Practicar deportes: Submarinismo, Esquí, Fútbol, Baloncesto, ...",
+        "Viajar"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 1.58,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.2
+}

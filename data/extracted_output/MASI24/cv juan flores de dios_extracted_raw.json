@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "fecha de nacimiento 09-03-2001 lugar de nacimiento almería ciudadanía espaol email juanfd100 hotmail.com teléfono +34 692465070 linkedin https://www.linkedin.com/in/juan- flores-de-dios/ permiso de conducir b (coche propio) software <% autocad * paquete office % xflrs <% ansys fluids * catia v5 * mdsolids % siemens nx % gmat * simulink + mision + iris + ibm doors programación % matlab o + python o + pascal idiomas espaol nativo inglés c1 francés b1 alemán al ruso a2 juan flores de dios ingeniero aeroespacial en vehículos aeroespaciales 2 perfil profesional y objetivos ingeniero aeronáutico joven, entusiasta y apasionado por la innovación en la aviación. excelentes habilidades interpersonales y sólidos conocimientos técnicos. busco aplicar mi creatividad y habilidades en un entorno desafiante en el campo aeronáutico. as estudios grado en ingeniería aeroespacial en vehículos aeroespaciales universidad rey juan carlos, madrid, espaa sep./2019-2024 . nota media: 8 grado en ingeniería de helicópteros don state technical university, rostov del don, rusia feb./2022-jun./2022 e nota media: 9,5 bachillerato de ciencias y tecnologia ies aguadulce, roquetas de mar, almería, espaa sep./2017-jun./2019 e matricula de honor: 9,43 y experiencia profesional ingeniero de sw de simulación aeronáutica y desarrollo de sistemas integrados the ct engineering group, getafe, madrid, espaa sep./2023-feb./2024 e diseo integral del simulador: participé en el diseo y desarrollo desde cero de un simulador de vuelo del f-18 en python, abordando desde la modelación de las superficies de control hasta la implementación de algoritmos para simular diversas condiciones de vuelo con precisión. ingeniero de flight performance para airbus defence & space the ct engineering group, getafe, madrid, espaa feb./2024-actualidad e planificación y estudio de misiones: desarrollo y optimización de planes de operaciones militares utilizando el software mision de airbus, enfocado en la maximización de la eficiencia operativa y el cumplimiento de los objetivos de vuelo. coordinación con distintos clientes del sector de defensa para lograr cumplir sus necesidades. e verificación y validación (v&v): especializado en el testing del software aeronaútico iris de airbus para evaluar y asegurar el cumplimiento de los requisitos técnicos. implementación efectiva de ibm doors para la gestión y trazabilidad de requisitos, facilitando análisis detallados y asegurando la integridad y precisión en la fase de prueba. (1) información relevante estancia internacional: beca munde rostov del don, rusia feb./2022-jun./2022 e aprendizaje de idiomas: mi principal idioma empleado fue el inglés, teniendo la oportunidad de recibir clases de ruso durante toda mi estancia, pudiendo llegar a establecer conversaciones con gente local y el profesorado. e mejora de habilidades interpersonales: presenté en diversos congresos y estableci contacto con diversos profesores y trabajadores de la universidad y de la empresa rostvertol (dedicada a la fabricación de helicópteros militares). a] proyectos el project manager del proyecto vortex (venus orbiter and rover team explorer) universidad rey juan carlos, madrid, espaa sep./2023- ene./2024 e gestión estratégica de proyecto y participación integral en la misión a venus: liderazgo en la supervisión y coordinación del diseo y operación del orbiter y lander, gestionando equipos multidisciplinarios a lo largo de todas las fases del proyecto. involucramiento directo en el desarrollo de subsistemas críticos, incluyendo determinación y control de actitud, sistemas de potencia, propulsión espacial y comunicaciones. autor de mathematical analysis of airbus a320 neo main landing gear universidad rey juan carlos, madrid, espaa ene./2022-jun./2022 e investigación y modelado: encargado de la recopilación de datos y revisión de literatura para el tren de aterrizaje del a320 neo, seguido del desarrollo de un modelo matemático en simulink basado en principios físicos. realicé análisis exhaustivos, comparé resultados con datos reales y efectué ajustes necesarios para mejorar la precisión y fiabilidad del modelo.",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI24"
+}

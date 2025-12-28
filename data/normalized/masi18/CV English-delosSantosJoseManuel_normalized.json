@@ -1,0 +1,128 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José Manuel de los Santos Ruibérriz de Torres",
+        "date_of_birth": "15/04/1987",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 31,
+        "email": "jmsantos87@gmail.com",
+        "phone": "+34 661643636",
+        "address": "alfonso de cossio n5 9a, cp: 41004, seville (spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree",
+            "field": "Professional Development Enterprise Structure and Organization, Strategic Communication, Business Financial Management, Corporate Legal Environment and Human Resources Planning",
+            "university": "International Centre of Financial Training (CIFF), University of Alcalá",
+            "location": "Madrid, Spain",
+            "year": "2013-2014",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Industrial Engineer Specialized in Energy",
+            "field": "Energy",
+            "university": "Higher Technical School of Engineering (ETSII), University of Seville",
+            "location": "Seville, Spain",
+            "year": "2005-2013",
+            "duration_years": 8.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space via Randstad Empleo E.T.T.",
+            "position": "Internal Manufacturing Coordinator of Airbus D&S Spanish Plants for Spares Services",
+            "description": "Focal point for make parts needs (A400M, L&M & MRTT programmes), trigger and follow up on manufacture and material provisioning to report and meet delivery dates on routine & AOG basis.",
+            "start_date": "10/2016",
+            "end_date": "12/2016",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Airbus UK via Tecaer Sevilla S.L. on behalf of Airbus Defence & Space",
+            "position": "Production Interface Officer for Spares - A400M Spares Production Coordinator",
+            "description": "Focal point for ordering team, provisioning of commercial data, ensuring on-time & on-quality deliveries for in-service aircrafts and retrofit campaign.",
+            "start_date": "12/2014",
+            "end_date": "10/2016",
+            "duration_years": 1.83
+        },
+        {
+            "company": "Alten Spain on behalf of Airbus Defence & Space",
+            "position": "Aeronautical Consultant with Access to the Production Line",
+            "description": "Production Controller acting as procurement & supply chain representative in the cross-functional team set up for B777&B737 Military Aircraft Programmes assembled at ADS Tablada Plant (Seville).",
+            "start_date": "04/2014",
+            "end_date": "12/2014",
+            "duration_years": 0.67
+        },
+        {
+            "company": "Airbus Defence & Space via Alten Spain, Tablada Plant",
+            "position": "Production Controller Internship at the Procurement and Supply Chain Department",
+            "description": "Monitoring several suppliers production & supply chain performance, ensuring and prioritizing on-time and on-quality deliveries so as to meet Airbus production planning and mitigate stock shortages.",
+            "start_date": "04/2013",
+            "end_date": "12/2013",
+            "duration_years": 0.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Belgium",
+            "institution_or_company": "Katholieke Universiteit of Leuven (KUL)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Courses successfully taken from Master's Degree in Industrial Management and Master's Degree in Materials Science, fully in English.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SAP Production Modules",
+            "Microsoft Office Advanced User (PowerPoint, Word & Excel)",
+            "MATLAB Basic User",
+            "Ability to read Airbus technical documentation (Primes, Airn@v & Sprint)"
+        ],
+        "soft_skills": [
+            "Adaptive to new situations and challenges",
+            "Good communication and negotiation skills",
+            "Excellent teamwork skills in cross-functional environments",
+            "Strong analytical skills",
+            "Solid understanding of procedures and processes",
+            "Proactive and enthusiastic person with high degree of responsibility"
+        ]
+    },
+    "other_interests_normalized": [
+        "Spending time with family and friends",
+        "Travelling",
+        "Doing sports"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Fundación Padre Garralda (Seville)",
+            "role": "Group Leader",
+            "duration": "2014",
+            "description": ""
+        }
+    ],
+    "degree_years": 9.0,
+    "total_work_years": 3.34,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

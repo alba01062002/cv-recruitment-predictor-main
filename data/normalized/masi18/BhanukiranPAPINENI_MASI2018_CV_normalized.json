@@ -1,0 +1,132 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Bhanukiran Papineni",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "['bhanukiran.p@outlook.com', 'bhanukiran02@gmail.com']",
+        "phone": "+91 9666 127 347, +91 6666 586 666",
+        "address": "Mahalakshmi Residency, Vijayawada, 520010, India",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Advanced Masters in Systems Engineering",
+            "field": "Systems Engineering",
+            "university": "ISAE SUPAERO",
+            "location": "Toulouse, France",
+            "year": "2016-2017",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor of Electrical and Electronics Engineering",
+            "field": "",
+            "university": "Guru Gobind Singh Indraprastha University",
+            "location": "Delhi, India",
+            "year": "2006-2008",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Master of Business Administration - Software Enterprise Management",
+            "field": "",
+            "university": "APS MBA",
+            "location": "Coimbatore, India",
+            "year": "2000-2004",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Operations SAS",
+            "position": "Internship",
+            "description": "Developing a model for surf alert functionality to support discussions with stakeholders.",
+            "start_date": "06/2017",
+            "end_date": "12/2017",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Self Employed",
+            "position": "",
+            "description": "Freelance consultant for Zensar Technologies Ltd, Hyderabad, India.",
+            "start_date": "02/2011",
+            "end_date": "06/2015",
+            "duration_years": 4.33
+        },
+        {
+            "company": "Zensar Technologies Ltd",
+            "position": "",
+            "description": "Requirement gathering and translating business needs into technical requirements, project management.",
+            "start_date": "07/2015",
+            "end_date": "11/2016",
+            "duration_years": 1.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "France",
+            "institution_or_company": "Airbus Operations SAS, Toulouse",
+            "start_date": "06/2017",
+            "end_date": "12/2017",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Telugu",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A1"
+        ],
+        [
+            "Hindi",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Requirements Engineering and Management",
+            "SysML, Requirements Engineering, UML",
+            "Objectiver 3.0",
+            "IBM Rational Doors 9.3",
+            "Modelling Language",
+            "Capella",
+            "MS Project, MS Office Tools (Word, Excel, PowerPoint)",
+            "ARP 4754A"
+        ],
+        "soft_skills": [
+            "Requirement Gathering and Translation",
+            "Project Management",
+            "Client Liaison",
+            "Technical Reporting",
+            "Business Requirement Documentation"
+        ]
+    },
+    "other_interests_normalized": [
+        "Cricket",
+        "Swimming",
+        "Running"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 6.16,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

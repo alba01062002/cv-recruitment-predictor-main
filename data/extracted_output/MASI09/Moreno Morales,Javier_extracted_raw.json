@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales nombre: javier moreno morales fecha de nacimiento: 12 de agosto de 1981 domicilio: urb/aljamar ii casa 6, 41940 tomares provincia: sevilla. contacto: teléfono: 666452861 email : javiermorenomorales@hotmail.com datos académicos egb en el colegio internacional izarra ( inglés ) bup y cou en el colegio internacional europa titulación: ingeniero de telecomunicaciones. centro: escuela superior de ingenieros de sevilla. fecha de finalización: a falta del proyecto, intensificación en electrónica de comunicaciones. first certificate in english por la universidad de cambridge idiomas inglés: nivel escrito: muy alto , nivel hablado: muy alto, nivel leído: muy alto, nivel traducido: muy alto, nivel general: muy alto. francés: nivel escrito: medio, nivel hablado: bajo, nivel leído: medio, nivel traducido: medio, nivel general: medio cursos curso de inglés en cork, irlanda durante dos meses. curso de inglés en wausau, wisconsin, estados unidos durante seis meses informática conocimientos altos a nivel de usuario (microsoft windows), tanto en sistemas operativos como en diversas herramientas de propósito general (office, openoffice, antivirus, firewalls, etc) y herramientas de ingeniería (matlab, maple, spice, labview, simulink...). conocimientos de programación en diversos lenguajes (c/c++, ensamblador de motorola, ...). 09/12/08 1 de 2 conocimiento de herramientas de desarrollo como visual c++, visual studio, sim3xw para tms320c3x de texas instrument o sim68 para 68hc11 de motorola. montaje y configuración de redes wlan y ethernet conocimientos altos de programas de edición de video (ulead video studio, pinacle,...) conocimientos medios de adobe photoshop trabajos realizados en la universidad de sevilla simulador de una interfaz de mensajes sms en lenguaje de programación c. fabricación de circuitos impresos de varios sistemas (detector de paso basado en infrarrojos...) proyecto de ict en un edificio de 40 viviendas proyecto de domótica en un edificio de 40 viviendas proyecto de cableado en fibra óptica para el ayuntamiento de madrid desarrollo de filtros de microondas. programación de dsp texas instruments para simulación de filtros. diseo de un microsistema (acelerómetro basado en tecnología mems) transmisión de imágenes encriptadas entre dos fpgas de xilinx experiencia laboral instalación, configuración y mantenimiento de wlan para la empresa valdelozanos. organización de eventos para la empresa sevent ( espontaneos skate tour 2007 y 2008 ) abla telecomunicaciones desde septiembre de 2008 otros datos 09/12/08 permiso de conducir clase b dispongo de coche propio facilidad para relaciones personales y trabajo en equipo capacidad de adaptación y aprendizaje 2de2",
+    "text_from_header": "CURRICULUM VITAE",
+    "detected_language": "es",
+    "master_edition": "MASI09"
+}

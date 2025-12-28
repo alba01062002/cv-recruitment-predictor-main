@@ -1,0 +1,115 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rebeca Robles Fernández",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "robles.fernandez@gmail.com",
+        "phone": "+34 655-870-011",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/rebecarobles/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Professional Development, Gaia 4.0",
+            "field": "Project Management, Business & Finance, Competence Development, HR, Marketing & Communication",
+            "university": "Universidad de Alcalá",
+            "location": "",
+            "year": "2015-2016",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Course of Polymers and Composites",
+            "field": "",
+            "university": "Athens Programme Paristech - École Nationale Supérieure d'Arts et Métiers",
+            "location": "",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Major in Aerospace Engineering",
+            "field": "",
+            "university": "Universidad Politécnica de Madrid - ETSIA",
+            "location": "",
+            "year": "2011-2014 (Distinction in Materials Resistance and Environment Thermodynamics)",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Baccalaureate in Technology",
+            "field": "",
+            "university": "IES Antonio García Bello, León",
+            "location": "",
+            "year": "Graduated with honors 2011",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Alten on behalf of Airbus Defence & Space",
+            "position": "Risk Control Engineer AOG (Aircraft On Ground) Department",
+            "description": "Planner of the following A400M work packages: energy, utilities & fuel, landing gear. Attend high-level engineering meetings, keep planning up to date and identify schedule conflicts or interdependence issues. Responsible for keeping control of the budget (manpower) of these activities and their deviations in relation to the annual operational plan. Provide support to Chief Engineering Office.",
+            "start_date": "07/2016",
+            "end_date": "12/2025",
+            "duration_years": 9.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Spain (various)",
+            "institution_or_company": "Universidad Politécnica de Madrid - ETSIA, Universidad de Alcalá",
+            "start_date": "",
+            "end_date": "",
+            "description": "Various projects and programs",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fortran, Python and MATLAB",
+            "Linux Ubuntu, Office IT and LaTeX",
+            "Nastran/Patran, ABAQUS, STK, ACECAL, ESACOMP, MyRTM, SAP, AirNav, Stilo, Corep, Sprint, Smart"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "Business & Finance",
+            "Competence Development",
+            "HR, Marketing & Communication",
+            "Lean Manufacturing Seminary by Catedra EADS",
+            "University Mentor at Universidad Politécnica de Madrid"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Mentor of three first-year students",
+            "duration": "2012-2013",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 9.42,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

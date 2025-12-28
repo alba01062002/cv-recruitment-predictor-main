@@ -1,0 +1,105 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge Barro Yustas",
+        "date_of_birth": "25/06/1985",
+        "gender": "male",
+        "age_reference_year": 2011,
+        "age": 26,
+        "email": "jbaryustas@gmail.com",
+        "phone": "+34654927515",
+        "address": "av villas de cuba, 13 blq.2 3c, 41007 sevilla",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero aeronáutico",
+            "field": "aeronaves y vehículos espaciales",
+            "university": "Escuela Técnica Superior de Ingenieros (ETSI) de la Universidad de Sevilla",
+            "location": "Sevilla",
+            "year": "2009",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Veolia Environnement",
+            "position": "Contrato de prácticas",
+            "description": "Desarrollo del proyecto de fin 2008 de carrera : estudio de la rotura de canalizaciones en acero para el transporte de agua caliente en redes urbanas. Realizado en el centro de los materiales de la escuela de minas de paris.",
+            "start_date": "04/2009",
+            "end_date": "09/2009",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Francia",
+            "institution_or_company": "Escuela Nacional Superior de Mecánica y Aeronáutica (ENSMA) de Poitiers",
+            "start_date": "10/2007",
+            "end_date": "09/2008",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Windows y de la suite office: word, power point, excel et acces.",
+            "Basics of Linux system operation",
+            "Text editing program LaTeX",
+            "Matlab 6.5 and its module Simulink",
+            "Basic signal processing program Lamkit",
+            "Advanced calculation programs for structures Patran-NASTRAN, ABAQUS-ABAqus/CAE y Zébulon",
+            "Advanced image processing programs Adobe Photoshop and Adobe Lightroom"
+        ],
+        "soft_skills": [
+            "Work in teams",
+            "Establish relationships between team components",
+            "Adaptability to work rhythms",
+            "Self-sufficiency",
+            "Interacting with people from different nationalities",
+            "Integration into different environments",
+            "Entrepreneurship and willingness to undertake new projects"
+        ]
+    },
+    "other_interests_normalized": [
+        "Cycling",
+        "Swimming",
+        "Traveling",
+        "Photography",
+        "Athletics",
+        "Reading",
+        "Cooking",
+        "Music"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2009-2016",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.42,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI11",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

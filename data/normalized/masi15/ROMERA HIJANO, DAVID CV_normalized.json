@@ -1,0 +1,91 @@
+{
+    "personal_information_normalized": {
+        "full_name": "David Romera Hijano",
+        "date_of_birth": "07/02/1991",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 24,
+        "email": "d.romera@alumnos.upm.es",
+        "phone": "669643260",
+        "address": "c/ Avila 7 b, 28804 Alcala de Henares, Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aeronautical Engineering",
+            "field": "Aircraft Systems Integration",
+            "university": "Universidad Politécnica de Madrid (E.T.S.lla)",
+            "location": "Madrid, Spain",
+            "year": "2009-2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ESdras Automática",
+            "position": "Mechanical Engineer",
+            "description": "Hub and Offshore Rotor Blade Structure by CATIA. Calculating maximum forces and moments of the global structure, using safety factors to define it.",
+            "start_date": "01/11/2012",
+            "end_date": "01/01/2013",
+            "duration_years": 0.0
+        },
+        {
+            "company": "ITP Alcobendas",
+            "position": "CFD Analyst and Cooling Design Engineer",
+            "description": "Studying and designing different features of an offshore structure (CATIA). CFD analysis of cooling passages in turbine blades based on an European project named Ericka.",
+            "start_date": "01/07/2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Course",
+            "country": "Ukraine",
+            "institution_or_company": "Zaporizhzhya National Technical University",
+            "start_date": "07/03/2012",
+            "end_date": "12/07/2012",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Mentor Programme",
+            "country": "Spain",
+            "institution_or_company": "Universidad Politécnica de Madrid (UPM)",
+            "start_date": "06/2013",
+            "end_date": "",
+            "description": "How to lead and manage a group of people, finding the way to solve their problems and motivate them.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "C++",
+            "CATIA",
+            "NASTRAN-PATRAN"
+        ],
+        "soft_skills": [
+            "self-confident and resilient person",
+            "good communication and office flexibility",
+            "ability to motivate and lead a team",
+            "creative and analytical mentality"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.0
+}

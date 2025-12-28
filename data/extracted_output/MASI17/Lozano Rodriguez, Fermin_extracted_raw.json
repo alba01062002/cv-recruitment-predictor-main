@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "education experience publications complementary education languages skills resume 2008 - 2014 msc aeronautics engineering universidad politécnica de madrid master thesis: study and application of disseminability of software measurement standards used in the characterization of surface finish in the aerospace industry 2014 erasmus program czech technical university in prague - faculty of electronic engineering project: adaptive extended kalman filter for aircraft attitude estimation 2016 gnss engineer at gmv - real data analysis and troubleshooting for galileo gnss. - performance assesment of new technologies in development for the next version of egnos sbas. 2016 engineer at exovite - research, development and testing of a device designed to 3d scan pets limbs instantly. - development of the hardware implementation -array of lasers and cameras- and the software to create 3d models from the raw sensor data. 2014 - 2016 software engineer at mencanta technologies - lead front-end engineer of an iphone and android app. 2013 intern at airelectronics - design printed circuit boards, drones assembly, sensors calibration. - record and edition of videos showing the product portfolio. \"comparative analysis of software measurement standard according to iso 5436-2 the manufacturing engineering society international conference, mesic 2015 \"some considerations about the development of software measurement standards in surface finish international journal of mechatronics and manufacturing systems, ijmms. currently under reviewing process. 2016 recurse center (formerly hacker school) new york. research in hardware development and fpga 2013 design for aircraft manufacturing seminary. airbus 2013 the future of icts: huawei / escuela de organización industrial winner. madrid - beijing - shenzhen - brussels 2007 ruta quetzal bbva the trace of the ship of china in mexico\" mexico - spain. universidad complutense de madrid, recognized as universal interest by unesco spanish: native english: complete professional proficiency (c1) - cad software: catia v5, solid edge - system tool kit - gnss, sbas, inertial navigation, kalman filtering - hardware development: electronic circuit design, fpga, verilog - programming languages: c, fortran, matlab, python, perl, javascript, lisp, bash - microsoft office: word, excel, powerpoint - operative systems: linux, windows, os x - design, image and video software: photoshop, indesign, illustrator, premiere, after effects",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI17"
+}

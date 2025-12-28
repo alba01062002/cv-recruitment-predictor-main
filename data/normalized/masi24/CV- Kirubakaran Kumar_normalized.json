@@ -1,0 +1,81 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Kirubakaran Kumar",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "kirubakaran.kumarl3@gmail.com",
+        "phone": "+918610760081",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/kumar-kirubakaran",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Aircraft Engineering Technology (Hons.)",
+            "field": "Aircraft Engineering Technology",
+            "university": "Universiti Kuala Lumpur - Malaysian Institute of Aviation Technology",
+            "location": "Sepang, Malaysia",
+            "year": "2019-2023",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Asia Aerotechnic Sdn Bhd",
+            "position": "Graduate Engineer Trainee",
+            "description": "Worked in aircraft structures and maintenance, with a strong understanding of continued airworthiness management for Airbus A320, Boeing 737NG & Classic, and ATR 72 aircraft. Assisted in structural damage assessment and repair, including composite parts. Worked with managing technical publications such as AD, SB, IPC, TFU, AMM, and CMM. Worked in the maintenance planning department (CAMO) utilizing TRAX software, assisting in filing, updating, and maintaining technical records, overhaul reports, and maintenance reports. Prepared, coordinated, and monitored work schedules to ensure timely completion of tasks. Participated in troubleshooting, inspecting, testing, and repairing aircraft systems (engine, hydraulics systems). Assisted in calibrating tools and managing the indent of tool supplies.",
+            "start_date": "08/2022",
+            "end_date": "01/2023",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Tamil",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office Suites",
+            "CATIA & AutoCAD (2D, 3D design)",
+            "Adobe Illustrator",
+            "CCNA & CCNP v3.0"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.42,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.5
+}

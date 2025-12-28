@@ -1,0 +1,154 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Adrián Torres Fernández",
+        "date_of_birth": "27/06/1989",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 28,
+        "email": "adriantorres3330hotmail.com",
+        "phone": "646 31 05 20 / 91 371 43 95",
+        "address": "c/ Antonio Cumella, 18, 5a. 28030 (Madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Technical Industrial Engineer in Electrical Engineering",
+            "field": "Electrical Engineering",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2007-2012",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "First Certificate in English",
+            "field": "",
+            "university": "Cambridge University",
+            "location": "",
+            "year": "2004 and 2006",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Project Management Computer Tools and AutoCAD 2D Course",
+            "field": "",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2001",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Certificate in Advanced English (CAE)",
+            "field": "",
+            "university": "Cambridge University",
+            "location": "",
+            "year": "2014",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master in Professional Development",
+            "field": "",
+            "university": "Universidad de Alcalá",
+            "location": "",
+            "year": "2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Adecco",
+            "position": "Aircraft Manager / Production Engineer in A350 S19",
+            "description": "Quality gate Illescas-Getafe as customer. Aircraft operational management, analysis and review of work orders (baseline production structure, reworks and repairs), handling non-conformities and concessions.",
+            "start_date": "June '15",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Hamburg",
+            "position": "Production Engineering Support in Hamburg to secondment team",
+            "description": "",
+            "start_date": "February '15",
+            "end_date": "May '15",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Mdu by Carbures Group",
+            "position": "Manufacturing Engineer in A350 519",
+            "description": "Standard Operation Instructions (SOIs) creation for riveting, protections, jigs and tools. Shop floor support, including special processes as fuel and hydraulic brackets and fittings installation. Work orders, non-conformities and concessions management.",
+            "start_date": "June '14",
+            "end_date": "June '15",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus",
+            "position": "Internship as a Production Engineer in A350 S19 Assy Line",
+            "description": "Knowledge of A350 S19 building process, work orders and SOIs. Knowledge of assembly CFRP and industrial means: cutting tools process shimming and sealant application, fasteners and bolts installation technology corrosion and surface protection.",
+            "start_date": "June '13",
+            "end_date": "June '14",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Eutti (UPM) in cooperation with Conersa",
+            "position": "",
+            "description": "Photovoltaic system installation destined to self-consumption of a main photovoltaic plant. Collaboration with Conersa.",
+            "start_date": "October '12",
+            "end_date": "March '13",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD 2D",
+            "MATLAB",
+            "Mathcad",
+            "Visual Basic",
+            "SAP",
+            "SFIM",
+            "CATIA V5",
+            "PDMLink",
+            "Mdm Resources",
+            "Microsoft Office"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Communication"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.2
+}

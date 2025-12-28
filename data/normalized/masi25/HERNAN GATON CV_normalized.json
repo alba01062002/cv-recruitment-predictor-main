@@ -1,0 +1,139 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Hernan Gaton",
+        "date_of_birth": "22/01/1998",
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": 27,
+        "email": "hernan.gaton@gmail.com",
+        "phone": "+34 634405225",
+        "address": "4 avenue edouard belin, diffe en ae, 31400 toulouse, France",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Aeronautical Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Carlos III de Madrid (UC3M)",
+            "location": "Madrid, Spain",
+            "year": "2020-2022",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's in Aerospace Engineering (240 ECTS)",
+            "field": "Aerospace Engineering",
+            "university": "Escuela de Organización Industrial (EOI)",
+            "location": "",
+            "year": "2016-2020",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Double Diploma in Aerospace Engineering",
+            "field": "Aircraft Systems Integration, Structures and Materials",
+            "university": "ISAE-SUPAERO & Universidad Carlos III de Madrid (UC3M)",
+            "location": "",
+            "year": "2021-2023",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus DS",
+            "position": "Airworthiness Derivatives Engineer",
+            "description": "Certification of minor and major design changes to approved versions, certification of EAE MRTT version, negotiation with authorities for Mcri permit to fly support.",
+            "start_date": "01/24",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus DS",
+            "position": "Initial Airworthiness Engineer",
+            "description": "",
+            "start_date": "09/22",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus SAS",
+            "position": "Quality Trainee",
+            "description": "Intern in Toulouse for the standardization of non-conformities across different European sites. Cleaning, harmonizing, and enlarging the defect description tree.",
+            "start_date": "02/22",
+            "end_date": "08/22",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus DS",
+            "position": "Electrical Design Trainee",
+            "description": "Intern in Getafe to develop a degree thesis on electrical design. Development of tools for the automation of processes.",
+            "start_date": "02/20",
+            "end_date": "11/20",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "International Mobility Program in High School",
+            "country": "Legacy High School",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Airbus Xplorer Program on Business Skills",
+            "country": "University of Maryland (UMD)",
+            "institution_or_company": "",
+            "start_date": "2018-2019",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "German",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB, Simulink, CATIA, SolidEdge, ANSYS Fluent, Python, Abaqus, RStudio, XFLR5, Visual Basic, Java, AMPL, Nastran, C, ProISIS, Patran, Google Suite"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Engineer Certification Office ATR",
+            "role": "Creating an internal foreign validation process of EASA approved certificates",
+            "duration": "SEP22 - OCT23",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

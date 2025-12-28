@@ -1,0 +1,120 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sofía Magraner Ubieta",
+        "date_of_birth": "08/03/1983",
+        "gender": "female",
+        "age_reference_year": 2009,
+        "age": 26,
+        "email": "sofia.magraner@gmail.com",
+        "phone": "+34 91 650 00 28 / +34 676 99 99 11",
+        "address": "C/ Cuesta del Cerro 75 30 B, 28109 La Moraleja - Alcobendas (Madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Superior de Telecomunicaciones",
+            "field": "Telecomunicaciones",
+            "university": "Universidad Carlos III Madrid",
+            "location": "Madrid",
+            "year": "2001-2008",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "General Electric. Power Controls",
+            "position": "Equipo de ofertas",
+            "description": "Recepción de los proyectos de instalaciones eléctricas de baja tensión de parte de los comerciales + estudios comparativos de ofertas de la competencia + coordinación con comerciales para ajustar la oferta a las expectativas de los clientes elaboración de los presupuestos de dichas instalaciones",
+            "start_date": "10/2007",
+            "end_date": "06/2008",
+            "duration_years": 0.67
+        },
+        {
+            "company": "Eurofono, S.L.",
+            "position": "",
+            "description": "Gestora de cobros para Alcatel + gestión de base de datos de clientes + seguimiento de facturas pendientes de cobro + contacto con los clientes + atención a reclamaciones",
+            "start_date": "07/1998",
+            "end_date": "06/1999",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Norema Salinas Catering",
+            "position": "Camarera",
+            "description": "",
+            "start_date": "12/2003",
+            "end_date": "06/2006",
+            "duration_years": 2.5
+        },
+        {
+            "company": "",
+            "position": "Profesora particular de estudiantes de ESO y Bachillerato",
+            "description": "Impartiendo matemáticas y física",
+            "start_date": "07/2003",
+            "end_date": "06/2006",
+            "duration_years": 2.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Alemania",
+            "institution_or_company": "Universitát Paderborn",
+            "start_date": "10/2006",
+            "end_date": "07/2007",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "C+",
+            "Visual Basic",
+            "Matlab",
+            "VHDL",
+            "Windows 95, 98, ME, 2000 Professional and XP",
+            "Linux",
+            "Microsoft Office (Word, Excel, PowerPoint, Access, Frontpage)",
+            "Simplez"
+        ],
+        "soft_skills": [
+            "Seminarios 2006 Artificial Immune Systems",
+            "RSA & Elgamal"
+        ]
+    },
+    "other_interests_normalized": [
+        "Teaching",
+        "Catering"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "1995-1997",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 7.01,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.8
+}

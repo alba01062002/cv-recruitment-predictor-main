@@ -1,0 +1,114 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alp Tekin",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "tekin.alp22es@gmail.com",
+        "phone": "+90 531 861 3735",
+        "address": "Istanbul, Turkey",
+        "LinkedIn": "linkedin.com/in/alptekin58",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "B.Sc. in Electrical Engineering",
+            "field": "Electrical Engineering",
+            "university": "Istanbul Technical University",
+            "location": "Istanbul, Turkey",
+            "year": "2016-2022",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Turkish Aerospace Industries",
+            "position": "Electrical Design and System Integration Engineer",
+            "description": "Working on landing gear system, hydraulic power system, canopy actuation system, and life support system of Hurjet and TF-X aircraft projects. Preparing system wiring requirements documents (SWRD) and electrical schematics, determining software requirements (FRS), cockpit indications (ICAWS, cautions, MFLs, PFLs). Preparing and conducting ground test procedures for prototype aircrafts. Managing the development processes of electronic equipment to be used in the prototype aircraft with subcontractor companies.",
+            "start_date": "11/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.08
+        },
+        {
+            "company": "Ford Otosan",
+            "position": "Calibration Engineer",
+            "description": "Working on electrified powertrain system of commercial electric truck.",
+            "start_date": "09/2022",
+            "end_date": "11/2022",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Baykar Technology",
+            "position": "Research and Development Engineer (Internship)",
+            "description": "Working in the electronic hardware team, focusing on propulsion systems of unmanned aerial vehicles.",
+            "start_date": "06/2022",
+            "end_date": "07/2022",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Arlight/Fagerhult",
+            "position": "Internship",
+            "description": "Working on the production line and in the production planning office.",
+            "start_date": "08/2021",
+            "end_date": "09/2021",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ Exchange Programme",
+            "country": "Not specified but likely in a European country due to Erasmus program",
+            "institution_or_company": "Agh University of Science and Technology",
+            "start_date": "",
+            "end_date": "2021-2021",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "",
+            "institution_or_company": "Agh University of Science and Technology",
+            "start_date": "2021-2021",
+            "end_date": null,
+            "description": "Erasmus+ Exchange Programme",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Turkish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB/Simulink",
+            "LTSpice",
+            "AutoCAD",
+            "Zuken E3 Series",
+            "Teamcenter",
+            "IBM DOORS",
+            "Microsoft Office Programs"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 3.41,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

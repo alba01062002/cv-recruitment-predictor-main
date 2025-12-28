@@ -1,0 +1,130 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Lola Corpas González",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "lcorpasg@outlook.com",
+        "phone": "+34689648616 (37)",
+        "address": "",
+        "LinkedIn": "linkedin 1 lcorpasg@outlook.com",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado de Ingeniería Industrial",
+            "field": "Tecnologías Industriales Especializada en Mecánica",
+            "university": "Universidad Pontificia de Comillas - ICAI",
+            "location": "",
+            "year": "2021-2025",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Formula Student + 2023 - 2024",
+            "position": "Miembro del equipo racing formula student de ICAI",
+            "description": "",
+            "start_date": "2023-09",
+            "end_date": "2024-06",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Investigación colaborativa + junio-julio 2024",
+            "position": "Proyecto de investigación colaborativa en Mobios Lab Comillas",
+            "description": "",
+            "start_date": "2024-06",
+            "end_date": "2024-07",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Monitora Summer Camp + Colegio G. Nicolí",
+            "position": "Jornada a tiempo parcial",
+            "description": "",
+            "start_date": "2024-07",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus + 2024 - 2025",
+            "country": "Lund University",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Italian",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "Python básico",
+            "Matlab",
+            "PSSE",
+            "SolidWorks",
+            "Solid Edge",
+            "CAD"
+        ],
+        "soft_skills": [
+            "Proactiva",
+            "Capaz de trabajar bajo presión"
+        ]
+    },
+    "other_interests_normalized": [
+        "Leer",
+        "Senderismo",
+        "Fútbol",
+        "Cocinar",
+        "Italiano",
+        "Surf"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Voluntariado",
+            "role": "Acompañar y dar comida a mendigos, visitas a residencia geriátrica",
+            "duration": "2022-2024",
+            "description": ""
+        },
+        {
+            "organization": "Fundación Amoverse",
+            "role": "Monitora Summer Camp 2023",
+            "duration": "2 semanas en verano de 2023",
+            "description": ""
+        },
+        {
+            "organization": "",
+            "role": "Profesora particular",
+            "duration": "2019-2022",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

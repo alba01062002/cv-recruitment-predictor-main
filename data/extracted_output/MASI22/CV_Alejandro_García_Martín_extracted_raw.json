@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "alejandro garcía martín madrid, espaa. garmaralejandro@gmail.com / (+34) 626948638 / www.linkedin.com /in /alejandro-garmar formación académica universidad carlos iii de madrid madrid, espaa grado en ingeniería mecánica 2018 - actualidad norwegian university of science and technology trondheim, noruega programa erasmus 2021 - 2022 mirasur school madrid, espaa bachillerato científico-tecnológico 2016 - 2018 proyectos diseo de un soporte para la sujeción de una antena en un satélite artificial. simulación de comportamiento en el software de elementos finitos abaqus. e diseo del soporte minimizando el peso con el fin de optimizar el uso de los distintos materiales. el soporte no tuvo que ser solo diseado, también fue fabricado a escala por lo que se tuvo en cuenta que los elementos fuesen soldables entre sí. e análisis de sensibilidad del mallado. diseo, simulación y fabricación de un chasis tubular. simulación en el software ansys, fabricación con madera de balsa y ensayo a torsión del chasis. e análisis de las deformaciones producidas por una fuerza de referencia para el cálculo y mejora de la rigidez a torsión. e ensayo de torsión previo a la elaboración de un informe con los resultados obtenidos. aprovechamiento geotérmico para su aplicación en agricultura e industria. desarrollo de plan de negocio. e identificación, descripción y análisis de la oportunidad de negocio. e realización de análisis de viabilidad técnica, económica y financiera, además de desarrollar todos los procedimientos y estrategias necesarias para llevar a cabo el proyecto. diseo 3d del mecanismo de una cerradura. diseo 3d en el software solid edge. e acotación, explosionado y diseo 3d de cada uno de los componentes del mecanismo. experiencia laboral clases particulares madrid, espaa matemáticas y física. 2018 - 2019 otra información e castellano (lengua materna), inglés (advanced cae). e uso avanzado de microsoft office (word, powerpoint y excel). e uso intermedio de abaqus fea, ansys y solid edge. e conocimiento básico de programación en c. e voluntariado en asde scouts de espaa.",
+    "text_from_header": "FORMACIÓN ACADÉMICA",
+    "detected_language": "es",
+    "master_edition": "MASI22"
+}

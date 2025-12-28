@@ -1,0 +1,99 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Ángel Rodríguez Plaza",
+        "date_of_birth": "15/10/1981",
+        "gender": "male",
+        "age_reference_year": 2009,
+        "age": 28,
+        "email": "['danielovick@gmail.com', 'darodriguezp@indra.es']",
+        "phone": "649 353 569",
+        "address": "c/ Antonio López, 234 F 2a, Madrid, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Superior",
+            "field": "Telecomunicación",
+            "university": "Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2008-2013",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Accenture S.L.",
+            "position": "Beca",
+            "description": "Apoyo en tareas de estructuración de los niveles de presentación y datos, y de calidad e implantación. Diseño de funcionales aplicaciones y pruebas unitarias portal web.",
+            "start_date": "01/2008",
+            "end_date": "05/2008",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Ericsson Network Services S.A.",
+            "position": "Beca",
+            "description": "Apoyo en control de incidencias de cobertura en telefonía móvil.",
+            "start_date": "07/2008",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "INDRA Sistemas",
+            "position": "Unidad de Redes y Comunicaciones",
+            "description": "Desarrollador de aplicaciones, pruebas unitarias portal web. Lenguajes de programación: Java, C, ensamblador, Shell Script, sockets, SQL, Servlets, JSP, JavaBeans y RMI.",
+            "start_date": "09/2008",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "C",
+            "Ensamblador",
+            "Shell Script",
+            "Sockets",
+            "SQL",
+            "Servlets",
+            "JSP",
+            "JavaBeans",
+            "RMI",
+            "TCP, UDP, DNS, FTP, TFTP, Telnet, Rlogin, SMTP, ESMTP, POP3, IMAPv4, RTP, RTCP, HTTP, IP, ATM, RDSI, Ethernet",
+            "Windows (95, 98, ME, XP)",
+            "Linux (KDE)",
+            "Redes (Técnicas de cifrado, firmas digitales)",
+            "MATLAB, Word, Open Office, Excel, PowerPoint"
+        ],
+        "soft_skills": [
+            "Control de incidencias",
+            "Diseño de aplicaciones funcionales",
+            "Pruebas unitarias"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 32,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.9
+}

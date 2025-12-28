@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "jaime bruno gómez oq madrid, spain jaime.bruno@estudiante.uam.es @ +34 657157770 in] jaime-bruno-gomez aerospace-focused physicist final-year physics student with a strong background in computational modeling specializing in aerospace applications. after completing an internship at inta, i have started a new stage at gmv, where i continue to develop my skills in software for space missions. my academic and laboral experience has equipped me with analytical problem-solving skills and the ability to work effectively under demanding conditions. i am focused on applying my expertise to the innovation of aeronautics and space exploration technologies. education physics degree universidad autonoma de madrid graduation on 2025 e accepted with a evau score of 13.56/14 e undergraduate research on superconducting vortices with stm (scanning tunneling microscope) skills: modern and classical physics knowledge, computational analysis, mathematical methods, advanced problem-solving, laboratory skills erasmus exchange program universita di bologna 2023-2024 e skills: cross-cultural communication, independence and adaptability, language proficiency work experience and projects internship gmv space dynamics for interplanetary missions e developing a new space dynamics system for interplanetary missions using esas godot software, python, and c++. supporting the henon mission by analyzing orbit determination accuracy during transit and in its final orbit. april - september 2025 tres cantos, madrid performing observation simulations and monte carlo analyses to estimate expected errors, assessing degraded scenarios, such as data loss impact. internship inta - instituto nacional de tecnica aeroespacial february - march 2025 flight segment - space projects area torrejón de ardoz, madrid e assisted in the assembly, integration, and verification (aiv) processes of the focal plane assembly (fpa) for the plato mission of the european space agency (esa) dedicated to detecting exoplanets e participated as system engineer in additional internal projects at inta, collaborating on various aerospace and technological developments private teaching mathematics and physics 2021-present a . . colmenar viejo, madrid e providing private lessons to high school and baccalaureate students advanced computational eclipse prediction system matlab february - may 2022 e designed an advanced computational model for high-precision simulation of the solar uam, madrid system using the verlet method and the prediction of solar and lunar eclipses with 3d visualizations. additional courses e full stack software developer (in progress), ibm via coursera o fundamental computing knowledge, key concepts in software architecture, databases and cloud technologies e machine learning (in progress), stanford university via coursera o machine learning models, neural networks, and algorithm optimization awards e excellence scholarship for university students awarded by the community of madrid (2022) e full merit scholarship for the first year of university studies (2021), awarded by ies rosa chacel for achieving a 9.82/10 average in the spanish baccalaureate. other skills programming skills: matlab, c++ , python , latex, version control (git and github), vs code languages: spanish (native), english (advanced, c1 certificate (cae), italian (basic)",
+    "text_from_header": "AEROSPACE-FOCUSED PHYSICIST",
+    "detected_language": "en",
+    "master_edition": "MASI25"
+}

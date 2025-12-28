@@ -1,0 +1,104 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Elena Rabanos Iruela",
+        "date_of_birth": "13/07/1982",
+        "gender": "female",
+        "age_reference_year": 2009,
+        "age": 27,
+        "email": "elena.rabanos@gmail.com",
+        "phone": "+34 646 88 79 38",
+        "address": "C/ Chiquinquirá n* 4, Madrid 28033",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "TFG (Project Fin de Carrera) in Telecommunication Engineering",
+            "field": "Telecommunication Systems and Networks",
+            "university": "Universidad Carlos III Madrid",
+            "location": "Madrid",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor of Science in Telecommunication Engineering",
+            "field": "Telecommunication Systems and Networks",
+            "university": "Universidad Carlos III Madrid",
+            "location": "Madrid",
+            "year": "2000-2008",
+            "duration_years": 8.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Hispasat",
+            "position": "Beca (Internship)",
+            "description": "During this internship, Elena worked from June 2 to September 30, 2008.",
+            "start_date": "06/2008",
+            "end_date": "09/2008",
+            "duration_years": 0.25
+        },
+        {
+            "company": "",
+            "position": "Private Tutor",
+            "description": "Taught mathematics, physics, and statistics classes.",
+            "start_date": "2005",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "C",
+            "Java",
+            "Linux",
+            "Assembler"
+        ],
+        "soft_skills": [
+            "Office (Word, Access, Excel, Power Point)",
+            "Leadership",
+            "Communication"
+        ]
+    },
+    "other_interests_normalized": [
+        "Baloncesto (Basketball)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Ministry of Education and Science",
+            "role": "Beca del Ministerio de Educación y Ciencia: Programa de Recuperación y Utilización Educativa de Pueblos Abandonados (2004, 2005, 2006)",
+            "duration": "2004-2006",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.25,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.2
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "name fermín chenoll barberá date of birth 10. juni 1987 birth place valencia, spain direction theresienstr. 4 85049 ingolstadt nationality spanish civil state single phone number +491737196717 e-mail theferminso outlook.com web https://www.linkedin.com/pub/fermin-chenoll/66/428/719 academic education 01.2011-08.2011 master thesis in composite materials in the department of engineering design and materials at the norges teknisk-naturvitenskapelige universitet, trondheim topic: low cycles fatigue analysis of bolted connections in composites for arctic applications grade 7.0/10 09.2005-09.2010 industrial engineer (di)- major: mechanics at the universidad politécnica de valencia, spain e main focus in the areas of internal combustion engines and material sciences e deep background in thermodynamics, heat transfer, electricity, electronics, and aerodynamics grade 6.4/10 09.2003-05.2005 high school padres agustinos, valencia, spanien major: technology and sciences grade 7.7/10 professional experience 19.3.2012- dato 1.9.2011- 31.12.2011 8.1.2011-29.8.2011 it-skills cad software cae software audi struktur. soft. mathematic soft. microsoft office operative systems project engineer by alten gmbh for audi ag dept. i/eg-81-- prolog e realization of full-car fem for electromagnetic compatibility simulations for audi i/ee-2 e realization of high-end cad engine shells by using 3d- evolution and ansa for crash simulations within audi i/ek- 14, as well as heat-transfer simulations within /eg-33 e support for tasks related with data acquisition-convertion and distribution for different simulation purposes like crash /ek-14, cfd/heat-transfer n/eg-33, cfd/ aerodynamics i/ek-441 e deep knowledge in databank systems: connect, teamcenter 10, kvs and presdm as well as about the integration and organization of the car components in an overall structure internship as simulation engineer by semcon gmbh. e main project: f.e. evaluation of multiple plastic materials in pamcrash and abaqus under different testing conditions e meshing of plastic components in ansa participation in the erasmus program e manual production of glass fiber and epoxy composites by the vacuum assisted resin injection molding process e realization of fatigue pull-out tests with glass-epoxy samples under different temperature conditions e evaluation of the results solidworks, autocad, catia v5, dmu, proe abaqus, altair, animator, ansa, fluent, pamcrash, meta post, 3d evolution connect, kvs, lcs, eca, presdm mathlab , mathcad word, excel, visual studio, powerpoint windows, unix/linux languages spanish german english french, thai native tongue advanced c1 certificate by goethe institut múnchen advanced c1 - certificate ielts 7 basic",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI18"
+}

@@ -1,0 +1,133 @@
+{
+    "personal_information_normalized": {
+        "full_name": "María Gallego Marugán",
+        "date_of_birth": "05/05/2000",
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": 22,
+        "email": "mgallego.marugan@gmail.com",
+        "phone": "+34633209529",
+        "address": "28806, Alcalá de Henares, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace and Navigation Systems",
+            "university": "UPM (Universidad Politécnica de Madrid)",
+            "location": "Madrid",
+            "year": "2018-2022",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Capgemini (subcontractor Airbus Defence and Space)",
+            "position": "Navigation System Junior Engineer",
+            "description": "Analysis of aircraft navigation issues, documentation, signal analysis programs use.",
+            "start_date": "03/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.75
+        },
+        {
+            "company": "Capgemini",
+            "position": "Junior Consultant",
+            "description": "Practice at aerospace and defence division (asd), complex engineering, testing: simulation",
+            "start_date": "02/2022",
+            "end_date": "03/2022",
+            "duration_years": 0.08
+        },
+        {
+            "company": "",
+            "position": "Private Teacher",
+            "description": "Teaching mathematics, physics and chemistry for GCSE and GCE (distance-learning classes)",
+            "start_date": "2018",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Babysitting",
+            "description": "",
+            "start_date": "2017-2018",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Red Cross, London",
+            "position": "Volunteering at Secondhand Store",
+            "description": "Reception, labelling and administration of goods; dealing with customers.",
+            "start_date": "01/2017-06/2017",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Interapp",
+            "position": "Internship in Business",
+            "description": "Accounting and administration department of the company; first contact with the world of work.",
+            "start_date": "05/2016-06/2016",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "School Exchange",
+            "country": "Poland, France (Bourdeaux)",
+            "institution_or_company": "",
+            "start_date": "2014, 2015-2016",
+            "end_date": "",
+            "description": "School exchange programs.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Fortran",
+            "Microsoft Office"
+        ],
+        "soft_skills": [
+            "signal analysis programs use"
+        ]
+    },
+    "other_interests_normalized": [
+        "Babysitting",
+        "Teaching"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Red Cross, London",
+            "role": "Volunteering at Secondhand Store",
+            "duration": "01/2017-06/2017",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 3.83,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

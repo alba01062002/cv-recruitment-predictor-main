@@ -1,0 +1,91 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ravinder Reddy Chintapalli",
+        "date_of_birth": "28/06/1993",
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": 30,
+        "email": "ravinderreddy.chintapally@gmail.com",
+        "phone": "+919177583369",
+        "address": "2-2-283, Old Nagole, Hyderabad, Telangana, India",
+        "LinkedIn": "https://www.linkedin.com/in/chintapalliravinderredd",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "B.Tech in Aeronautical Engineering",
+            "field": "Aeronautical Engineering",
+            "university": "Jawaharlal Nehru Technological University, Hyderabad",
+            "location": "Hyderabad",
+            "year": "2011-2015",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Intermediate (Maths, Physics & Chemistry)",
+            "field": "",
+            "university": "Narayana Jr. College",
+            "location": "Hyderabad",
+            "year": "2009-2011",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Tata Advanced Systems Limited, Hyderabad, India",
+            "position": "Quality Engineer",
+            "description": "Worked on major projects like Boeing Apache AH-64E and Cobham Flight Refueling Pod. Involved in studying drawings, GD&T, specification requirements, acceptance/rejection criteria, receiving inspection, final inspection, preparing FAI as per AS9102B standards with visual IPI, dealing non-conformance/discrepancy, raising NCR/DR, handling various quality instruments.",
+            "start_date": "Oct'16",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "India",
+            "institution_or_company": "M Vishnu Vignan's Institute of Technology & Aeronautical Engineering, Hyderabad",
+            "start_date": "Aug'15",
+            "end_date": "Aug'16",
+            "description": "Worked as a Research Assistant. Involved in manufacturing of various composite materials and strength and failure analysis of composite material.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Telugu",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Visual IPI",
+            "SAP",
+            "Writing Aerospace Articles",
+            "Testing",
+            "MS Office"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Technical Seminars",
+        "Aerospace Engineering",
+        "Certifications"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

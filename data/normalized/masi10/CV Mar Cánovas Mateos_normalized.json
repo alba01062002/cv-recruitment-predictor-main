@@ -1,0 +1,111 @@
+{
+    "personal_information_normalized": {
+        "full_name": "María del Mar CanoVAS MateOS",
+        "date_of_birth": "01/08/1983",
+        "gender": "female",
+        "age_reference_year": 2010,
+        "age": 27,
+        "email": "mcanomat@alum.uax.es, marcanovas@hotmail.com",
+        "phone": "950341673 / 636114691",
+        "address": "C/El Moral, 232, Aguadulce, Almería, C.P. 04720",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería de Telecomunicación",
+            "field": "Ingeniería de Telecomunicación",
+            "university": "Universidad Alfonso X el Sabio",
+            "location": "Madrid",
+            "year": "2003-2008",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Network Planning and Distributed Systems",
+            "university": "Aalborg University & Politecnico di Torino",
+            "location": "Dinamarca, Italia",
+            "year": "2009",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Responsable de Manejo y Actualización de Incidencias y Problemas en la Red Espaola Orange de Telefonía Móvil (Prácticas)",
+            "description": "Collaboration in the Radiocommunication Engineering Department, development and participation in several wireless engineering projects. Management and update of issues or problems in Spain's mobile network.",
+            "start_date": "11/2007",
+            "end_date": "05/2008",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Dinamarca",
+            "institution_or_company": "Universidad de Aalborg (Aalborg University)",
+            "start_date": "10/2006",
+            "end_date": "07/2007",
+            "description": "Realizado durante el año académico 2006-2007.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Italian",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "Symbian",
+            "SmartDraw",
+            "PSPICE",
+            "MATLAB",
+            "Excel",
+            "Word",
+            "Internet Explorer",
+            "Office",
+            "Power Point"
+        ],
+        "soft_skills": [
+            "Responsibility",
+            "Problem-solving",
+            "Collaboration",
+            "Leadership"
+        ]
+    },
+    "other_interests_normalized": [
+        "Carrera semi-profesional junior de tenis",
+        "Estudios oficiales de piano en el Real Conservatorio Profesional de Música de Almería"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Obra Social de la Caixa y la Universidad Politécnica de Cataluña",
+            "role": "Formador de Informática e Internet",
+            "duration": "Actualidad",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.5,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

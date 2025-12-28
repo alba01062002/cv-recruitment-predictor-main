@@ -1,0 +1,169 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Diego Sánchez Franco",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "diego.sanchez.fraco@gmail.com",
+        "phone": "+34 679.06.21.81, +33 (0)7.83.70.22.92",
+        "address": "avda. de san luis 93 11e 28033 madrid, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Numerical Simulation in Engineering with ANSYS (specialization: Fluid Mechanics)",
+            "field": "Engineering - Specialization in Fluid Mechanics",
+            "university": "UPM - ANSYS",
+            "location": "Madrid, Spain",
+            "year": "2016-2017",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Master's degree in Aerospace Engineering (specialization: Aircraft Systems and Materials & Structures)",
+            "university": "ETSIAE-UPM",
+            "location": "Madrid, Spain",
+            "year": "2015-2016",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Master's degree in Professional Development (specialization: Advanced Aircraft Design)",
+            "university": "University of Alcalá",
+            "location": "",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's degree in Aerospace Engineering",
+            "field": "Aerospace and Space Vehicles",
+            "university": "UPM - ETSIAE (Cardenal Spinola Secondary School, Madrid)",
+            "location": "Madrid, Spain",
+            "year": "2014-2016",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "International exchange at Linköping University, Sweden",
+            "university": "Linköping University (Sweden)",
+            "location": "Sweden",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Voltair (Airbus Group Innovations)",
+            "position": "Practicas",
+            "description": "Conception and analysis of the E-fan 2.0 aircraft, report writing on aerodynamic and structural analyses.",
+            "start_date": "Apr/14 - Oct/15",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Beca Gaia - Airbus Defence & Space (Getafe, Spain)",
+            "position": "Practicas",
+            "description": "Photogrammetry analysis and software development in MATLAB.",
+            "start_date": "Sep/14 - Aug/15",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Department of Flight Testing Methods Tools (Former TAEVT4)",
+            "position": "Practicas",
+            "description": "Analysis and development of software in MATLAB.",
+            "start_date": "Feb/15 - Jun/16",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ Exchange",
+            "country": "France",
+            "institution_or_company": "ISAE-Supaero",
+            "start_date": "Sep/13 - Jul/14",
+            "end_date": "",
+            "description": "Part of the Master's in Aerospace Engineering, specialization in Autonomous Systems and Materials & Structures.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "International Exchange",
+            "country": "Sweden",
+            "institution_or_company": "Linköping University (Sweden)",
+            "start_date": "Feb/15 - Jun/16",
+            "end_date": "",
+            "description": "Courses in product modeling and advanced aircraft design, as well as a final degree project.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "France",
+            "institution_or_company": "ISAE-Supaero",
+            "start_date": "2013-2014",
+            "end_date": null,
+            "description": "Erasmus+ Exchange at ISAE-Supaero in France",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "German",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Fortran",
+            "Nastran-Patran",
+            "Catia V5",
+            "Tornado Vlm",
+            "LaTeX",
+            "Vba"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Skiing",
+        "Football",
+        "Traveling",
+        "Tennis",
+        "Music",
+        "Instruments"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Club de Debate de Supaero",
+            "role": "Member",
+            "duration": "2014-2015",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

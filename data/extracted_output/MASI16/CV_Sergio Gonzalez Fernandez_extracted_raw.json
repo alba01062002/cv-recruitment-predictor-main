@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "o idiomas tas . sergio gonzalez fernandez fecha de nacimiento: 07/ 05/ 1991 residencia: c/honduras n 27, 5 dcha. 39005, santander, espaa teléfono: 0034 650 608 605 email: sergonfe@gmail.com formación académica + ingeniero aeronáutico, especializado en propulsión por : o la universidad politécnica de valencia (espaa, 2012/13, 2014/15) o la universidad politécnica de varsovia (polonia, 2013/14) o la universidad de toulouse (francia, 2011/12) o la universidad de león (espaa, 2009/10, 2010/11) e pfc de diseo, análisis y fabricación de un modelo de avión fpv con siemens nx en el instituto de diseo y fabricación de la upv inglés: c1, hablado y escrito. certificado toefl ibt, nota 95/120 (2013) francés: c1, hablado y escrito alemán: al espaol: lengua materna informática e cad/cam/cae: siemens nx, catia, autodesk inventor, ansys y solidworks e programación: c/c++, html, css, javascript, query y php e otros: ms office, matlab y wolfram mathematica otros datos de interés e carné de conducir b e pruebas de controlador aéreo en senasa superadas (feast test por eurocontrol) e primer premio del xv maratón cultural solvay",
+    "text_from_header": "TAS |.",
+    "detected_language": "es",
+    "master_edition": "MASI16"
+}

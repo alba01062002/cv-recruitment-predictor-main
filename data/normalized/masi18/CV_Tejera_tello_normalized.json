@@ -1,0 +1,136 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José Ignacio Tejera Tello",
+        "date_of_birth": "11/09/1993",
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": 27,
+        "email": "tejeratello@gmail.com",
+        "phone": "+34 618 034 872",
+        "address": "C/ Moreno Carbonero n2 1-b, izq. 29640, Fuengirola, Malaga, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "First Certificate in English",
+            "field": "",
+            "university": "University of Cambridge ESOL Examinations",
+            "location": "",
+            "year": "2009 - 2011",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "College Degree: Technical Scientist",
+            "field": "",
+            "university": "College of Los Boliches, Fuengirola, Malaga, Spain",
+            "location": "Fuengirola, Malaga, Spain",
+            "year": "2007 - 2011",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Degree in Industrial Electronics Engineering",
+            "field": "Industrial Electronics Engineering",
+            "university": "Higher Polytechnic School of Malaga (UPM)",
+            "location": "Spain",
+            "year": "2011 - 2015",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Master in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "UPM (Higher School of Industrial Engineers of Madrid, Spain)",
+            "location": "Madrid, Spain",
+            "year": "2015 - 2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Intensive English Language Course",
+            "field": "",
+            "university": "Cork English College",
+            "location": "Cork, Ireland",
+            "year": "September 2017 - December 2017",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Ireland",
+            "institution_or_company": "Cork English College",
+            "start_date": "September 2017",
+            "end_date": "December 2017",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Simulink",
+            "Simscape",
+            "LabVIEW",
+            "Multisim",
+            "TINA-TL",
+            "VHDL",
+            "AutoCAD",
+            "ORCAD",
+            "Pspice",
+            "SolidWorks",
+            "C++",
+            "Java",
+            "CH IEC 61131-3",
+            "Microsoft Word",
+            "Microsoft Excel (VBA)",
+            "Microsoft PowerPoint",
+            "Arduino",
+            "Raspberry Pi"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Team-work",
+            "Empathy",
+            "Personal self-esteem",
+            "Outgoing",
+            "Effective communication",
+            "Good listening skills",
+            "Analytic and concise capability to find solutions to complex problems",
+            "Initiative for innovation",
+            "Abstraction, concentration and study skills",
+            "Organization and optimization capabilities",
+            "Work priorities",
+            "Work planning",
+            "Work aptitude",
+            "Punctuality"
+        ]
+    },
+    "other_interests_normalized": [
+        "Guitar",
+        "Piano",
+        "Magic and mentalism"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

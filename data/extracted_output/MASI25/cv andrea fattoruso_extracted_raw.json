@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "andrea fattoruso aerospace engineer contact education experience & projects skills phone: +39 3914250882 address: via staglie 60, gragnano 80054, na email: andreafattoruso@hotmail.com m.sc. in aerospace engineering (space) universita di napoli federico ii 2022-2025 (expected) - specialized in guidance, navigation, and control (gnc) and remote sensing systems - thesis: design and application of rf sensors for cooperative uav navigation in gnss-challenged environments b.sc. in aerospace engineering universita di napoli federico ii 2019-2022 - elective courses in systems engineering, communications, and autonomous vehicles - thesis: aerodynamic simulation of a fixed-wing aircraft using open-source tools socarrat cubesat (2u) - control & comms systems engineer (2022) - contributed to the mission design of a 2u cubesat showcasing al capabilities in space as a part of an international team - developed the attitude and orbit control system (aocs) and ground communication subsystem - tools: matlab & simulink daphne cubesat (3u) - subsystems engineer (2023) student-led initiative supported by distretto aerospaziale campano (dac) - designed bus subsystem for a mission measuring space radiation absorption by experimental composite materials - tasks included thermal, power, and structural considerations erasmus + program czech republic (2024) internship at latitudo 40 s.p.a. and stratobotics - engineering intern (2024-2025) - designed a software-defined radio (sdr) based communication system for high altitude platform stations (haps) - enabled real-time 720p/30fps video streaming from haps to ground, alongside telemetry and inter-platform data link - tools: gnu radio, ros, python, matlab & simulink languages software and tools italian: native + matlab & simulink + ros english: cambridge certificate of level c1 + gmat e latex e nastran e git i, e python capable of working in a group and alone + openvsp with efficiency and flexibility * ansys fluent",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI25"
+}

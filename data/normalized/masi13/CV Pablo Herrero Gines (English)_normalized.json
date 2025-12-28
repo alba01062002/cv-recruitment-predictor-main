@@ -1,0 +1,110 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pablo Herrero Gines",
+        "date_of_birth": "07/04/1987",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 26,
+        "email": "pablo.herrero.gines@gmail.com",
+        "phone": "(0034) 650241403",
+        "address": "Paseo Juan XXIII, n246, 102b - 28040 Madrid (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MSc Aeronautical Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid (Spain)",
+            "location": "Madrid",
+            "year": "2012",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Gamesa Corporación Tecnológica, S.A.",
+            "position": "MSC Aeronautical Engineering Final Project Internship",
+            "description": "3D synthetic wind generation by conditional simulation. Currently working on it.",
+            "start_date": "06/2012",
+            "end_date": "11/2012",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Portugal",
+            "institution_or_company": "Universidade da Beira Interior (Covilhá, Portugal)",
+            "start_date": "07/2011",
+            "end_date": "09/2011",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Spanish Air Force (Morón Military Base, Sevilla, Spain)",
+            "start_date": "07/2010",
+            "end_date": "08/2010",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Summer Course",
+            "country": "Spain",
+            "institution_or_company": "Universidad de Salamanca (Salamanca, Spain)",
+            "start_date": "07/2005",
+            "end_date": "08/2005",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Chinese",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Maple",
+            "Computer-Aided Design (CAD): Solid Edge",
+            "Minitab",
+            "Microsoft Office: Word, Excel, PowerPoint",
+            "C/C++",
+            "MATLAB",
+            "ESACOMP"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Dancing: Latin Music (Salsa, Bachata, Merengue, Cha-cha-cha), Tango",
+        "Sport: Soccer, Athletics, Badminton",
+        "Traveling: Stays in Europe and North America, Interrail (2007)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Junta de Castilla y León",
+            "role": "Entertainment Manager",
+            "duration": "2009",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.42,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.6
+}

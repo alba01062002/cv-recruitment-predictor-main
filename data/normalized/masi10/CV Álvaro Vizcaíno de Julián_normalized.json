@@ -1,0 +1,103 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Álvaro Vizcaíno de Julián",
+        "date_of_birth": "05/09/1985",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 25,
+        "email": "a.vizcaino.dejulian@gmail.com",
+        "phone": "+34 926860592, +34 679659250",
+        "address": "Santa Dirección 19, 13270 Almagro, Ciudad Real, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Industrial: Especialidad Electricidad y Electrónica",
+            "field": "Electrical and Electronic Engineering",
+            "university": "Universidad de Castilla-La Mancha, Escuela Técnica Superior de Ingenieros Industriales de Ciudad Real",
+            "location": "Ciudad Real",
+            "year": "2003-2008",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Análisis de Riesgos Industriales en Plantas Químicas y Petroleras",
+            "university": "Universidad de Castilla-La Mancha, Ciudad Real",
+            "location": "Ciudad Real",
+            "year": "2007-2008",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Sheffield Forgemasters Engineering",
+            "position": "Asistente de Laboratorio",
+            "description": "Diseño y construcción de fuente de trigger de alto voltaje. Diseño de experimentos con plasma. Sistemas de potencia pulsada.",
+            "start_date": "2008-11",
+            "end_date": "2009-05",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English, french",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Simulink",
+            "Power World",
+            "GAMS",
+            "Orcad",
+            "PSCAD",
+            "SolidWorks",
+            "Flomerics",
+            "Deform 3D",
+            "Procast"
+        ],
+        "soft_skills": [
+            "Organization and Planning",
+            "Initiative",
+            "Teamwork"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.8
+}

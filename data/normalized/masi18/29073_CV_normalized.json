@@ -1,0 +1,94 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francisco José de la Rosa Martínez",
+        "date_of_birth": "25/04/1991",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 27,
+        "email": "franciscodelarosa912@gmail.com",
+        "phone": "+34 690776076",
+        "address": "12 3d, vereda de jaén, albacete, albacete, 02006, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universitat Politècnica de València",
+            "location": "Valencia",
+            "year": "2009-2015",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Babcock mcs spain s.a.u",
+            "position": "MRO Engineer at Technical Office Department",
+            "description": "Development of base and line maintenance work orders, engineering support to maintenance technicians, development of technical reports, management of service bulletins and airworthiness directives.",
+            "start_date": "05/2016",
+            "end_date": "12/2025",
+            "duration_years": 9.58
+        },
+        {
+            "company": "Inaer Helicópteros s.a.u",
+            "position": "Project Assistant",
+            "description": "Collaboration on the Avanti project, which involved implementing a new ERP using Ramco Aviation software. Support to engineering, purchasing, warehousing, and maintenance departments.",
+            "start_date": "01/2015",
+            "end_date": "05/2016",
+            "duration_years": 1.33
+        },
+        {
+            "company": "Emro s.l.",
+            "position": "Intern Researcher in Turbomachinery and Cogeneration Project",
+            "description": "Support on making drawings and blueprints of the turbomachinery, programming and maintaining the turbomachinery during its operation.",
+            "start_date": "07/2014",
+            "end_date": "12/2014",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Mathematica",
+            "MATLAB",
+            "ANSYS",
+            "CATIA V5",
+            "SolidWorks",
+            "Autodesk Inventor",
+            "Gasturb",
+            "GSP",
+            "Microsoft Office",
+            "TIA Portal",
+            "RAMCO Aviation Software"
+        ],
+        "soft_skills": [
+            "Highly committed",
+            "Responsible",
+            "Punctual",
+            "Optimistic",
+            "Tolerant",
+            "Cooperative"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

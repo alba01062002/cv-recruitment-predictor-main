@@ -1,0 +1,103 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rodrigo Fernández de los Ríos",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "wkr.fernandezdelosrios@gmail.com",
+        "phone": "+34616546990",
+        "address": "Calles de Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aerospace Engineering Degree",
+            "field": "Aerospace Propulsion",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2018-2023",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Crida A.I.E",
+            "position": "Student Intern",
+            "description": "Redesign of the automatic safety monitoring tool and development of a predictive model using Bayesian networks.",
+            "start_date": "02/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "International Exchange Programs",
+            "country": "Mexico, USA",
+            "institution_or_company": "",
+            "start_date": "2016-2017",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "MATLAB",
+            "Fortran",
+            "Data Performance Simulations and Automation of Operations",
+            "3D Graphic Design",
+            "Computational Fluid Dynamics"
+        ],
+        "soft_skills": [
+            "Creativity",
+            "Pressure Management",
+            "Leadership",
+            "Strategy and Business Management",
+            "Effective Communication"
+        ]
+    },
+    "other_interests_normalized": [
+        "Scuba Diving",
+        "Travelling",
+        "Cinema"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Cooperando Voluntarios, Limón (Costa Rica)",
+            "role": "Sea Turtle Volunteer",
+            "duration": "July 2023",
+            "description": ""
+        },
+        {
+            "organization": "CISV, Philadelphia (USA)",
+            "role": "Volunteer",
+            "duration": "July 2018",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 2.83,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.4
+}

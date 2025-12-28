@@ -1,0 +1,100 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Ríos Pérez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "miguelriospereztrab@gmail.com",
+        "phone": "+34 659 057 257",
+        "address": "Antonio Casero 11, Madrid, Madrid, 28007",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Degree in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Technical University of Madrid, School of Aeronautical and Space Engineering",
+            "location": "Madrid",
+            "year": "2015-2021",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ETOLUS S.L.",
+            "position": "Aerodynamic Loads Engineer",
+            "description": "Solute calculation of loads to obtain the fatigue and extreme life of wind turbines.",
+            "start_date": "03-2022",
+            "end_date": "ACT",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Capgemini S.L.",
+            "position": "CFD Engineering",
+            "description": "Two-dimensional and three-dimensional design and optimization of the fan and compressor stages of an electric turbofan. Calculation of aerodynamic loads on the compression stage after the introduction of urea.",
+            "start_date": "05-2021",
+            "end_date": "March 2022",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Technical University of Madrid, Department of Aerodynamics",
+            "position": "CFD Engineering (Part-time)",
+            "description": "Design and optimization of wind tunnel components using computational fluid dynamics with ANSYS Fluent tool.",
+            "start_date": "2019-2020",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "ANSYS Fluent",
+            "OpenFOAM",
+            "CATIA V5"
+        ],
+        "soft_skills": [
+            "Leadership qualities",
+            "Oral expression",
+            "Problem solving and reasoning skills",
+            "Passionate about dynamic environments and teamwork"
+        ]
+    },
+    "other_interests_normalized": [
+        "Mach Academy Counselor (free time)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.4
+}

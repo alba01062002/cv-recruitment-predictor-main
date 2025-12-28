@@ -1,0 +1,97 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Cristina Huertas Collado",
+        "date_of_birth": "19/10/1991",
+        "gender": "female",
+        "age_reference_year": 2015,
+        "age": 24,
+        "email": "cristina.h.collado@gmail.com",
+        "phone": "+34 661086460",
+        "address": "q marqués de lozoya, 23, 8b, 28007, madrid, spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aeronautical Engineering",
+            "field": "Aerospace Systems Engineering",
+            "university": "Superior Technical School of Aeronautical Engineers (ETSIA), Polytechnic University, Madrid, Spain",
+            "location": "Madrid, Spain",
+            "year": "2013",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aertec Solutions",
+            "position": "Trainee in Aerospace Systems Engineering - Defence Department",
+            "description": "Responsible for design, manufactured and validation of a solid propellant rocket engine. Actively interacted with the La Maraosa Technological Institute.",
+            "start_date": "07/2013",
+            "end_date": "10/2013",
+            "duration_years": 0.25
+        },
+        {
+            "company": "Airbus SAS",
+            "position": "Manufacturing Engineer, A350 Fal (Final Assembly Line) - Toulouse, France",
+            "description": "Responsible for management and resolutions of most frequent wing assembly concessions. Identified design improvements to eradicate concessions.",
+            "start_date": "02/2014",
+            "end_date": "11/2014",
+            "duration_years": 0.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "France (Toulouse)",
+            "institution_or_company": "Airbus SAS",
+            "start_date": "02/2014",
+            "end_date": "11/2014",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "FORTRAN",
+            "Maple",
+            "CATIA",
+            "SketchUp",
+            "STK Environment",
+            "Microsoft Office (Word, Excel, PowerPoint, Outlook)"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "Organization Skills",
+            "Interpersonal Communication"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 1.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

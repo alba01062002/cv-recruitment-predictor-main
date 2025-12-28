@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Nestor Ramirez Lopez",
+        "date_of_birth": "19/04/1995",
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": 24,
+        "email": "nestor1995196@hotmail.com",
+        "phone": "+34 629306956",
+        "address": "Paseo de Oria, 12 3A, 28830 San Fernando de Henares, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Technical University of Madrid, Higher Technical School of Aeronautical and Space Engineering",
+            "location": "Madrid",
+            "year": "2013-present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master in Decision Making and Innovation",
+            "field": "",
+            "university": "Gaia High School Science and Technologies",
+            "location": "Spain",
+            "year": "2011-2013",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Warner Bros Theme Park",
+            "position": "Bartender / Restaurant Cleaner",
+            "description": "Developed team work skills and gained economic independence. Responsibilities included cleaning tasks, different stands responsibilities (ice cream, ice yogurt), customer service.",
+            "start_date": "03/2015",
+            "end_date": "01/2016",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Maritime Salvage and Security Internship Experience",
+            "position": "",
+            "description": "Studies of modes of consumption of helicopter and airplane models used in maritime rescue missions. Participation in simulation exercises with helicopters and planes, route and direction planning system in Visual Basic.",
+            "start_date": "03/2018",
+            "end_date": "12/2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Defense and Space - Gaia Internship",
+            "position": "",
+            "description": "Participation in the A400M program with mainly documentational support responsibilities, including participation in PPS elaboration, engineering and certification support, scheduling activities and teamworking activities related to production department. Development of an A400M integrated systems course as a technical support for previous functions.",
+            "start_date": "12/2017",
+            "end_date": "12/2025",
+            "duration_years": 8.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "France",
+            "institution_or_company": "Université Paul Sabatier - Génie Mécanique en Aéronautique, Génie Mécanique Énergétique Structural Mechanics",
+            "start_date": "03/2018",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "AutoCAD",
+            "SolidWorks",
+            "CATIA V5",
+            "Fortran"
+        ],
+        "soft_skills": [
+            "Verbal Communication",
+            "Problem-solving and Analytical Competencies",
+            "Teamworking and Relational Skills",
+            "Self-motivated",
+            "Leadership"
+        ]
+    },
+    "other_interests_normalized": [
+        "Basketball Coaching",
+        "Summer Camps Organisation"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Basketball Coach",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 8.83,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

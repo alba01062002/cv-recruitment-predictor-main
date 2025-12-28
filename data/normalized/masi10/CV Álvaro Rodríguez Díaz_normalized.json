@@ -1,0 +1,120 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Álvaro Rodríguez Díaz",
+        "date_of_birth": "03/09/1981",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 29,
+        "email": "a900902@alumni.tecnun.es, alvarodeourense@hotmail.com",
+        "phone": "+34 651476551",
+        "address": "c/ as lagoas san isidro 5-3 a, 32004 ourense",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Industrial",
+            "field": "",
+            "university": "Tecnun (Universidad de Navarra)",
+            "location": "Ourense",
+            "year": "2001-2009",
+            "duration_years": 8.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "CTSS - Compañía del Tranvía de San Sebastián",
+            "position": "Realización del Proyecto Final de Carrera",
+            "description": "Estudio de I+D+I, perteneciente al proyecto europeo Civitas, sobre la utilización de biocombustibles, nuevos medios de propulsión e instalaciones de equipos en la empresa para la mejora del servicio ofrecido al cliente.",
+            "start_date": "09/2008",
+            "end_date": "07/2009",
+            "duration_years": 0.83
+        },
+        {
+            "company": "",
+            "position": "Profesor de Clases Particulares a Universitarios y Bachiller",
+            "description": "",
+            "start_date": "09/2008",
+            "end_date": "05/2009",
+            "duration_years": 0.67
+        },
+        {
+            "company": "Vegap",
+            "position": "Colaborador",
+            "description": "",
+            "start_date": "09/2008",
+            "end_date": "05/2009",
+            "duration_years": 0.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Italia",
+            "institution_or_company": "Universidad de Genova",
+            "start_date": "09/2007",
+            "end_date": "02/2008",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Gallego",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Portuguese",
+            "B2"
+        ],
+        [
+            "Italian",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "Visual Basic",
+            "MATLAB",
+            "Maple",
+            "ProEngineer",
+            "AutoCAD",
+            "Word",
+            "Excel",
+            "PowerPoint",
+            "SPICE",
+            "Lindo",
+            "Copert"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "cine",
+        "lectura",
+        "deportes",
+        "música",
+        "viajar"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 2.17,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 28,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

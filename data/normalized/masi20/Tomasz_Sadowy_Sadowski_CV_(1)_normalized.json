@@ -1,0 +1,132 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Tomasz Sadowy-Sadowski",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "tomasz.sadowy.sadowski@gmail.com",
+        "phone": "+48 796 105 502",
+        "address": "9 Warsaw, Poland",
+        "LinkedIn": "linkedin.com/in/tomasz-sadowy-sadowski/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Warsaw University of Technology",
+            "location": "Warsaw, Poland",
+            "year": "2015-2019",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "SAE Aerodesign Warsaw",
+            "position": "Chief Engineer of Advanced Class Aircraft",
+            "description": "Designs advanced class aircraft for international competition, designs molds and stands for later manufacturing and assembly, coordinates and supervises manufacturing and assembly works.",
+            "start_date": "05/2019",
+            "end_date": "12/2025",
+            "duration_years": 6.58
+        },
+        {
+            "company": "Warsaw University of Technology",
+            "position": "Member of Students Scientific Society (ÉB)",
+            "description": "Manufactures and assembles aircraft components, prepared a technical report for PLL LOT on the influence of cosmic radiation on airliners, technical presentation of advanced class aircraft for SAE Aerodesign competition.",
+            "start_date": "10/2018",
+            "end_date": "05/2019",
+            "duration_years": 0.58
+        },
+        {
+            "company": "EADS PZL Warszawa-Okecie S.A.",
+            "position": "Intern in Aerostructures Engineering Department",
+            "description": "Prepares assembly instructions of main wing components in CATIA, translates assembly instructions from English and Spanish to Polish.",
+            "start_date": "08/2018",
+            "end_date": "09/2018",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus exchange program",
+            "country": "Spain",
+            "institution_or_company": "Universidad Politécnica de Madrid",
+            "start_date": "",
+            "end_date": "Jul 2018",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Madrid, Spain",
+            "institution_or_company": "Universidad Politécnica de Madrid",
+            "start_date": "2017-2018 (Erasmus exchange program)",
+            "end_date": null,
+            "description": "Aerospace Engineering",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Polish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA",
+            "Siemens NX",
+            "MATLAB and Simulink",
+            "Microsoft Office (Excel, Word, PowerPoint)",
+            "CIFER - Comprehensive Identification from Frequency Responses"
+        ],
+        "soft_skills": [
+            "Data analysis",
+            "Group projects coordination",
+            "Communication skills",
+            "Working in international environment",
+            "Attention to details",
+            "Problem solving",
+            "Adaptability"
+        ]
+    },
+    "other_interests_normalized": [
+        "Running (finished 13 marathons with a personal best of 3:07:10)",
+        "Calisthenics",
+        "Airplanes and new technological solutions",
+        "Cinematography",
+        "Reading",
+        "Travelling",
+        "Football (regular playing in six-a-side league teams)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 7.24,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

@@ -1,0 +1,120 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Castillo Fernández",
+        "date_of_birth": "10/01/1990",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 25,
+        "email": "dcastillofernandez5@gmail.com",
+        "phone": "+34 618029074",
+        "address": "Rosalía de Castro, 1, Ciudad Real (Ciudad Real), España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero industrial superior",
+            "field": "Electricidad y electrónica industrial",
+            "university": "ETSII Ciudad Real, Ciudad Real (España)",
+            "location": "Ciudad Real",
+            "year": "2013",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "INDRA",
+            "position": "Ingeniero de software",
+            "description": "Trabajando en el módulo de lecturas del mercado minorista dentro del proyecto Delta, un sistema de gestión comercial para gas natural Fenosa. Utilizando lenguaje Java y arquitectura V10 junto con herramientas de gestión de base de datos.",
+            "start_date": "06/2012",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "INDRA",
+            "position": "Prácticas en I+D",
+            "description": "Apoyo en proyectos de mantenimiento de Jira y desarrollo de timing.",
+            "start_date": "03/2014",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Profesor particular",
+            "position": "Profesor particular de matemáticas, física, tecnología industrial y electrotecnia",
+            "description": "A estudiantes de bachillerato durante 2 años.",
+            "start_date": "09/2018",
+            "end_date": "06/2020",
+            "duration_years": 1.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Reino Unido, Irlanda",
+            "institution_or_company": "",
+            "start_date": "2002-2014",
+            "end_date": "",
+            "description": "Estancias en Ramsgate (Reino Unido) y Dublín (Irlanda).",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "Python",
+            "JavaScript",
+            "HTML",
+            "MySQL",
+            "SQL Developer",
+            "Matlab",
+            "Solidworks",
+            "Labview",
+            "Microstation",
+            "Catia",
+            "Multisim",
+            "Powerworld",
+            "Pscad",
+            "Abb Robotstudio",
+            "Eagle Pcb Software"
+        ],
+        "soft_skills": [
+            "Capacidad de adaptación a ámbitos multiculturales",
+            "Capacidad de trabajo en equipo",
+            "Capacidad de adaptación a nuevas situaciones y nuevos proyectos",
+            "Capacidad de trabajo bajo presión"
+        ]
+    },
+    "other_interests_normalized": [
+        "Aeronáutica y aeroespacial"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.4
+}

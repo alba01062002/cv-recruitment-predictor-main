@@ -1,0 +1,134 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ertegun Ozan",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "ertegun0o0o@gmail.com",
+        "phone": "+90 530 786 4509",
+        "address": "zubeyde hanim mah. no: 36 izmir, turkey",
+        "LinkedIn": "www.linkedin.com/in/ertegunozan",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aeronautical Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Istanbul Technical University",
+            "location": "Istanbul, Turkey",
+            "year": "2019-2024",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Turkish Aerospace Industries",
+            "position": "Intern - Jet Aircraft Static Stress Analysis",
+            "description": "Conducted static stress analysis for jet aircraft, assisting in the writing of analysis reports and preparing presentations based on analysis results.",
+            "start_date": "11/2023",
+            "end_date": "05/2024",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Turkish Aerospace Industries",
+            "position": "Intern - Helicopter Static Stress Analysis",
+            "description": "Studied classical methods for stress calculations and helped write analysis reports for basic structures.",
+            "start_date": "11/2022",
+            "end_date": "05/2023",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Havelsan (Hit Summer)",
+            "position": "Intern - Aerial Platforms Team",
+            "description": "Performed flight performance calculations for UAVs.",
+            "start_date": "08/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.33
+        },
+        {
+            "company": "Turkish Aerospace Industries",
+            "position": "Intern - Jet Aircraft System Layout Design",
+            "description": "Designed system layouts, selected fasteners and presented HUD boresighting procedures.",
+            "start_date": "06/2022",
+            "end_date": "07/2022",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ Student",
+            "country": "Spain",
+            "institution_or_company": "Universidad de Sevilla",
+            "start_date": "09/2021",
+            "end_date": "02/2022",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Sevilla, Spain",
+            "institution_or_company": "Universidad de Sevilla",
+            "start_date": "2021-2022",
+            "end_date": null,
+            "description": "Aerospace Engineering (Erasmus+ Student)",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "B2"
+        ],
+        [
+            "Turkish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA V5",
+            "Python",
+            "Microsoft Office",
+            "HyperMesh",
+            "Patran 2000",
+            "Abaqus"
+        ],
+        "soft_skills": [
+            "Problem solving",
+            "Teamwork",
+            "Communication",
+            "Analytical thinking",
+            "Programming skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Western Music Society",
+        "Archery"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Erasmus Student Network (ESN ITU)",
+            "role": "Board Member",
+            "duration": "01/2023 - 07/2023",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 4.41,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

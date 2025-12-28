@@ -1,0 +1,126 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Guillermo Ruiz Herrero",
+        "date_of_birth": "28/05/1993",
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": 28,
+        "email": "guille.ruiz.herrero@gmail.com",
+        "phone": "+34 664 867 902",
+        "address": "c/ la música, bloque 6 piso bajo 3. 28523 rivas vaciamadrid madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Electrónica Industrial y Automática",
+            "field": "Ingeniería Electrónica",
+            "university": "Universidad Politécnica de Madrid (ETSIDI)",
+            "location": "Madrid",
+            "year": "2014-2020",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Grado en Ciencias Físicas",
+            "field": "Ciencias Físicas",
+            "university": "Universidad Autónoma de Madrid",
+            "location": "",
+            "year": "2011-2013",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Alfaland, S.A.",
+            "position": "Trabajador de mantenimiento y reparación",
+            "description": "Revisión de máquinas por parte de un mecánico, elaboración de presupuestos, identificación de materiales necesarios, gestión de garantías y contratos de alquiler de maquinaria. Apoyo al departamento de ingeniería en problemas técnicos.",
+            "start_date": "05/2020",
+            "end_date": "12/2025",
+            "duration_years": 5.58
+        },
+        {
+            "company": "Espiral Muelles y Resortes, S.L.",
+            "position": "Encargado de oficina técnica / Gerente interno",
+            "description": "Gestión de pedidos de clientes, compras a proveedores, gestión de stock, control de inventario, jefe de producción. Elaboración de planos y diseños técnicos, realización de ensayos mecánicos, cálculos de prototipos según especificaciones del cliente.",
+            "start_date": "02/2018",
+            "end_date": "09/2019",
+            "duration_years": 1.58
+        },
+        {
+            "company": "Decathlon Rivas",
+            "position": "Vendedor",
+            "description": "Gestión de stock, elaboración de inventarios, trabajo en caja y servicio técnico. Creación y gestión de mi propia DAO o zona de control de ventas en deportes colectivos.",
+            "start_date": "09/2017",
+            "end_date": "02/2018",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Mudanzas de la Fuente, S.L. / Global Green Gestión S.L.",
+            "position": "Mozo de almacén y transporte de mercancías para Repsol Exploración",
+            "description": "Clasificación de documentación técnica, labores de mantenimiento y gestión documental.",
+            "start_date": "10/2013",
+            "end_date": "07/2014",
+            "duration_years": 0.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Y C, C++, Y VHDL",
+            "Entorno Siemens Step7 - TIA Portal",
+            "TypeScript, HTML",
+            "Nociones de Python, JavaScript y Android",
+            "Autodesk: Autocad LT, Inventor LT y OrCad",
+            "Matlab",
+            "Sistema de gestión SP, Movex"
+        ],
+        "soft_skills": [
+            "Liderazgo",
+            "Gestión de proyectos",
+            "Comunicación",
+            "Resolución de problemas",
+            "Trabajo en equipo"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Club Electrónica ETSIDI",
+            "role": "Miembro durante 4 años",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 8.33,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 20,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.9
+}

@@ -1,0 +1,123 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Mohamed Amine Monastiri",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Electromechanical Engineering",
+            "field": "Aeronautics",
+            "university": "University of Jaén",
+            "location": "Jaén, Spain",
+            "year": "2024",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "University of Jaén",
+            "position": "Internship (End-of-Studies)",
+            "description": "Design a wireless sensor network architecture based on ESP32 tailored for runway monitoring, analysis of functional and technical study, creation of a sensor network architecture, development of a server and two sensor nodes using ESP32, mechanical and electrical design, prototype of the system.",
+            "start_date": "02/2024",
+            "end_date": "07/2024",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Tunisair Express",
+            "position": "Technician Internship + Data Management",
+            "description": "Technical reliability of ATR 72-600 aircraft, study and scheduling of the 2-year visit file for ATR 72-600 aircraft.",
+            "start_date": "07/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.42
+        },
+        {
+            "company": "Watts Water Technologies",
+            "position": "Summer Internship",
+            "description": "Use of soldering technique for electronic component assembly, troubleshooting electronic boards based on electrical schematics, validation of defective boards by testing functionality, participation in production meetings.",
+            "start_date": "06/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.5
+        },
+        {
+            "company": "Tunisair Technics",
+            "position": "Introductory Professional Experience Internship",
+            "description": "Monitoring of work across all departments of the MRO company, including engine, structure, and avionics, understanding and observation of the practical application of the AMM (Aircraft Maintenance Manual) and the CMM (Component Maintenance Manual) on a damaged A320 aircraft.",
+            "start_date": "03/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.75
+        },
+        {
+            "company": "Sabena Technics",
+            "position": "Introductory Professional Experience Internship",
+            "description": "Monitoring of fuel tank processing, tracking of main landing gear spring replacement, monitoring of composite material maintenance process for wing components.",
+            "start_date": "08/2020",
+            "end_date": "12/2025",
+            "duration_years": 5.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Program",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Not explicitly mentioned in the text, inferred from context.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Arabic",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Arduino",
+            "C++",
+            "PlatformIO",
+            "MQTT",
+            "Blynk",
+            "I2C",
+            "ESP32",
+            "LORA",
+            "UML",
+            "CATIA V5",
+            "Fritzing"
+        ],
+        "soft_skills": [
+            "Troubleshooting",
+            "Prototype Development",
+            "Mechanical Design",
+            "Electrical Design",
+            "Programming"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.6
+}

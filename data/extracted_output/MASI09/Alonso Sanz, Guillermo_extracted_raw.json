@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales $ nombre: guillermo alonso sanz a lugar /fecha de nacimiento: burgos, 15/07/1983 . nacionalidad: espafiola d d.n.i: 53389926 dirección : c/ paseo del pinar 53, 3 b, 28231, las rozas, madrid teléfono fijo/ móvil: 91637 78 16 - 629011 851 dirección de correo electrónico: guillegeme@hotmail.com disponibilidad para viajar formación académica ingeniero superior de telecomunicación por la universidad politécnica de madrid (2001-2007) ( 4 curso de carrera realizado en el politécnico di torino turín, italia al amparo del programa erasmus de la ue) (2005-2006) especialidad: comunicaciones. intensificación en gestión de la tecnología. proyecto fin de carrera realizado en el ut (illinois institute of technology) de chicago-eeuu (feb-2008/sep-2008) en el dept. medical imaging research center. enseanza secundaria: ies el burgo de las rozas. calificación global: matrícula de honor. enseanza primaria: realizada en lengua inglesa en the english montessori school-aravaca. idiomas inglés nivel alto. estando en posesión de los títulos first certificate in english y certificate in advanced english por la universidad de cambridge asi como 4 curso de la escuela oficial de idiomas. italiano nivel medio-alto. francés nivel elemental. 3 aos de francés cursados en la etapa de secundaria. experiencia laboral becario en la empresa agilent technologies, compaía norteamericana fabricante y distribuidora de instrumentación electrónica para los sectores civil y militar (julio 2007-febrero 2008) desarrollando labores técnico-comerciales. las principales actividades desarrolladas fueron la venta de productos de la división, asesoramiento a clientes, apoyo a la red comercial y manejo de bases de datos. informática conocimiento medio-alto: -microsoft office. -internet. -programación: java, ensamblador y matlab. -sap r3. aficiones -deportes: baloncesto, paddle, mountain bike, natación. -música. -viajar.",
+    "text_from_header": "CURRICULUM VITAE",
+    "detected_language": "es",
+    "master_edition": "MASI09"
+}

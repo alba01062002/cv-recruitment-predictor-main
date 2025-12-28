@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "juan maría olaizola arranz birthdate: 28/11/1990 (born in valladolid, spain) nationality: spanish address: c/marqués de urquijo 33 22d 28008 madrid tel: +34 628 555 601 dni: 71169108r mail: olaizola.arranz@gmail.com education 2008-2014 master of science in aeronautics / aeronautical engineer specialized in aircraft (a1) universidad politécnica de madrid escuela técnica superior de ingenieros aeronáuticos final project in airbus group a380-s19 system supports strength justification skills and previous experience hybrid structures (composite/metallic materials) finite element modeling, analysis and justifications. solving problems in collaboration with system departments and design departments (load implementation, mass distribution and system routing). ability to properly interpret results and suggest alternative solutions. knowledge of the current certificate regulations and aviation requirements concerning different locations in large aircraft resulting in the autonomy for preparing technical reports (stress reports and strength reports), memorandums and their respective certificate documentation. 2014 start internship in airbus group a380 s19 & s19.1 design office - elaboration of technical reports based on finite element modeling stress analysis and modification strength justifications (msj) for the stress department. + fem analysis and correlation with in-flight data for the fem validation, including thermal analysis, for the fatigue and damage tolerance (f&dt) department. - tasks, mostly using design software catia, for the design department. 2014 stress engineer in sogeclair (3-month contract) a330 neo horizontal tail plane - elevator sizing justification. stress analysis based on load redistribution from a330 ceo due to changes in the torsion box. reserve factor recalculation based on flux comparison. - trailing edge sizing justification. complete strength analysis and justification due to new material implementation of the structure using detailed finite element modeling. technical tools area category software level of expertise (1 to 10) finite element modeling analysis msc nastran (70.5/2005) 9 finite element modeling msc patran 2012 8 isami modules 5 stress software . on . ancolab 2 airbus specific stress analysis ares 9 software mamest 9 urco 9 cofus 3 cfd finite element modeling analysis fluent 6 finite element modeling gambit 7 design software design modeling catia v5 6 word 2010 9 . excel 2010 9 it ms office outlook 2010 9 power point 2010 8 programming fortran (90) 8 languages english c1-c2 - proficient user (advanced certificate in english 2013) french b1-b2 - independent user (delf b1 in 2007, intensive summer course 2013, alliance francaise, bruxelles) german a2 - basic user other activities - federated basketball player for clubs c.d. contiendas (valladolid) and c.d. nebrija(madrid) + driving license b - karate (brown belt) - orienteering (participant in spanish championships, winner of 2007 valladolid scholar championship junior category) . traveled around the world for leisure to: peru, argentina, china, india, canada, usa, and many countries in europe. + basketball trainer of cmu isabel de espaa as well as a player for the team. - coordinator/delegate of the science club of cmu isabel de espaa - basketball player for the aeronautical engineer school (etsia)",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI15"
+}

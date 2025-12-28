@@ -1,0 +1,125 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Viña",
+        "date_of_birth": "12/10/1982",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 28,
+        "email": "genialvinia@gmail.com",
+        "phone": "+34 699 03 69 59",
+        "address": "Mesa y López 61 1C, CP 35010 Las Palmas de Gran Canaria, Spain",
+        "LinkedIn": "http://www.linkedin.com/in/juanvina",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Electrical Engineer and MS in Telecommunication Engineering",
+            "field": "Electronic and Automation Engineering, Signals and Communications, Software Engineering",
+            "university": "University of Las Palmas de Gran Canaria",
+            "location": "Las Palmas de Gran Canaria",
+            "year": "2004-2011",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "WikiReate-expansion",
+            "position": "Technology Consultant",
+            "description": "Research, analysis and preparation of project proposals; networking",
+            "start_date": "06/2009",
+            "end_date": "09/2009",
+            "duration_years": 0.25
+        },
+        {
+            "company": "Philips Research",
+            "position": "Hardware Designer",
+            "description": "Developed a 60 GHz remote control for a lighting home automation system; simulated DSSS in MATLAB; implemented DSSS on an embedded system using C on an 8051 microcontroller; developed several PCB designs with high efficiency DC-DC boost converter",
+            "start_date": "12/2007",
+            "end_date": "09/2008",
+            "duration_years": 0.75
+        },
+        {
+            "company": "Eulen S.A.",
+            "position": "Maintenance Service",
+            "description": "Supervised building facilities; solved electricity problems, replaced wires and devices",
+            "start_date": "11/2000",
+            "end_date": "02/2001",
+            "duration_years": 0.25
+        },
+        {
+            "company": "National Statistics Institute",
+            "position": "Census Agent",
+            "description": "Managed the census population; scheduled time and human resources",
+            "start_date": "11/2000",
+            "end_date": "02/2001",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Student Exchange Program",
+            "country": "Spain (University of Sevilla), Netherlands (Eindhoven University of Technology)",
+            "institution_or_company": "",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Ada",
+            "MATLAB",
+            "C++",
+            "HTML",
+            "LabView",
+            "VHDL",
+            "PSpice",
+            "Eagle"
+        ],
+        "soft_skills": [
+            "Social Skills",
+            "Professional Ambitions and Experience in Multicultural Environments",
+            "Great Capacity to Adapt to New Environments and Work in Teams",
+            "Organizational Skills",
+            "Ability to Lead and Make Decisions",
+            "Good Time Management Skills and Punctuality"
+        ]
+    },
+    "other_interests_normalized": [
+        "Kick-boxing",
+        "Table Tennis",
+        "Paddleball",
+        "Yoga"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "Not specified",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 1.5,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

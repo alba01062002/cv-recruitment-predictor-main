@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carlos Martínez-Raposo Villar",
+        "date_of_birth": "21/01/1984",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 26,
+        "email": "c.mtnez.raposo@gmail.com",
+        "phone": "+34 679 838 297",
+        "address": "C/ Lrene Fernández Perera 23, Esc.14, 83210 Gijón, Asturias, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Superior de Telecomunicación",
+            "field": "Telecommunications Engineering",
+            "university": "Universidad Pública de Navarra",
+            "location": "Navarra",
+            "year": "2002-2009",
+            "duration_years": 7.0
+        },
+        {
+            "degree": "Título Transversal en Seguridad y Prevención de Riesgos Laborales",
+            "field": "",
+            "university": "Public University of Navarra",
+            "location": "España",
+            "year": "2005-2007",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Project Final Degree (TFG) in the design of a LTCC (Low Temperature Co-fired Ceramics) antenna for operation at 10 GHz with the maximum possible bandwidth. The antenna was composed of a triangular waveguide with high permittivity dielectric inside and a triangular patch fed by a coaxial connector. Once the individual antenna had been designed, the final project consisted in designing an array of six triangular apertures to increase the antenna's gain.",
+            "start_date": "09/2008",
+            "end_date": "07/2009",
+            "duration_years": 0.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Holanda",
+            "institution_or_company": "Technological University of Delft (TU Delft)",
+            "start_date": "10/2002",
+            "end_date": "07/2009",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "S-PLUS",
+            "CST",
+            "Empire Xcel",
+            "Feko",
+            "Autocad",
+            "HTML",
+            "Dreamweaver",
+            "Windows 9x, XP, Linux",
+            "Office Suite (advanced level)",
+            "Open Office",
+            "LaTeX",
+            "C",
+            "PHP",
+            "Assembly"
+        ],
+        "soft_skills": [
+            "Capacidad de Trabajo en Equipo Multidisciplinar",
+            "Liderazgo",
+            "Comunicación",
+            "Iniciativa",
+            "Resolución Efectiva de Problemas/Imprevistos",
+            "Dotes Organizativas, Planificación y Comunicación",
+            "Disponibilidad para Viajar",
+            "Capacidad de Aprendizaje"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 0.83,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.1
+}

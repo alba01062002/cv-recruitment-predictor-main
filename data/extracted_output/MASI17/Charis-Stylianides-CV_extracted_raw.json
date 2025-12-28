@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "charis stylianides 40 nikola ioannou, kaimakli, nicosia, 1036 +357 99176951 haris.sty@gmail.com profile a keen learner with a profound passion for engineering strong analytical and problem solving skills education 2013-2017 bsc mechanical and manufacturing engineering (gpa: 6.63/10) university of cyprus, nicosia key subjects: intr. to computers for engineers, english for technical purposes, linear algebra for engineers, intr. to electromagnetism & optics, computer aided design, thermodynamics, intr. to modelling and analysis of dynamic systems, stress analysis, applied chemistry for engineers, engineering mathematics, fluid mechanics, material science & engineering, mechatronics and automated systems, thermal engines, control engineering, machine elements, design and manufacturing, heat transfer, vibrations and acoustics, manufacturing processes, energy systems, compressible flows, vibrations theory and applications 2010-2011 apolytirion (gpa: 16.75/20) pallouriotissa lyceum majors: mathematics, physics, computer science, technology and design, modern greek university experience projects dissertation in progress so far we have designed and constructed our own unique buggy. in the next phase we are going to disassemble the pieces, dye some of the parts, identify any errors and fix them, re-assemble it, conduct some trials and then write our dissertation. reduction gearbox project: for this lengthy project we conducted a design plan for the construction of a gearbox. generally, this involved applying formulas, selecting the most appropriate elements and materials to be used, and designing the whole gearbox on autocad mechanical and solidworks. electromechanical system modelling project: the purpose of this extensive project was to develop and analyse a model of an electromechanical system. the project was divided in three sections. in the first we analysed the motor and its various parameters (torque constant, inductance winding, voltage constant, moment of inertia etc.). the second section focussed on developing a model of different mechanical parts. finally, in the third section we introduced so as to be able to describe the model. shadowing at the university i have been given the opportunity to visit mechanical engineering companies such as nicolaides & kountouris metal company ltd (involved in roll forming eaves beams, roll forming zed purlins, roof & wall claddings, polyurethane products, steelworks, thermal insulating mortar), economides metal recycling ltd, peta plastics among other. technical training i have great experience with welding and machining tools such as cnc machines, lathes, mills, thermoforming machines, angle grinders, oxy-acetylene torches, plasma cutters, arc welders, band saws, grinders, shears, drill presses, chop saws, etc. seminars attended seminars outside of university hours: health and security in the workplace, the importance, role and experience of manufacturing design in modern times, fire safety in the workplace. work experience 2011-2013 military service cryptographer, radio operator & maintainer i had a position of great responsibility as i had to command my own squad. duties included training of recruits and supervising certain military bases. training other soldiers and guiding them through different exercises. all of the above allowed me to develop my leadership skills. entrusted with confidential information to deliver to specific places accountable for maintaining and fixing military devices. skills and qualifications technical software skills autocad mechanical matlab fortran solidworks arduino lab view it skills pascal microsoft office word, power point, excel, access visual basic microsoft flight simulator languages greek (fluent) english (very good) ielts examination on january german (good) completed level a1 & a2 eu driving licence category b first aid high-school diploma",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI17"
+}

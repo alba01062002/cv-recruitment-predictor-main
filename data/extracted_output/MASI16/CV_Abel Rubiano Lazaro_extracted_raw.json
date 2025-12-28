@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "abel rubiano lázaro c/ castillo de hornachos n? 11, 06006,badajoz, espaa telefono email +34 (0) 678941531 +34 (0) 924274735 +49 (0) 15754646402 arubiano92@gmail.com f.nacimiento 03/05/1992 nacionalidad espaola trabajo temporal en el extranjero 07/2010 08/2010 oxford brookes university trabajando de limpiador (para mejorar el inglés) 2013 - 2014 istanbul student life departamento: marketing y promoción educación 2004 - 2010 ies bioclimático, badajoz educación secundaria 2010-2015 universidad de extremadura, badajoz escuela de ingenierías industriales grado en ingeniería mecánica (nota 7,185 sobre 10) proyecto fin de grado en colaboración con acciona, sevilla, spain (nota 9,50 sobre 10) 2013 - 2014 istanbul technical university departamento: ingeniería mecánica (nota 2.91 of 4) 2015 universidad de sevilla máster oficial en diseo avanzado en ingeniería mecánica habilidades informática idiomas ms office autocad c++ matlab autodesk inventor, ansys speaking c2 espaol: nativo listening c2 inglés: nivel alto (certificate in advanced enlgish) yse of enlgish c1 aleman: nivel basico dine /writine c1 turco: nivel basico reading/writing intereses personales deportes formula 1 ingenieria lectura viajar idiomas (tenis de mesa, semi-profesional)",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI16"
+}

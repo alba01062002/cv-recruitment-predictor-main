@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pere Granados Casadó",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "peregranados@icloud.com",
+        "phone": "+34 662116662",
+        "address": "salou, catalonia, spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelors degree in Aerospace Engineering",
+            "field": "Aerospace engineering",
+            "university": "Universitat Politècnica de Catalunya (UPC)",
+            "location": "Barcelona",
+            "year": "09/2018 - today",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelors degree in Business Management",
+            "field": "Business management",
+            "university": "Universitat Oberta de Catalunya (UOC)",
+            "location": "Barcelona",
+            "year": "09/2019 - today",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Tecnovelero",
+            "position": "CFD, FE & Modeling Engineer Internship",
+            "description": "Dimensioned, designed, tested and analyzed several components of the electric car prototype being developed by the engineering team. Adapted to the professional working atmosphere, improved communication, constant and independent learning, and critical thinking skills.",
+            "start_date": "07/2021",
+            "end_date": "09/2021",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalan",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Solid Works",
+            "Matlab",
+            "OpenFOAM",
+            "CFD",
+            "Python",
+            "C",
+            "C++",
+            "Web development: HTML5, CSS, Flask",
+            "Microsoft Office: Word, Excel, PowerPoint"
+        ],
+        "soft_skills": [
+            "Teamplayer",
+            "Tireless hardworker",
+            "Learn fast",
+            "Work well under pressure",
+            "Good organization and planning skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "3D Printing",
+        "Whalebot Project",
+        "Padel"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "09/2018 - 06/2018",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

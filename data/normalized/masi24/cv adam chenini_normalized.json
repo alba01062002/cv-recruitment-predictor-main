@@ -1,0 +1,135 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Adam Chenini",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "shnenniadam@gmail.com",
+        "phone": "+34 617 11 78 41",
+        "address": "calle virgen de la capilla 3, 4, 23001 jaén, spain",
+        "LinkedIn": null,
+        "Instagram": "@adam chenini",
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineering",
+            "field": "Aircraft Systems Integration",
+            "university": "TBD (inferred from context)",
+            "location": "Tunisia, Spain",
+            "year": "2021-2024",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Integrado a la Escuela de Ingeniería",
+            "location": "Tunisia",
+            "year": "2019-2021",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "High School",
+            "location": "Tunisia",
+            "year": "2018-2019",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Affiliate Marketer",
+            "position": "Self-employed",
+            "description": "Performed product research, selected high-converting clickbank products, and created content to drive traffic.",
+            "start_date": "2022",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Mechanics Laboratory Intern",
+            "position": "Intern",
+            "description": "Design and prototype a mechanical system for autonomous monitoring and treating of tree health.",
+            "start_date": "2024-01",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Aircraft Maintenance Engineer",
+            "position": "Intern",
+            "description": "Conducted aircraft maintenance tasks per manual instructions, including inspections, part replacements, lubrication, corrosion treatment, and disassembly.",
+            "start_date": "2023-06",
+            "end_date": "2023-07",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Project Manager/Coach/Trainer",
+            "description": "Club member and various roles in the club from 2020 to 2023.",
+            "start_date": "2022-09",
+            "end_date": "2023-12",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ Exchange Semester",
+            "country": "Spain",
+            "institution_or_company": "TBD (inferred from context)",
+            "start_date": "2024-01",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Arabic",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "Java",
+            "ANSYS RDM 6",
+            "Python",
+            "ABAQUS",
+            "CATIA V5",
+            "ISIS",
+            "PROTEUS",
+            "MATLAB/Simulink"
+        ],
+        "soft_skills": [
+            "teamwork",
+            "communication",
+            "problem-solving",
+            "adaptability and flexibility"
+        ]
+    },
+    "other_interests_normalized": [
+        "reading",
+        "sport",
+        "travel"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Project Manager/Coach/Trainer",
+            "duration": "2022-2023",
+            "description": ""
+        }
+    ],
+    "degree_years": 3.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

@@ -1,0 +1,118 @@
+{
+    "personal_information_normalized": {
+        "full_name": "David López García",
+        "date_of_birth": "23/06/1993",
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": 26,
+        "email": "david.logar23@gmail.com",
+        "phone": "+34 636153158",
+        "address": "Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelors degree in Aerospace Engineering",
+            "field": "Aerospace Vehicles",
+            "university": "Universidad Politécnica de Madrid, Madrid (Spain)",
+            "location": "Madrid",
+            "year": "2011-2018",
+            "duration_years": 7.0
+        },
+        {
+            "degree": "Master in Business Administration (MBA)",
+            "field": "",
+            "university": "Escuela de Organización Industrial, Madrid (Spain)",
+            "location": "Madrid",
+            "year": "2017-2018",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Master in Decision-Making and Innovation",
+            "field": "",
+            "university": "Universidad de Alcalá, Madrid (Spain)",
+            "location": "Madrid",
+            "year": "2018-present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence and Space",
+            "position": "Engineer - Production: Maintenance Repair Operations (MRO) - Retrofit/Dass A-400m Internship",
+            "description": "Support to the production MRO area in activities such as analysis of aircraft technical problems, support engineers and team leaders, resources and industrial processes optimization, continuous improvement projects, coordination with other departments, support practical problem solving activities, planning and organizing knowledge transfer in the area, management of lean panels (SQCDP).",
+            "start_date": "05/2018",
+            "end_date": "12/2019",
+            "duration_years": 1.58
+        },
+        {
+            "company": "Caffé Nero (London, United Kingdom)",
+            "position": "Full-time employee during his time in London",
+            "description": "",
+            "start_date": "02/2017",
+            "end_date": "06/2017",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Gestimática S.L.",
+            "position": "Administrative Assistant (part-time employee at family-owned consultancy business)",
+            "description": "Responsible for introducing accounting records",
+            "start_date": "2014",
+            "end_date": "05/2018",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "United Kingdom, China",
+            "institution_or_company": "Airbus Defence and Space (Madrid, Spain), Fudan University (Shangai, China)",
+            "start_date": "",
+            "end_date": "Present",
+            "description": "Worked at Airbus Defence and Space in Madrid for A400M retrofit/dass activities. Also attended courses on doing business with China at Fudan University.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office: Advanced Level",
+            "Excel: Advanced Level",
+            "Catia, AutoCAD, Nastran, Matlab, SAP: Basic Level"
+        ],
+        "soft_skills": [
+            "Responsible, Punctual and Natural Leader",
+            "Capacity to Work Effectively in Groups",
+            "Good Written and Oral Skills",
+            "How to Do Business in and with China (50 Hours)"
+        ]
+    },
+    "other_interests_normalized": [
+        "Travel",
+        "Practice Sports",
+        "Read"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 1.91,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.7
+}

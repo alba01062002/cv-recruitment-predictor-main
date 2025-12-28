@@ -1,0 +1,108 @@
+{
+    "personal_information_normalized": {
+        "full_name": "David Cerisola Guardiola",
+        "date_of_birth": "12/12/1993",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 22,
+        "email": "david.cerisola@gmail.com",
+        "phone": "+34 671150518 / +34 910819535",
+        "address": "C/ Montecillo n. 57, 28300 Aranjuez, Madrid, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeronáutica",
+            "field": "Ingeniería Aeronáutica",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Leganés",
+            "year": "2013-2014",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Curso Mejora Personal",
+            "field": "",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Leganés",
+            "year": "2009-2011",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachillerato",
+            "field": "",
+            "university": "Colegio Salesianos Loyola",
+            "location": "Aranjuez",
+            "year": "2008-2009",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Group",
+            "position": "Práctico Curricular",
+            "description": "Desarrollar en el entrenador de maniobras todos los procedimientos normales y de emergencia para los alumnos de tercer curso en la Aga (Academia General del Aire) para el avión E-26 Tamiz.",
+            "start_date": "02/2015",
+            "end_date": "05/2015",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Curso de verano en inglés",
+            "country": "Irlanda",
+            "institution_or_company": "Ballyhaise College (Cavan, Irlanda)",
+            "start_date": "06/2008 - 08/2008 / 06/2009 - 08/2009",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Solid Edge (CAD software)",
+            "Ansys Fluent (modelado de flujos)",
+            "Abaqus Cae (elementos finitos)",
+            "Matlab (programación)",
+            "Gasturb (simulación de turbinas)",
+            "Manejo de Microsoft Office (Excel, Word, PowerPoint)",
+            "Articulate 2",
+            "Photoshop"
+        ],
+        "soft_skills": [
+            "Alta capacidad de organización",
+            "Adaptabilidad a posibles cambios",
+            "Capacidad resolutiva y analítica",
+            "Facilidad para las relaciones sociales",
+            "Buena comunicación y trabajo en equipo"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 1.0,
+    "total_work_years": 0.25,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 21,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "mm paloma de la rosa garrido dni:29494611-d date of birth: 13/nov/1991 cell: (+34) 620 96 84 10 ave. eduardo dato 22 apartment 310 email: palomadelarosa@outlook.es seville, 41018 spain linkedin: https: / /www.linkedin.com/in/palomadelarosa/ experience manufacturing engineer currently ayesa air control - san pablo sur seville, spain manufacturing engineer (gaia program) 2017/18 airbus - san pablo sur seville, spain quality engineer for a400m powerplant feb - apr 2016 airbus - tablada seville, spain aerospace engineering intern jul - aug 2014 digitalibiz inc. - rockville, maryland usa. languages spanish - native english - cambridge advanced certificated (c1) french - intermediate software expertise coorporative it-tools of airbus ds - demat, sipla, sprint, gd, sap, bms, dms, adonis, digital barchart, performance tracker, sipla, cms, sharepoint, hub, normmaster, etc. catia - produced drawings maintained, archived, and retrieved cad files drew documents required for project completion, as well as parametrization throw excel sheets. matlab - ability to produce and maintain mathematical codes. nastran-patran - produced structural analysis and designs as required by project lead. latex - development and maintenance of documents throw this software designed to produce technical and scientific documentation. camtasia - ability to produce and maintain videos. skills proficient in microsoft office suite: word, outlook, access, visio, excel, powerpoint, outlook, vba, etc.. soft skills, team-building, multi-tasking, and intercultural communication deep understanding of lean manufacturing and its tools (pps, kanban, vsm, etc.) project management including airbus lbip+ methodology deep knowledge of airbus manufacturing engineering assembly processes, procedures and norms (ing, pg, prd, i+d, casa, aips/aipi etc.) education master in professional development 4.0 2017 (60 ects) gaia program, university of alcalá de henares - madrid, spain bachelor of science, aerospace engineering 2016 (249 ects) university of seville - seville, spain certification, seedbed program: program in business skills 2016 (117 hours) airbus group & industrial organization school (eoi) - seville, spain certification, advanced certificate in english 2016 cambridge university, england certification, expert in integrated systems management: quality/environment/prevention 2013 (400 hours) regional government of andalusia - seville, spain",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI19"
+}

@@ -1,0 +1,97 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Álvaro Serrano",
+        "date_of_birth": "01/05/1989",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 26,
+        "email": "alvarosgarcia@hotmail.com",
+        "phone": "+34 646916303",
+        "address": "francisco silvela, 36 ns, 28028 madrid, spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Science: Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Technical University Madrid-UPM (Universidad Politécnica de Madrid)",
+            "location": "Spain",
+            "year": "2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Teacher",
+            "description": "Teaching by my own, serving as a teacher for different school levels in many academic subjects as maths, physics, technical drawing and english.",
+            "start_date": "09/2007",
+            "end_date": "05/2012",
+            "duration_years": 4.67
+        },
+        {
+            "company": "Grupo Suárdiaz",
+            "position": "Shipping Leader Enterprise Internship Program",
+            "description": "Developed an internship program in the financial department performing functions of bookkeeping, invoicing and file. In addition, supported the commercial department with the foreign communication.",
+            "start_date": "01/2013",
+            "end_date": "06/2013",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "United Kingdom and United States of America",
+            "institution_or_company": "",
+            "start_date": "summer 2007",
+            "end_date": "summer 2012",
+            "description": "Immersion programs",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "CATIA V5R20",
+            "Autocad 2014"
+        ],
+        "soft_skills": [
+            "Bookkeeping",
+            "Invoicing",
+            "File management",
+            "Foreign communication support"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2007-2012",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 5.09,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.6
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales nombre: juan carlos rodríguez rodríguez domicilio: c/ eridano, 17 getafe 28905 madrid teléfono fijo: 916825788 teléfono móvil: 617115081 nacido: 28 de septiembre de 1985 en madrid (espaa) dni: 47302685-b e-mail: juancarlosrr@hotmail.com formación académica 2003 título de bachillerato en la modalidad de tecnología (ciencias e ingeniería) prueba de acceso a estudios universitarios logse, en la convocatoria de junio de 2003, con una calificación conjunta de 8,15. 2003-2008 ingenieria industrial en la universidad carlos iii de madrid. especialidad máquinas y estructuras. actualmente a falta de presentar el proyecto fin de carrera (enero 2009). formación complementaria 2006 uso racional de la energía y sostenibilidad (20 horas). idiomas e espaol: lengua materna. e inglés: - escrito: nivel avanzado. - hablado: nivel intermedio. - comprensión: nivel avanzado. e francés: nivel básico. e alemán: nivel básico. informática e ofimática (microsoft word, excel y powerpoint): nivel avanzado. e internet: nivel avanzado. e matlab: nivel medio. e statgraphics: nivel medio. e ansys: nivel medio. e autocad y solid-edge: nivel básico. e lenguajes de programación fortran, matlab y mathcad: nivel básico. e conocimientos de cad/cam, cnc y autómatas programables. investigación e realización del trabajo dirigido efecto shimmy en vehículos por el catedrático del departamento de ingeniería mecánica de la universidad carlos iii de madrid don vicente díaz lópez. e realización del trabajo dirigido efecto de la adición de manganeso en la corrosión de aceros inoxidables por la profesora doctora del departamento de ciencia e ingeniería de materiales de la universidad carlos iii de madrid doa mónica campos gómez. e manejo de máquinas y equipos de laboratorio. otros datos de interés e carnet de conducir b1. e disponibilidad para viajar. experiencia profesional e profesor particular.",
+    "text_from_header": "CURRICULUM VITAE",
+    "detected_language": "es",
+    "master_edition": "MASI09"
+}

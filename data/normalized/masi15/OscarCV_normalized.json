@@ -1,0 +1,96 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Óscar Rodríguez Rebollo",
+        "date_of_birth": "07/12/1990",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 25,
+        "email": "o.rodriguezr.900@gmail.com",
+        "phone": "+34 618019205",
+        "address": "Calle Fernández de los Ríos 92, CP: 28015 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Escuela Técnica Superior Ingenieros Aeronáuticos (ETSIA), Politécnica de Madrid (UPM)",
+            "location": "Madrid",
+            "year": "2008-2014",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "BBVA",
+            "position": "IT Consultant (Solutions Assistant)",
+            "description": "Design new programs and perform built-in tests.",
+            "start_date": "02/2015",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Academic exchange",
+            "country": "England",
+            "institution_or_company": "University of Nottingham (East Midlands)",
+            "start_date": "2005",
+            "end_date": "",
+            "description": "Nottingham, England",
+            "duration_years": 0.0
+        },
+        {
+            "type": "English course",
+            "country": "England",
+            "institution_or_company": "York (Yorkshire, England)",
+            "start_date": "2006",
+            "end_date": "",
+            "description": "Yorkshire, England",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Operative Systems: Windows, Mac OS X, Linux (Ubuntu and Debian), z/OS",
+            "Microsoft Office (Word, Excel, PowerPoint)",
+            "Mathematical Software: MATLAB / Simulink",
+            "3D Design: CATIA V5, Solid Edge",
+            "Programming Languages: Fortran 90, C/C++, COBOL, Hardware Description Language (HDL) Verilog",
+            "FPGA: Quartus II"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "CMU Diego de Covarrubias College",
+            "role": "Resident, helping in different areas",
+            "duration": "2018-2022",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

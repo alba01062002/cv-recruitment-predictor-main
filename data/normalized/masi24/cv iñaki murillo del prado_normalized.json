@@ -1,0 +1,98 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Inaki Murillo del Prado",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "inakimurillos@gmail.com",
+        "phone": "+34 664 514 007",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Computer Engineering",
+            "field": "Computer Engineering",
+            "university": "Rey Juan Carlos University",
+            "location": "Madrid",
+            "year": "2018 - present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "INDRA",
+            "position": "Testbricks Framework Improvement and Development (Full-time)",
+            "description": "Development of software for measurement tests in the IEEE1641 standard using C#.",
+            "start_date": "09/2022",
+            "end_date": "03/2023",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "Java",
+            "Linux",
+            "HTML",
+            "JavaScript",
+            "Windows",
+            "CSS",
+            "MySQL",
+            "Git",
+            "GitHub"
+        ],
+        "soft_skills": [
+            "Organizational skills",
+            "Planning",
+            "Attention to details",
+            "Team leader",
+            "Self-taught person",
+            "Empathy"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.5,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

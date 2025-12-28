@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "albert ribas cardete () 08901, l'hospitalet de llobregat espaa +34654241229 [a albertribas916@gmail.com young engineer with experience in the automotive sector, specializing in innovation and problem-solving. skilled in technical analysis, project development, and teamwork within high-tech environments. fluent in english and eager to apply my expertise to new challenges in the aerospace industry. qa education expected in 2025-06 bachelor of science: ingeniería de sistemas aeroespaciales upc-eetac - castelldefels 2021-08 engineering design workshop mit - barcelona, spain [5] work history 2024-10 - 2025-07 adas engineering intern applus+ idiada, santa oliva, es e designed software tool to evaluate test telemetry e conducted detailed test analysis + created innovative solutions for testing procedures 2022-09 - 2024-09 chassis coordinator eetac formula student team, castelldefels . participated in every stage of chassis design e engaged in initial stage of chassis assembly [5] languages english msi ieso derio ie fe bilingual or proficient (c2) french do ie ee intermediate (b1) spanish a ee bilingual or proficient (c2) catalan ee ee bilingual or proficient (c2) ansys analysis 3d cad design data analysis design development engineering software project report generation",
+    "text_from_header": "ALBERT RIBAS",
+    "detected_language": "en",
+    "master_edition": "MASI25"
+}

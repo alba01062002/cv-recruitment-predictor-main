@@ -1,0 +1,154 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rodrigo De La Mata Gómez",
+        "date_of_birth": "07/12/1987",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 27,
+        "email": "rodrigodelamatagomez@gmail.com",
+        "phone": "(+34) 925 48 12 09, (+34) 637 951 062",
+        "address": "Benito Pérez Galdós, 18, 45700 Consuegra (Toledo), Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Industrial Engineer",
+            "field": "Industrial Engineering",
+            "university": "Universidad de Castilla La Mancha (UCLM)",
+            "location": "Ciudad Real, Spain",
+            "year": "2005-2011",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Accenture S.L.U.",
+            "position": "Business and Systems Integration Analyst",
+            "description": "Responsible for business and systems integration in IT solutions for banking, including project management and development of tools in MS Excel. Also involved in the design and development of operational reports using Oracle SQL Developer.",
+            "start_date": "04/2012",
+            "end_date": "Currently working",
+            "duration_years": 0.0
+        },
+        {
+            "company": "BBVA",
+            "position": "Project Manager",
+            "description": "Involved in the design, 8 development and implementation of new applications for risk management. Also participated in the Strategic Process Workshop and Functional and Technical Design for User Interface.",
+            "start_date": "11/2013",
+            "end_date": "Currently working",
+            "duration_years": 0.0
+        },
+        {
+            "company": "DNB Bank (Vilnius, Lithuania)",
+            "position": "",
+            "description": "Technical design and development of requirements and operational reports in Oracle SQL Developer for all integrations among systems.",
+            "start_date": "03/2013",
+            "end_date": "09/2013",
+            "duration_years": 0.5
+        },
+        {
+            "company": "BBVA",
+            "position": "",
+            "description": "Functional and technical design of requirements for user interface, testing and defect analysis.",
+            "start_date": "10/2012",
+            "end_date": "02/2013",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Accenture Core Banking Delivery (Madrid)",
+            "position": "",
+            "description": "Development of tools in MS Excel for resource controlling, staffing, expenses and training. Also developed presentations for executive committees.",
+            "start_date": "05/2012",
+            "end_date": "09/2012",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Cojali S.L.",
+            "position": "",
+            "description": "Internship as Automotive Systems Engineer at Jaltest Multibrand Diagnostics. Content department involved in the analysis of information, research and writing content for the multibrand diagnostic tool for industrial vehicles.",
+            "start_date": "09/2011",
+            "end_date": "03/2012",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Germany",
+            "institution_or_company": "Technische Universität Darmstadt",
+            "start_date": "10/2009",
+            "end_date": "09/2010",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Germany",
+            "institution_or_company": "Technische Universität Darmstadt",
+            "start_date": "2009/2010 (Erasmus)",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B1"
+        ],
+        [
+            "Italian",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java / JSP / XML",
+            "Oracle SQL Developer",
+            "Matlab, Simulink",
+            "Microsoft Office",
+            "CAD Software: CATIA V5, MicroStation",
+            "LabVIEW Expert Choice"
+        ],
+        "soft_skills": [
+            "Collaboration and Associations",
+            "Communication Skills",
+            "Leadership and Team Management (750 hours)",
+            "Project Management",
+            "Adaptability"
+        ]
+    },
+    "other_interests_normalized": [
+        "Football",
+        "Piano",
+        "Swimming"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Akademische Fliegegruppe (Akaflieg) Darmstadt",
+            "role": "",
+            "duration": "2009/2010",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 1.66,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

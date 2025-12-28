@@ -1,0 +1,143 @@
+```yaml
+   name: cv_predictor
+   channels:
+     - conda-forge
+     - defaults
+   dependencies:
+     - python=3.10
+     - numpy=1.26.4
+     - pandas=2.2.3
+     - scikit-learn=1.5.2
+     - nltk=3.9.1
+     - joblib=1.4.2
+     - pytest=8.3.3
+     - pip
+     - pip:
+         - pdfplumber==0.11.4
+         - python-docx==1.1.2
+         - sentence-transformers==3.1.1
+   ```
+
+   To use this, save it as `environment.yml` in your project root, then create and configure the environment:
+   ```bash
+   conda env create -f environment.yml
+   conda activate cv_predictor
+   ```
+
+6. **Verify Installation**:
+   Confirm that all dependencies are installed correctly:
+   ```bash
+   pip list
+   ```
+   Check that the versions match those in `requirements.txt`. You can also test the environment by running a simple script or the test suite:
+   ```bash
+   pytest tests/
+   ```
+
+7. **Add environment.yml to Git (Optional)**:
+   If you created an `environment.yml`, add it to your Git repository for reproducibility:
+   ```bash
+   git add environment.yml
+   git commit -m "Add Conda environment configuration"
+   git push origin main
+   ```
+
+8. **Update .gitignore**:
+   Ensure your `.gitignore` (as previously updated) includes Conda environment-related files. Add the following if not already present:
+   ```text
+   # Conda
+   conda-bld/
+   conda-meta/
+   ```
+   Your `.gitignore` should now look like:
+   <xaiArtifact artifact_id="b0774626-251a-44a3-924f-a1abbd908bd6" artifact_version_id="1ea4ab3f-8bf8-4ce7-a1eb-959467bc6af8" title=".gitignore" contentType="text/plain">
+   ```text
+   # Python
+   __pycache__/
+   *.pyc
+   *.pyo
+   *.pyd
+   .Python
+   *.egg-info/
+   dist/
+   build/
+
+   # Data
+   data/raw/*
+   data/processed/*
+   !data/labels.csv
+
+   # Output
+   output/models/*
+   output/logs/*
+
+   # Environment
+   .env
+   venv/
+   *.log
+   conda-bld/
+   conda-meta/
+
+   # macOS
+   .DS_Store
+   ```
+
+9. **Run the Project**:
+   With the environment activated, run the main script:
+   ```bash
+   python main.py
+   ```
+   Ensure your `data/raw/` contains CVs and `data/labels.csv` is set up as described previously.
+
+10. **Export Environment for Sharing**:
+    If you used `pip` to install dependencies, export the environment for others to replicate:
+    ```bash
+    conda env export > environment.yml
+    ```
+    Edit the generated `environment.yml` to remove platform-specific paths (e.g., `prefix`) and commit it to GitHub.
+
+### Additional Notes
+- **Why Python 3.10?**: It's a stable version compatible with all listed dependencies as of September 2025. If you need a different version, adjust `python=3.10` in the `conda create` command or `environment.yml`.
+- **Conda vs. pip**: Using `environment.yml` with Conda channels is preferred for reproducibility, but `pip install -r requirements.txt` is simpler if you want to stick with the provided file. The hybrid approach in the `environment.yml` above balances both.
+- **Troubleshooting**:
+  - If `sentence-transformers` or other packages fail to install, ensure your Conda environment has access to the `conda-forge` channel (`conda config --add channels conda-forge`).
+  - For large CV datasets, ensure your system has sufficient memory, as `sentence-transformers` can be resource-intensive.
+- **Git Integration**: Update your `README.md` to include Conda setup instructions:
+  ```markdown
+  ## Setup with Conda
+  1. Install Conda (e.g., Miniconda).
+  2. Create the environment:
+     ```bash
+     conda env create -f environment.yml
+     ```
+  3. Activate the environment:
+     ```bash
+     conda activate cv_predictor
+     ```
+  4. Run the pipeline:
+     ```bash
+     python main.py
+     ```
+  ```
+
+- **Bilingual Support**: The project already handles Spanish and English CVs, so no changes are needed there. The `sentence-transformers` model (`paraphrase-multilingual-MiniLM-L12-v2`) supports both languages, and the extraction logic in `src/extract.py` accounts for bilingual keywords.
+
+### Testing the Environment
+After setting up, verify functionality:
+```bash
+conda activate cv_predictor
+python -c "import pdfplumber, docx, pandas, numpy, sentence_transformers, sklearn, nltk, joblib, pytest; print('All dependencies imported successfully')"
+pytest tests/
+```
+
+This will confirm that the environment is correctly configured and ready to process CVs.
+
+### Committing Changes
+If you added `environment.yml` or modified `.gitignore`, push to GitHub:
+```bash
+git add .gitignore environment.yml
+git commit -m "Add Conda environment setup and update .gitignore"
+git push origin main
+```
+
+If you encounter any issues (e.g., dependency conflicts, specific package versions, or additional setup steps), let me know, and I can provide tailored solutions!

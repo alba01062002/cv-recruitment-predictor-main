@@ -1,0 +1,97 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro Sandaza Sánchez",
+        "date_of_birth": "03/05/1999",
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": 26,
+        "email": "",
+        "phone": "645150012",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/alejandro-sandaza/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeroespacial (Vehículos Aéreos)",
+            "field": "Ingeniería Aeroespacial",
+            "university": "Universidad Rey Juan Carlos de Madrid",
+            "location": "Getafe",
+            "year": "2024-ongoing",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space on behalf of CT",
+            "position": "Manufacturing Trainee",
+            "description": "Soporte y mantenimiento de bancos de ensayo y simulador de objetivos. Parte del equipo de producción, soporte a taller mediante la creación de job cards, AOC/ERCS.",
+            "start_date": "01/2024",
+            "end_date": "05/2024",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Castellano",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Autocad",
+            "Solidworks",
+            "Ansys Fluent",
+            "Catia V5 Advanced-Automotive and Industrial",
+            "Microsoft Office",
+            "C, C++, Java",
+            "Matlab"
+        ],
+        "soft_skills": [
+            "Comunicador",
+            "Actitud Proactiva",
+            "Gestión de Documentación Airbus con DMU4D, DAVID, EPD, SAP, FAME-ELS",
+            "SIPLA, Sprint, SIDIE"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.33,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

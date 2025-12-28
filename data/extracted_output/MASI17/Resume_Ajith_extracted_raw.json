@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "resume ajith k deputy manager(design) aircraft r&d centre hindustan aeronautics ltd. bangalore-560037 mob.no.+918553527094 email:ajithkandanga@ gmail.com career objective to build my career with a leading company in the field of aerospace,electrical and avionics systems- where i can utilize my technical knowledge, skills, diligence and passion for the betterment of my employer, myself and humanity. professional experience aircraft research & design centre,hal bangalore engaged in the design and development of different class of military aircrafts, hal ardc has a long and distinguished history of dedicated service to the indian air force and related defence services. designation: deputy manager (design) period: 29-06-2011 to present, full time project: hindustan turboprop trainer htt-40 intermediate jet trainer hjt-36 project details at hindustan aeronautics limited tpe331-12b engine integration design of electrical interface, switches, control logics for the integration of tpe331-12b engine tuning of engine electronic control(eec) for setting up performance parameters of maximum power, maximum speed, egt limit and flight idle fluel flow. design of relight circuitry for tpe331-12b analysis of tpe331-12b performance in real time flight and post flight data analysis. avionics & display integration generating requirement for the engine display and crew alert system page. design of wiring diagrams for the successful integration of display unit to the aircraft aircraft electrical systems electrical system design for htt-40 hindustan turboprop trainer preparation of electrical load analysis based on mil-std-7016f calculation of total continuous load requirement in different phases of flight finalisation of main power supply and auxiliary power supply required based on load analysis e design of electrical wiring diagrams for different utilities on aircraft like flight controls, engine,hudraulics,landing gear and avionics e design of loom drawings for easy manufacture of electrical looms on the loomboard e establishing compliance with mil-std-704e for certification of electrical system design. e establishing compliance with mil-std-6503h for certification of lighting system. e establishing compliance with mil-std-441c for emi/emc protection general job profile e designing the electric power generation schematic based on the load analysis. e development of technical specification of different line replacable units used in aircraft e discussions with original equipment manufacturers regarding technical specifications e design of the preliminary theoretical and routing drawings of all the systems on aircraft e design of electrical loom drawing for manufacturing assembly e design and development of various aircraft level test schedules such as continuity check schedule, megger check schedule, power on check schedule, centralised warning checks and fire and overheat detection check schedule e design of power generation test rig and testing of starter generator in the test rig. e analysing data from solid state flight data recorder post flight. e real time flight testing of developmental aircrafts and subsequent data analysis to prove the design practically software platforms e autocad e matlab educational background scholarship obtained awarded the prestigious national talent search examination (ntse) scholarship, and certificate of merit for the same, issued by ncert new delhi, from 2005 onwards to date. educational qualifications course year institution univer sity/board percentage/cgpa b.tech in electrical 2007-11 national institute of deemed 8.20 &electronics engg. technology, calicut university chinmaya aissce (class xii) 2007 vidyalaya, thrissur cbse 93.8 chinmaya aisse (class x) 2005 vidyalaya, thrissur cbse 95 areas of interest e aircraft engines e engine, hydraulics, ecs electrical integration english language proficiency e toefl ibt score: 116 gre score: e verbal reasoning : 157 e quantitative reasoning : 167 e total 324/340 personal details name : ajith k fathers name : v.venugopalan date of birth&place : 10/05/1990 thrissur india nationality : indian family status : single permanent address : krishnakripa,near poovani temple, kolazhy, viyyoor p.o thrissur post box no.-680010 e-mail : ajithkandanga@ gmail.com phone : 0487 2201233 (residence) +918553527094(mobile) declaration i hereby declare that all above mentioned details are correct to the best of my knowledge. ajith k",
+    "text_from_header": "AIRCRAFT R&D CENTRE",
+    "detected_language": "en",
+    "master_edition": "MASI17"
+}

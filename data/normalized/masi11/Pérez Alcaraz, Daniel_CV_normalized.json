@@ -1,0 +1,101 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Pérez Alcaraz",
+        "date_of_birth": "08/07/1985",
+        "gender": "male",
+        "age_reference_year": 2011,
+        "age": 26,
+        "email": "danaeroo@gmail.com",
+        "phone": "+34 655065146",
+        "address": "6 32a, León Xiii, Sevilla, 41009, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineer",
+            "field": "Aerospace Engineering",
+            "university": "Escuela Superior de Ingenieros (ESI), Universidad de Sevilla",
+            "location": "Sevilla, Spain",
+            "year": "2003-2008",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Sener Ingeniería y Sistemas S.A.",
+            "position": "Aerospace Structures and Fluid Dynamic Department",
+            "description": "Participated in the following projects: sizing of composite panels, metal frames and stringers of A350 belly fairing; analysis of thermoelastic stress in rotating target for European Spallation Neutron Source; development of structure optimization software using Visual Basic and Excel macros programming languages; study of compression waves and sonic boom caused by high-speed trains in tunnels.",
+            "start_date": "08/2009",
+            "end_date": "08/2010",
+            "duration_years": 1.0
+        },
+        {
+            "company": "Escuela Superior de Ingenieros (ESI)",
+            "position": "Internship in the Aerospace Department",
+            "description": "Participated in research on drag polar modeling for analyzing aircraft performances; design team member of Cefiro concurrent engineering project, consisting of designing, manufacturing and testing a modular reconnaissance UAV with a wingspan of three meters and payload capacity of ten kilograms.",
+            "start_date": "09/2007",
+            "end_date": "05/2009",
+            "duration_years": 1.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "United Kingdom (UK)",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Attended courses and seminars in the UK.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "SmartSketch",
+            "Patran-Nastran",
+            "Matlab",
+            "Simulink",
+            "EES",
+            "STAR-CCM+",
+            "Microsoft Project",
+            "Menfis",
+            "Visual Basic",
+            "Excel Macros"
+        ],
+        "soft_skills": [
+            "Positive attitude",
+            "Autodidactic",
+            "Professional",
+            "Excellent communication and social skills"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 2.67,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI11",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.2
+}

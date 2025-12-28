@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jia Ying Chen Yang",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "jiaycyang@hotmail.com",
+        "phone": "+44(0)7366121711 (UK) / +351 969800273 (PT)",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/jiaycyang",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MEng in Aerospace Engineering (Bachelor's with integrated masters)",
+            "field": "Aerospace Engineering",
+            "university": "The University of Manchester, UK",
+            "location": "UK",
+            "year": "2017-2021",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "British Airways",
+            "position": "Strategic Planning Engineer",
+            "description": "Strategic planning of scheduled and unscheduled base maintenance, to optimize use of facilities, resources and ground-time, whilst meeting operational and financial objectives. Responsible for Rolls-Royce engines maintenance plan, and act as main liaison with RR reps.",
+            "start_date": "01/2025",
+            "end_date": "12/2025",
+            "duration_years": 0.92
+        },
+        {
+            "company": "British Airways",
+            "position": "Operational Maintenance Planning Engineer",
+            "description": "Planned and managed ramp and base maintenance for LH and SH fleets, ensuring compliance with EASA and CAA regulations, and airworthiness requirements. Managed ADDS clearance, enhanced aircraft reliability, performance, and customer experience.",
+            "start_date": "11/2023",
+            "end_date": "01/2025",
+            "duration_years": 1.17
+        },
+        {
+            "company": "Ryanair",
+            "position": "Aircraft Maintenance Planning Engineer",
+            "description": "Responsible for line and hangar maintenance of 150+ aircraft across 25 bases in the UK & EU. Managed spares and manpower for maintenance, collaborated with line maintenance staff to oversee and facilitate maintenance tasks and AOGs.",
+            "start_date": "01/2022",
+            "end_date": "10/2023",
+            "duration_years": 1.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Portuguese",
+            "C2"
+        ],
+        [
+            "Chinese",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python (web scraping)",
+            "HTML, JavaScript, CSS",
+            "SolidWorks",
+            "AMOS, SAP EWS, AIROPS, FICO, Netline",
+            "Excel (advanced), SQL, Pandas & NumPy"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 3.84,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

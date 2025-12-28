@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales: nombre: altamira apellidos: garzón ortiz de luna dirección: c/ évora, 20 3 izquierda población: madrid provincia: madrid código postal: 28019 fecha de nacimiento: 10/10/1985 lugar de nacimiento: miranda de ebro teléfono: 687207852 e-mail: altamira.garzon@gmail.com formacióna académica: bachiller en el colegio sagrados corazones de miranda de ebro (burgos). fecha de inicio: septiembre de 2001. fecha de fin: junio de 2003. cursando ingenieria industrial, especialidad máquinas y estructuras (5 curso) en la universidad carlos iii de madrid. fecha de inicio: septiembre de 2003. fecha fin aproximada: febrero 2010. formación extra académica: curso de microsoft-visio de la universidad carlos iii de madrid. (ao 2007) preparación de oposiciones de adif de circulación. aprobadas pero sin plaza. (abril de 2009) experiencia laboral: trabajo esporádico en el ámbito de la hostelería, concretamente encargada de un bar de copas, cuyas funciones se extienden a camarera y gestión de pedidos. (2004-2008) prácticas en técnicas aeronáuticas madrid s.l., cuya función era la de colaborar en el proyecto doors and slats para el q400 bombardier. (septiembre 2009). idiomas: inglés: título de nivel avanzado i de la escuela oficial de idiomas. (2009) estancia de un mes en londres. (2003) francés: título de tercero de la escuela oficial de idiomas (2003) informática: a nivel de usuario: windows internet explorer fortran microsoft office statgraphics mathlab mathcad ansys abaqus",
+    "text_from_header": "DATOS PERSONALES:",
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

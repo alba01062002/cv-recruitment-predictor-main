@@ -1,0 +1,134 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Gonzalo Pérez de Laborda",
+        "date_of_birth": "15/12/1991",
+        "gender": "male",
+        "age_reference_year": 2016,
+        "age": 25,
+        "email": "gontxip@gmail.com",
+        "phone": "+34 695726528",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Professional Development, Business Administration and Management, Finance, Law",
+            "field": "Business Administration and Management",
+            "university": "Universidad de Alcalá",
+            "location": "Alcalá de Henares",
+            "year": "2015-present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "International Projects Management, Leadership, Economics and History of the EU and Developing Countries",
+            "university": "ENSA (Ecole Nationale Supérieure des Arts et Métiers) and INSEEC Business School",
+            "location": "Paris, France",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Aeronautical Structures, Propeller Systems, Products and Processes in Aeronautical Industry",
+            "university": "ENSAM (Ecole Nationale Supérieure des Arts et Métiers)",
+            "location": "Paris, France",
+            "year": "2013-2014",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Engineer",
+            "field": "Mechanical Design",
+            "university": "ETSIB - Escuela Técnica Superior de Ingeniería de Bilbao",
+            "location": "Bilbao, Spain",
+            "year": "2013",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Group",
+            "position": "General Procurement Internship",
+            "description": "Checking with stakeholders the services or product needed, launching call for tenders via eproc, negotiation with international providers of technical and commercial proposal and contractual requirements, analysis and selection of the providers, contract management (deviation sheets, change proposals...)",
+            "start_date": "04/2015",
+            "end_date": "12/2016",
+            "duration_years": 1.67
+        },
+        {
+            "company": "Academy",
+            "position": "Technical Design Teacher",
+            "description": "Teaching nautical engineering and high school students.",
+            "start_date": "02/2015",
+            "end_date": "04/2015",
+            "duration_years": 0.17
+        },
+        {
+            "company": "12M (Institut de Mécanique et Ingénierie, Bordeaux1)",
+            "position": "Internship and Final Project",
+            "description": "Subject: Ways of improvement and eco-performance of fabrication procedures by machining. Environmental evaluation of the fabrication processes.",
+            "start_date": "02/2014",
+            "end_date": "09/2014",
+            "duration_years": 0.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship / Master",
+            "country": "Paris, France",
+            "institution_or_company": "ENSA (Ecole Nationale Supérieure des Arts et Métiers) and INSEEC Business School",
+            "start_date": "09/2014",
+            "end_date": "01/2015",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Basque",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Simapro (LCA)",
+            "Mathematica",
+            "Solid Works",
+            "Matlab",
+            "Eproc (Airbus)",
+            "SAP",
+            "Ansys",
+            "Dominion of Office Languages"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Cinema",
+        "Rugby (División de Honor)",
+        "Table Tennis",
+        "Football"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Scholarship Program for College Students",
+            "role": "Help with Physics, Chemistry and Mathematics",
+            "duration": "2011-2013",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 2.42,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.2
+}

@@ -1,0 +1,96 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Manuel Lanuza Fabregat",
+        "date_of_birth": "01/03/1985",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 28,
+        "email": "manel.lanuza@gmail.com",
+        "phone": "687868504",
+        "address": "paseo maragall, 44, 1?, 08041 barcelona (españa)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Engineering in Aeronautical and Mechanical Engineering",
+            "field": "Aeronautical and Mechanical Engineering",
+            "university": "University of Wales (United Kingdom)",
+            "location": "United Kingdom",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aena Aeropuerto de Barcelona",
+            "position": "Becario en la división de operaciones",
+            "description": "Tareas de soporte al departamento de handling, control y supervisión a las empresas de handling, estudios de calidad y compromiso de estas empresas.",
+            "start_date": "10/2011",
+            "end_date": "02/2012",
+            "duration_years": 0.33
+        },
+        {
+            "company": "BBVA, La Caixa, Unnim",
+            "position": "Administrativo en oficina bancaria",
+            "description": "Realización de operativa diaria de caja y gestión de los clientes en una oficina bancaria, así como actividades comerciales.",
+            "start_date": "09/2008",
+            "end_date": "02/2012",
+            "duration_years": 3.42
+        },
+        {
+            "company": "Universidad Politécnica de Cataluña (España)",
+            "position": "Ingeniería aeronáutica, Ingeniería Técnica Aeronáutica especialidad en aeronavegación",
+            "description": "",
+            "start_date": "09/2003",
+            "end_date": "06/2007",
+            "duration_years": 3.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "United Kingdom",
+            "institution_or_company": "University of Wales (United Kingdom)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Ultimo ao de carrera realizado en el reino unido obteniendo la doble titulación.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Maple",
+            "CATIA",
+            "AutoCAD",
+            "C/C++ programming",
+            "Windows and OS X operating systems"
+        ],
+        "soft_skills": [
+            "Web browsing with fluency",
+            "Project management",
+            "Teamwork"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 7.5,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

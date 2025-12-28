@@ -1,0 +1,174 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alex Santiago Aquíeta Núez",
+        "date_of_birth": "28/04/1994",
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": 26,
+        "email": "aquietanunez@gmail.com",
+        "phone": "+5492214196475",
+        "address": "Laprida 1224, Buenos Aires, Argentina",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineer",
+            "field": "Aircraft Systems Integration",
+            "university": "Universidad Nacional de La Plata",
+            "location": "La Plata, Buenos Aires - Argentina",
+            "year": "2013-2018",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "High School Diploma in Mathematics and Physical Sciences",
+            "field": "",
+            "university": "Sebastian de Benalcazar High School",
+            "location": "Quito - Ecuador",
+            "year": "2006-2012",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Universidad Nacional de La Plata",
+            "position": "Teaching Assistant at the Chair Mathematics C in School of Engineering",
+            "description": "",
+            "start_date": "08/2014 - 12/2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Diaf - Supervision of Professional Practices at Aeronautical Maintenance Center (CEMA)",
+            "position": "Direction of the Aeronautical Industry of Ecuador",
+            "description": "",
+            "start_date": "01/2017 - 02/2017",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Universidad Nacional de La Plata",
+            "position": "Teaching Assistant at the Chair Fluid Mechanics in School of Engineering",
+            "description": "",
+            "start_date": "01/2017 - 02/2018",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "UIDET GTA-GIAI, Air Transport Group - Engineering Group Applied to Industry",
+            "position": "Technical Assistant in the Development of Upstream Measurement Management Models for YPF Company",
+            "description": "",
+            "start_date": "09/2017 - 07/2018",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Aeropuertos Argentina 2000",
+            "position": "Young Professional in the Area of Strategic Projects of Terminal de Cargas Argentina (TCA) at Ezeiza International Airport, Buenos Aires, Argentina",
+            "description": "",
+            "start_date": "08/2018 - Present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "USA, Mexico, Argentina, Brazil, Perú",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Congress and Training Courses",
+            "country": "Argentina",
+            "institution_or_company": "Universidad Nacional de La Plata",
+            "start_date": "05/2016 - 07/2016",
+            "end_date": "",
+            "description": "Use of CATIA program",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Formula SAE Competition",
+            "country": "Argentina",
+            "institution_or_company": "Universidad Nacional de La Plata",
+            "start_date": "07/2016 - 07/2017",
+            "end_date": "",
+            "description": "Design, development and construction of a Formula SAE competition car",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Engine Familiarization Course",
+            "country": "Argentina",
+            "institution_or_company": "V Air Brigade - Technical Group 6 of the Argentine Air Force, Tandil, Buenos Aires",
+            "start_date": "10/2017",
+            "end_date": "",
+            "description": "Familiarization with the ATAR 09 C engine",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Congress of Numerical Methods and Their Applications",
+            "country": "Argentina",
+            "institution_or_company": "Universidad Nacional de La Plata - Graduate Center 'Sergio Karakachoff'",
+            "start_date": "11/2017",
+            "end_date": "",
+            "description": "Speaker and author of the work 'Estudio y Simulación Experimental de Ráfaga en Túnel de Viento con Flujo Turbulento sobre un Perfil de Bajo Reynolds'",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB / Simulink",
+            "Abaqus",
+            "CATIA",
+            "SolidWorks",
+            "AutoCAD",
+            "LabView",
+            "Microsoft Office Tools (Word, Excel, PowerPoint)",
+            "Project Management"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Leadership",
+            "Communication Skills",
+            "Innovation",
+            "Loyalty",
+            "Flexibility and Adaptability to Change"
+        ]
+    },
+    "other_interests_normalized": [
+        "Traveling",
+        "Sports (Soccer, Volleyball)",
+        "Music",
+        "Literature (Read and Write)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

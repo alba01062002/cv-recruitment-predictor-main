@@ -1,0 +1,155 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alexis Albín López",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "albinalexis23g@gmail.com",
+        "phone": "+34 609 026 889",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeroespacial",
+            "field": "Ingeniería Aeroespacial",
+            "university": "Universidad Carlos III Madrid (UCM)",
+            "location": "Toledo, España",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachillerato en Ciencias Tecnológicas",
+            "field": "Ciencias Tecnológicas",
+            "university": "Fuensalida",
+            "location": "Toledo, España",
+            "year": "2019-2021",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Curso de Programación Python",
+            "field": "",
+            "university": "UCM",
+            "location": "Madrid, España",
+            "year": "2024 - Junio 2024",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Formación en Empresa: Curso de Visual Basic Applications (VBA)",
+            "field": "",
+            "university": "",
+            "location": "UCM",
+            "year": "2024 - Junio 2024",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Formación en Empresa: Formación en Seguridad de la Información",
+            "field": "",
+            "university": "",
+            "location": "UCM",
+            "year": "2024 - Julio 2024",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Curso CFD (ANSYS)",
+            "field": "",
+            "university": "UCM",
+            "location": "Madrid, España",
+            "year": "2024 - Julio 2024",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence and Space (Capgemini)",
+            "position": "Flight Test Systems Analysis Engineer",
+            "description": "Uso de AIDASS para validación de sistemas embarcados. Monitorización de sellado con programas como Wireshark o Grafana. Modelización de sistemas simulados para ensayos en laboratorio. Conocimiento del funcionamiento de sistemas embarcados.",
+            "start_date": "Mayo 2025",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Aernnova Aerospace",
+            "position": "Ingeniero de Calidad",
+            "description": "Supervisión de los procesos de aseguramiento de calidad dentro del programa A220, garantizando el cumplimiento de estándares industriales y requisitos del cliente. Generación de informes de validación de inspección (IV) para verificar la precisión en la fabricación y la adherencia a las especificaciones de diseño. Realización de estudios de capacidad de proceso (CP/CPK) para analizar y optimizar el desempeño en producción. Aplicación de metodologías Six Sigma para identificar y eliminar ineficiencias, mejorando la calidad general de los procesos. Inspecciones detalladas y verificación de precisión en operaciones de manufactura. Uso de software Catia para la validación de diseños y colaboración con equipos de ingeniería.",
+            "start_date": "Octubre 2024",
+            "end_date": "Mayo 2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Tsr Wind",
+            "position": "Ingeniero de Diseño Hardware Robótico",
+            "description": "Diseño y cálculo de estructuras y mecanismos robóticos. Manejo del software Solidworks nivel avanzado. Evaluación de las distintas variantes de diseño y cálculo de costes asociados, materiales empleados, optimización de procesos de fabricación y montaje del robot.",
+            "start_date": "Julio 2024",
+            "end_date": "Octubre 2024",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Solidworks (Nivel Avanzado)",
+            "Matlab (Nivel Avanzado)",
+            "Ansys Fluent (Nivel Medio)",
+            "R - RStudio (Nivel Medio)",
+            "Abaqus (Nivel Medio)",
+            "Python (Nivel Medio)",
+            "Office Package (Nivel Avanzado)"
+        ],
+        "soft_skills": [
+            "Trabajo en Equipo",
+            "Resolución de Problemas Complejos",
+            "Adaptabilidad"
+        ]
+    },
+    "other_interests_normalized": [
+        "Aprendizaje Autónomo y Formación Continua",
+        "Clases Particulares"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

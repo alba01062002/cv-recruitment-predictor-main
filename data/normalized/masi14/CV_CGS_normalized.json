@@ -1,0 +1,128 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Constantino José García Sánchez",
+        "date_of_birth": "02/11/1978",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 36,
+        "email": "cgarciaqwininertia.es",
+        "phone": "+34681042063",
+        "address": "Win Inertia Innovacion, 6-8, mod.3, ed. ariete, p.l., Pisa e-41927 Mairena del Aljarafe, Sevilla (España)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Electrónica, Treatment of Signal and Communications",
+            "field": "Electronics Engineering",
+            "university": "Escuela Superior de Ingenieros, Universidad de Sevilla",
+            "location": "Sevilla (España)",
+            "year": "2007-2008",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Executive Master in Innovation",
+            "field": "Innovation Management",
+            "university": "Escuela de Organización Industrial, Madrid",
+            "location": "Madrid (España)",
+            "year": "2012-2013",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's in Industrial Engineering Specialization in Electronic Industrial",
+            "field": "Industrial Engineering",
+            "university": "Escuela Superior de Ingenieros, Universidad de Sevilla",
+            "location": "Sevilla (España)",
+            "year": "1996-2006",
+            "duration_years": 10.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Win Inertia Technologies, S.L.",
+            "position": "Innovation Manager since July 2012",
+            "description": "Responsibility of the management of innovation technology within the company. Since June 2007, co-founder and director of technical projects related to monitoring and energy management systems, as well as in the technological field of aeronautical systems.",
+            "start_date": "07/2012",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Universidad de Sevilla",
+            "position": "Substitute Professor from February 2008 to September 2010",
+            "description": "Teaching and research activity.",
+            "start_date": "02/2008",
+            "end_date": "09/2010",
+            "duration_years": 2.58
+        },
+        {
+            "company": "Universidad de Sevilla, San Fernando 4, 41004 Sevilla (España)",
+            "position": "Contractual Researcher from September 2006 to February 2008",
+            "description": "Execution of R&D projects in the areas of application such as renewable energy, energy storage and aerospace.",
+            "start_date": "09/2006",
+            "end_date": "02/2008",
+            "duration_years": 1.42
+        },
+        {
+            "company": "Asociación para la Investigación y Cooperación Industrial en Andalucía (AICIA)",
+            "position": "Research and Development Assistant from September 1996 to June 2006",
+            "description": "Scientific and technical activities.",
+            "start_date": "09/1996",
+            "end_date": "06/2006",
+            "duration_years": 9.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish (castilian)",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "PCB Design",
+            "FPGA Design",
+            "Code Composer Studio (Texas Instruments)",
+            "Fix 5.5, Historian 4.5 (General Electric SCADA software)"
+        ],
+        "soft_skills": [
+            "Team spirit",
+            "Good adaptation to multicultural environments due to international work experience",
+            "Communication capabilities"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 28,
+    "detected_language": "es",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

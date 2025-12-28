@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "eduardo martín blecua -fecha de nacimiento: 24 de enero de 1992 -residencia: madrid, espaa. -teléfono: (34) 677195323 -correo electrónico: eduardomartin.emb@gmail.com datos académicos: [sept. 2014 - presente] master en robótica y automatización (universidad carlos iii de madrid) [sept. 2010 - ago. 2014] grado en ingeniería electrónica industrial y automática (matrícula de honor en el proyecto) (bilingue inglés) (universidad carlos iii de madrid) idiomas: inglés diploma toefl 103 puntos de 120, nivel c1 de inglés del marco europeo de referencia. nivel c1 (vivido 4 aos en brasil). nivel b2 (estudiado 4 aos en el liceo francés de brasilia 2002/2006). nivel b1 goethe institut y experiencia en robert bosch. experiencia laboral: e becario en airbus defence and space, jefatura de ingeniería del a330 mrtt : asistencia a la gestión técnica de proyectos. asistencia a la coordinación de especialistas para resolución de problemas técnicos (2015). e becario de diseo en robert bosch gasoline systems: diseo mecánico (unigraphics 7.5 y teamcenter 9) y análisis estructurales (ansys 14.5) de piezas de poliamida con inyección de fibras de vidrio (2014). e desarrollo de robot humanoide con solidworks 2014, para startup de robótica y márketing marketingrobotics, con beca del banco santander (becas santander de prácticas en pymes) (2014). e colaboración en proyecto europeo robinspect a través de la universidad carlos ill de madrid (2014). e diseo de software de control y comunicaciones de robot cuadrúpedo teleoperado para empresa de robótica educativa innventio s.l. (2013). e co-creador del proyecto crowdfilament para organizar la compra de filamento para impresoras 3d mediante plataforma de crowdfunding (2012). experiencia técnica: e director del grupo de vehículos aéreos no tripulados: asociación de robótica de la universidad carlos iii (2013-presente). e desarrollo de software de control de vuelo del vehículo robótico aéreo de cuatro hélices (quadrotor): asociación de robótica de la universidad carlos iii (2010-2014). e montaje y calibrado de impresoras 3d: prusa y makerbot. e manejo de impresora 3d industrial: spectrum z510. e calibración y programación de sensores inerciales digitales: ardulmu v3, gy85 y mpu6050. programas de diseo gráfico y análisis: catia v5: diseo de la estructura de un quadrotor imprimible mediante impresión 3d. solidworks 2014: diseo de robot humanoide tamao natural para uso en aplicaciones de márketing, imprimible mediante impresión 3d. e unigraphics 7.5: diseo mecánico en departamento de desarrollo (rbef/eng) en robert bosch gasoline systems. e ansys 14.5: análisis estructural de piezas de poliamida con inyección de fibras de vidrio. lenguajes de programación: c/c++: librerías estándar, libres y propietarias. c para microcontroladores: en entorno arduino. matlab y simulink: programación y simulación de modelos dinámicos y controladores. framework ros: manejo básico. framework yarp: manejo intermedio. e excel visual basic for applications: manejo intermedio. otros méritos: e viajes de estudios de corta duración: o oxford (2008). londres (2009): visita al imperial college. boston (2011): visita al mit y a harvard. washington (2011): visita a la washington university. berlin (2012): visita a la berlin technische universitát. oo 0 0 90 e disponibilidad para viajar. e carnet de conducir. *se podrán presentar acreditaciones en caso de que sean solicitadas.",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI15"
+}

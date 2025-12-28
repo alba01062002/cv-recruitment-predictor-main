@@ -1,0 +1,93 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alicia Cervera Sánchez",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "egyac8o@nottingham.ac.uk",
+        "phone": "+34 629 959 306",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "University of Nottingham",
+            "location": "Nottingham, UK",
+            "year": "2020-2024",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Ferchau Engineering",
+            "position": "Electrical Design Engineer",
+            "description": "Design electrical systems installations according to the procedures of Airbus Defence & Space. Utilize CATIA V5 Electrical modules for definition, development, integration and installation of electrical systems (ATA92). Customer: Airbus Defence and Space.",
+            "start_date": "02/2024",
+            "end_date": "12/2025",
+            "duration_years": 1.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study Year Abroad",
+            "country": "USA",
+            "institution_or_company": "Pennsylvania",
+            "start_date": "09/2017",
+            "end_date": "06/2018",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Intensive Summer Program",
+            "country": "Canada",
+            "institution_or_company": "Toronto, Canada",
+            "start_date": "05/2016",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "NASTRAN/PATRAN",
+            "CATIA V5 Electrical Modules",
+            "Ansys",
+            "Abaqus",
+            "Finite Element Analysis (FEA)"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Technical Aerodynamics for Vehicle Design and Flow Distribution and Performance"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 1.83,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

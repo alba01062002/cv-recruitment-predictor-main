@@ -1,0 +1,115 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Raffaele Tarone",
+        "date_of_birth": "14/08/1997",
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": 25,
+        "email": "raffaeletaronegolibero.it",
+        "phone": "(+39) 3391964251",
+        "address": "via lodice 22, 83030 Zungoli, Italy",
+        "LinkedIn": "https://www.linkedin.com/in/raffaele-tarone-21bb8a200/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree",
+            "field": "Aerospace engineering",
+            "university": "Federico II University of Naples",
+            "location": "Naples, Italy",
+            "year": "2016-2019",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Master's degree",
+            "field": "Aerospace engineering",
+            "university": "Federico II University of Naples",
+            "location": "Naples, Italy",
+            "year": "2019-2022",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Guidance counselor",
+            "description": "Activity for high school and university students in maths, physics and mathematical analysis.",
+            "start_date": "2015-09",
+            "end_date": "2019-07",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Social worker",
+            "description": "Socially useful activity as member of Zungoli youth forum with sport events organization and charity fund-raising.",
+            "start_date": "2013-06",
+            "end_date": "2017-05",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Volunteer work",
+            "description": "Children entertainer at San Nicola oratory in Zungoli.",
+            "start_date": "2012-06",
+            "end_date": "2014-05",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "",
+            "institution_or_company": "ESA - Online Product Assurance Awareness Training Course",
+            "start_date": "2021-11-15",
+            "end_date": "2021-11-24",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Italy",
+            "institution_or_company": "Federico II University of Naples",
+            "start_date": "2021-09-10",
+            "end_date": "2022-03-30",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "STK (General Mission Analysis Tool)",
+            "GMAT"
+        ],
+        "soft_skills": [
+            "Decision-making",
+            "Good listener and communicator",
+            "Creativity",
+            "Team-work oriented",
+            "Motivated",
+            "Responsibility",
+            "Organizational and planning skills"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.7
+}

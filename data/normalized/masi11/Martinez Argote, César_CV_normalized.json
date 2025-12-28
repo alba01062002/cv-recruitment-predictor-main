@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "César Martínez Argote",
+        "date_of_birth": "11/05/1986",
+        "gender": "male",
+        "age_reference_year": 2011,
+        "age": 25,
+        "email": "cmargote@gmail.com",
+        "phone": "+34 626 126 621",
+        "address": "C/ Alcatraz 2, 12a, 28019 Madrid (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Aeronautical Engineering",
+            "field": "Aircraft Systems Integration",
+            "university": "Escuela Técnica Superior de Ingenieros Aeronáuticos (UPM, Madrid)",
+            "location": "Madrid",
+            "year": "2010",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Aeronautical Engineering",
+            "university": "Escuela Técnica Superior de Ingenieros Aeronáuticos (UPM, Madrid)",
+            "location": "Madrid",
+            "year": "2010-2004",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ESDRAS, Madrid",
+            "position": "Internship in Renewable Energies Company",
+            "description": "Accomplishing CAD and structural analysis works with CATIA and ANSYS.",
+            "start_date": "10/2009",
+            "end_date": "12/2009",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "United Kingdom (Glasgow)",
+            "institution_or_company": "University of Glasgow",
+            "start_date": "02/2010",
+            "end_date": "08/2010",
+            "description": "Master thesis",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship / Study",
+            "country": "Poland (Warsaw, Riga)",
+            "institution_or_company": "",
+            "start_date": "07/2009",
+            "end_date": "12/2009",
+            "description": "Attending technological courses",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA V5",
+            "Solid Edge",
+            "MicroStation",
+            "ANSYS",
+            "Excel",
+            "Office Tools",
+            "LaTeX",
+            "Fortran"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Analytical and Problem Solving Skills",
+            "Initiative and Motivation",
+            "Efficiency and Responsibility"
+        ]
+    },
+    "other_interests_normalized": [
+        "Photography",
+        "Driving",
+        "Multimedia Technology"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Maths and Physics Private Lessons",
+            "duration": "2009-2014",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 18,
+    "detected_language": "en",
+    "master_edition": "MASI11",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

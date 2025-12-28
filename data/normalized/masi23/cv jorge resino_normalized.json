@@ -1,0 +1,127 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge Resino",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "jorgeresino143@gmail.com",
+        "phone": "+54 620878624",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelors degree in aerospace engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2018-2023",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ESDRAS Automatica S.L.",
+            "position": "Intern in curricular practices",
+            "description": "Worked on the engineering process of the different components of wind turbines and their installations, as well as the advanced services required by modern offshore wind farms.",
+            "start_date": "02/2023",
+            "end_date": "05/2023",
+            "duration_years": 0.25
+        },
+        {
+            "company": "",
+            "position": "Private teacher",
+            "description": "Helped students improve and expand their knowledge in physics, mathematics, and chemistry.",
+            "start_date": "2018",
+            "end_date": "12/2023",
+            "duration_years": 0.0
+        },
+        {
+            "company": "A Service Company",
+            "position": "Sales representative",
+            "description": "Implemented services and logistics requirements at the request of customers to get the job done.",
+            "start_date": "08/2021",
+            "end_date": "12/2023",
+            "duration_years": 2.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "England",
+            "institution_or_company": "Summer Camp",
+            "start_date": "2014-06",
+            "end_date": "2014-07",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "FORTRAN",
+            "HTML",
+            "PHP",
+            "Python",
+            "CATIA",
+            "Office Suite",
+            "Adina",
+            "XFOIL"
+        ],
+        "soft_skills": [
+            "Critical analysis and problem solving",
+            "Effective communication",
+            "Teamwork",
+            "Creativity and innovation",
+            "Leadership and management",
+            "Strategic thinking",
+            "Adaptability and flexibility",
+            "Research and analysis skills",
+            "Self-discipline and self-management",
+            "Self-learning and continuous development",
+            "Ability to work under pressure",
+            "Presentation and persuasion skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Exploring new destinations",
+        "Sports",
+        "Participating in lively debates with friends"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Private teacher",
+            "duration": "2018 - Present",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 2.58,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

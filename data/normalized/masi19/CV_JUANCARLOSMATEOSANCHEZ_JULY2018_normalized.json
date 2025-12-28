@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Carlos Mateo Sanchez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "juan.carlos.mateo.sanchez93@gmail.com",
+        "phone": "(+34) 661 839 547",
+        "address": "",
+        "LinkedIn": "linkedin profile",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelors degree in aerospace engineering",
+            "field": "Aerospace Engineering",
+            "university": "Polytechnic University of Catalonia",
+            "location": "Castelldefels (Barcelona), Spain",
+            "year": "2015-2018",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Master in innovation and decision making",
+            "field": "Innovation and Decision Making",
+            "university": "Alcala de Henares University",
+            "location": "Alcala de Henares (Madrid), Spain",
+            "year": "2017-2018",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Eurofighter 2000 programme at Airbus Defence & Space",
+            "position": "Test Systems Engineer",
+            "description": "Mids communication system integration and test, NATO restricted ITAR habilitation, hardware: MIL-STD-1553, LVT, test bench. Software: Mate/SEAS, PBA Pro, C++.",
+            "start_date": "May 2018",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Orbital Critical Systems (on behalf of Airbus Defence and Space)",
+            "position": "Test Systems Engineer",
+            "description": "Tasks not explicitly mentioned, but inferred from the role.",
+            "start_date": "May 2017",
+            "end_date": "April 2018",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Defence and Space",
+            "position": "Mission Systems Engineer Intern",
+            "description": "Design of HMI systems using SCADE Suite & Display, HMI modeling and integration in C101 mock-up: armament, radar, HSI, ADI... Supporting the development of the Tactical Integrated Mission System (TIMS) in A330-MRTT for France Air Force: Test bench simulation.",
+            "start_date": "May 2017",
+            "end_date": "June 2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Swissport International Ltd",
+            "position": "Aircraft Handling Coordinator",
+            "description": "",
+            "start_date": "January 2017",
+            "end_date": "May 2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Dares Technology",
+            "position": "Engineering Intern",
+            "description": "Developing the main processing tool of the company used to monitoring wide areas using SAR interferometry techniques, with the objective of anomalie's detection or analyze consequences of natural disasters such as earthquakes.",
+            "start_date": "June 2016",
+            "end_date": "February 2017",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "C++",
+            "IDL",
+            "Maple",
+            "HTML5",
+            "CSS3",
+            "Wordpress",
+            "Solidworks",
+            "ATEX Arduino",
+            "IOS",
+            "Python",
+            "Nodejs"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.2
+}

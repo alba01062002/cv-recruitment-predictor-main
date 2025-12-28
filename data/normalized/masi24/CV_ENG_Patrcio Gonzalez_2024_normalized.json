@@ -1,0 +1,114 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Patricio González Pérez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "patrigonzad6@agmail.com",
+        "phone": "+34649279239",
+        "address": "9 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Degree in industrial technology engineering - industrial organization",
+            "field": "Industrial Technology Engineering",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2016-2021",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master in industrial engineering",
+            "field": "Industrial Engineering",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2021-2023",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "Engineering Production Science & Management",
+            "university": "Technische Universität Graz",
+            "location": "Graz, Austria",
+            "year": "2022-2023",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "KPMG",
+            "position": "Costumer & Growth Consultant",
+            "description": "Support to the team in the development of the department's activity. Development of commercial tips information research, analysis of company economic data.",
+            "start_date": "10/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Academic exchange year",
+            "country": "Austria",
+            "institution_or_company": "Technische Universität Graz",
+            "start_date": "09/2022",
+            "end_date": "06/2023",
+            "description": "Third best university in Austria (QS rankings, 2023). Relevant subjects: Industrial energy management, Mikro und Makroökonome [outstanding], Manufacturing and supply chain network [notable].",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Solid Edge",
+            "Simio",
+            "Fusión 360",
+            "Altair Inspire",
+            "AIMMS"
+        ],
+        "soft_skills": [
+            "Data analysis",
+            "Problem solving",
+            "Effective communication in business environments"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Real Federación Andaluza de Fútbol",
+            "role": "Federated referee in several categories at provincial and regional level",
+            "duration": "2013-2021",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 2.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

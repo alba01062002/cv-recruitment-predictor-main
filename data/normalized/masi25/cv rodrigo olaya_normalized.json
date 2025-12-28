@@ -1,0 +1,139 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rodrigo Olaya Moreno",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "rom.fitz@gmail.com",
+        "phone": "(716) 440-0248",
+        "address": "",
+        "LinkedIn": "linkedin state college, pa",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Computer Engineering",
+            "field": "Computer Engineering",
+            "university": "The Pennsylvania State University",
+            "location": "University Park, PA, USA",
+            "year": "2021-2025",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "HP Inc.",
+            "position": "Core Bios Firmware Engineering Intern",
+            "description": "Engineered test automation solutions for embedded systems using Python and Robot Framework, enabling efficient troubleshooting, and reducing manual intervention. Developed scripts for safe communication with embedded controller RAM, automating quality assurance tests for bios-level components (keyboard, touchpad, display, power). Collaborated with a cross-functional team to deploy a defined number of tests per sprint, leveraging agile and CI/CD methodologies and Git for version control.",
+            "start_date": "07/2024",
+            "end_date": "05/2025",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Computer Science and Engineering Department, The Pennsylvania State University",
+            "position": "Teaching Assistant, Programming and Computation II",
+            "description": "Assisted the professor in grading Python-based assignments.",
+            "start_date": "01/2024",
+            "end_date": "06/2024",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Mathematics Department, The Pennsylvania State University",
+            "position": "Teaching Assistant, Calculus",
+            "description": "Conducted review sessions for twenty students and assisted the professor organizing class.",
+            "start_date": "01/2022",
+            "end_date": "05/2022",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalan",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "Robot Framework",
+            "Verilog",
+            "MATLAB",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Bash",
+            "Zephyr RTOS",
+            "Linux",
+            "Operating Systems",
+            "Device Drivers",
+            "Computer Vision",
+            "12c, SPI, UART, GPIO, TCP/IP",
+            "ARM Cortex-M",
+            "STM32",
+            "X86",
+            "Raspberry Pi",
+            "PCB Design",
+            "FPGA",
+            "Schematics",
+            "LabView",
+            "CAD",
+            "Agile",
+            "Jira",
+            "Azure",
+            "CI/CD",
+            "OOP",
+            "Docker",
+            "SDLC"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Communication",
+            "Problem Solving",
+            "Leadership",
+            "Adaptability",
+            "Time Management"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 1.58,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

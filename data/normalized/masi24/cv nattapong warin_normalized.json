@@ -1,0 +1,140 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Nattapong Warin",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "nattapong.warin@safrangroup.com",
+        "phone": "+66 80 442 1778",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Engineering in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Kasetsart University, Bangkok, Thailand",
+            "location": "Bangkok, Thailand",
+            "year": "2017",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Safran Cabin Lamphun Ltd.",
+            "position": "Certification Liaison Engineer",
+            "description": "Primary contact between Boeing Commercial Airplanes and Safran Cabin Engineering, responsible for technical communications regarding product configuration, qualification programs, certification of galley equipment (per Boeing d6-36075/d6-36075-1) and all aspects of engineering issues.",
+            "start_date": "2021-11",
+            "end_date": "12/2024",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Safran Cabin Lamphun Ltd.",
+            "position": "Configuration Management Engineer",
+            "description": "Led the review of engineering change requests within Change Control Board (CCB) to dampen implementation process and optimize change impact on the overall system, coordinated with internal stakeholders for fast approval process turnaround time, reviewed product configuration for transmission of Engineering Change Work Packages.",
+            "start_date": "2020-07",
+            "end_date": "2021-10",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Safran Cabin Lamphun Ltd.",
+            "position": "Certification Engineer",
+            "description": "Demonstrated compliance of aircraft galley equipment design to airworthiness requirements, conducted certification testing and analysis, created certification and qualification documents in line with Safran internal procedures.",
+            "start_date": "2018-08",
+            "end_date": "2020-03",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Chassix Inc. (Global Headquarters)",
+            "position": "Casting Engineer",
+            "description": "Conducted preliminary design review, manufacturability assessment and design of casting process for automotive subframes, steering knuckles and control arms.",
+            "start_date": "2017-04",
+            "end_date": "2018-03",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Ktr Innovations Part Ltd.",
+            "position": "Cooperative Intern",
+            "description": "Participated in design and development of the long-range UAV for smart farming application, involved in aerodynamic design and optimization, design for composite manufacturing process.",
+            "start_date": "2017-01",
+            "end_date": "2017-04",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Civil Aviation Training Center (ICAO Accredited)",
+            "position": "Research Assistant",
+            "description": "Participated in the study of vibrational behavior (modal analysis) of aircraft structures in variation of assembly configurations, activities included construction of test specimens, experimental setup and instrument calibration for data acquisition.",
+            "start_date": "2016-01",
+            "end_date": "2017-01",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Department of Fluid Dynamics and Thermodynamics, CTU in Prague",
+            "position": "Aircraft Design Intern",
+            "description": "Designed and optimized wing planform and truss-type fuselage of the two-seater ultralight aircraft, took part in the assessment of characteristics of small UAS propellers using image processing.",
+            "start_date": "2015-08",
+            "end_date": "2016-03",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Czech Republic",
+            "institution_or_company": "Department of Fluid Dynamics and Thermodynamics, CTU in Prague",
+            "start_date": "2015-08",
+            "end_date": "2016-03",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Volunteering",
+            "country": "Thailand",
+            "institution_or_company": "Civil Aviation Training Center (ICAO Accredited)",
+            "start_date": "2016-01",
+            "end_date": "2017-01",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA",
+            "SolidWorks",
+            "Siemens NX",
+            "Autodesk Inventor",
+            "ASME Y 14.5 Technical Standard GD&T",
+            "EASA Part 21J DOA",
+            "Cabin Safety Course (Advanced Certification) CS-25 Large Aeroplanes",
+            "The Airbus Change Management (EDES)",
+            "Safran University Materials and Processes",
+            "Safran University Statistical Process Control",
+            "Safran Lean Six Sigma White Belt",
+            "AS9100D Internal Auditor"
+        ],
+        "soft_skills": [
+            "Technical Communication",
+            "Problem Solving",
+            "Project Management",
+            "Team Collaboration",
+            "Leadership"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

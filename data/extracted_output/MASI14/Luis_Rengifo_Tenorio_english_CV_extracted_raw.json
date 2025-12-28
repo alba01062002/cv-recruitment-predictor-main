@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "luis rengifo tenorio personal information: date and place of birth: 18/02/1983 santiago de compostela, spain. address: martín de los heros 12int c.p:28008 madrid. telephone: 653 25 06 27 e-mail: luisrengifotenorio@gmail.com formation: final project: application of genetic algorithms to the manufacturing of large planar array antennas on radar applications. degree: telecommunication engineer. center: escuela superior de ingenieros de telecomunicación de vigo. scientific articles published: rengifo, l. et al., application of genetic algorithms to the manufacturing of large planar array antennas on radar applications in european conference on antennas and propagation (eucap) 2010, e-isbn: 978-84-7653-472-4. rengifo, l. et al., large radar antennas measurement systems in european conference on antennas and propagation (eucap) 2010, e-isbn: 978-84-7653-472-4. additional training: introduction to electronic warfare: concepts, techniques and technologies, 2012. online course of project management oriented to pmi certification, 2011. speaker at international conferences of antennas and propagation, eucap 2010. radar course, indra 2009. design and implementation of signal processing systems in fpgas, vigo university 2008. measurement and certification of radio stations, vigo university 2007. flash 8. course introduction, vigo university 2007. work experience: october 2010 until now. r : d engineer in the company, antenna systems solutions, a polytechnic university of madrid spin-off specializing in the field of antennas and communications (design work, manufacturing, measurement and consulting). functions performed are: design and construction of anechoic chambers: compact range, spherical, cylindrical and planar until 110ghz. other tasks performed are: develop and test sw to automate measurement (working with: java, android, python, matlab and vb), perform measurements in all the systems, preparing test procedures, manage projects, offers support and search for worldwide suppliers, technical after- sales service and customer teacher (uk, spain and portugal clients). also, have helped in the sale of sw cst studio in spain since 2011. june 2010 october 2010. optimizer radio in telefónica, performing the tasks: statistical monitoring of new plants, detection of network failures and improve the quality of 2g and 3g network. october 2008 april 2010. engineer of military air surveillance radars in the spanish company indra, at air space management department. performing the following tasks: integration of different parts of radar (especially part of rf and hw), technical study for new offerings (defence and space sectors), teacher to internal customers (rwanda and portugal) and review and implementation of technical manuals in english. languages: spanish (high), english (high), french (beginner). additional training: e stay for a month in london studying english. e studing french on alliance francaise. technical knowledge: operating systems windows and linux (high) programming languages java, vb, android, python, c++, c and pascal (high) mathematical software matlab (with simulink) (high) , comsol and mathematica (intermediate) electronics programs vhdl (with modelsim, xilinx and quartus ii of altera) (intermediate) measuring equipment network analyzer, spectrum analyzer, oscilloscope, signal synthesizer... (agilent, rohde&schwarz and anritsu) (high) others cst studio (beginner), radio mobile (high), microsoft office (high), business objects, uml and flash 8 (intermediate) another information: e driving license. e geographic availability.",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI14"
+}

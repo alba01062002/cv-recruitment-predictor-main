@@ -1,0 +1,110 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José de la Vega Villate",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "delavega.v.jose@gmail.com",
+        "phone": "+34 616 347680",
+        "address": "calle yerma 10, 10b ft 28033 madrid, spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MEng in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "University of Southampton, UK",
+            "location": "United Kingdom",
+            "year": "2021-2025",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Taught mathematics, physics and English to high school students; took some classes as a hearing student of the first year of aerospace engineering at UPM in Madrid.",
+            "start_date": "09/2020",
+            "end_date": "06/2021",
+            "duration_years": 0.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "United Kingdom",
+            "institution_or_company": "University of Southampton, UK",
+            "start_date": "",
+            "end_date": "",
+            "description": "Currently studying in the MEng program.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Spain",
+            "institution_or_company": "King's College School of Madrid",
+            "start_date": "09/2018",
+            "end_date": "06/2020",
+            "description": "Completed 5 A-Levels and an extended project qualification.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "SolidWorks (certificate)",
+            "Python",
+            "C++",
+            "FORTRAN",
+            "Microsoft Office (Word, Excel, PowerPoint, etc.)",
+            "CFD simulations software"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Initiative and responsibility",
+            "Teamwork",
+            "Time management",
+            "Lifelong learning capability",
+            "Public speaking and sociability",
+            "Adaptability"
+        ]
+    },
+    "other_interests_normalized": [
+        "Swimming instructor",
+        "Physics",
+        "English teaching",
+        "Swimming",
+        "Model airplane assembling",
+        "Mathematics",
+        "Duke of Edinburgh Silver Award"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.75,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

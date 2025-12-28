@@ -1,0 +1,135 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Contra Vecino",
+        "date_of_birth": "03/01/1988",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 29,
+        "email": "miguelcontrav@gmail.com",
+        "phone": "669917645",
+        "address": "c/ arrabal del agua, 18 bajo a cp 19005, guadalajara",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "ingenieria industrial",
+            "field": "industrial engineering",
+            "university": "universidad carlos iii de madrid",
+            "location": "espana",
+            "year": "2010-2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "ingenieria tec. industrial",
+            "field": "mechanical engineering",
+            "university": "escuela politécnica sup. zamora, universidad de salamanca",
+            "location": "espana",
+            "year": "2006-2010",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "master in professional development gaia 3.0, universidad de alcala",
+            "location": "espana",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "luvata - heat transfer solutions luvata guadalajara s.a.",
+            "position": "ingeniero técnico industrial / project management",
+            "description": "Gestión de proyectos y coordinación con otros centros. Análisis de inversiones en planta: equipaciones y maquinaria. Optimización de tiempos en los procesos de fabricación. Soporte a los procesos de fabricación. Documentación de equipos y componentes. Diseño en entorno cad: 2d y 3d. * Gestión en el proyecto de fabricación de unidades de climatización de aeronaves y fingers, en colaboración directa con adelte, cliente encargado del diseño de los equipos.",
+            "start_date": "01/2016",
+            "end_date": "12/2017",
+            "duration_years": 1.92
+        },
+        {
+            "company": "airbus defence and space",
+            "position": "becario gaia - airbus / facility management and real estate, planta airbus barajas",
+            "description": "Evaluación técnica en las licitaciones y ofertas. Soporte al sga iso 9001-14001 y auditoría de aenor. Gestión integrada de los sistemas de suministros y clima. Aplicación de metodología lean. Análisis de oportunidades de ahorro energético en la planta. Soporte a la implantación del sge - iso 50001. Elaboración de planos de instalaciones en autocad.",
+            "start_date": "10/2014",
+            "end_date": "09/2015",
+            "duration_years": 0.92
+        },
+        {
+            "company": "accenture",
+            "position": "prácticas ingeniería industrial, proyecto carrefour, new deal",
+            "description": "Desarrollo de una herramienta piloto de rrhh en el entorno oracle workforce schedule. Elaboarción de informes y gestión de incidencias, trabajo en constante colaboración con el cliente para realizar pruebas e implementar nuevas funcionalidades.",
+            "start_date": "01/2013",
+            "end_date": "07/2013",
+            "duration_years": 0.5
+        },
+        {
+            "company": "general de cuadros electricos",
+            "position": "prácticas ing. técnica industrial",
+            "description": "Trabajo desempeñado en las diferentes áreas de la empresa: documentación de pedidos y diferentes componentes, ingeniería y diseño, organización de la planta, etc.",
+            "start_date": "06/2009",
+            "end_date": "09/2009",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "taiwan",
+            "institution_or_company": "trabajo en las instalaciones de un importante cliente tecnológico.",
+            "start_date": "01/2015",
+            "end_date": "12/2015",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Italian",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "cad: autocad, pro/engineer, solid edge, inventor",
+            "matlab",
+            "mathcad",
+            "oracle workforce schedule",
+            "adobe: illustrator, photoshop",
+            "carnet b y vehículo propio"
+        ],
+        "soft_skills": [
+            "trabajadora",
+            "sociable",
+            "proactiva",
+            "adaptación rápida a los cambios y nuevos retos",
+            "motivada",
+            "capacidad para trabajar en grupo o de forma independiente",
+            "enfoque desde un punto de vista analítico"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 9.0,
+    "total_work_years": 3.59,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 27,
+    "detected_language": "es",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

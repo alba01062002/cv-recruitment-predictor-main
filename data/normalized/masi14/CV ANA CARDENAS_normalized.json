@@ -1,0 +1,109 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ana Cardenas Gonzalez",
+        "date_of_birth": "13/12/1989",
+        "gender": "female",
+        "age_reference_year": 2014,
+        "age": 25,
+        "email": "ana.cardenas.gonzalez@gmail.com",
+        "phone": "+34684209185 914760698",
+        "address": "c/ San Graciano 9, 32b, 28026 Madrid, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Electrical Engineering",
+            "field": "Micro and Nanotechnology",
+            "university": "Aalto University, School of Electrical Engineering",
+            "location": "Helsinki, Finland",
+            "year": "2013-2015",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's in Industrial Engineering",
+            "field": "Automotive and Electronics Specialization",
+            "university": "ETSI Industriales, Universidad Politécnica de Madrid",
+            "location": "España",
+            "year": "2007-2013",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "",
+            "field": "Applied Digital Electronics to Music",
+            "university": "",
+            "location": "",
+            "year": "2010",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aalto University, Department of Micro and Nanotechnology",
+            "position": "Master Thesis Worker Research",
+            "description": "Implementation of detection algorithms in FPGA.",
+            "start_date": "05/2013",
+            "end_date": "09/2013",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Finland",
+            "institution_or_company": "Aalto University, School of Electrical Engineering",
+            "start_date": "05/2013",
+            "end_date": "09/2013",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Advanced Office Skills (Word, Excel, PowerPoint)",
+            "Programming in C/C++ and Turbo Pascal",
+            "MATLAB Programming",
+            "VHDL Language",
+            "Assembly Language Programming"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Bachillerato and ESO students private tutoring: Physics, Chemistry, English, Mathematics, Music",
+        "Summer Camp Monitor"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Camp organizer and supervisor for children aged 8-17",
+            "duration": "2008-presently",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.33,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

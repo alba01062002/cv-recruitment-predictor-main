@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Qwen",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "",
+        "phone": "+34645846131",
+        "address": "calle de chile 25, madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aerospace Engineering Degree",
+            "field": "Mechanical Analysis using Finite Elements Method with ABAQUS/CAE",
+            "university": "University of León",
+            "location": "León, Spain",
+            "year": "2011-2015",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ALTRAN (on behalf of Airbus DS)",
+            "position": "MSG3 Analyst in Maintenance Program",
+            "description": "Specialized in MSI & ZSL analysis, being part of A4A00M powerplant committees (PCCB & ECCB).",
+            "start_date": "Apr 2017",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "ALTRAN",
+            "position": "R&D Internship in Product Design and Mechanical Design",
+            "description": "Designed new bleed system for Airbus 350, making pneumatic pipe lines with valves, conducting CFD simulations, doing 3D print prototyping.",
+            "start_date": "Apr 2016",
+            "end_date": "Apr 2017",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Airbus knowledge: AMM, MRBD, MPD, PPH, AMAM (software)",
+            "CAD tools: CATIA V5, NX Unigraphics, Autodesk Fusion 360",
+            "CAE tools: ABAQUS CAE, ANSYS",
+            "Office suit apps: Microsoft Office pack"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Communication",
+            "Fellowship",
+            "Flexibility",
+            "Integrity",
+            "Responsibility"
+        ]
+    },
+    "other_interests_normalized": [
+        "Family music studies",
+        "Powerlifting",
+        "Travelling",
+        "Hardware build",
+        "Mountain bike"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.9
+}

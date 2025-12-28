@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal information address: arroyomolinos, madrid,spain (28939) mobile number: +34 617478708 email: alberto.palau.soler@ gmail.com date of birth: 05/10/1998 personal skills professional. proactive. efficient. team work. fast learner. capable public speaker. skilled at language learning. associations participate in the next university associations: e club de vuelo upm. e jaeste. courses e avances y desarrollo del sector aeronáutico y aeroespacial iv (universidad de verano de teruel) driving licence e category b (car licence). e category a (motorbike licence). alberto palau soler systems integration engineer work experience june 2022 present a400m pwp systems integration engineer (40 hours per week). akka technologies. recently started working in the a400m program as a powerplant systems engineer. currently developing engine modifications which affect many systems simultaneously and doing risk assessments of engine operational incidents. february 2021 february 2022 junior engineer/consultant (internship of 25 hours per week). altran (capgemini engineering). worked as an intern for r&d department of aeronautics, space and defence (asd) division. duties in a space-mission project such as mission analysis, development of orbital maneuvers and application of orbital mechanics. education present having achieved a great english and french level and being at the end of my degree, am looking forward to pursue a master (especially if related to systems integration) while continue working in systems engineering. moreover, will finish my degree in july with a degree final project about turbojets/turbofans modelling and simulation with departamento de mecánica de fluidos y propulsión aeroespacial of etsiae (upm). september 2016 present degree in aerospace engineering (aerospace propulsion specialty). universidad politécnica de madrid. january 2019 october 2020 course of 700 hours for proficiency (c2) english. cambridge institute (official centre cambridge madrid). computer skills and competences microsoft office professional plus 2019/365/libreoffice (excel, word, outlook and powerpoint): excellent knowledge. microsoft teams/zoom/blackboard/google meet: excellent knowledge. ecosimpro/proosis: excellent knowledge. python: intermediate. matlab/ octave: intermediate. fortran: intermediate. git/zapier/integromat/power automate: intermediate. asana/trello/monday.com: basic knowledge. languages spanish: native english: proficiency (c2) french: intermediate (b2)",
+    "text_from_header": "PERSONAL INFORMATION",
+    "detected_language": "en",
+    "master_edition": "MASI22"
+}

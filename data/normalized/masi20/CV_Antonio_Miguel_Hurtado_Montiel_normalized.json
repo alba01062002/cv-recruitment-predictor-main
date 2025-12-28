@@ -1,0 +1,132 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Antonio Miguel Hurtado Montiel",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "yahurtadomontiel@gmail.com",
+        "phone": "+44 7713879218, +34 620177996",
+        "address": "49 Riverside Apartments, Stuart Street DE1 2EB, Derby [UK]",
+        "LinkedIn": "https://www.linkedin.com/in/antoniohurtadomontiel/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "null"
+    },
+    "education_normalized": [
+        {
+            "degree": "MSc in Aeronautical Engineering",
+            "field": "Aerospace Engineering, Aerospace Vehicles",
+            "university": "Carlos III University of Madrid (UC3M)",
+            "location": "Madrid",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's Degree in Aerospace Engineering",
+            "field": "",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "Madrid",
+            "year": "2014-2016",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Rolls Royce PLC",
+            "position": "Powerplant Development / Test Engineer",
+            "description": "Testing, definition of powerplant test procedures for Trent 7000 and Airbus A330neo. System integrations: noise / x-wind / ETPS inlet & fan cowl doors. Tests: X-wind air inlet distortion, certification for ETPS.",
+            "start_date": "09/2017",
+            "end_date": "12/2025",
+            "duration_years": 8.25
+        },
+        {
+            "company": "Wake Engineering Thales",
+            "position": "Verification / Validation UAS Engineer",
+            "description": "Definition of test case definition for flight and ground tests. Verification & validation procedures, definition of verification strategies for each BOM, incidents management in Jira.",
+            "start_date": "01/2017",
+            "end_date": "09/2017",
+            "duration_years": 0.67
+        },
+        {
+            "company": "Segula Technologies",
+            "position": "System ILS Engineer (Integrated Logistic and Support)",
+            "description": "On behalf of Accurate - Maintenance system manuals (Indra). Flight simulator EC225, EC135. Operation flight manual (Indra EC135 FAMET). Troubleshooting aerospace systems: fault isolation analysis, root cause analysis (RCA), corrective maintenance.",
+            "start_date": "06/2016",
+            "end_date": "12/2016",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Omicron (Grupo ITE)",
+            "position": "Junior Engineer: Manufacturing Tooling Aerospace / Quality",
+            "description": "Quality documentation, control and schedules works assessment. Production suppliers control.",
+            "start_date": "09/2014",
+            "end_date": "11/2015",
+            "duration_years": 1.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Italian",
+            "A1"
+        ],
+        [
+            "French",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "SolidWorks",
+            "CATIA V5",
+            "AutoCAD",
+            "Bladed",
+            "Wasp",
+            "Nastran",
+            "HyperMesh"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Geographical Flexibility"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

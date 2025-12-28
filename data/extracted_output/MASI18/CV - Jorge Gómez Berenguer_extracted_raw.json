@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "jorge gomez berenguer c/alcazar n7, 45590 magan, toledo 29/10/1994 jorgegomezberenguer@hotmail.com 606 07 74 31/925 36 06 45 education technical university of madrid (upm) school of aeronautics and aerospace engineering bachelor's degree in aerospace engineering september 2012 july 2017 master's degree in aeroespace engineering september 2017 nowadays university of alcala de henares (uah) master in decision making & innovation june 2017 nowadays work experience grupo imase s.l. december 2017 june 2017 internship developing solutions for the positioning of the aircraft at the madrid, palma and barcelona airport, and calculating estructures under the eurocodigo requirements. airbus defence & space june 2017 nowadays internship at the flight operations support department of the a400m skills computer programming languages advanced level in c/c**, fortran and matlab => high level in visual basic and java graphic design advanced level using catia v5 for designing aeronautical parts advanced level using cypecad for designing structures for airport signs structural analysis advanced level using cype 3d for determining the effects of wings loads and deformations in structures for airport signs => intermediate level using nastran and pastran fluid dynamics > high level using xflr5 and xfoil for shaping aerodynamic profiles > basic level using openfoam for modeling fluid flow office tools and data bases > advanced level using all microsoft office tools > intermediate level using sg/data bases languages english > level c1 (cambridge english: advanced) > level b2 ( toeic exam score 835 ) > high technical vocabulary french > level a2 (common european framework of reference for languages) personal motivation for being part of working market good communication skills responsible and constant wishes for continuing learning day by day high resilience great management capability and team working",
+    "text_from_header": "JORGE GOMEZ BERENGUER",
+    "detected_language": "en",
+    "master_edition": "MASI18"
+}

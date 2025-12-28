@@ -1,0 +1,129 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Beltrán Segurado Martín",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "beltran.segurado04@gmail.com",
+        "phone": "+34 628136584",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Engineering in Aerospace Engineering with Pilot Studies",
+            "field": "Aerospace Engineering",
+            "university": "University of the West of England, Bristol (UWE)",
+            "location": "Bristol, UK",
+            "year": "06/22 - 07/25",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Spanish Baccalaureate General Certificate of Education (GCSE)",
+            "field": "",
+            "university": "Colegio Parque (Madrid, Spain)",
+            "location": "Madrid, Spain",
+            "year": "09/21 - 06/22",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Higher Certificate of Education",
+            "field": "",
+            "university": "Academia International Studies",
+            "location": "",
+            "year": "09/19 - 09/21",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "El Laurel Catering & Decuatro",
+            "position": "Supervisor Waiter",
+            "description": "Managed and supervised teams at high-end events for important clients and companies such as Revolut, Meta, Dyson or Etihad Airways. Organized team responsibilities and ensured seamless execution of events, addressing last-minute changes effectively.",
+            "start_date": "05/23",
+            "end_date": "09/23",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Self-employed Online Tutoring",
+            "description": "Provided personalized online tutoring in mathematics, physics, and English for students aged 12-16. Developed customized lesson plans and exercises to enhance students' understanding of complex concepts. Improved student performance through engaging, interactive learning methods.",
+            "start_date": "2023",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Spain, UK, USA",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Education and study experiences in Spain, the UK, and the US.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "STK12",
+            "Gasturb",
+            "SolidWorks",
+            "Excel",
+            "Ansys CFD",
+            "Python",
+            "IBM SPSS",
+            "Mathematics",
+            "Physics",
+            "Engineering",
+            "Economics"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Teamwork",
+            "Project Management",
+            "Risk Assessments & Mitigations",
+            "Problem-solving",
+            "Adaptability",
+            "Communication",
+            "Mentorship"
+        ]
+    },
+    "other_interests_normalized": [
+        "Business, Management and Entrepreneurship",
+        "Reflective, Analytical",
+        "Sports and Travel",
+        "Motorsport Engineering (Formula Student)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

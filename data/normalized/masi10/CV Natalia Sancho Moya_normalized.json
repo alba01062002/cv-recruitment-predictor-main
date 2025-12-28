@@ -1,0 +1,135 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Natalia Sancho Moya",
+        "date_of_birth": "12/06/1979",
+        "gender": "female",
+        "age_reference_year": 2010,
+        "age": 31,
+        "email": "nataliasanchomoya@hotmail.com",
+        "phone": "+34 691 324 384",
+        "address": "C/Bellavista 3, 1 C Izda. 28804 Alcalá de Henares (Madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Licenciatura en Ingeniero en Organización Industrial",
+            "field": "Ingeniería",
+            "university": "Universidad Politécnica de Valencia",
+            "location": "Valencia",
+            "year": "2004- (pendiente pfc)",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Diplomada en Ingeniera Técnica Industrial en la Especialidad de Química Industrial",
+            "field": "Ingeniería",
+            "university": "Escuela Universitaria de Ingeniería Técnica Industrial, Universidad Politécnica de Valencia",
+            "location": "Valencia",
+            "year": "1998-2001",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Realia Business S.A.",
+            "position": "Jefe de Ventas Delegación de Levante",
+            "description": "Responsable de la planificación, ejecución y control del proceso de venta de las 12 promociones de Realia Business S.A. en la delegación de Levante (Valencia, Castellón, Alicante y Baleares). Coordinación y supervisión de la imagen y estado de los puntos de venta, gestión de las licencias y permisos con la administración pública y cias. suministradoras.",
+            "start_date": "06/2008",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Grupo Lar S.A.",
+            "position": "Gerente de Promoción (Delegación Centro, Madrid)",
+            "description": "Seguimiento, control y gestión de la entrega y cierre de venta de los Pae (Parques de Actividad Empresarial) de Pinto (40 naves industriales), San Fernando (114 naves industriales) y Coslada II (270 naves industriales). Estudio económico y comercial de nuevas inversiones en el extranjero.",
+            "start_date": "09/2007",
+            "end_date": "06/2008",
+            "duration_years": 0.75
+        },
+        {
+            "company": "Ferrovial Inmobiliaria S.A.",
+            "position": "Adjunta a Gerencia",
+            "description": "Control y tramitación de las distintas gestiones urbanísticas con la administración en calidad de promotor, así como en calidad de agente urbanizador. Seguimiento, control y gestión de la ejecución y entrega de la promoción.",
+            "start_date": "04/2005",
+            "end_date": "06/2007",
+            "duration_years": 2.17
+        },
+        {
+            "company": "Balterra Ingeniería, S.L.",
+            "position": "Responsable de Producción, Compras y Medio Ambiente",
+            "description": "Implantación y desarrollo de normas ISO 14000. Planificación y gestión de compras: selección y homologación de proveedores y subcontratas, gestión de órdenes de compra, control y gestión de almacenes, trazabilidad del producto.",
+            "start_date": "11/2001",
+            "end_date": "11/2004",
+            "duration_years": 3.0
+        },
+        {
+            "company": "Iberdrola S.A.",
+            "position": "Beca de Formación en Prácticas (La Central Nuclear de Cofrentes)",
+            "description": "Desarrollo de una beca para el departamento medioambiental, sección de protección radiológica. Realización de actividades como revisión del SIGEMA, recopilación de la normativa medioambiental aplicable y elaboración del curso específico de seguridad y protección radiológica.",
+            "start_date": "06/2001",
+            "end_date": "09/2001",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Castellano",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Windows XP y Vista",
+            "Microsoft Office (Word, Excel, PowerPoint, Project y Outlook)",
+            "SAP R3",
+            "Photoshop",
+            "Auto CAD 2D",
+            "Contaplus Profesional/Elite",
+            "Prinex"
+        ],
+        "soft_skills": [
+            "Liderazgo",
+            "Negociación",
+            "Trabajo en Equipo",
+            "Reporting",
+            "Iniciativa",
+            "Proactividad"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

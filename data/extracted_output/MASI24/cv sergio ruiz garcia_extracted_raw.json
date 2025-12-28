@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "@ plaza de los pirineos 2 se el o 28523, madrid, espana b (+34) 646 886 544 ru iz ga rcia mg serruizgar@gmail.com ff sergio ruiz garcia i espaa, 13 octubre 1996 professional career nov 2021- project engineer, full-time. solute ingenieros, san sebastian de los reyes, madrid. now department of control and aeroelastic loads for wind turbines general electric - simulation of onshore and offshore wind turbines aeroelastic loads with bladed, flex5 y hawc2 - develoment of tools to postprocess the simulation results with python and matlab - simulations and documentation for the certification of a damper for offshore wind turbines with dnv - calculations and documentation for the site-specific certification of a nearshore wind farm with tuv nord - analysis of measured vibration data (scada) compared against simulations of aeroelastic models - studies of the impact of new hardware or software on the wind turbine performance - site-specific wind characterization using windpro and wasp feb 2021- junior engineer, innomerics, pozuelo de alarcón, madrid. jul 2021 - simulations of thermomechanical problems with an internal finite element software for its validation - mathematical modelling of an ultrasonic flowmeter with matlab - review of component trees of combined cycle power plants from the plants drawings - support for the development of rules for the inspection for components of combined cycle plants sep 2020 - master internship, innomerics, pozuelo de alarcón, madrid. feb 2021 - calculation of the lifespan of a nuclear reactor nozzle subjected to thermal fatigue stresses - solution of probabilistic inverse problems by means of bayesian statistics - development of a structured meshing algorithm with quad type elements in matlab to solve bidimensional finite element problems - support in the implementation of the meshing algorithm in an internal finite element software feb 2019 - degree internship, universidad politécnica de madrid, madrid. jul 2019 et.s.. aeronautica y del espacio applied mathematics department - development of route optimization software for waste collection vehicles education sep 2019 - master in industrial mathematics, universidad politécnica de madrid, madrid. feb 2021 track: mathematical modelling master thesis: fatigue damage calculation due to thermal loads solving a direct and inverse problem. construction of quads structured meshes. sep 2014- b.eng in aerospace engineering universidad politécnica de madrid (upm), espaa. jul 2019 track: aerospace science and technology b.eng. thesis: optimization system for waste collection through artificial intelligence. page 1/2 courses jul2022 deep learning specialization 120 hours deeplearning.al - coursera jul2018 space missions and satellites structures design 35 hours warsaw university of technology sep 2017 introduction to catia v5 10 hours universidad politécnica de madrid skills languages software spanish: mother tongue . english: b2, first certificate of english (fce) matlab/simulink french: b1, institut francais o, o german: al, goethe institut madrid fortran driving license - spanish license type b interests - triathlete for club de triatlón diablillos de rivas + cyclism and scuba diving ethusiast page 2/2",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI24"
+}

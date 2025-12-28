@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "tania moran lozano personal information address: d-53177 bonn birth date: 22\" july, 1986 email: taniamoranlozano@gmail.com driving license: yes mobile: +49 15211714180 availability to travel: yes work experience cognizant technology solutions gmbh 09/2011 present sap pi consultant team lead: =\" responsibilities and tasks: - analyze customer requirements - creation of technical specification document - design, implementation and support of interfaces: sync & asynchronous scenarios pi adapters: idoc, file, xl, rfc - unit test of interfaces - integration of a2a and b2b applications using sap pl - connect sap and non-sap servers - error troubleshooting: message monitoring, rwb institute of nanostructure technologies and analytics 03/2011 09/2011 collaborator as electronic engineer for the technological electronics department: =\" analysis and improvement of silicon oxide insulation layers for micro mirror arrays. = training and experience in several instruments: - karl súss ma4 maskaligner - pfeiffer pls 500 evaporation - oxford plasmalab 80 pecvd - tepla 200-g oxygen asher - atomic force microscope (afm) university of the basque country 09/2009 06/2010 coordinator of the student-tutor program: goal of the program: facilitate new students integration into the university. university of the basque country 09/2008 06/2009 collaborator of the student-tutor program. education 05/2013 06/2013 09/2011 10/2011 09/2010 09/2011 2004 2010 cognizant technology solutions gmbh sap pi training chennai, india: = content: - outlook to sap netweaver pi - pi design, configuration and idoc scenario - idoc ale settings, monitoring, troubleshooting - abap proxy configuration and system connection settings - adapters: idoc, file, rfc, xl, http - overview on ccbpm graduate training program new jersey, usa: = content: - software engineering with ssad/ooad - client expectation management - consulting and negotiation skills - entry level project management - basics of microsoft project plan 2007 - requirements management - working globally - fundamentals of software estimation - project lab. simulation university of kassel m.sc. in telecommunication engineering. = university of kassel. kassel, germany. \"master thesis: analysis of different types of silicon oxide insulation layers for mems devices. university of the basque country m.sc. in telecommunication engineering. = bilbao engineering school. bilbao, spain. = project works: - network and services planning - network modeling and simulation - mobile communications - data communications - industrial communications - digital systems - digital electronics languages spanish: mother tongue basque: mother tongue english: advanced german: intermediate it skills net. protocols: tcp/ip, udp, ethernet, arp, dns, dhcp, http, ftp, sip. languages: c, c++, java, html, sql, vhdl, matlab. software: sap pi, sap solution manager, eclipse, mysql, nepenthes, nmap, snort, wireshark, commnet ill, sirenet, orcad, max+plus ii, mplab. other information achievements: super-hero award 2012, cognizant technology solutions gmbh. germany. erasmus scholarship 2010/2011. kassel, germany. career fairs: represent cognizant graduate program. hobbies: sports and travelling. personal: hard-working, responsible and sociable. references detlev schuette graduate program supervisor head of delivery germany & nordics - sap practice europe cognizant technology solutions, gmbh. germany tel. +49 1728389831 email: detlev.schuette@cognizant.com prof. dr. rer. nat. h. hillmer master thesis 1* referee chairman of nanoimprint hessen consortium (nih) and co-director of ina institute of nanostructure technologies and analytics (ina) tel. +49 5618044485 email: hillmer@ina.uni-kassel.de",
+    "text_from_header": "TANIA MORAN LOZANO",
+    "detected_language": "en",
+    "master_edition": "MASI14"
+}

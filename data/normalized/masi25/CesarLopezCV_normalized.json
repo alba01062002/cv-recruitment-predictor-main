@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "César López Mantecon",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "mcesarlopman@agmail.com",
+        "phone": "+34644445467",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor in Computer Science and Engineering",
+            "field": "Computer Science and Engineering",
+            "university": "SS University Carlos II of Madrid, Leganés, Madrid",
+            "location": "Leganés, Madrid",
+            "year": "2021-2025",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "CT Ingenieros AAI. SL Getafe",
+            "position": "Electronics, RF & Software Development Technical Staff (Full Time)",
+            "description": "Contributed to multiple projects related to electronic warfare. Key projects: - development and optimization of a Python application for Airbus. - design, document, and test of a high frequency modem FPGA-based implementation.",
+            "start_date": "01/2025",
+            "end_date": "12/2025",
+            "duration_years": 0.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python (FastAPI, FlaskAPI, pandas, numpy, matplotlib, seaborn, scikit-learn)",
+            "C",
+            "C++",
+            "Rust",
+            "VHDL",
+            "JavaScript",
+            "HTML/CSS",
+            "SQL Language and SQLite",
+            "Oracle Databases",
+            "Linux",
+            "Shell (Bash/Zsh)",
+            "Docker",
+            "Excel"
+        ],
+        "soft_skills": [
+            "Agile Methodologies",
+            "Teamwork",
+            "Time Management",
+            "Documentation",
+            "Strategic Planning",
+            "Group Management",
+            "Communication",
+            "Data Modeling",
+            "Problem-Solving Skills",
+            "Analytical and Critical Thinking",
+            "Effective Communication in English"
+        ]
+    },
+    "other_interests_normalized": [
+        "Coach",
+        "Volleyball"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Sports Club Madrid",
+            "role": "Volleyball Coach (Part Time)",
+            "duration": "September 2019 - Present",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.92,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

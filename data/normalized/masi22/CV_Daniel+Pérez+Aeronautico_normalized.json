@@ -1,0 +1,107 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Pérez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "danielpeter8@qmail.com",
+        "phone": "0034 630530850",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/daniel-p%C3%A9rez-fernandez-9969bb153/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Aeronautical Engineering",
+            "field": "Aerospace Engineering",
+            "university": "European University of Madrid",
+            "location": "Madrid",
+            "year": "2015-2019",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Apron Ingeniería",
+            "position": "Engineer Aeronautical",
+            "description": "Continued performing similar roles as during the internship. Key projects include: Luminary evaluation report associated with compliance to certification specification CS ADR-DSN.M.750, Aeropuerto de Alicante-Elche and New Icor Heliport feasibility study, airspace analysis, environmental phase.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Viarium Ingeniería",
+            "position": "Technical Assistant and Works Direction",
+            "description": "Performed technical assistance and works direction in various airport projects. Key projects include: Installation SAI for terminal building and balizamiento, New lighting of AG3 platform, VIP area extension.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Viarium Ingeniería",
+            "position": "Internship",
+            "description": "Performed curricular practicals and thesis work. Responsibilities include document management, project writing, technical assistance, and passenger and aircraft flow simulation studies.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Viarium Ingeniería",
+            "position": "Technical Assistant and Works Direction (Internship)",
+            "description": "Performed functions of technical assistant and works direction in various airport projects. Key projects include: T123 improvements according to functional design, Madrid-Barajas Airport. Infrastructure conditioning for EGNOS V3 system implementation at airports of Santiago, Palma de Mallorca, Gran Canaria and Málaga.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Technical Assistant",
+            "Works Direction",
+            "Document Management",
+            "Project Writing",
+            "Passenger and Aircraft Flow Simulation Studies"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

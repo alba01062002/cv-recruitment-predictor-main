@@ -1,0 +1,98 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Cristina García",
+        "date_of_birth": "27/12/1983",
+        "gender": "female",
+        "age_reference_year": 2010,
+        "age": 27,
+        "email": "criss.jg@gmail.com",
+        "phone": "(+34)646786373",
+        "address": "C/Albuquerque N11 5N, 33204 Gijón (Asturias), España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial con especialización en Construcción",
+            "field": "Ingeniería Industrial",
+            "university": "Escuela Politécnica Superior de Ingenieros Industriales de Gijón",
+            "location": "España",
+            "year": "01/09/2001 - 01/07/2009",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Proyecto Fin de Carrera (TFG)",
+            "university": "Universidad Técnica de Dinamarca",
+            "location": "Dinamarca",
+            "year": "15/09/2007 - 07/10/2007",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Profesor Particular de Física y Matemáticas",
+            "description": "Profesor particular para un alumno de 2o de Bachillerato.",
+            "start_date": "01/07/2008",
+            "end_date": "20/08/2008",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Profesor Particular de Dibujo Técnico",
+            "description": "Profesor particular para un estudiante de 2o de Bachillerato.",
+            "start_date": "02/07/2007",
+            "end_date": "31/08/2007",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Dinamarca",
+            "institution_or_company": "Universidad Técnica de Dinamarca (DTU)",
+            "start_date": "15/09/2007",
+            "end_date": "07/10/2007",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Autocad",
+            "Pro/Engineer",
+            "Microsoft Office"
+        ],
+        "soft_skills": [
+            "Comunicación",
+            "Trabajo en equipo",
+            "Organización"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 18,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

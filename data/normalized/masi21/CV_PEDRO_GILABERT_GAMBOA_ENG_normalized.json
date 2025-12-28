@@ -1,0 +1,94 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pedro Gilabert Peroiegh",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "peroiegh@gmail.com",
+        "phone": "",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/pedrogiga",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://www.linkedin.com/in/pedrogiga"
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace engineering",
+            "university": "Universidad Carlos III Madrid, Universidad degli Studi La Sapienza Roma",
+            "location": "Madrid, Rome",
+            "year": "2016-2021 / 2019-2020",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Private Tutor",
+            "position": "Tutor of Baccalaureate Students",
+            "description": "Physics, chemistry & mathematics reinforcement",
+            "start_date": "09/2016",
+            "end_date": "11/2020",
+            "duration_years": 4.17
+        },
+        {
+            "company": "El Laurel",
+            "position": "Waiter",
+            "description": "",
+            "start_date": "09/2017",
+            "end_date": "09/2019",
+            "duration_years": 2.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Italy (Rome)",
+            "institution_or_company": "Università degli Studi La Sapienza",
+            "start_date": "09/2019",
+            "end_date": "02/2020",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "Italian",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Office programs: Excel, Word, PowerPoint",
+            "Engineering programs: Abaqus, SolidEdge, Fluent, Ansys",
+            "Programming languages: MATLAB, Python, LaTeX, C"
+        ],
+        "soft_skills": [
+            "Efficient, responsible, versatile, and a good team worker"
+        ]
+    },
+    "other_interests_normalized": [
+        "Gym",
+        "Boxing"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 6.17,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

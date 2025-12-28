@@ -1,0 +1,86 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Marta Medina González",
+        "date_of_birth": "31/10/1992",
+        "gender": "female",
+        "age_reference_year": 2015,
+        "age": 23,
+        "email": "martamedinag100@gmail.com",
+        "phone": "688677015",
+        "address": "c/ Francisco Silvela 19, 62b, 28028, Madrid, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Degree in Aerospace Engineering",
+            "field": "Aerospace Propulsion",
+            "university": "School of Aeronautical and Space Engineering ETSIAE Technical University of Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "September 08 - Present",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Operations S.L.",
+            "position": "Intern",
+            "description": "Three months in Airbus Group Getafe, 30 hours/week. APU (Auxiliary Power Unit) department. Accompanied team members during their daily routine to learn company roles, assisted at meetings and support activities, part of R&T area investigating state-of-the-art scale modelling, presented research to APU integration department.",
+            "start_date": "Apr 14",
+            "end_date": "Jul 14",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "USA",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Spent one summer with a native family, gained good communication skills in English.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Basque",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office tools",
+            "CATIA",
+            "Fortran 95",
+            "MATLAB"
+        ],
+        "soft_skills": [
+            "Communication skills",
+            "Oral presentation facility in both English and Spanish"
+        ]
+    },
+    "other_interests_normalized": [
+        "Travelling, reading and riding the bike.",
+        "Playing rugby in residence for 3 years where was the captain",
+        "Piano, guitar and ukulele playing",
+        "Federated rugby for 4 years (2010-2014) in division of honor"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.1
+}

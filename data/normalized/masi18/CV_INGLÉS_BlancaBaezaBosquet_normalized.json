@@ -1,0 +1,122 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Blanca Baeza Bosquet",
+        "date_of_birth": "28/07/1992",
+        "gender": "female",
+        "age_reference_year": 2018,
+        "age": 26,
+        "email": "blancabaezabosquet@gmail.com",
+        "phone": "+34918593127, +34659842507",
+        "address": "Avda. Sajonia, 28. Urb. Parquelagos, Galapagar (Madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Professional Development",
+            "field": "",
+            "university": "Universidad de Alcalá",
+            "location": "",
+            "year": "2017",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Industrial Engineer, Specialized in Automatic and Industrial Electronics",
+            "field": "",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "",
+            "year": "2010-2017",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Group-Getafe (04/2017 - nowadays)",
+            "position": "Responsible for the TAO Training Project: Planning and Coordination, Course Development and Training Management",
+            "description": "Management of the process certifications and aircraft's certifications (EASA and PERAM). Participant in the project of delegated quality that is going to be implanted in MRO. Development of support activities to the production department.",
+            "start_date": "04/2017",
+            "end_date": "12/2018",
+            "duration_years": 1.67
+        },
+        {
+            "company": "Airbus Group-Getafe (03/2016 - 03/2017)",
+            "position": "GAIAS Internship in the Aircraft's Maintenance Sector in Getafe",
+            "description": "Documentary review of the different aircrafts that are being serviced. Planning of all TAO training. Pursuit and coordination of the operation and development of the project. Preparation of the maintenance area to handle the audits. Accomplishment of the certifying documents of the certifiers. Development of different experiences registries based on the airship: A310, A400... Realization of Kaizen, PPS, Set-up of Lean panels, follow-up of incidents and non-quality costs.",
+            "start_date": "03/2016",
+            "end_date": "03/2017",
+            "duration_years": 1.0
+        },
+        {
+            "company": "Airbus Group-Getafe (10/2015 - 02/2016)",
+            "position": "Curricular Practices in MRO-Getafe",
+            "description": "To give support to different departments as control of production, engineering or flight line. Activities like the development of weekly plannings, carrying out the production control or the follow-up of the materials in lack.",
+            "start_date": "10/2015",
+            "end_date": "02/2016",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Visual Studio",
+            "Xilinx",
+            "Step 7",
+            "MATLAB",
+            "Festo Fluidsim",
+            "SAM 6.1",
+            "BOUML",
+            "Microsoft Office",
+            "Photoshop",
+            "AutoCAD",
+            "CATIA",
+            "SAP",
+            "Pelícano"
+        ],
+        "soft_skills": [
+            "very organized",
+            "efficient",
+            "responsible and committed person",
+            "great ability to work in a team",
+            "communication skills",
+            "great motivation to get what want to achieve"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 3.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

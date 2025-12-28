@@ -1,0 +1,122 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José Carlos García Hiniesta",
+        "date_of_birth": "24/03/1988",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 26,
+        "email": "garciahiniestajc@gmail.com",
+        "phone": "+34 665 24 82 04",
+        "address": "c/ Mosquera de Figueroa 16, B1, 22A. Garcia Hiniesta 41010 Sevilla, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Aeronautical Engineering",
+            "field": "Aircraft and spacecraft concentration",
+            "university": "Universidad de Sevilla",
+            "location": "Sevilla, España",
+            "year": "2006-2013",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ATEXIS Spain",
+            "position": "Technical Author",
+            "description": "Development of technical publications for the A330-MRTT. Study and redaction of maintenance and inspection tasks of different systems.",
+            "start_date": "07/2013",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Airbus Military Training Centre",
+            "position": "Technical Author",
+            "description": "Development of computer-based manuals for the C-295 and CN-235 Airbus military aircrafts. Courses aimed at pilots and maintenance staff.",
+            "start_date": "09/2012",
+            "end_date": "07/2013",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Spanish Air Force Maestranza Aérea",
+            "position": "",
+            "description": "Familiarization and collaboration with maintenance routines of engines and aircrafts.",
+            "start_date": "07/2011",
+            "end_date": "08/2011",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Visual Basic",
+            "Nastran",
+            "Patran",
+            "CATIA",
+            "SmartSketch",
+            "AutoCAD",
+            "Adobe Photoshop",
+            "Samantha",
+            "Arbortext Editor",
+            "IDS",
+            "Sprint",
+            "SBT",
+            "Real Navigation Simulator of a C295: MC DU Trainer"
+        ],
+        "soft_skills": [
+            "Lean Manufacturing",
+            "Product Lifecycle Management",
+            "Aeronautical Tooling Equipment",
+            "Organization",
+            "Communication",
+            "Teamwork"
+        ]
+    },
+    "other_interests_normalized": [
+        "Coaching swimming at educational and competitive levels",
+        "Several sports",
+        "Swimming"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

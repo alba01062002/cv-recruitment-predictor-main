@@ -1,0 +1,98 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Álvaro Rodríguez",
+        "date_of_birth": "15/11/1990",
+        "gender": "male",
+        "age_reference_year": 2016,
+        "age": 26,
+        "email": "alvarordn@hotmail.com",
+        "phone": "669955113",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Título ingeniero superior especialidad sistemas de energía eléctrica industrial",
+            "field": "energías renovables",
+            "university": "Universidad de Sevilla",
+            "location": "Sevilla",
+            "year": "2014-2019",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Abengoa Research",
+            "position": "Laboratory Manager",
+            "description": "R&D company. Power electric systems department. Leader of a working group of two people. Main duties: grid integration for renewable energies, power converters control strategies implementation in DSPACE system and DSP platforms, set-ups builder and tester, power converter design, control board design, management of laboratory.",
+            "start_date": "06/2014",
+            "end_date": "06/2015",
+            "duration_years": 1.0
+        },
+        {
+            "company": "Abengoa Solar New Technologies",
+            "position": "Research Engineer / Intern",
+            "description": "R&D company part of Abengoa Solar. Concentration photovoltaic department. Main duties: Research and development of a new hybrid control strategy for solar CPV trackers, simulation, implementation in a real tracker and results analysis, heliostats implementation for its analysis in thermosolar power plants, thermal analysis and design of CPV heat sink, simulation and testing in normal operation.",
+            "start_date": "06/2013",
+            "end_date": "06/2014",
+            "duration_years": 1.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Irlanda",
+            "institution_or_company": "Atlantic School",
+            "start_date": "09/2015",
+            "end_date": "12/2015",
+            "description": "English C1 level course.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "energías renovables",
+            "MATLAB",
+            "Microsoft Excel",
+            "Microsoft Office",
+            "PLC (programmable logic controller)",
+            "programación estructurada",
+            "SAP",
+            "SAP ERP",
+            "Visual Basic",
+            "conversores a/d",
+            "Linux",
+            "programación de microcontroladores",
+            "protocolos de comunicaciones"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 2.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

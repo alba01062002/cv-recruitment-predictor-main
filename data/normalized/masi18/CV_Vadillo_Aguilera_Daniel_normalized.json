@@ -1,0 +1,127 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Vadillo Aguilera",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "dan.vadillo@gmail.com",
+        "phone": "+34 662221306",
+        "address": "c/ Pintor Velázquez 28 32C, Alcobendas (Madrid), España",
+        "LinkedIn": "https://www.linkedin.com/in/danielvadilloaguilera",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "www.danvadillo.com"
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Técnico Aeronáutico",
+            "field": "",
+            "university": "RWTH Aachen University",
+            "location": "Aachen, Germany",
+            "year": "2013",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Ingeniería Aeroespacial",
+            "field": "Especialidad en Vehículos Aeroespaciales",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master en Ingeniería Aeronáutica",
+            "field": "",
+            "university": "Universidad Carlos III de Madrid (UC3M) (Habilitante)",
+            "location": "Madrid, Spain",
+            "year": "2017",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master Universitario en Materiales Estructurales",
+            "field": "",
+            "university": "Universidad Carlos III de Madrid (UC3M) - Universidad Rey Juan Carlos",
+            "location": "Madrid, Spain",
+            "year": "2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Instituto Nacional de Tecnica Aeronáutica (INTA)",
+            "position": "Ingeniero de Cálculo y Diseño - Área de Estructuras y Mecanismos",
+            "description": "Análisis estático y dinámico de la estructura del ala y del tren de aterrizaje del uav milano por medio de MSC Nastran. Diseño y cálculo de componentes para misiones de ESA (exomars, solar orbiter). Diseño y cálculo de componentes aeronáuticos embarcados (gimbal de un radar de apertura sintética). Proyecto de investigación en el crecimiento de delaminaciones en CFRP (MSC Marc y software propio)",
+            "start_date": "11/2013",
+            "end_date": "03/2016",
+            "duration_years": 2.33
+        },
+        {
+            "company": "Sogeclair Aerospace",
+            "position": "Ingeniero de F&Dt y Cálculo A330-700 Beluga XL (HTP)",
+            "description": "Análisis de fatiga y tolerancia al dao (dimensionado y certificación) del Airbus A330-700 Beluga XL. Generación de documentación técnica para el dimensionado y la certificación del HTP",
+            "start_date": "11/2016",
+            "end_date": "01/2017",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Sogeclair Aerospace",
+            "position": "Team Leader - Ingeniero de F&Dt y Cálculo A330-700 Beluga XL (HTP)",
+            "description": "Asistencia a reuniones técnicas con Airbus Operations y reuniones de transferencia de trabajo. Gestión del equipo de F&Dt del A330-700 Beluga XL (2 ingenieros + 1 becario). Realización de cálculos de F&Dt para el dimensionado y la certificación",
+            "start_date": "01/2017",
+            "end_date": "12/2025",
+            "duration_years": 8.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Germany",
+            "institution_or_company": "RWTH Aachen University",
+            "start_date": "",
+            "end_date": "",
+            "description": "Experience not specified in the CV",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MSC Patran/Nastran",
+            "CATIA V5",
+            "MATLAB",
+            "ABAQUS",
+            "Simulink"
+        ],
+        "soft_skills": [
+            "Capacidad de adaptación",
+            "Capacidad organizativa y gestión del tiempo",
+            "Autoexigencia"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

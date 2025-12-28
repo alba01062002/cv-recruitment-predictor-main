@@ -1,0 +1,105 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Gómez Blasco",
+        "date_of_birth": "25/04/2003",
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": 22,
+        "email": "danielgomezblasco25@gmail.com",
+        "phone": "+34 684 329 633",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería de Tecnologías de Telecomunicación (Especialidad en Comunicaciones)",
+            "field": "Ingeniería de Telecomunicaciones",
+            "university": "Universidad de Zaragoza",
+            "location": "Zaragoza, España",
+            "year": "2016-actualidad",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Incasa Industrias Catalá",
+            "position": "Mozo Almacén (Jornada Completa)",
+            "description": "",
+            "start_date": "08/2024",
+            "end_date": "07/2024",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Aragonesa de Mateados. Zuera",
+            "position": "Mozo Almacén (Jornada Completa)",
+            "description": "",
+            "start_date": "06/2024",
+            "end_date": "07/2024",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Teltronic",
+            "position": "Contrato de Prácticas Universitarias + TEG (Jornada Parcial)",
+            "description": "",
+            "start_date": "08/2023",
+            "end_date": "10/2024",
+            "duration_years": 1.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Reino Unido",
+            "institution_or_company": "Intercambio Escolar en Cambridge",
+            "start_date": "2017-2019",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "C++",
+            "Matlab"
+        ],
+        "soft_skills": [
+            "Trabajo en equipo",
+            "Gestión del tiempo",
+            "Adaptabilidad",
+            "Comunicación",
+            "Pensamiento crítico"
+        ]
+    },
+    "other_interests_normalized": [
+        "Deporte",
+        "Viajes"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 1.25,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

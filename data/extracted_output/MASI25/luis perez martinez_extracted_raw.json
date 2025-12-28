@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "luis pérez martínez madrid, spain +34 658 42 49 52 perezmartinez130(9 gmail.com linkedin: www.linkedin.com/in/luis-perez-martinez-3730a03 1 1 profile about me e a telecommunications engineer with expertise in programming, signal processing and telecommunication systems. fluent in spanish and english, with strong communication and problem-solving skills, and with a commitment to continuous learning and growth. particularly interested in applying my knowledge and skills to the aerospace industry. education universidad carlos iti de madrid madrid, spain bachelor's degree in mobile and space communications engineering september 2021 - august 2025 e bachelor's thesis on visible light communication (vlc) titled: implementation and evaluation of a non-line-of-sight visible light communication system. the project shows the possibility of establishing communication between a transmitter and a receiver without direct line of sight, by using reflected light between an emitting led and a receiving photodiode. e focus on advanced signal processing, communications, and machine learning applications. e specialized in telecommunication systems, with eur-ace international accreditation. tes neil armstrong madrid, spain bilingual secondary education september 2015 - june 2021 e completed six years of bilingual secondary education, gaining fluency in english, while developing strong communication and academic skills across diverse subjects. e attended a one-week english immersion course in hastings (england) in 2018, organized by english for less, focused on improving language proficiency and cultural understanding. cambridge english madrid, spain b2 first (fce) may 2019 e obtained in 2019, demonstrating an upper-intermediate level of english. experience sas institute madrid, spain technical consultant intern (platform team) april 2025 - august 2025 e worked as part of the consulting division, specifically within the platform team (full-time, 40h/week), supporting database and environment migrations, remote administration, and deployment of solutions based on sas 9 and sas viya. e managed and monitored sas environments for multiple clients, including caser and wizink, using administration tools to ensure proper system operation. e developed skills in sas and sql programming, and worked with internal tools such as sas studio, sas enterprise guide, and sas visual analytics. private tutor madrid, spain mathematics and electronics september 2024 march 2025 e provided tailored, one-on-one tutoring in mathematics and electronics for secondary education students, effectively simplifying complex concepts and designing personalized lesson plans to improve academic performance and confidence in technical subjects. additional activities android application development (qr-eats) e developed a mobile application in java using android studio, in collaboration with my classmate mr. césar muro de zaro jacoste. e qr-eats enables restaurants to create their own digital menus by inputting dishes into the app, which then generates a corresponding qr code and the menu file for easy sharing and customer access. competitive swimming e practiced swimming at competitive level with the club natación villa de valdemoro, developing discipline, perseverance, and teamwork through regular training and participation in regional competitions. skills & personal languages: spanish: native proficiency, english: fluent (b2). it skills: solid experience with programming languages such as python, c, java, sql, and sas, gained through academic projects and professional training. strong command of digital tools including microsoft excel, matlab, and android studio, applied to data analysis, signal processing, and mobile application development. comfortable working with both linux and windows operating systems.",
+    "text_from_header": "LUIS PÉREZ MARTÍNEZ",
+    "detected_language": "en",
+    "master_edition": "MASI25"
+}

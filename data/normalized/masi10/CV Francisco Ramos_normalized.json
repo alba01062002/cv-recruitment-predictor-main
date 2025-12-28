@@ -1,0 +1,104 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francisco Ramos Marrero",
+        "date_of_birth": "8/5/1981",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 29,
+        "email": "framos1981@ohotmail.com",
+        "phone": "+34 647156630 / +34 928697100",
+        "address": "C/ Roque Nublo 45, 35215 Telde, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial Superior",
+            "field": "Especialidad Química",
+            "university": "Escuela Técnica Superior de Ingenieros Industriales de Las Palmas de Gran Canaria (ULPGC)",
+            "location": "Las Palmas de Gran Canaria, Spain",
+            "year": "1999-2009",
+            "duration_years": 10.0
+        },
+        {
+            "degree": "",
+            "field": "Beca Seneca",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2005-2006",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Elecnor S.A.",
+            "position": "Jefe de Obra del Departamento de Distribución",
+            "description": "+ Gestión de los recursos humanos del servicio. Interlocución con los clientes. + Realización de informes técnicos. Control de costes. + Balance económico de los contratos. + Estudio y presupuestación de ofertas.",
+            "start_date": "5/2007",
+            "end_date": "5/2009",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "United Kingdom, Ireland",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "- 1998: Curso de lengua inglesa impartido durante el mes de agosto en Hiberna Language School (Edenderry, Ireland). - 1999: Curso de lengua inglesa de un mes de duración (agosto) en North Lincolnshire College (Lincoln, England).",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "A1"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Oracle 10g",
+            "AutoCAD",
+            "CypeCad",
+            "Microsoft Office (Tratamiento de Textos, Hojas de Cálculo, Presentaciones, Bases de Datos)",
+            "Inglés (Upper-intermediate - B2)"
+        ],
+        "soft_skills": [
+            "Gestión de recursos humanos",
+            "Interlocución con clientes",
+            "Realización de informes técnicos",
+            "Control de costes",
+            "Balance económico de contratos",
+            "Estudio y presupuestación de ofertas",
+            "Habilidades comunicativas",
+            "Capacidad para incorporación al trabajo cotidiano de un equipo"
+        ]
+    },
+    "other_interests_normalized": [
+        "Lectura",
+        "Deportes como la natación",
+        "Actividades al aire libre (Senderismo y orientación deportiva)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 28,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.6
+}

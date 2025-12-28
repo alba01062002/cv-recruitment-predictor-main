@@ -1,0 +1,116 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge Urezz Bautista",
+        "date_of_birth": "07/09/1993",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 22,
+        "email": "j.urrezb@gmail.com",
+        "phone": "+34 625739865",
+        "address": "Calle Gaztambide 74 3-h, 28003 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Aeronautical Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2014",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "B.Sc. in Aerospace Engineering",
+            "field": "Aerospace Vehicles",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2010 - 2014",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "High School Degree (Scientific Technical)",
+            "university": "Instituto Pintor Luis Saez (Burgos)",
+            "location": "Burgos, Spain",
+            "year": "2008 - 2009",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Collaboration with the Master in Flight Tests at Universidad Politécnica de Madrid",
+            "description": "Elaboration and writing of scripts",
+            "start_date": "08/2014",
+            "end_date": "11/2014",
+            "duration_years": 0.25
+        },
+        {
+            "company": "Spanish Air Force Malog, Madrid (Spain)",
+            "position": "Internship in F-18 Maintenance and Reparation Department",
+            "description": "",
+            "start_date": "08/2014",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Airbus Group, Getafe (Spain)",
+            "position": "Internship in Flight Test Analysis",
+            "description": "Analysis, calculation and reports elaboration of take-off and landing distances. Support at programs development.",
+            "start_date": "04/2014",
+            "end_date": "07/2014",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "Airbus Group, Getafe (Spain)",
+            "start_date": "04/2014",
+            "end_date": "07/2014",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA",
+            "Office suite programs (Microsoft Word, Excel, PowerPoint, Adobe...)"
+        ],
+        "soft_skills": [
+            "Communication skills",
+            "Logical skills"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.1
+}

@@ -1,0 +1,87 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Beatriz Alcalá Pizarro",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "beatriz.alcapi@gmail.com, beatriz.alcala.pizarro @outlook.es",
+        "phone": "+34 675 06 90 46",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/beatrizalcala-pizarro/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería en Tecnologías Ambientales",
+            "field": "",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, España",
+            "year": "2018-2022",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus +",
+            "country": "Prague",
+            "institution_or_company": "Czech University of Life Sciences Prague",
+            "start_date": "Enero 2022",
+            "end_date": "Junio 2022",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Matlab, statgraphics, rstudio, maple, abaqus",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "ArcGIS",
+            "AutoCAD",
+            "MATLAB",
+            "Statgraphics",
+            "RStudio",
+            "Maple",
+            "ABAQUS"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Equipo Fútbol Femenino Universitario",
+        "Danza Contemporánea",
+        "Piano"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Hoope",
+            "role": "Voluntariado en centro de protección animal",
+            "duration": "2020-2022",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

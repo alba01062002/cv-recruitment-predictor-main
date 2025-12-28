@@ -1,0 +1,93 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Emilio Nieto Striano",
+        "date_of_birth": "13/12/1989",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 26,
+        "email": "emilionietostrianoo@gmail.com",
+        "phone": "+34653214566",
+        "address": "st. Fuente del Ejido n*4, 28413, el Boalo (Madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Undergraduate - University Degree",
+            "field": "Aeronautical Engineering, concentration on Navigation Systems",
+            "university": "Escuela Universitaria de Ingeniería Técnica Aeronáutica en la Especialidad de Aeronavegación, Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid",
+            "year": "2007-2013",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Science Teacher",
+            "description": "Sporadic works as a science teacher (maths, science, physics, chemistry etc.)",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Volunteering",
+            "country": "United Kingdom and Finland",
+            "institution_or_company": "",
+            "start_date": "02/2014",
+            "end_date": "04/2014",
+            "description": "Two months in Huddersfield and Aspatria helping in a cafeteria and restoring a watermill, one month in Rauma (Finland) living with a Finnish family and helping them in household chores and gardening",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office",
+            "CATIA V5",
+            "MATLAB",
+            "Adobe Photoshop"
+        ],
+        "soft_skills": [
+            "Team Work Skills",
+            "Negotiation",
+            "Presentation Skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Team Work Skills",
+        "Presentation Skills",
+        "Negotiation"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Volunteer",
+            "duration": "02/2014-04/2014",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

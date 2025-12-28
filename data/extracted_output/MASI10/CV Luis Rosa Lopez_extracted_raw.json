@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "información personal apellido(s) / nombre(s) rosa lópez, luis eduardo dirección (direcciones) c/raimundo fernández villaverde, n44, portal d 211. 28003 madrid. teléfono(s) 669562987 correo(s) electrónico(s) luidurosa@gmail.com nacionalidad espaola fecha de nacimiento 19/ 7/ 1983 sexo hombre empleo deseado / familia profesional ingeniero de telecomunicación educación y formación fechas octubre 2001 septiembre 2009 cualificación obtenida ingeniero de telecomunicación principales materias o capacidades profesionales estudiadas electrónica ingeniería de sistemas programación teoría de comunicaciones digitales y analógicas radiocomunicación economía nombre y tipo del centro de estudios escuela técnica superior de ingeniería de telecomunicación málaga nivel conforme a una clasificación nacional o internacional ingeniería idiomas cursos escuela oficial de idiomas: inglés (5 aos) programación javame universidad de málaga rfid universidad de málaga dirección de equipos universidad de málaga domótica universidad de málaga bases de datos (oracle) universidad de málaga realización proyectos ict cámara de comercio málaga comunicación eficaz universidad de málaga r capacidades y competencias personales idioma(s) materno(s) espaol otro(s) idioma(s) autoevaluación comprensión habla escritura nivel europeo (*) comprensión auditiva lectura interacción oral capacidad oral inglésc1usuario competentec1usuario competentec1usuario competentec1usuario competentec1usuario competente (*) nivel del marco europeo común de referencia (mecr) capacidades y competencias sociales trabajo en equipo: miembro de un equipo de vela. segundo entrenador del mismo. iniciativa. saber tratar con todo tipo de personas. capacidades y competencias organizativas cualidades de liderazgo. buen comunicador y cualidades organizativas. disposición a viajar. capacidades y competencias técnicas conocimientos de c++, java, vhdl y matlab. conocimiento de sistemas operativos unix/ linux. otras capacidades y competencias atento y rápido aprendizaje. buen ojo para los detalles. permiso de conducir b1 otras informaciones intereses personales me gustan todos los deportes, especialmente el fútbol y la vela. me encanta viajar y aprender de otras culturas.",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

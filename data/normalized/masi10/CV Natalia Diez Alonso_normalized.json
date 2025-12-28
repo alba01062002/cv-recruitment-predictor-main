@@ -1,0 +1,115 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Natalia Diez Alonso",
+        "date_of_birth": "13/02/1985",
+        "gender": "female",
+        "age_reference_year": 2010,
+        "age": 25,
+        "email": "nataliadiezalonso@hotmail.com",
+        "phone": "+34 669-15-50-84 / +34 91-553-61-49",
+        "address": "c/ Maudes 23 5 e - 28003 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Adaptation to Bachelor's Degree in Industrial and Automatic Electronic Engineering",
+            "field": "Industrial and automatic electronic engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2008-2009",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Engineer in Industrial Electronics",
+            "field": "Electronics industrial specialty",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2005 - 2009 (missing one course)",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Private tutoring in mathematics and physics",
+            "description": "Nivel Bachillerato",
+            "start_date": "2003-2009",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Garnet Star S.L.",
+            "position": "Practicant (Intern)",
+            "description": "Collaborating in the study of a technology center for research and control, mainly on environmental areas and renewable energies",
+            "start_date": "2008-07",
+            "end_date": "2009-10",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Ireland / Canada / USA",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Various stays with families and English courses",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "GraphCET Step 7",
+            "C++",
+            "Fortran 90",
+            "VHDL",
+            "Rapid Ensamblador",
+            "MATLAB",
+            "OrCAD",
+            "PSpice",
+            "PSin Max Plus 2",
+            "Microwind 31",
+            "FluidSim",
+            "Pneusim",
+            "LogicWorks",
+            "Silabs Keil uVision 3",
+            "Simulink",
+            "AutoCAD",
+            "Presto",
+            "Statgraphics"
+        ],
+        "soft_skills": [
+            "Microsoft Office",
+            "Windows and Linux operating systems",
+            "Text processors, spreadsheets, image presentation projects, information organizers, Internet use"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2003-2009",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 20,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.2
+}

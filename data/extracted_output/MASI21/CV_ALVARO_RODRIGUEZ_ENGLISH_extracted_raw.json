@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "alvaro rodriguez computer engineer valencia (spain) e-mail: alv.rodri95@outlook.com web page: alrodsa. github.io github: github.com/alrodsa linkedin: linkedin.com/alrodsa telephone: (+34)654 733 989 (+34)961 952 471 software skills operating systems windows, macos, gnu/linux, android, ios. programming languages java, python3, c, c++, ch, javascript, shell scripting, kotlin. libraries opengl, opencv, openal, openmp, mpi. keras, tensorflow. ides visual studio, atom, netbeans, eclipse, android studio, scene builder, mathematica, octave. other stuff git, github, gitlab. raspberry pi, arduino. interests sports football, tennis and cycling. gastronomy worldwide food, like to explore new tasties. new technology like to know how new products and their technology work. personal statement since was a child have been interested in computers and anything to do with solving problems through programming. for example, taught myself how to program a raspberry pi to use it as a programming working station when was at high school. it amazes me to see how hardware and software are constantly evolving allowing us to build new solutions to address numerous social and personal needs: from improving the efficiency of processes through to our safety and wellbeing. consider myself to be proactive, a committed hard worker and a reliable team player. can motivate myself to work efficiently and meat goals while encouraging the team as well. love being given new challenges that push me to learn new things. work experience jun 2020 sep 2020 summer placement at domatix odoo apps spain s.l (spain) worked as a developer implementing interfaces and data structures an new android app using android studio and kotlin this app works alongside odoo (erp software). sep 2017 july 2018 crew member at mcdonalds edinburgh (scotland) following the summer placement below, worked in the uk for a year, to improve my english. in this job, work effectively under pressure collaborating with a team to meet demanding productivity objectives. received several awards for the employee of the month and employee of the quarter. aug 2017 sep 2017 summer placement at blyth&blyth consultory (scotland) assisted the company's it manager, resolving technical issues and maintaining servers, networks and employees computers. there, familiarised myself with how an engineering consultancy are run. education sep 2017 2021 computer engineering degree, valencia (spain) universitat politecnica de valencia (upv) - software development using java and c# for programming applications and planning projects using kanban, agile and traditional methodologies. - data structures and algorithms on java and python, creating complex dictionaries, and methods for sorting, manipulating and storing big quantity of information also dynamic and backtracking programming. - hardware, knowledge about all the physical parts of a computer and how to implement drivers on assembler programming language for mips processors. - artificial intelligence: > multiagent systems using python and an interpreter for an extended version of agentspeak (jason). > data classification with supervised and unsupervised learning using neuronal networks, vector machines, perceptron and more for classifying a dataset. + computer vision and graphic systems using opencv and opengl libraries on c++. >rule based programming for creating expert systems using c language integrated production system (clips) and pddl. languages spanish: mother tongue english: fluent french: basic",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI21"
+}

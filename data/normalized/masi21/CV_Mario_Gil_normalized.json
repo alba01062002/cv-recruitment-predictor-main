@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Mario Gil Juan",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "gil.juan.mario@gmail.com",
+        "phone": "+34 640112014",
+        "address": "",
+        "LinkedIn": "mario gil juan",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachiller en Ciencias y Tecnología",
+            "field": "",
+            "university": "Ntra. Sra. de la Consolación (Castellón)",
+            "location": "Castellón",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Licenciatura en Ingeniería Aeronáutica",
+            "field": "Aerospacial",
+            "university": "Universidad Politécnica de Valencia",
+            "location": "Valencia",
+            "year": "2017-2021",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ISTOBAL S.L.U.",
+            "position": "Desarrollador de software en prácticas",
+            "description": "Desarrollo de un sistema de mapeo interno del habitáculo de un coche. Uso de sensores lidar. Desarrollo de interfaz de usuario del sistema.",
+            "start_date": "11/2019",
+            "end_date": "03/2020",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Valenciano",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Python",
+            "CATIA",
+            "Fusion 360",
+            "Latex"
+        ],
+        "soft_skills": [
+            "Inteligencia emocional",
+            "Licencia de conducir (B)",
+            "Liderazgo",
+            "Deportes",
+            "Matemáticas",
+            "Innovación",
+            "Ciencia de cohetes",
+            "Dedicación",
+            "Habilidades tecnológicas"
+        ]
+    },
+    "other_interests_normalized": [
+        "Deportes",
+        "Matemáticas",
+        "Habilidades tecnológicas",
+        "Ciencia de cohetes"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "08/2020 - 09/2020",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.33,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

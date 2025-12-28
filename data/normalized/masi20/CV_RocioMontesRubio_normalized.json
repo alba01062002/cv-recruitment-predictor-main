@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rocío Montes Rubio",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "rocio.mts.rubio@gmail.com",
+        "phone": "+34 686297091",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Delft University of Technology",
+            "location": "The Netherlands",
+            "year": "2015-2016",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Polytechnic University of Valencia",
+            "location": "Spain",
+            "year": "2010-2014",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus",
+            "position": "DOA Management, Policies and Expertise Intern",
+            "description": "Management of DOA (Design Organisation Approval) for all Airbus Defence and Space military aircraft programs, aviation authorities intermediary and work with design office. Authority management inside Airbus DS.",
+            "start_date": "Aug 2017",
+            "end_date": "Aug 2016",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "The Netherlands",
+            "institution_or_company": "Delft University of Technology",
+            "start_date": "2015-08",
+            "end_date": "2016-08",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "Fortran",
+            "MATLAB",
+            "Mathematica",
+            "Structural Analysis (FEM, Nastran, Siemens NX, Solidworks, Ansys Mechanical)",
+            "Design (AutoCAD, CATIA V5,...)",
+            "CFD Simulation (Ansys Workbench, Mesher, Fluent, Icem CFD, CFX)",
+            "Xfoil",
+            "Javafoil",
+            "AVL"
+        ],
+        "soft_skills": [
+            "Lean Management Philosophy",
+            "Project Manager Position EFRESO Project",
+            "Personnel Management",
+            "Resource Assignation",
+            "Project Documentation and Process Tracking",
+            "Founding Member of Euroavia (Association Internal Structure Development Among Co-Founders)",
+            "Ambassador Position Bankinter Innovation Foundation"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "International Red Cross and Red Crescent Movement",
+            "role": "Conflict Resolution Strategies, Immigration and Refugee Program, Physiological and Psychological Management Strategies Against Catastrophes",
+            "duration": "Apr.2018 - Aug.2018",
+            "description": ""
+        },
+        {
+            "organization": "International Amnesty Project ONG-Government Parliament Communication Institutional Relations Team",
+            "role": "",
+            "duration": "Apr.2018 - Jul.2018",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

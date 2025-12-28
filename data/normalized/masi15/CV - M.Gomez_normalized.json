@@ -1,0 +1,114 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Marina Gómez Suárez",
+        "date_of_birth": "30/04/1990",
+        "gender": "female",
+        "age_reference_year": 2015,
+        "age": 25,
+        "email": "marina.gomsua0@gmail.com",
+        "phone": "+34620791214",
+        "address": "Pintor Sorolla, 43, B D 28980 Parla, Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aeronautical Engineering (MAE)",
+            "field": "Aeronautical Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2014 - currently",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's in Aeronautical Engineering (Specialization: Aircrafts)",
+            "field": "Aeronautical Engineering",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2008 - 2014",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Baccalaureate Science",
+            "field": "",
+            "university": "Madre Alberta School, Palma de Mallorca, Spain",
+            "location": "Palma de Mallorca, Spain",
+            "year": "2006 - 2008",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Private support classes: maths, physics and chemistry",
+            "description": "High school education students and university students",
+            "start_date": "2012-2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalan",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CFD Ansys-Fluent",
+            "FEM MSC Nastran-Patran",
+            "CAD Catia V5",
+            "Other: Matlab, Simulink, AMPL, C, AGI Systems Toolkit (STK)",
+            "Office Excel, Word, PowerPoint, Project and Visio"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

@@ -1,0 +1,126 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Not Provided",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aeronautical Engineering",
+            "field": "Aeronautics Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "GMV",
+            "position": "GNSS Engineer",
+            "description": "Real data analysis and troubleshooting for Galileo GNSS. Performance assessment of new technologies in development for the next version of EGNOS SBAS.",
+            "start_date": "2016-01/2016-12",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Exovite",
+            "position": "Engineer",
+            "description": "Research, development and testing of a device designed to 3D scan pets limbs instantly. Development of the hardware implementation - array of lasers and cameras - and the software to create 3D models from the raw sensor data.",
+            "start_date": "2016-01/2016-12",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Mencanta Technologies",
+            "position": "Software Engineer - Lead Front-end Engineer of an iPhone and Android App",
+            "description": "",
+            "start_date": "2014-01/2016-12",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airelectronics",
+            "position": "Intern",
+            "description": "Design printed circuit boards, drones assembly, sensors calibration. Record and edition of videos showing the product portfolio.",
+            "start_date": "2013-07/2013-12",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus program",
+            "country": "Czech Republic",
+            "institution_or_company": "Czech Technical University in Prague - Faculty of Electronic Engineering",
+            "start_date": "2014-09/2015-06",
+            "end_date": "",
+            "description": "Project: Adaptive Extended Kalman Filter for Aircraft Attitude Estimation",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "Solid Edge",
+            "GNSS, SBAS, Inertial Navigation, Kalman Filtering",
+            "Electronic Circuit Design",
+            "FPGA",
+            "Verilog",
+            "C",
+            "Fortran",
+            "MATLAB",
+            "Python",
+            "Perl",
+            "JavaScript",
+            "Lisp",
+            "Bash",
+            "Word, Excel, PowerPoint from Microsoft Office",
+            "Linux, Windows, OS X",
+            "Photoshop",
+            "Indesign",
+            "Illustrator",
+            "Premiere",
+            "After Effects"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Recurse Center (formerly Hacker School) New York",
+            "role": "Research in hardware development and FPGA",
+            "duration": "2016-09/2017-05",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

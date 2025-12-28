@@ -1,0 +1,109 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jaime Bruno Gómez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "jaime.bruno@estudiante.uam.es",
+        "phone": "+34 657157770",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": "@jaime-bruno-gomez",
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Physics Degree",
+            "field": "Aerospace-focused Physics",
+            "university": "Universidad Autónoma de Madrid (UAM)",
+            "location": "Madrid, Spain",
+            "year": "2021-2025",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "GMV Space Dynamics",
+            "position": "Internship - Software Development for Interplanetary Missions",
+            "description": "Developing a new space dynamics system for interplanetary missions using ESA’s Godot software, Python, and C++. Supporting the Hénon mission by analyzing orbit determination accuracy during transit and in its final orbit.",
+            "start_date": "April 2025",
+            "end_date": "September 2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "INTA - Instituto Nacional de Tecnica Aeroespacial",
+            "position": "Internship - Focal Plane Assembly (FPA) for the Plato Mission",
+            "description": "Assisted in the assembly, integration, and verification (AIV) processes of the focal plane assembly (FPA) for the Plato mission of ESA. Participated as system engineer in additional internal projects at INTA.",
+            "start_date": "February 2025",
+            "end_date": "March 2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Exchange Program",
+            "country": "Italy",
+            "institution_or_company": "Università di Bologna",
+            "start_date": "2023-2024",
+            "end_date": "",
+            "description": "Skills: Cross-cultural communication, independence and adaptability, language proficiency",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Italian",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "C++",
+            "Python",
+            "Latex",
+            "Version control (Git and GitHub)",
+            "VS Code"
+        ],
+        "soft_skills": [
+            "Analytical problem-solving skills",
+            "Laboratory skills",
+            "Cross-cultural communication",
+            "Independence and adaptability",
+            "Language proficiency"
+        ]
+    },
+    "other_interests_normalized": [
+        "Software Development",
+        "Physics",
+        "Mathematics"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "IES Rosa Chacel",
+            "role": "Private Teaching - Mathematics and Physics",
+            "duration": "2021-present",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

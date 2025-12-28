@@ -1,0 +1,129 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Nestor Isaac García Rueda",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "nestorgarciarueda@outlook.com",
+        "phone": "+34918596155",
+        "address": "Calle Javier García de Leániz, 46 Torrelodones, Madrid, 28250",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Electronic & Electrical Engineering (MEng)",
+            "field": "Electronic & Electrical Engineering",
+            "university": "University of Leeds",
+            "location": "Leeds, United Kingdom",
+            "year": "2013-2017",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "BTEC Extended Diploma in Engineering",
+            "field": "",
+            "university": "Hugh Baird College",
+            "location": "Liverpool, United Kingdom",
+            "year": "2011-2013",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Obligatory Secondary Education (O.S.E)",
+            "field": "",
+            "university": "Instituto de Educación Secundaria Diego Velázquez",
+            "location": "Torrelodones, Madrid, Spain",
+            "year": "2007-2011",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Alstom",
+            "position": "Monitoring Engineer",
+            "description": "Completed 6 months development and innovation project for the AVE train fleet S100T and S100F, consisting of thermal heat monitoring, electronic component overheats towards the prevention of risks and fires that may affect passengers' safety, drivers or personnel on-board. Programming language: C++, Unix environment hardware system: SBC (Single-Board Computer) Raspberry Pi 3.",
+            "start_date": "Nov 2017",
+            "end_date": "May 2018",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Worldline Worldline Iberia SA",
+            "position": "Programming Engineer - E-Payment Services",
+            "description": "Card validation processes, e-payment services implementations programming, activation and de-activation of credit cards, format field check rules of fixed and variable lengths. Programming language: C++ (Linux CLI). Programming environment: Linux, Docker, Git and Eclipse.",
+            "start_date": "May 2018",
+            "end_date": "June 2018",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "United Kingdom",
+            "institution_or_company": "",
+            "start_date": "2013-2017",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Spain",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "Python",
+            "R",
+            "Unix Environment (SBC Raspberry Pi 3)",
+            "MATLAB",
+            "Objective C",
+            "Verilog",
+            "VHDL",
+            "Linux CLI",
+            "Docker",
+            "Git",
+            "Eclipse"
+        ],
+        "soft_skills": [
+            "Resourceful Administrative",
+            "Installing, Formatting, Flashing and Defragmenting Operative Systems",
+            "Personal Services for the Replacement of Mobile Screens",
+            "Soldering Contacts in Hardware Failures",
+            "Working Individually and as a Group",
+            "Leading"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Engineers Without Borders",
+            "role": "Member and Contributor",
+            "duration": "2013-2014",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.0
+}

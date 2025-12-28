@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "sevilla, 41730 * 683672077 + rafamuboelim@gmail.com + 28/11/2002 el v resumen profesional soy una persona comprometida con el trabajo, la comunicacion clara y la gestion eficaz del tiempo. mi fluidez en inglés me permite colaborar sin barreras idiomáticas. aunque aún no tenga experiencia profesional, estoy motivado para mejorar y utilizar lo que sé para contribuir de manera significativa. mi aprendizaje es constante y dinámico, siempre buscando mejorar mis habilidades y ser un miembro responsable en cada proyecto. v formación grado en ingeniería aeroespacial, universidad de sevilla, [sevilla, sevilla] + actualmente estoy cursándolo, teniendo pendiente una asignatura y tfg. + el tfg que estoy trabajando es modulación sigma-delta aplicada en fpga (field programmable gate array). + durante el desarrollo del grado hice un proyecto de una implementación de un algoritmo de optimización en matlab que genera las constantes de un pid para el control de un uav multirrotor. b2, inglés, 2017, título de cambridge english + apoyado por experiencias como la beca de la universidad internacional meléndez pelayo y diversas experiencias en programas de inmersión linguistica en entornos bilingúes. v aptitudes + trabajo en equipo, puntualidad y disciplina. + comunicación clara y efectiva. + resolución de problemas. + gestion eficiente del tiempo. + conocimiento de matlab, latex, excel, word, arduino, hdl, xilinx vivado. + con muchas ganas de aprender. v idiomas + espaol: idioma nativo + inglés: nivel b2 certificado.",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI25"
+}

@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Tatiana Ruiz Pinto",
+        "date_of_birth": "21/02/1989",
+        "gender": "female",
+        "age_reference_year": 2018,
+        "age": 29,
+        "email": "tatianaruizpinto@gmail.com",
+        "phone": "+24 686007308",
+        "address": "",
+        "LinkedIn": "linkedin.com/in/tatianaruizpinto",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Professional Development, GAIA Program",
+            "field": "N/A",
+            "university": "Universidad de Alcalá",
+            "location": "Alcalá de Henares",
+            "year": "2015-2016",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Master's Degree in Aeronautical Engineering (BSc + MSc), Aircraft Specialisation",
+            "field": "Aircraft Systems Integration",
+            "university": "Escuela Técnica Superior de Ingenieros de Aeronáuticos, Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2007-2014",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space Altran",
+            "position": "Operational Certification Engineer",
+            "description": "Create and update MMELs for medium and light transport aircraft and Airbus military derivatives. Prepare guideline material, coordinate with specialists, provide support to systems engineering specialists, and manage incoming queries.",
+            "start_date": "07/2016",
+            "end_date": "12/2018",
+            "duration_years": 2.42
+        },
+        {
+            "company": "Iberia Quest Global",
+            "position": "Continuing Airworthiness Engineer",
+            "description": "Create and update maintenance plans for Iberia fleet in SAP, monitor components status, collaborate with Rolls-Royce representatives, prepare reports, handle technical documentation.",
+            "start_date": "04/2016",
+            "end_date": "06/2016",
+            "duration_years": 0.17
+        },
+        {
+            "company": "",
+            "position": "GAIA Program Intern",
+            "description": "Performed tasks related to the C-130 Hercules aircraft, such as analyzing maintenance activities, creating engineering work routes, and using lean manufacturing tools.",
+            "start_date": "01/2014",
+            "end_date": "09/2014",
+            "duration_years": 0.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "MATLAB",
+            "AutoCAD",
+            "SolidWorks",
+            "CATIA",
+            "ERP: SAP, Pelicano Plus",
+            "DMS: DMFilenet",
+            "CAD: CATIA V5",
+            "Computing: Maple, Fortran 95",
+            "Composites: ESACOMP, Myrtm"
+        ],
+        "soft_skills": [
+            "Proactivity",
+            "Motivation",
+            "Hard working",
+            "Time efficiency",
+            "Team worker",
+            "Analytical thinking",
+            "Problem-solving"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 3.26,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

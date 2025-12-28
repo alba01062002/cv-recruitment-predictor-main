@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales fecha de nacimiento: 26/08/1991 domicilio: salvador allende 18, portal 1, 6%b población: getafe (madrid) teléfono: 650843215 correo electrónico: noltari@gmail.com formación académica álvaro fernández rojas (47312072-z) educación infantil - bachillerato colegio villa de grión (2009) grado en ingeniería informática universidad carlos iii de madrid (2009-2013). especialidad en ingeniería de computadores. máster en ingeniería informática universidad carlos iii de madrid (2013-actualidad). conocimientos técnicos bases de datos lenguajes de programación control de versiones ides páginas web open source otros datos idiomas licencias disponibilidad otros datos de interés mysql, oracle java, c, c++, c#, python git, svn eclipse, rsa (ibm) html, css, javascript, php, ibm rsa + was linux, openwrt inglés: nivel alto. certificate in advanced english (2012) francés: nivel bajo. lectura carnet de conducir b (2010) autorización federativa de embarcaciones de recreo (2009) preferiblemente jornada parcial para compaginar con el desarrollo del trabajo de fin de máster package maintainer en openwrt. contribuciones al core de openwrt para diversas arquitecturas (raspberry, brcm63xx, ralink, lantiq...)",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI16"
+}

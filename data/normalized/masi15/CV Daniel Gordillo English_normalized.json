@@ -1,0 +1,96 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Gordillo Barragán",
+        "date_of_birth": "08/03/1990",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 25,
+        "email": "d.gordillo.b.90@gmail.com",
+        "phone": "+34667341885 / +34913864571",
+        "address": "cándido mateos 16, esc 1, 4b, 28035 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Meng Aeronautical Engineering",
+            "field": "Aeronautical Engineering",
+            "university": "UPM Madrid",
+            "location": "Madrid",
+            "year": "2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Empresarios Agrupados, Madrid",
+            "position": "Simulation Engineer",
+            "description": "Internship preparation of the masters project design and development of a tool for aeronautical propulsion systems simulation. Developed a fixed-configuration tool for simple preliminary design and performances using Ecosimpro/Proosis software.",
+            "start_date": "02/2014",
+            "end_date": "07/2014",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Object-oriented modeling and simulation (Ecosimpro/Proosis, expert level)",
+            "Programming: Fortran, MATLAB (medium level), C/C++ (basic level)",
+            "CAD design: CATIA V5 (medium level)",
+            "CFD (Fluent/Gambit) (basic level)",
+            "Finite elements (Nastran/Patran) (basic level)",
+            "Gas turbine engine simulation: Gasturb, GSP, Proosis"
+        ],
+        "soft_skills": [
+            "Object-oriented modeling and simulation",
+            "Programming",
+            "CAD design",
+            "CFD",
+            "Finite elements",
+            "Gas turbine engine simulation",
+            "Team member and project manager",
+            "Good response and motivation"
+        ]
+    },
+    "other_interests_normalized": [
+        "Reading",
+        "Audiovisual media (films, TV series, videogames, internet)",
+        "Sport (cycling, tennis, basketball, etc.)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.42,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.7
+}

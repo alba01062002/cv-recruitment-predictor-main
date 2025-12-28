@@ -1,0 +1,117 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francisco Reyes Guerrero",
+        "date_of_birth": "07/10/1992",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 25,
+        "email": "franreyesgue@gmail.com",
+        "phone": "+34 699 877 474",
+        "address": "Paseo de la Esperanza, 1, Madrid, 28005",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "University of Manchester",
+            "location": "Manchester",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor of Science in Aerospace Engineering",
+            "field": "Aerospace Propulsion",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2010-2014",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Akka Technologies, Getafe",
+            "position": "Thermal and CFD Engineer (on behalf of Airbus Defence and Space)",
+            "description": "Carried out thermal analysis using ANSYS Fluent for various components.",
+            "start_date": "06/2016",
+            "end_date": "12/2025",
+            "duration_years": 9.5
+        },
+        {
+            "company": "Airbus Operations S.L., Getafe",
+            "position": "Aeronautical Engineer Intern (EGWMS Department)",
+            "description": "Carried out trade-off campaigns and wrote documentation.",
+            "start_date": "10/2015",
+            "end_date": "06/2016",
+            "duration_years": 0.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Research Associate",
+            "country": "United Kingdom",
+            "institution_or_company": "University of Manchester",
+            "start_date": "04/2015",
+            "end_date": "10/2015",
+            "description": "Led research on computation of wall heat transfer and authored scientific papers.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Research Associate",
+            "country": "Spain",
+            "institution_or_company": "IMDEA Materials, Madrid",
+            "start_date": "02/2014",
+            "end_date": "07/2014",
+            "description": "Led research on improving properties of biodegradable polymers and published scientific papers.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "ANSYS Fluent",
+            "MATLAB",
+            "FORTRAN",
+            "CATIA V5",
+            "LaTeX",
+            "Python",
+            "Visual Basic"
+        ],
+        "soft_skills": [
+            "Leadership in Team Projects",
+            "Initiative and Innovation",
+            "Communication Skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Football",
+        "Professional Table Tennis Player (2009)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

@@ -1,0 +1,110 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Álvaro Izquierdo Morión",
+        "date_of_birth": "08/06/YYYY",
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "alvaroizqmorion.alvaro@gmail.com",
+        "phone": "+34 659153244",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeronáspacial",
+            "field": "Aerospace Engineering",
+            "university": "Universidad de Cádiz",
+            "location": "Cádiz, Spain",
+            "year": "2017-2019",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Master Universitario en Ingeniería Aeronáutica",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2018-2019",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Master en Decision Making and Innovation",
+            "field": "Decision Making and Innovation",
+            "university": "Universidad Alcalá de Henares",
+            "location": "",
+            "year": "2018-2019",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence and Space",
+            "position": "Quality Systems GAIA Program Analyst",
+            "description": "Analysis of business needs, recommendation of solutions, development of integration tests and user acceptance test.",
+            "start_date": "10/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Composite Materials Laboratory",
+            "start_date": "01/2017",
+            "end_date": "04/2017",
+            "description": "Tests and procedures corresponding to density determination, resin flow determination, porosity rate, glass transition temperature and residual cure enthalpy by both, the degree and differential scanning calorimetry (dsc) tests, differential professional background mechanical analysis (dma) and infrared spectroscopy of fourier (ftir).",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "VBA",
+            "Matlab",
+            "CATIA V5",
+            "OpenFOAM",
+            "Python"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Teamwork",
+            "Problem Solving",
+            "Analytical Thinking",
+            "Project Management"
+        ]
+    },
+    "other_interests_normalized": [
+        "Aircrafts and Aviation",
+        "Languages",
+        "Travelling"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 7.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

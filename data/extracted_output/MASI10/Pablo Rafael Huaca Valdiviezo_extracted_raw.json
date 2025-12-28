@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales nombre: pablo rafael apellidos: huaca valdiviezo nacionalidad: espaola población: getafe (madrid-espaa). teléfono: 657359455 e-mail: hyperlink \"mailto:lolacucy@hotmail.com\" pablorafael2@hotmail.com carnet de conducir b y coche propio formacion academica bachillerato tecnológico, en i.e.s altair (getafe-madrid) 3 aos de curso de ingles en wall street (up intermediate) ingeniero técnico mecánico de la universidad carlos iii de madrid, ao de finalización 2009. formacion complementaria. idiomas: ingles medio (3 aos de curso de inglés en wall street, up intermediate) informática: programación en fortran. gestión de mrp y erp. paquete microsoft office, manejo completo a nivel ingeniero. ingeniería: actualmente formo parte del proyecto sae de competición de la universidad caros iii de madrid hyperlink \"http://www.uc3mcompeticion.es/\" t \"blank\" www.uc3mcompeticion.es curso de diseo mecánico, con solid edge st a nivel experto, de 300 horas de duración (certificado por la universidad carlos iii). manejo de otros programas de diseo: autocad (avanzado), one space modeling (usado en knock telecom), pro engineer (usado en general electric power control). manejo de programas de análisis de estructuras y elementos finitos (ansys, femap). experiencia laboral proyecto de reformas de trenes de alta velocidad, para la fundación ikertia con la colaboración de la uc3m, hyperlink \"http://www.ikertia.net/\" http://www.ikertia.net/ diseo de maquinas especiales para merello ingenieros hyperlink \"http://www.merello.es/\" http://www.merello.es/ trabajo en oficina técnica en knock telecom (grupo ormazabal) hyperlink \"http://www.knocktelecom.com\" www.knocktelecom.com. becario en departamento de i+d en general electric power control. http://www.ge.com/es/ curriculum vitae página page2 de numpages2",
+    "text_from_header": "DATOS PERSONALES",
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

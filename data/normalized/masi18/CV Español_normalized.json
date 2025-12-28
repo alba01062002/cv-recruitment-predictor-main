@@ -1,0 +1,124 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José Miguel Pea Rodríguez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "jospenrodo@gmail.com",
+        "phone": "625850509",
+        "address": "Calle Ali Al Gomarí, blq 3, 42A, 41013, Sevilla, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeronástral",
+            "field": "",
+            "university": "Escuela Técnica Superior de Ingeniería, Sevilla",
+            "location": "Sevilla",
+            "year": "2010-2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Máster en Ingeniería Aeronáutica",
+            "field": "",
+            "university": "Escuela Técnica Superior de Ingeniería, Sevilla",
+            "location": "Sevilla",
+            "year": "2015 (terminando el trabajo final de máster)",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Trigo Global Q: Flight Test Center",
+            "position": "Control de configuración y gestión de Yellow Tags, actualización de AMASIS base de datos",
+            "description": "",
+            "start_date": "08/2017 - actualidad",
+            "end_date": "12/2018",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airgrup S.L.",
+            "position": "Auxiliar de Producción en el Departamento de Calidad",
+            "description": "Control y gestión de NCS a proveedores y HNCs a clientes, apoyo técnico al equipo de verificadores, elaboración de planes de control de las piezas, desarrollo del módulo del sistema interno para los planes de control.",
+            "start_date": "04/2017 - 07/2017",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airgrup S.L.",
+            "position": "Becario en el Departamento de Calidad",
+            "description": "Gestión y control de las NCS a proveedores, actualización de los planes de control de las piezas.",
+            "start_date": "10/2016 - 03/2017",
+            "end_date": "12/2018",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Defense and Space S.L.",
+            "position": "Prácticas Universitarias",
+            "description": "Seguimiento de las no conformidades internas y los trabajos pendientes, colaboración en la realización de pruebas funcionales de la estación y reuniones programadas con Airbus.",
+            "start_date": "02/2015 - 05/2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Ansys y Patran-Nastran",
+            "CATIA V5",
+            "ETLB, AMASIS, SAP",
+            "Microsoft Office (Word, Excel, Power Point)"
+        ],
+        "soft_skills": [
+            "Actitud positiva",
+            "Resolución de problemas eficaz",
+            "Habilidades sociales"
+        ]
+    },
+    "other_interests_normalized": [
+        "Natación"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Real Federación Española de Natación",
+            "role": "Monitor de Natación, Juez Provincial de Carreras de Natación, Sevilla",
+            "duration": "2015 - actualidad",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

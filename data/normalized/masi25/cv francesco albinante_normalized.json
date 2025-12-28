@@ -1,0 +1,97 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francesco Abinante",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "francescoabinante@hotmail.it",
+        "phone": "+39 366 547 7560",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science - Aerospace Engineering, Space Curriculum",
+            "field": "Aerospace Engineering with a focus on Space Propulsion",
+            "university": "University of Naples Federico II",
+            "location": "Naples, Italy",
+            "year": "09/2022 - 04/2025",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Tecnosistem Spa",
+            "position": "Master Thesis Student Internship",
+            "description": "Internship in fluid dynamics analysis of an air intake for a supersonic ramjet engine, involving CFD simulations and support for wind tunnel testing.",
+            "start_date": "06/2023 - 02/2025",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "ESEC - Galaxia Training Center",
+            "position": "Propulsion Engineer in ESA Academy Concurrent Engineering Workshop",
+            "description": "",
+            "start_date": "15/09/2024 - 21/09/2024",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Belgium",
+            "institution_or_company": "ESA Academy Concurrent Engineering Workshop",
+            "start_date": "15/09/2024 - 21/09/2024",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Python",
+            "C/C++",
+            "Ansys (Fluent, SpaceClaim)",
+            "CAD Modeling (CATIA, Inventor)"
+        ],
+        "soft_skills": [
+            "Project management",
+            "Teamwork",
+            "Problem solving"
+        ]
+    },
+    "other_interests_normalized": [
+        "HEARTSAT cubesat project",
+        "Coding Rocket Event (CORE)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Deputy Head of the Propulsion Division and Hybrid Project",
+            "duration": "Responsible via Madonna delle Grazie 4, Naples - Italy",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.2
+}

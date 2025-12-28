@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal information education and training (sept. 2008 mar. 2016) place specialty notes courses work experience (may 2017 present) place (april 2017 may 2017) place (jan. 2016 present) place gonzalo villamor jiménez q c/joaquín maría lópez 28 4d, 28015, madrid, spain +34 915495976 é3 653078555 i gonvill+gmail.com date of birth 05/02/1990 nationality spanish aeronautical engineer superior technical school of aeronautical engineers (etsia), polytechnic university of madrid (upm) aircrafts e engineer degree of five yearly courses e equivalent to bachelors degree (bsc) + masters degree (msc) e introduction to robotics at universidad autónoma de madrid (uam)(2007) e introduction to glider flight by senasa at ocafias aerodrome, 10h theorical instruction and 10 dual command flights (2010) e introduction to nastran/patran 20h (etsia)(2014) centum solutions s.l. airbus getafe project: air refueling integrator mrtt (teama) e integrator support for air refueling department airbus (teama) e coordination between analysis teama departments and other airbus d&s departments: manufacturing, design, chief engineering, certification... e assistance to several meetings on behalf of teama department. e management of department tasks and planning of mrtt programs. carbures group airbus getafe project: s19 a350 e development of airbus standard operation instructions for product improvement project of s19 a350 (pip) sirium aerotech s.l. (easa doa 21j.523) avda. de somosierra 12, san sebastian de los reyes, madrid e design and airworthiness engineer in aircrafts modification projects. e project management. e elaboration of technical documentation (service bulletin, amm and ipc supplement...) e elaboration of manufacturing instructions and job cards. e performing technical drawings. e aircraft parts design. e aircraft manuals and certification regulation handling. e emi testing in aircrafts. (mar. 2015 sept. 2015) place personal skills mother tongue other languages english communication and management skills digital competences sports driving license aernnova avda. manoteras 20, madrid e trainee for the realization of the final degree project at the r&d department. e research of dynamic response of an uav against vertical gust using nastran /patran aeroelastic module. e development of a python program. this program generates the fem model of an uav from several input parameters. spanish e great ability to work in team acquired throughout my studies, internship, working and sport life. e project management skill acquired in my present position. e good communication skills thanks to my work facing the public as well as staying with american students. e catia v5 (mid-level) part design, assembly, wireframe & surface design, sketcher. e python e nastran / patran (beginner level) e autocad (mid-level) e microsoft office suite e sprint e high knowledge of general computing (computer management, assembly, repair...) e have been playing football since the childhood. e second place in futsal international tournament of luarca. e member of the university football team during my studies. eb",
+    "text_from_header": "PERSONAL INFORMATION",
+    "detected_language": "en",
+    "master_edition": "MASI18"
+}

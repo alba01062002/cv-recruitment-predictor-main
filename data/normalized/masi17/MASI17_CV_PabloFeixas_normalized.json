@@ -1,0 +1,138 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pablo Feixas López",
+        "date_of_birth": "04/04/1993",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 24,
+        "email": "p.feixlo@gmail.com",
+        "phone": "(+34) 635 671 055",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Professional Development",
+            "field": "Not specified",
+            "university": "Universidad de Alcalá",
+            "location": "Madrid (Spain)",
+            "year": "2016 - ongoing",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "BSc Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid (Spain)",
+            "year": "2011 - 2016",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bilingual High School",
+            "field": "",
+            "university": "Colegio Mulhacén",
+            "location": "Granada (Spain)",
+            "year": "2009 - 2011",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Group",
+            "position": "System Safety & Reliability Engineer",
+            "description": "",
+            "start_date": "04/2016",
+            "end_date": "ongoing",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Sertec S.L",
+            "position": "Aerospace Design Engineer",
+            "description": "",
+            "start_date": "02/2015",
+            "end_date": "06/2015",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Supermercados Gloria S.L",
+            "position": "Cashier",
+            "description": "",
+            "start_date": "Summer 2009, Summer 2010, Summer 2014 and Summer 2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Hotel Cortijo de Salia",
+            "position": "Receptionist",
+            "description": "",
+            "start_date": "Summer 2011, Summer 2012",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Summer Abroad Course",
+            "country": "United Kingdom",
+            "institution_or_company": "University of Essex",
+            "start_date": "Not specified",
+            "end_date": "1 month",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "Italian",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB and Simulink",
+            "CATIA V5 (CAD)",
+            "Femap & Nastran (FEM)",
+            "MS Office"
+        ],
+        "soft_skills": [
+            "Good communication skills",
+            "Ability to adapt to different cultural situations",
+            "People skills",
+            "Teamworking",
+            "Organizational skills",
+            "Initiative and proactivity",
+            "Quick response capacity for conflict resolution"
+        ]
+    },
+    "other_interests_normalized": [
+        "Member of UC3M Gliders Workshop",
+        "Piloting aircraft in flight simulator (+1000 hours)",
+        "Soccer team member (Colegio Mulhacén and Universidad Carlos III)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.33,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

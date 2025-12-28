@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "javier sanzlobo email: jsanzlobo gmail.com phone: 638 55 82 72 address: c/ villamanin, n 2c 6c 28011 madrid education > masters degree in aeronautical engineerinq......ocooononononane..... 2017-present escuela de postgrado en ingenieria y ciencias basicas universidad carlos iii de madrid => bachelors degree in aerospace engineerinq......cocococncnccononanonoso 2012-2017 etsi aeronautica y del espacio universidad politécnica de madrid gpa: 7.8/10. bachelor thesis graded with high honors 3 coursework in catia v5-gr..ooccccccncncocococococonanannncarannrnrarananananenrnnnns 2016 academia mach, madrid duration: 60 hours work experience > sistemas de control remmoto.....ocococcccccccccnnonccncoconanananarananannnraranannos 2017 six-month internship sistemas de control remoto is a pioneer spanish company in designing and manufacturing of surveillance uavs and target drones. e designed 3-d cad composite components for uavs e built wiring diagrams and drawings for uav electrical system e collaborated on the integration of uav systems e performed aerodynamics and flight dynamics analysis of a hand- launched uav (tucan) as a part of bachelor thesis. skills 3 built reputation for working efficiently with ateam of engineers in order to fulfill client demands 3 ability to rapidly learn by my own and verify results through investigation => managed projects at university successfully by organizing demanding tasks and resolving conflicts it skills 3 xflow. computational fluid dynamics software user level e conducted aerodynamics analysis of a hand-launched uav (tucan) 1/2 > catia v5-6. cad software intermediate level e designed the fuselage of a hand-launched uav (tucan) e designed the landing gear of a tactical uav (atlantic ii) 3 kicad. electronics design software user level e collaborated on designing the electrical system of a tactical uav (atlantic ii) e conceived a new method of elaborating wiring drawings => matlab. numerical computing software intermidiate level e elaborated complex scripts for computational aerodynamics problems and structural analysis languages 3 spanish native language => english cefr level b2 first certificate in english pass at grade b 2/2",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI19"
+}

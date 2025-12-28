@@ -1,0 +1,123 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Marta Arnabat Martín",
+        "date_of_birth": "05/06/2000",
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": 22,
+        "email": "marta.arnabatmartin0506@gmail.com",
+        "phone": "+34 699 606 885",
+        "address": "c/Andorra, n13-3, 43881 Tarragona, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Technology",
+            "field": "Aerospace Engineering",
+            "university": "Universitat Politècnica de Catalunya (UPC-ESEIAAT)",
+            "location": "Terrassa, Spain",
+            "year": "2018 - today",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Summer camp counselor, entertainment assistant",
+            "description": "Programming and software tools related roles",
+            "start_date": "06/2016",
+            "end_date": "08/2016",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Club Sports Tennis Cunit, Tarragona",
+            "position": "",
+            "description": "Simulink and CFD roles",
+            "start_date": "07/2020",
+            "end_date": "12/2022",
+            "duration_years": 2.42
+        },
+        {
+            "company": "Internship program - Electronic software engineering",
+            "position": "Engineer",
+            "description": "Arduino, Java, Python, VisualBasic, CATIA roles",
+            "start_date": "03/2022",
+            "end_date": "12/2022",
+            "duration_years": 0.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalan",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "CFD",
+            "C++",
+            "Arduino",
+            "Java",
+            "Python",
+            "VisualBasic",
+            "CATIA",
+            "Operating systems (macOS, Windows)"
+        ],
+        "soft_skills": [
+            "Responsible",
+            "Confident",
+            "Critical-thinker",
+            "Proactive",
+            "Initiative",
+            "Team-worker",
+            "Stubborn"
+        ]
+    },
+    "other_interests_normalized": [
+        "Software tools and projects",
+        "Tennis",
+        "Programming"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 3.34,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 18,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

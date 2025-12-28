@@ -1,0 +1,109 @@
+{
+    "personal_information_normalized": {
+        "full_name": "María del Carmen Blanco Arribas",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "carmen.blaro0@gmail.com",
+        "phone": "+34 655778610",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering (Specialized in Propulsion)",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2018 - currently",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Additional Training Course: Aeronautic Computer Assisted Design (CAD)",
+            "university": "CRN Leganés",
+            "location": "Madrid",
+            "year": "2020 - 2021",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Intern in the Mechanical Engineering Laboratory",
+            "description": "Conducting corrosion tests on 3D printed martensitic steel specimens as part of the final thesis (25h/week).",
+            "start_date": "07/2021",
+            "end_date": "09/2021",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA",
+            "SolidWorks",
+            "AutoCAD",
+            "Fortran",
+            "Computer Aided Design (CAD)"
+        ],
+        "soft_skills": [
+            "Creativity",
+            "Public Speaking",
+            "Project Management"
+        ]
+    },
+    "other_interests_normalized": [
+        "Horse riding",
+        "Basketball (since 2008 - currently)",
+        "Tennis",
+        "Ski",
+        "Athletics"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Best Madrid",
+            "role": "Board of European Students of 2020 - currently",
+            "duration": "Technology Manager at Universidad Politécnica de Madrid, managing more than 100 students as participants responsible in the university engineering competition Betech.",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.17,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

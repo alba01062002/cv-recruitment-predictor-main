@@ -1,0 +1,151 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Isabel Granados Rubio",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2015,
+        "age": null,
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Valencia (UPV)",
+            "location": "Valencia, Spain",
+            "year": "2012-2014",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's degree in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2008-2011",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "",
+            "field": "International Baccalaureate",
+            "university": "Juan XXIII School, Madrid",
+            "location": "Madrid, Spain",
+            "year": "2006-2008",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "General Certificate of Secondary Education (GSCE)",
+            "university": "Nuestra Seora del Pilar College, Madrid",
+            "location": "Madrid, Spain",
+            "year": "2001-2006",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "CMT Motores Térmicos - Research Internship",
+            "position": "Research Intern",
+            "description": "Responsible for programming in MATLAB-Simulink the flight envelope, stall and structural limitations of a320. Developed new air routes that enables the plane to save fuel. Energy optimization of A-320 by the method of dynamic programming.",
+            "start_date": "Sep 2013",
+            "end_date": "Jul 2014",
+            "duration_years": 0.0
+        },
+        {
+            "company": "UPV - Aircraft Department Internship",
+            "position": "Intern",
+            "description": "Led and managed the working group to accomplish the preliminary design of an aircraft and built its 3D model, assigned tasks of each member. Designed the interior of the passenger cabin with CATIA V5. Drew aerodynamic surfaces of the aircraft fuselage with Wireframe and Surface Design Workbench in CATIA V5.",
+            "start_date": "Sep 2012",
+            "end_date": "Jun 2013",
+            "duration_years": 0.0
+        },
+        {
+            "company": "UPM - Aerodynamic Department Internship",
+            "position": "Intern",
+            "description": "Run tests with airfoils in the UPM-EUITA aerodynamic tunnel. Studied the influence of manufacturing defects in the aerodynamics of the NACA 63015 airfoil using Finite Element Method software ANSYS 13 Fluent.",
+            "start_date": "Sep 2012",
+            "end_date": "Jul 2012",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Italian",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Ansys",
+            "Autodesk Inventor",
+            "AutoCAD",
+            "CATIA",
+            "Gasturb",
+            "Mathematica",
+            "Matlab",
+            "Microsoft Office & Programming in Visual Basic",
+            "Patran-NASTRAM",
+            "Simulink"
+        ],
+        "soft_skills": [
+            "Excel",
+            "MATLAB-Simulink",
+            "Ansys-Fluent",
+            "CATIA V5",
+            "Programming in Visual Basic",
+            "Patran-NASTRAM",
+            "Ansys 13 Fluent"
+        ]
+    },
+    "other_interests_normalized": [
+        "Reading",
+        "Running",
+        "Traveling",
+        "Skating",
+        "Photography",
+        "Swimming",
+        "History"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Age UK",
+            "role": "Volunteer",
+            "duration": "2016-2022",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

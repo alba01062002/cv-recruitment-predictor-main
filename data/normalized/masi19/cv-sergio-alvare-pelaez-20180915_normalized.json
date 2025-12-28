@@ -1,0 +1,111 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sergio Alvaré Peláez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "serglo(walvate.es",
+        "phone": "+34 665 93 21 28",
+        "address": "",
+        "LinkedIn": "es.linkedin.com/in/sergioalvarepelaez",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Engineering of Electronic Systems",
+            "field": "Electronics and Telecommunications",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2017",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's in Telecommunication Engineering",
+            "field": "Electronic Systems",
+            "university": "University of Oviedo",
+            "location": "Oviedo, Spain",
+            "year": "2015",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "INDRA Sistemas",
+            "position": "Engineer",
+            "description": "Integration of systems in the ASCAT (Advanced Scatterometer) project for EUMETSAT. Working closely with the contractor Advanced Radar Technologies (ART).",
+            "start_date": "01/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.92
+        },
+        {
+            "company": "Sopra Steria",
+            "position": "Junior Developer",
+            "description": "Maintenance and evolution of Java and Ch applications. Documentation for the transition process from the Lille headquarters to Madrid.",
+            "start_date": "03/2017",
+            "end_date": "12/2017",
+            "duration_years": 0.75
+        },
+        {
+            "company": "Department of Electronic Engineering, Technical University of Madrid & Department of Computer Engineering, Complutense University of Madrid",
+            "position": "Research Assistant",
+            "description": "Optimization of data processing centers. Analysis of liquid cooling techniques and phase change refrigeration systems.",
+            "start_date": "07/2016",
+            "end_date": "03/2017",
+            "duration_years": 0.67
+        },
+        {
+            "company": "Institut Polytechnique de Grenoble, ENSIMAG",
+            "position": "Research Assistant",
+            "description": "Adaptation of MATLAB codes to demonstrate the applications of acoustic signal analysis work by the Signal Theory department. Presented as a Bachelor's thesis.",
+            "start_date": "10/2014",
+            "end_date": "02/2015",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "France",
+            "institution_or_company": "Institut Polytechnique de Grenoble, ENSIMAG",
+            "start_date": "",
+            "end_date": "",
+            "description": "Erasmus exchange program.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Digital Electronics",
+            "Analog Electronics",
+            "Microelectronics",
+            "Digital Architecture",
+            "Java",
+            "C++",
+            "Python",
+            "VHDL"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 9.67,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.2
+}

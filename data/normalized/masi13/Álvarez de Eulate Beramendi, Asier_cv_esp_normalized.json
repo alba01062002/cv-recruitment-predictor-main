@@ -1,0 +1,115 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Asier Álvarez de Eulate Beramendi",
+        "date_of_birth": "02/03/1987",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 26,
+        "email": "asieralde@gmail.com",
+        "phone": "619671829",
+        "address": "Gran Vía 73 52 B, 26005 Logroño, La Rioja, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachillerato Internacional (1.b.o.)",
+            "field": "",
+            "university": "1.e.s Sagasta. Logroño",
+            "location": "Logroño",
+            "year": "2003-2005",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachillerato en Ciencias de la Salud",
+            "field": "",
+            "university": "1.e.s Sagasta. Logroño",
+            "location": "Logroño",
+            "year": "2003-2005",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Ingeniería Aeronáutica",
+            "field": "",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2005-2012",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Italia",
+            "institution_or_company": "Politecnico di Milano",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "Italian",
+            "B2"
+        ],
+        [
+            "German",
+            "A2"
+        ],
+        [
+            "Chino",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fortran",
+            "HP User",
+            "RPL",
+            "Solid Edge",
+            "MATLAB",
+            "Fluent",
+            "Femap",
+            "Patran/Nastran"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "cine",
+        "arte y música en especial violín",
+        "deporte",
+        "informática",
+        "internet",
+        "lectura",
+        "fotografía",
+        "naturaleza",
+        "entusiasmo por viajar, conocer nuevas culturas y formas de pensar"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

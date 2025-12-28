@@ -1,0 +1,98 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pol Matamala",
+        "date_of_birth": "09/11/2000",
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": 22,
+        "email": "polmatamala1@gmail.com",
+        "phone": "636 25 28 38",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería de la Energía",
+            "field": "Ingeniería de la Energía",
+            "university": "Universidad Politécnica de Cataluña (Barcelona)",
+            "location": "Barcelona",
+            "year": "2018-actualidad",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalán",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Sistema operativos",
+            "Microsoft Office Suite",
+            "MacOS",
+            "Lenguajes de programación Python, R",
+            "Software matemático y mecánico MATLAB, Maple",
+            "SolidWorks"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Batería / Músico",
+        "Cinturón negro de Kuk Soo Won"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

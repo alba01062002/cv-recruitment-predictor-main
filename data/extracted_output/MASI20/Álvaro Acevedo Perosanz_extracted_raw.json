@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "currículum vitae datos personales nombre: acevedo perosanz, álvaro dirección: c/carmelo rodríguez, n/3, colmenarejo, 28270 (madrid) móvil: 649 657 925 e-mail: a.acevedo.perosanz o gmail.com fecha nacimiento: 21/07/1993 graduado en ingenieria mecanica en la universidad politécnica (etsidi) de madrid. con gran capacidad de trabajo y versatilidad. independiente y con muchas ganas de aprender. formacion academica 2011 - 2018 grado en ingenieria mecanica en la universidad politécnica de madrid. segundo ao becado por la comunidad de madrid. 1997 - 2011 estudios en colegio gondomar (galapagar). ciencias tecnológicas selectividad: 10,39 / 14 conocimientos informáticos microsoft office a nivel usuario avanzado. manejo de programas específicos: autocad, inventor, catia, matlab, winunisoft, mitcalc, witness. experiencia laboral 2018 actualidad ingeniero de homologaciones en imd. 2017 actualidad monitor de condución en auriga cool marketing y motorpress iberica en experiences, test drive, road show. 2015 actualidad empleado en hosteleria en eventos para el caterin el puchero de plata y ciboullete. 2014 - 2018 profesor particular para bachillerato en dibujo técnico, matemáticas, física y química. 2016 colaboración con el equipo motostudent de la upm. 2015 socorrista para piscicop, s.l 2015 monitor de conducción en una experiencia de conducción para ciegos en colaboración con la once y seat. 2006 ayudante de mecánica en competición en campeonato de espaa de raids. aptitudes adquiridas: concentración, trabajo en equipo, toma de decisiones rápidas y eficaces, y comunicación. otra formación 2014-2016 cursos de conducción. 2015 curso de socorrista. idiomas espaol: nativo. inglés: nivel b2(aptis) y actualmente preparando el nivel c1 en la escuela oficial de idiomas. dos veranos en irlanda y uno viajando por europa. otros datos de interés permiso de conducir: b (vehículo propio) y a2 (vehículo propio). aficionado a la mecánica. viajes (marruecos, portugal, francia, italia, eslovenia, croacia, serbia, bulgaria, turquía, grecia, hungría, irlanda, reino unido) ss",
+    "text_from_header": "DATOS PERSONALES",
+    "detected_language": "es",
+    "master_edition": "MASI20"
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "juan rodríguez martínez teléfono: 646162007 e-mail: juan.rm94@gmail.com calle puerto de navacerrada, 28038, madrid fecha de nacimiento: 12/07/1994 educación universidad: e grado en ingeniería aeroespacial en aeronavegación (inglés), universidad rey juan carlos. (2011-2018) e grado en ingeniería aeroespacial en aeronavegación, politechnika rzeszowska, polonia. (2014-2015) bachillerato: e primero de bachillerato, north medford high school, oregón, ee.uu. (2009-2010) trabajo fin de grado universidad rey juan carlos desarrollo de un piloto automático para una aeronave de ala fija mediante matlab simulink. experiencia profesional prácticas airbus defense & space, airbus febrero 2017 - actualidad becario del departamento de aviónica trabajando con sistemas de comunicaciones, navegación y vigilancia de los aviones militares c-295 y c-212, desempeando principalmente las siguientes labores: - integración de sistemas de aviónica - ensayos en laboratorio - procesos de certificación prácticas instituto tecnológico la maraosa (itm), inta abril 2016 - julio 2016 propuesta de un plan de certificación para la integración de un sistema armado en un uav de ala rotatoria. prácticas inarsis ingeniería e investigación, s.l. octubre 2015 - marzo 2016 revisión de documentación relacionada con la certificación de uavs y estudio de cargas huecas. idiomas e espaol: nativo. e inglés: bilingúe. e francés: básico. habilidades computacionales - software: doors, matlab, simulink, microsoft excel, microsoft word. - programación: microsoft excel. información complementaria entusiasta de los deportes, sobre todo del fútbol y el ajedrez, jugando federado durante 11 y 2 aos respectivamente.",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI18"
+}

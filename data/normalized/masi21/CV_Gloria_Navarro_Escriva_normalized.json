@@ -1,0 +1,101 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Gloria Navarro Escrivá",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "gloria.navarro.escriva@gmail.com",
+        "phone": "+34 639129376",
+        "address": "c/Jerónima Llorente 46 32c, 28039 Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Degree of Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Technical University of Madrid",
+            "location": "Madrid",
+            "year": "2016-2021",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Final year engineering student with forward thinking and organizational efficiency, specializing in navigation and aerospace systems.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Language Exchange",
+            "country": "France",
+            "institution_or_company": "",
+            "start_date": "2015-03",
+            "end_date": "2015-04",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Language Exchange",
+            "country": "Italy",
+            "institution_or_company": "",
+            "start_date": "2014-03",
+            "end_date": "2014-04",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "MATLAB",
+            "Simulink",
+            "FORTRAN",
+            "CATIA",
+            "Nastran-Patran"
+        ],
+        "soft_skills": [
+            "Time management",
+            "Initiative/self-motivation",
+            "Relationship management",
+            "Cooperation"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "International Association for the Exchange of Students for Technical Experience",
+            "role": "Spokesperson",
+            "duration": "2019-12 - 2021-12",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.4
+}

@@ -1,0 +1,128 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ariel Pintolillo",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "abriel.pintolillo@gmail.com",
+        "phone": "+34686847481",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/ariel-pintolillo/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Chemical Engineer",
+            "field": "Chemical Engineering",
+            "university": "Pontificia Universidad Católica de Valparaíso",
+            "location": "Chile",
+            "year": "2016-2020",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Aerospace Engineer",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Europea de Madrid",
+            "location": "Spain",
+            "year": "",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Codelco División Andina o Chile",
+            "position": "Junior Process Engineer",
+            "description": "Management and control of inventory levels according to wear and tear and maintenance of equipment in the mining industry. Responsible for quality control and operation of the sag mill lubrication system. Direct relationship with the operators for the correct performance of weekly tasks. Achievements: Optimization in shipping times and spare parts inventory / Delivery of an operation manual under optimal parameters for the lubrication system through big-data analysis.",
+            "start_date": "March 2020",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work",
+            "country": "United States of America",
+            "institution_or_company": "Okemo Mountain Resort",
+            "start_date": "September 2021",
+            "end_date": "",
+            "description": "Realization of group and private classes for American citizens. Achievements: Improvement of collective intercommunication ability in English.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "C++",
+            "B2"
+        ],
+        [
+            "Vba",
+            "B2"
+        ],
+        [
+            "Autocad",
+            "B2"
+        ],
+        [
+            "Matlab",
+            "B2"
+        ],
+        [
+            "Minitab",
+            "B2"
+        ],
+        [
+            "Catia v5",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "AutoCAD",
+            "SolidWorks",
+            "CATIA V5",
+            "Python",
+            "Excel formulas and functions"
+        ],
+        "soft_skills": [
+            "Project management",
+            "Quality control",
+            "Intercommunication ability in English",
+            "Leadership"
+        ]
+    },
+    "other_interests_normalized": [
+        "Skiing",
+        "Aeronautical projects",
+        "Teaching"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Ski instructor at Okemo Mountain Resort, USA",
+            "duration": "September 2021 - Present",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

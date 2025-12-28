@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "professional profile engineering student with advanced level in english. currently performing my final degree project and working as an intern at concentrio. finishing studies in july 2023. contact od sn +34 660 597 834 bx alicia.ha20000 gmail.com www .linkedin.com/in/alicia-heras- alonso-530bb 1243 languages spanish: mother tongue english: advanced level german: al level (certificate in sprachen zentrum in rwth-aachen) aptitudes teamwork initiative enthusiasm eager to learn seriosness alicia heras alonso work experience e internship in functional sw analysis automotive at concentrio september 2022 - present madrid - customer's data analysis using companys tools. - customers needs analysis to create the best solutions for them. - results presentation to stakeholders. - testing and documenting work. academic training e final degree project in robotic joints for soft links: september 2022 - present - parts design using cad tool - joint movement programming in c++ e erasmus program: 2021-2022 - rheinisch-westfálische technische hochschule aachen e industrial electronics and automation engineering: 2018/2019- present - university: escuela politécnica superior, universidad carlos ill de madrid information technology basic knowledge about software tools as: object-oriented-programming in c++ + robotstudio: abbs simulation and offline programming software. statgraphics: data analysis software for visualization, modeling and predictive analysis. o solid edge: a 3d cad. e matlab and simulink e unity pro o ms office (word, excel) e jira e quartus oo ni multisim",
+    "text_from_header": "PROFESSIONAL PROFILE",
+    "detected_language": "en",
+    "master_edition": "MASI23"
+}

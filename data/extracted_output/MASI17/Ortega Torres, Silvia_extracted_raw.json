@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "silvia ortega torres +34 647 244 245 ortega.torres.silvia@gmail.com date of birth: 25/06/1990 (madrid, spain) education 2008-2014 2006-2008 master degree in aeronautical engineering (5 year degree), at the technical university of madrid, escuela técnica superior de ingenieria aeronautica (etsia). specialized in spacecraft. maximum grade with distinction in final project. higher secondary education at fuentelarreyna school (madrid). distinction and honours. extraordinary award (community of madrid). work experience oct 2014- presently 2013-2014 (1 year) 2012 (3 months) 2005-2015 stress engineer at airbus (getafe, madrid) in the department of engineering structural analysis and stress methods & tools with sogeti high tech subcontractor company. development of a new analysis module to be integrated into isami, the airbus stress tool, for buckling onset calculation of trapezoidal stiffened panels of a330 neo and a350 xwb program. currently developing a new process for isami to carry out analyses of spars, covers and ribs of the htp elevator structure. final year project at airbus (getafe): analytical calculation of buckling on trapezoidal composite panels. development of a mathematical method and a computer tool for optimization of structural analysis in trapezoidal panels of the a350 xwb wing, htp and vtp. presented at xi national conference on composite materials and published in aemacs 2015 book. summer internship at airbus (getafe) within the a380 htp assembly process with active collaboration. support to the section 19.1 of the a350 and the a380 wing ribs manufacturing. tasks and knowledge acquired: teamwork with the operators, problem solving, continuous improvement with lean panels, interpretation of technical drawings, drilling, riveting, sealing application, assembly of parts, quality testing, factory organization, etc. private lessons teacher: mathematics, physics, chemistry, technical drawing, spanish and english language. international training 2014 2012 2006 airbus defense and space sail for competence international seminar in bremen to boost professional competences of leadership model. athens international programme in paris: systemes de production et logistique (école de mines de paris, paristech). french linguistic exchange in france (bretagne). seminars and certificates 2015/16 conference speaker at xi national congress on composite materials, matcomp15 (madrid) and xiv national congress on composite materials, cnmat16' (gijón). 2014 msc nastran patran course (finite element analysis). 2012 catia v5 (part & assembly design, parametrization & drafting). 2011 design for airframe manufacturing and lean manufacturing courses, organized by airbus. 2008 french delf certificate (b1), score: 92/10. languages spanish: native language russian: pre-intermediate english: fluent german: elementary french: fluent software knowledge fem, cad and other isami (airbus stress tool), nastran & patran, catia v5, solid edge, esacomp engineering sw tools: (composites analysis and design), myrtm (mould-filling simulation of the rtm process). programming: fortran, maple, latex, python, matlab, simulink. microsoft office: word, excel, powerpoint, visio. other programmes: photoshop, illustrator. additional information social skills: leadership, teamwork, organization, proactivity, assertiveness, communication and soft skills. organizations: group representative in collaboration with delegation of students (etsia) and member of the community of madrid choir. other activities: chess, piano and violin courses. sports and dance lessons. further information willing to travel. driving license (b1).",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI17"
+}

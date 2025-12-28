@@ -1,0 +1,143 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jesus Rios Gonzalez",
+        "date_of_birth": "09/11/1991",
+        "gender": "male",
+        "age_reference_year": 2016,
+        "age": 25,
+        "email": "jesusriosg1z@gmail.com",
+        "phone": "+34676955151",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero en organización industrial",
+            "field": "",
+            "university": "Uniwersytet Opolski (Polonia)",
+            "location": "Poland",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Ingeniero en organización industrial",
+            "field": "Ingeniería Industrial",
+            "university": "Universidad Politécnica de Cartagena",
+            "location": "Murcia, Spain",
+            "year": "2012-2015",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Ingeniero técnico industrial (especialidad en electrónica industrial)",
+            "field": "",
+            "university": "Universidad Politécnica de Cartagena",
+            "location": "Murcia, Spain",
+            "year": "2009-2013",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Thales",
+            "position": "Validación de productos ferroviarios",
+            "description": "",
+            "start_date": "11/2015",
+            "end_date": "12/2016",
+            "duration_years": 1.08
+        },
+        {
+            "company": "JG Carrión (Don Simón)",
+            "position": "Ingeniero de automatización",
+            "description": "Mejora y resolución de problemas en sistemas automatizados.",
+            "start_date": "07/2015",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Uniwersytet Opolski (Polonia)",
+            "position": "Ingeniero de automatización",
+            "description": "Análisis de comunicaciones entre autómatas.",
+            "start_date": "09/2014",
+            "end_date": "02/2015",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Grupo Corbalan",
+            "position": "Prácticas - Ingeniero de organización",
+            "description": "Análisis y mejora de la productividad.",
+            "start_date": "05/2014",
+            "end_date": "10/2014",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Murcia Cultura, S.A.",
+            "position": "Ingeniero electrónico",
+            "description": "Desarrollo de un nuevo sistema de comunicación relacionado con el diseño.",
+            "start_date": "10/2012",
+            "end_date": "03/2013",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Solar Race. Politécnica de Cartagena",
+            "position": "Ingeniero electrónico",
+            "description": "",
+            "start_date": "10/2012",
+            "end_date": "01/2014",
+            "duration_years": 1.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Polonia",
+            "institution_or_company": "Uniwersytet Opolski (Poland)",
+            "start_date": "09/2014",
+            "end_date": "02/2015",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Ofimática",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office",
+            "Microsort Project",
+            "Desarrollo de proyectos de sistemas de automatización industrial (FREMM)",
+            "Proyectos de instalaciones automatizadas en edificios (FREMM)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Título profesional de música (Conservatorio Profesional de Murcia)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Cabildo El Hierro",
+            "role": "Voluntariado con personas de la tercera edad",
+            "duration": "07/2012 - 08/2012",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

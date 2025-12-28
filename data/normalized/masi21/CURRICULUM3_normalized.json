@@ -1,0 +1,116 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Henar Romero González",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "h@gmail.com",
+        "phone": "+34 676 381 571",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado de Ingeniería en Tecnologías de Telecomunicación",
+            "field": "Telecommunication Technologies",
+            "university": "Universidad de Granada, España",
+            "location": "Granada, España",
+            "year": "2017-2021",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Hungría",
+            "institution_or_company": "Budapest University of Technology and Economics, Budapest",
+            "start_date": "09/2019",
+            "end_date": "07/2020",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Trabajo en equipo / Liderazgo",
+            "country": "Irlanda",
+            "institution_or_company": "Beech Hill College, Monaghan",
+            "start_date": "10/2018 - presente",
+            "end_date": "",
+            "description": "Profesora de clases particulares: Español (nativo), Matemáticas, Dibujo Técnico e Inglés. Nivel C1 Cambridge.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Voluntariado",
+            "country": "Irlanda",
+            "institution_or_company": "",
+            "start_date": "07/2014 - 07/2015, 07/2016",
+            "end_date": "",
+            "description": "Monitora Campamento Verano 'Las Siervas del Evangelio'",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Voluntariado / Francés (básico)",
+            "country": "Irlanda",
+            "institution_or_company": "",
+            "start_date": "07/2016",
+            "end_date": "",
+            "description": "Voluntaria Campamento Anawin",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [],
+        "soft_skills": [
+            "constante",
+            "lucha por conseguir lo que se propone",
+            "trabajadora en equipo",
+            "liderazgo"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2018 - presente, 2014 - 2015, 2016",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

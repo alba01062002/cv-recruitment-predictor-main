@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "ion elberdin navarro e-mail: ionelberdino gmail.com mobile: +34 669129003 - home: +34 912255812 address: calle serradilla 7, 42c. 28044 madrid date of birth: 26 october 1986 - spanish nationality tam an enthusiastic engineer with aeronautical background willing to make a real impact in engineering research and development education 2015 mit at edx platform, online march-may mitx6.00.2x computational thinking and data science (8 weeks) covers: probability hashing, stochastic programming & statistical waiting for thinking, monte carlo simulations, using randomness to solve non-random electronic : : oe problems, knapsack problem and machine learning. certificate 2015 berkeley university of california at edx platform, online february-april cs188.1x artificial intelligence (11 weeks) covers: agents, search : planning, constraint satisfaction problems, game link to trees decision theory (minimax, expectimax, af -pruning...), markov electronic o. . . decision processes and reinforcement learning. certificate 2004 - 2014 universidad politécnica de madrid (upm), spain msc aeronautical engineer - 5 year programme. school of aeronautics strong theory in physics, calculus, algebra and differential equations with applied subjects such as: aerodynamics, fluid mechanics, turbo engines, structural design, flight mechanics and electronics. 2014 universidad politécnica de madrid, spain thesis - thermo-fluid dynamics department thermal optimisation of turning vanes in a closed-subsonic wind tunnel turning vanes geometry was optimised to maximise heat exchange while minimising flow pressure drop. the solution was initially estimated using hand calculations and simple computational models. when a geometry was chosen, a complex computational fluid dynamic model was set up to validate the results and assumptions made in the first stages. complex calculations were solved using python and openfoam. awarded with excellent (10/10) 2002 - 2004 higher school education - colegio lourdes, spain a level equivalent. maths, physics, chemistry and three others - graduated with honours. languages o spanish (fluent), english (fluent), french (intermediate) work experience 2011-2015 teacher: hp50g programming calculator and python courses for part-time aeronautical students. basic introduction and programming skills. 2007 - 2008 universidad politécnica de madrid, spain part-time research assistant - thermodynamics department calibration of data acquisition hardware to measure temperature and pressure for future student experiments. the task involved calibrating test bed for accurately passing variables into matlab. 2007 - 2014 private teacher of students who are preparing university access exams. part-time subjects include: maths, physics, chemistry and technical drawing. 2012-2013 developer - customer relationship manager (crm) part-time i helped a startup by setting up: the website and an integrated crm with online booking system. (http: //mylittlemomo.es) activities and interests 2014-2015 trip to mauritius novto jan i went to mauritius with my wife, to meet her family and discover the island where she grew up. two amazing months practicing french, learning some mauritian creole and celebrating christmas in summer! 2010 my best friend and i drove from madrid to mongolia during summer break summer crossing central europe and russia. an exciting, challenging and very rewarding trip with many lessons learned and a great cultural immersion. 1994-2010 hockey player member of aluche rink hockey club. joined at 8 years old and captain of the team to compete at national level. lead the team from local competitions to 3\" national league. also participated in the organization of the club and as coach of the junior teams. gained experience in team management and emotional intelligence. in 2009, alcorcón rink hockey club signed me up to play in 2nd national league at professional level. computing skills software: matlab, catia v5, msc nastran/patran, openfoam. programming: python, fortran, matlab, c/c++, c#, java, r, sql, oop. other skills: ms office (excel, word & access), fluent in win/macosx/linux platforms. experience in raspberry pi home projects, data acquisition boards, web design & architecture development. referees guillem borrell i nogueras rafael gómez blanco thesis supervisor thesis director universidad politécnica de madrid universidad politécnica de madrid +34 655 388 683 +34 616 487 929 guillem@torroja.dmt.upm.es rafael.gomez@upm.es",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI15"
+}

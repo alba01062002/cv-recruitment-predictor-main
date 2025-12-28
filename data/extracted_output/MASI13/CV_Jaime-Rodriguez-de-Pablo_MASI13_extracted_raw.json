@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "address: c/bolívar n 4, 08197, sant cugat del vallés, spain place and date of birth: barcelona, october 4 1988 mobile phone/fixed-line: +34690396134/+34936754342 e-mail: jaimerodriguezdp@gmail.com linkedin profile: http://www.linkedin.com/in/jaimerodriguezdepablo/en ad 2006-2012 catalunya (upc) escola técnica superior d'enginyeria industrial de barcelona (etseib). universitat politécnica de five-year industrial engineering degree. major in electronics (average grade: 7.16 out of 10) final degree thesis (carried out at nub3d s.l.) - awarded with honours \"optimización de un proyector con tecnología led para su uso en sistemas de digitalizado 3d por luz 2011-2012 \" blanca [eng: optimization of a led projector for its integration in white light 3d digitizing systems] oral written read catalan/ : spanish native e certificate in advanced english (cae) - level c1 english fluent fluent fluent e first certificate in english (fce) e 60h english course in the esade young learners programme framework german elementary elementary elementary e levela1 april 2011-may 2012 nub3d s.l. internship in the engineering department platforms: windows, linux and mac os general software: ms office (word, excel and power point), photoshop, internet complete english to spanish translation of polyworks'\" 3d metrology software (more than 30000 interface lines translated) research in led projection technology leading to an optimization proposal of this technology for its future integration in white light 3d digitizing systems design and manufacturing of a power and control electronics prototype (based on a led driver) for a led projector, targeting the optimization of its luminous response for its use in white light 3d digitizing systems engineering software: ansys, autocad, matlab/simulink, minitab, orcad pspice, polyworks, psim, quartus, solidworks, vmlab languages programming: c/c++, assembly hardware description: vhdl design (using the orcad capture/layout software) and implementation (on a printed circuit board) of an electronics system for the visualization and control of an object's position design of a dc/dc step-down converter (using the psim software) for a laptop power supply. implementation on a prototyping board design of a vga monitor control system and implementation on a fpga (cyclone ill). the fpga was programmed in vhdl using the altera quartus/modelsim software programming of a microcontroller (st6225) to control an object transportation platform integrated by a series of sensors and motors. the microcontroller was programmed in assembly language using the vmlab software other minor designs both in analogue electronics (using operational amplifiers) and digital electronics (microprocessor programming using c and assembly languages) e average grade of 9.5 out of 10 at technological high school and 8.1 out of 10 in the university admission tests academic data e research project - awarded with 3\" prize at cassa de la selva renewable energies fair: \"viabilitat de les energies renovables a i'habitatge\" [eng: viability of renewable energy use in housing] e hobbies: fond of travelling (having travelled to many countries in europe, africa, north america and asia), digital photography (awarded in contests), sports (football, mountain biking, skiing...), astronomy e car driver's license personal data",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI13"
+}

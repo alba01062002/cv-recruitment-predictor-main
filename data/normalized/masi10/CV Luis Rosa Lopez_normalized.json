@@ -1,0 +1,95 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Luis Eduardo López",
+        "date_of_birth": "19/07/1983",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 27,
+        "email": "luidurosa@gmail.com",
+        "phone": "669562987",
+        "address": "c/Raimundo Fernández Villaverde, n44, portal d 211. 28003 Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero de telecomunicación",
+            "field": "Electrónica, Ingeniería de sistemas, Programación, Teoría de comunicaciones digitales y analógicas, Radiocomunicación, Economía",
+            "university": "Escuela Técnica Superior de Ingeniería de Telecomunicación Málaga",
+            "location": "Málaga",
+            "year": "2001-2009",
+            "duration_years": 8.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Cámara de Comercio Málaga",
+            "position": "Realización Proyectos ICT",
+            "description": "Comunicación eficaz, R",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "C++",
+            "VHDL",
+            "MATLAB"
+        ],
+        "soft_skills": [
+            "Trabajo en equipo",
+            "Segundo entrenador de vela",
+            "Iniciativa",
+            "Saber tratar con todo tipo de personas",
+            "Capacidades organizativas",
+            "Liderazgo",
+            "Buen comunicador",
+            "Atento y rápido aprendizaje",
+            "Buen ojo para los detalles"
+        ]
+    },
+    "other_interests_normalized": [
+        "Vela",
+        "Viajar",
+        "Fútbol"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Miembro de un equipo de vela, Segundo entrenador del mismo",
+            "duration": "2001-2009",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.7
+}

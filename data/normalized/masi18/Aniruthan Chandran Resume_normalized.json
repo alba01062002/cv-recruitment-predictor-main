@@ -1,0 +1,126 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Aniruthan Chandran",
+        "date_of_birth": "12/05/1987",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 31,
+        "email": "aniruth1205@outlook.com",
+        "phone": "+31 615441780",
+        "address": "Bosdijk 36f, 5612AM Eindhoven, the Netherlands",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Electronics & Communication Engineering",
+            "field": "Electronics and Communications",
+            "university": "Anna University, Tiruchirappalli",
+            "location": "Tiruchirappalli, India",
+            "year": "2010-2011",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Master's in Micro and Nano Systems (Partially Completed)",
+            "field": "Micro and Nano Systems Design",
+            "university": "Technical University of Chemnitz",
+            "location": "Chemnitz, Germany",
+            "year": "2011-2018",
+            "duration_years": 7.0
+        },
+        {
+            "degree": "Master's Thesis at ASML (Netherlands)",
+            "field": "Aircraft System Integration",
+            "university": "ASML",
+            "location": "Eindhoven, the Netherlands",
+            "year": "2015-2016",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Research Internship at IIT Madras (India)",
+            "field": "Soft Matter Structure and Dynamics",
+            "university": "Indian Institute of Technology, Madras",
+            "location": "Madras, India",
+            "year": "2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ASML",
+            "position": "Support on Integration/Upgrades on Newer EUV Systems and Technology in the Field (e.g., at Intel, USA; Samsung, South Korea; TSMC, Taiwan; IBM, USA and Global Foundries)",
+            "description": "Focused on system integration/upgrades and solving complex technical problems to prevent design issues in upcoming systems and maximize ASML's system performance.",
+            "start_date": "04/2016",
+            "end_date": "12/2025",
+            "duration_years": 9.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "International Research Internship (Received Scholarship from DAAD)",
+            "country": "Spain",
+            "institution_or_company": "Universitat Politecnica de Catalunya - Escola d'Enginyeria de Telecomunicació i Aeroespacial de Castelldefels, Barcelona",
+            "start_date": "01/2014",
+            "end_date": "",
+            "description": "Investigation of the calibration model and evaluation of focus performance at the wafer edge. Used MATLAB for simulation and phase optimization focused on clipping algorithm.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Research Internship, Received Scholarship Industrial Training and Overseas Study Visits (BPSA) from Germany",
+            "country": "Germany",
+            "institution_or_company": "Soft Matter Structure and Dynamics, IIT Madras",
+            "start_date": "10/2014",
+            "end_date": "",
+            "description": "Characterization of thin films with ellipsometry. Created a GUI interface for M.Tech students to calculate the refractive index.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Tamil (mother tongue)",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Hindi (fluent)",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Comsol",
+            "Labview",
+            "C, C++",
+            "Embedded C",
+            "MathCAD",
+            "Ansys"
+        ],
+        "soft_skills": [
+            "Analytical Troubleshooting",
+            "Project Management",
+            "Organizational/Managerial Skills",
+            "Technical Problem Solving"
+        ]
+    },
+    "other_interests_normalized": [
+        "Organized International Food Festival and Technical Seminar Program in University",
+        "Diwali Cultural Program at ASML Netherlands"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 9.67,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "manuel arias guillén manuelariasguillen@gmail.com 686836523 personal information name address phone e-mail nationality date of birth id driver licence manuel arias guillén residencia piquio 4- 4 d cp:39005 santander 686836523 manuelariasguillen@gmail.com spanish 21-11-1985 72078406 v b1, date of issue: december 2003 professional development [april 2010- today] [oct. 2008 april 2010] education full-time employee at grupo sms europa, working as telecommunications project engineer to carry out projects for red eléctrica espafola contracted by the universidad of cantabrias department of communication to participate in the research project terasense (terahertz technology for electromagnetic sensing applications) [oct. 2008 sep. 2009] [sep. 2003 jun. 2008] master ticrm (tecnologías de la información y comunicaciones en redes móviles/information and communication technology in mobile networks) mcd2007-00133 universidad of cantabria. telecommunications engineering degree (major subject area: radio communications) etsiit universidad of cantabria [agoust 2007 may 2008] usa student exchange program. 9 months scholarship at the university of miami taking courses and doing my final year project presentations 1 title: amplificador mhemt cascodo de bajo ruido a 100 ghz conference: xxiv simposium nacional de la unión científica internacional de radio (ursi 2009) santander, september 2009, first-author paper 2 title: diseo de un amplificador mhemt de media potencia a 94-100 ghz conference: xxiv simposium nacional de la unión científica internacional de radio (ursi 2009) santander, september 2009, first-author paper 3 title: improved compact microstrip low pass filter with novel distributions of complementary split ring resonators (csrrs) conference: ieee asia pacific microwave conference 2009 (apmc 2009) singapore, december 2009, poster presentation, co-author courses [oct. 2009] \"efficient and linear microwave power amplifiers\" santander, by zoya popovic from university of colorado [may 2009] \"terahertz technology and applications\" barcelona, organized by the european school of antennas languaje skills english nivel alto [july 2002] english course sherborne, uk [july 2001] english course sidney, australia [july 2000] english course oakville, canada certificates 3 curso escuela oficial de idiomas test of english as a foreign language (toefl) technical knowledge high level in circuit design programs: ads ,hfss, ensemble medium-high level in operating systems: windows (98, me, xp, 7). linux matlab, autocad, inventor. windows: word, excel, power point, visio. programming languages: objective-c, c/c++,assembler (mips), lisp,vhdl",
+    "text_from_header": "PERSONAL INFORMATION",
+    "detected_language": "en",
+    "master_edition": "MASI11"
+}

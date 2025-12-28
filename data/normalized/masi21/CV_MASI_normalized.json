@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge Vallejo Mio",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "jorgevallejog.8080@gmail.com",
+        "phone": "+52 55 4587 6083",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/jorgevallejogarcia",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Aircraft Systems Integration",
+            "field": "Aircraft Systems Integration",
+            "university": "Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Ticomán (ESIME UTL)",
+            "location": "Mexico City, Mexico",
+            "year": "2017-2021",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "1900 Soluciones Financieras, CDMX, México",
+            "position": "Translator, Technology Trainer and Specialist",
+            "description": "Trained executive crew in digital tools including Google Workspace apps, Zoom, Webex, and Microsoft Office apps. Managed technical equipment shopping, reduced 45% from the budgeted cost for technology equipment by matching enterprise needs with equipment specs. Interpreted English mails that built the company's communication with international enterprises and allowed business between them. Designed information gathering methodology and protocol for field agents. Verified redaction and orthography for documents, contracts, and letters made by the company. Provided lessons in English, Spanish/Communication, Logic Thinking, Computer, and Mathematics. Trained a high school student to pass the admission test for university.",
+            "start_date": "2019-01",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "null",
+            "country": "null",
+            "institution_or_company": "null",
+            "start_date": "",
+            "end_date": "",
+            "description": "null",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "MATLAB",
+            "AutoCAD",
+            "SolidWorks",
+            "CATIA",
+            "Python",
+            "Control Systems Design",
+            "Structural Analysis",
+            "Design Thinking Methodology"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "CAD Management",
+            "Risk Management",
+            "Leadership Training",
+            "Active Listening",
+            "Assertiveness",
+            "Proactivity"
+        ]
+    },
+    "other_interests_normalized": [
+        "Logic Thinking",
+        "Teaching",
+        "Computer Science"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "null",
+            "role": "Heading volunteering activities including an entertainment event for asylum and giving food to homeless people.",
+            "duration": "2019-2020",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

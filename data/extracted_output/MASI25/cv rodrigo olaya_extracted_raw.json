@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "rodrigo olaya moreno (716) 440-0248 rom.fitz@gmail.com linkedin state college, pa eu citizen (spain) education the pennsylvania state university university park, pa, usa bachelor of science in computer engineering aug 2021 - may 2025 grade point average: 9.6/10 work experience hp inc. spring, tx, usa core bios firmware engineering intern july 2024 - may 2025 e engineered test automation solutions for embedded systems using python and robot framework, enabling efficient troubleshooting, and reducing manual intervention. e developed scripts for safe communication with embedded controller ram, automating quality assurance tests for bios-level components (keyboard, touchpad, display, power). e collaborated with a crossfunctional team to deploy a defined number of tests per sprint, leveraging agile and ci/cd methodologies and git for version control. computer science and engineering department university park, pa, usa teaching assistant, programming and computation ii jan 2024 - june 2024 e assisted the professor in grading python-based assignments. mathematics department university park, pa, usa teaching assistant, calculus jan 2022 - may 2022 e conducted review sessions for twenty students and assisted the professor organizing class. engineering projects autonomous robot car university park, pa, usa designed a robot car using raspberry pi and c programming in linux jan 2025 - may 2025 e implemented multi-threaded remote control, autonomous line tracing and autonomous laser pointer following. e enabled 12c communication with an inertial measurement unit to collect motion data. te connectivity llmbased machine maintenance university park, pa, usa llm-based chatbot using retrieval-augmented generation (rag) sept 2024 - may 2025 e led the end-to-end development of a user interface capable of retrieving answers and relevant pages from factory machine manuals using html, css, javascript and django. e communicated with te connectivity representatives to ensure compliance with customer needs. e developed a rag model, including context generation, embedding creation and similarity search. mips pipelined cpu university park, pa, usa designed a 5-stage mips pipelined cpu jan 2023 - feb 2023 e optimized speed using multi-stage forwarding, mips instruction set, verilog, xilinx vivado and xilinx fpga. skills programming languages: c, c++, java, python, assembly, verilog, matlab, html, css, javascript, react, bash. embedded software: zephyr rtos, linux, operating systems, device drivers, computer vision. communication protocols: 12c, spi, uart, gpio, tcp/ip. hardware: arm cortexm, stm32, x86, raspberry pi, pcb design, fpga, schematics, labview, cad, lot. software dev tools: agile, jira, azure, ci/cd, oop, docker, sdlc. languages: spanish (native), catalan (fluent), english (fluent).",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI25"
+}

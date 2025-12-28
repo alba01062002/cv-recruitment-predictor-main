@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "alx.rion@live.be inquiring mind team spirit open to challenges rion alexandre born on 2\" march 1988 rue des grands méches, 21 +32 473 78 40 53 (belgium) 6724 marbehan (belgium) +34 633 668 980 (spain) aerospace enginees, trilingual: french english spanish education: september 2009 june 2011 : master (bologna) in aerospace engineering université de liége (ulg) erasmus september 2010 - june 2011 in universidad politécnica de madrid / e.t.s.l.aeronáuticos in madrid thesis: reduced order model generation for unsteady thermal flows, applied to a mems vortex promoter (in madrid) degree result: summa cum laude / 1% rank september 2006 june 2009 : bachelor (bologna) in engineering sciences (physics/mechanics) université de liége (ulg) degree result: summa cum laude / 271 rank work experience: july 2011 - september 2011 : scholarship as mechanical engineer instituto de astrofisica de canarias (iac) design of emir instrument's control cabinets for the gtc telescope: selection and design of elements 3d models (creo/element) and 2d drawings (autocad) documentation and description of assembly, tests and integration trainings: by air-liquide for use of cryogenic installation and liquid nitrogen handling (july 2011) by spanset for slings and heavy loads handling (september 2011) september 2008 august 2010 : graduate teaching assistant université de liége (ulg) teaching in course systems modelling and analysis to 274 bachelor students supervising help sessions in mathematics and mechanics for 1st and 2 bachelor students teaching analysis to prepare students to the admission exam to engineering studies july 2008 : coordinator and waiter (summer job) académie internationale deté de wallonie (akdt) bar management, organisation of places and coordination of students mother tongue: french english: very good (read, written, spoken) trip in florida in august 2010 (including kennedy space center visit) dutch: basic spanish: fluent (read, written, spoke) dele diploma of cervantes institute level b1 (93.5%) - upm diploma level b2.1 erasmus/final project in madrid (sept 2010 june 2011) scholarship in tenerife (july 2011 - sept 2011) social aptitudes: good experience in group work / team spirit leader skills experienced during projects and while assisting and teaching to students skills to work and live in a multicultural environment organizational aptitudes: ability to lead a project and take initiatives undertook the whole design phase of emir electronic cabinets in the iac, involving: - design choices and justifications - work together with other concerned persons and departments - contacts with suppliers and external organisms - share my work (presentation, documentation) computer skills: operating systems : microsoft windows, linux/ubuntu general applications : microsoft office (excel, powerpoint, word), gimp cad applications : autocad, catia v5, pro/engineer (creo/element), samcef, solidedge programming : matlab/simulink, mathematica, asm (x86, superh), c/c++, fortran, lua, vhdl, qt, parallel programming (mpi, openmp) member from 2004 to 2006 of a programmer community (classpad 300) role: creation of interface for hardware features (asm / cc++) attend online classes artificial intelligence and machine learning of the stanford university further information: member of the 1st ranked team of the ingénieur projet competition 2009 2010 : cansat project role : integration of components and ground station programming first ranked at the admission exam to engineering studies (université catholique de louvain - ucl) member of the belgian team for the euromath cup in paris in 2005 (1* prize) laureate of the belgian mathematical olympiad (2003 2006), physics olympiad (2005 and 2006) and the international competition for mathematical an logical games (2006) other interests: amateur astronomy: celestron c8 203.2mm - astronomers meetings la palma/tenerife telescopes visit (iac) apiculture (from 2009) sports: football (in a team from 1994 to 2005), padel tennis, cycling, swimming travelling and discovering new cultures",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI12"
+}

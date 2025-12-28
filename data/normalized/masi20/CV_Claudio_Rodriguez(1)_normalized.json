@@ -1,0 +1,159 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Claudio Ignacio Rodríguez Briceo",
+        "date_of_birth": "19/07/1988",
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": 32,
+        "email": "claudiorodriguez00@hotmail.com",
+        "phone": "+34 655-25-55-25",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Telecommunication Engineering",
+            "field": "Electronics and Telecommunications",
+            "university": "Universidad de Málaga",
+            "location": "Málaga, Spain",
+            "year": "2006-2011",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master's in Software Engineering (Vodafone)",
+            "field": "Software Engineering",
+            "university": "Universidad de Málaga",
+            "location": "Málaga, Spain",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "European Patent Office - The Hague",
+            "position": "Functional Analyst and Developer",
+            "description": "Developed web application. Function: Taking technical requirements, meetings with business team, feasibility of developments, functional analysis, backend development, databases.",
+            "start_date": "09/2018",
+            "end_date": "03/2019",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Ayesa - Madrid",
+            "position": "Functional Analyst",
+            "description": "Developed web application. Function: Taking technical requirements, meetings with business team, feasibility of developments, functional analysis, backend development, databases.",
+            "start_date": "10/2017",
+            "end_date": "08/2018",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Telefónica - Madrid",
+            "position": "Functional Analyst and Developer",
+            "description": "Developed web application. Function: Taking technical requirements, meetings with business team, feasibility of developments, functional analysis, backend development, databases.",
+            "start_date": "02/2016",
+            "end_date": "09/2017",
+            "duration_years": 1.58
+        },
+        {
+            "company": "Vodafone - Madrid",
+            "position": "Functional Analyst and Developer",
+            "description": "Developed hybrid application. Function: Estimation and planning of development times, taking technical requirements, meetings with business team, feasibility of developments, functional analysis, backend development, frontend development, databases.",
+            "start_date": "01/2015",
+            "end_date": "06/2016",
+            "duration_years": 1.42
+        },
+        {
+            "company": "BBVA - Madrid",
+            "position": "Functional Analyst and Developer",
+            "description": "Developed web application. Function: Taking of technical requirements, meetings with business team, viability of the developments, functional analysis, backend development, databases.",
+            "start_date": "06/2014",
+            "end_date": "01/2015",
+            "duration_years": 0.58
+        },
+        {
+            "company": "Ydilo - Madrid",
+            "position": "Functional Analyst and Developer",
+            "description": "Developed web apps, hybrid, and native mobile apps. Function: Estimation and planning of development times, taking technical requirements, meetings with business team, feasibility of the developments, functional analysis, backend development, frontend development, bbdd.",
+            "start_date": "01/2013",
+            "end_date": "06/2014",
+            "duration_years": 1.42
+        },
+        {
+            "company": "University of Málaga",
+            "position": "Own Project",
+            "description": "Developed a mobile application for sports activities at the university of malaga. Technologies: Android, phpmyadmin, rest, solite.",
+            "start_date": "01/2011",
+            "end_date": "01/2012",
+            "duration_years": 1.0
+        },
+        {
+            "company": "DeKRA - Málaga",
+            "position": "Own Project",
+            "description": "Certification of wireless devices. Measurement of the characteristic parameters in a test bench and anechoic chamber through tests and subsequent drafting of data. Design and repair of PCB incidents. Operation of OrCAD (SW) and necessary measurement tools.",
+            "start_date": "01/2012",
+            "end_date": "01/2013",
+            "duration_years": 1.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "Spring",
+            "Maven",
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "jQuery",
+            "Ajax",
+            "Oracle",
+            "Scrum",
+            "Python"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Ambition",
+            "Curiosity",
+            "Problem resolution",
+            "Self-criticism",
+            "Proactivity",
+            "Business-oriented",
+            "Autodidactism",
+            "Teamwork"
+        ]
+    },
+    "other_interests_normalized": [
+        "Entrepreneurship",
+        "Technology development",
+        "Learning and error"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 8.33,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.2
+}

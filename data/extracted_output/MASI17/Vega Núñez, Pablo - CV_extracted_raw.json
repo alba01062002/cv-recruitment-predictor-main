@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "pablo vega núez personal data place and date of birth: malaga, spain 02 june 1992 address: seville, spain phone: +34 677 802 249 email: pabvegnun@gmail.com linkedin: www.linkedin.com/in/pabvegnun work experience current technical author at atexis spain s.l., seville november 2015 l&m ipc author. 6 months internship + full time. technical authoring of ipc (illustrated parts catalog). study of technical documentation (rfcs, irfcs, sevice bulletins, concessions, cds, drawings, wiring diagrams...) for airbus light & medium programme (c295, cn235, c212). impact assessment on ata chapters, elaboration and validation of illustrations and part lists, quality assurance and technical support for partners. february-may 2016 research grant at aicia, seville airports project. part time. development of an indoor positioning system. revision, study and advise about suitable technologies in order to meet clients needs. regular presentations and meetings with involved departments. impact of european normative and patents. summers 2007 - 2010 summer job at sur in english, malaga trainee. part time. summer job in an english newspaper. designing and placing adverts, customer support in english/ spanish, computer and network maintenance, messenger boy. education 2010 - 2016 degree in aerospace engineering higher technical school of engineering, seville major: air navigation. tfg: medidas en circuitos digitales de alta velocidad prof. joaquin bernal méndez 10/10 with honors. avg.: 6,57/10 detailed academic grades 2006 - 2010 musical interpretation & composition professional conservatory of music costa del sol / manuel carra, málaga major: piano. certificates and academic achivement june 2016 certificate in advanced english - c1 score: 192/210. 2014 wave propagation and electromagnetic compatibility 10/10 with honors. languages spanish: mothertongue english: fluent french: basic computer skills advanced knowledge: matlab, simulink, pspice, proteus, catia, sdr#, vba, ms office. intermediate knowledge: nastran-patran, c, html, linux, ubuntu, mtéx. interests, activities and additional info arduino, diy, software defined radio, meteorology, 3d print, stock markets, mountain biking. driving license b1 and own vehicle. academic records degree in aerospace engineering grades subject grade credit hrs propagacion de ondas y compatibilidad electromagnética 10 4,5 trabajo fin de grado 10 12 sistemas electrónicos de comunicación 9,5 6 sistemas de ayuda a la navegación 9,4 4,5 meteorología 9 4,5 estadística e investigación operativa 8,5 4,5 seales y sistemas de radiofrecuencia 8 4,5 sistemas de propulsión 8 4,5 proyectos ingeniería aeroespacial 7,5 4,5 mecánica de vuelo y operaciones de vuelo 7,5 6 diseo y fabricación asistidos por ordenador 7,5 4,5 operaciones aeroportuarias y transporte aéreo 7,3 4,5 control automático 7,1 4,5 electrotecnia 7,1 6 aviónica 7 6 sistemas de control y guiado 7 4,5 informática 6,5 6 métodos matemáticos 6,5 4,5 fundamentos de navegación aérea 6,4 7,5 gestión del tráfico aéreo 6,3 6 introducción a la ingeniería aeroespacial 6,2 6 elasticidad y resistencia de materiales 6,2 6 química general 6,1 6 estructuras 6,1 6 matemáticas iii 5,8 6 expresión gráfica 5,7 6 explotación del transporte aéreo 5,7 4,5 física 5,6 termodinámica 5,6 6 ciencia y tecnología de materiales aeroespaciales 5,5 7,5 fisica ii 5,3 6 tecnología electrónica 5,3 6 sistemas eléctricos en aeronaves y aeropuertos 5,3 4,5 empresa 5 6 matemáticas 5 6 tecnología de fabricación 5 4,5 matemáticas ii 5 6 ingeniería electrónica 5 6 mecánica de fluidos 5 6 ampliación de matemáticas 5 4,5 ampliación de física 5 6 aerodinámica 5 45 total 120 avg. 6,57",
+    "text_from_header": "PERSONAL DATA",
+    "detected_language": "en",
+    "master_edition": "MASI17"
+}

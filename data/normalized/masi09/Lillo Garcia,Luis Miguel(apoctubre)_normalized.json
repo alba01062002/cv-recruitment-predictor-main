@@ -1,0 +1,84 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Luis Miguel Lillo García",
+        "date_of_birth": "03/08/1983",
+        "gender": "male",
+        "age_reference_year": 2009,
+        "age": 26,
+        "email": "luism.lillo@gmail.com",
+        "phone": "91 404 2009, 666 512 789",
+        "address": "c/ Caribe 5 y 7. Madrid 28027",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería superior industrial, especialidad en mecánica",
+            "field": "Mecánica",
+            "university": "Universidad Alfonso X el Sabio",
+            "location": "Madrid",
+            "year": "2008-2002",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Feria de Madrid (IFEMA)",
+            "position": "Recepción y gestión en base de datos de clientes",
+            "description": "",
+            "start_date": "02/2006",
+            "end_date": "03/2003",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Curso de inglés general y habilidades de comunicación",
+            "country": "Reino Unido",
+            "institution_or_company": "Universidad de Bristol",
+            "start_date": "08/2008",
+            "end_date": "09/2008",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office",
+            "Diseño y arquitectura de redes",
+            "Programación en C++ y Java",
+            "Mallado",
+            "CATIA V5",
+            "AutoCAD",
+            "Ansys"
+        ],
+        "soft_skills": [
+            "Liderazgo",
+            "Relaciones laborales y recursos humanos",
+            "Comunicación",
+            "Operaciones"
+        ]
+    },
+    "other_interests_normalized": [
+        "Carnet de conducir B"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 19,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alberto Esteller Torres",
+        "date_of_birth": "03/01/1992",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 23,
+        "email": "estelleralberto@gmail.com",
+        "phone": "+44 7477944342",
+        "address": "C/ Emilio Lluch 26, 11-a. 46014 Valencia, Spain",
+        "LinkedIn": "https://www.linkedin.com/in/albertoesteller",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MSc Aeronautical Engineering",
+            "field": "Aerospace Engineering, Aircraft Engines Specialisation",
+            "university": "University of Glasgow",
+            "location": "Glasgow, United Kingdom",
+            "year": "2014 - until now",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Aerospace Engineering, Aircraft Engines Specialisation",
+            "university": "Politechnika Rzeszowska",
+            "location": "Rzeszow, Poland",
+            "year": "2013 - 2014",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Aerospace Engineering, Aircraft Engines Specialisation (High Performance Group)",
+            "university": "Universidad Politécnica de Valencia",
+            "location": "Valencia, Spain",
+            "year": "2010 - 2013",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Spanish Air Force",
+            "position": "Aeronautical Engineer Internship",
+            "description": "Quality control and maintenance of McDonnell Douglas F/A-18 Hornet. Advanced familiarization course of all the embedded systems and inspection tests.",
+            "start_date": "07/2014",
+            "end_date": "08/2014",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Programme",
+            "country": "Poland",
+            "institution_or_company": "Politechnika Rzeszowska",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Polish",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Office Suite (Excel, Word, PowerPoint)",
+            "MATLAB code and Simulink (and other toolboxes)",
+            "CFD Software (Star-CCM+ and Fluent)",
+            "CAD Software (Autodesk Inventor, CATIA V5, Siemens NX)",
+            "GASTURB, STATGRAPHICS, Wolfram Mathematica"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Working within a team (developed several group projects during college period) and also work independently"
+        ]
+    },
+    "other_interests_normalized": [
+        "Photography and picture editing (Nikon course in 2010)",
+        "Music (degree in saxophone by the Iturbi Valencia Conservatory of Music, music DJ-ing and production)",
+        "Swimming and winter sports such as skiing"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Petjades",
+            "role": "Volunteer",
+            "duration": "2008 - 2010",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 0.08,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

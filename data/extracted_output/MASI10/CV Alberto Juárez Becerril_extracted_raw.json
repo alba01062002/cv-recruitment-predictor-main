@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "alberto juárez becerril información personal fecha y lugar de nacimiento: av. derechos humanos 19, 4a 10-04-1982 (palencia) nacionalidad: espafiola telf. 657413897 / 916931151 estudios 01/2009 12/2009 madrid 10/2000 06/2008 leganés 10/1988 - 06/2000 getafe experiencia profesion 03/2009 - actualidad tres cantos 09/2008 03/2009 pozuelo de alarcón 10/2007 - 05/2008 tallin, estonia 09/2006 - 05/2007 leganés dirección 28914 leganés (madrid) abjuarezo gmail.com máster en tecnología espacial master thesis: analysis and design of an interplanetary mission to mars universidad politécnica de madrid (etsit y etsia) ingeniero de telecomunicación especialidad: planificación y gestión de las telecomunicaciones universidad carlos iii de madrid profesor de música: violín conservatorio profesional de música de getafe al deimos-space mission and data systems division. proyectos: - sepso. statistical end-to-end performance simulator for optical imaging (gmes - sentinel 2) instrumentos ópticos: multispectral imager y spectro-imager. indra ingeniero de sistemas. departamento de redes. proyectos: - red de control del edificio torre caja madrid. - despliegue toip de repsol. - despliegue de qos en la red del ayuntamiento de rivas vaciamadrid. rantelon desarrollo de antenas para rfid en colaboración con la universidad tecnológica de tallin universidad carlos iii de madrid departamento de informática (cau). conocimientos - ingenieria y gestión de proyectos espaciales. - análisis y diseo de misiones espaciales. - desarrollo, verificación, validación, integración y documentación de proyectos de acuerdo a estándares europeos (ecss). - global navigation satellite systems (gnss) and augmentation systems (sbas and gbas). - comunicaciones por satélite, aeronáuticas, rf, antenas. - matlab, c/c++, java, windows, unix/linux. - electronica analógica y digital. - equipos cisco: switching y routing. idiomas e inglés: advanced level hablado: conversación escrito: alto leído: alto + ruso y estonio: nociones básicas estancias en el extranjero 09/2007 05/2008 intercambio erasmus en la universidad tecnológica de tallin tallin, estonia realización del proyecto fin de carrera development of uhf rfid antenna for mobile robots (proyecto europeo roboswarm http://www.roboswarm.eu/) cursos 01/2008 tecnología rfid y sus aplicaciones. universidad tecnológica de tallin, estonia tallin (15 horas). 25-29/09/2006 sistemas operativos, sistemas servidor, desarrollo de aplicaciones getafe para internet, redes y linux (20 horas). 18-22 /09/2006 arquitectura, montaje práctico y reparación del pc, y arquitectura de getafe redes (20 horas). 02/2005 - 05/2005 aviónica (60 horas). universidad carlos iii de madrid. leganés areas de interés - sector aeronáutico y aeroespacial - comunicaciones por satélite y gnss - radiofrecuencia, microondas y antenas - electronica otros datos - colegiado del coit n 15.862 - miembro de la aeit n 19.102",
+    "text_from_header": "ALBERTO JUÁREZ BECERRIL",
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

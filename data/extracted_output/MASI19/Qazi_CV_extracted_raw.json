@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "qazi ejaz ur rehman education 2015-2017 master of science aerospace engineering guidance navigation and controls 3.29 on scale of 4.00 institute of space technology, islamabad 2011-2015 bachelor of engineering avionics engineering 2.46 on scale of 4.00 national university of sciences and technology (nust) 2009-2011 pre-engineering higher secondary school certificate marks 912/1100 (82.9 %, a+) cadet college skardu, skardu 2007 - 2009 matriculation secondary school certifi- cate marks 940/1050 (89.5 %, a+) cadet college skardu, skardu work experience oct 2015 feb, 2016 institute of space technology! graduate research assistant * establishment of maintenance training organi- sation exposition * engineering instructor of easa part-66 mod- ules (m3, m5 & m8) * establishment of workshops of easa modules (mo3, mo4, mo5, mo6 & mo7) in accordance with easa & caa pakistan standards * development of question bank of easa modules (m2, m3, m4, m5) * taught aircraft control and systems & program- ming language 'part time employment may 2015 present the linguist institute? incharge administration & discipline * teaching english as professional language * supervising staff for their duties and discipline. projects 2016 master semester project * simulation and analysis of heat tran- sient response over turbine blade * optimum solution for placing loads on weapon bay, by approximating as 2-d lid driven cavity 2015 individual final year project stability and control of a quad-copter despite the complete loss of one, two, or three propellers 2015 avionics system design * avionics system design of bombardier aircraft and passenger airliner 2014 semester projects * hardware implementation and test- ing of voice command controlled quad- copter in ni labview. * design and fabrication of air speed in- dicator * design, fabrication, testing and suc- cessful flight of vtol uav 2013 semester projects * interface of proteus and matlab. certification part-66 (m1, m2, m3, m5) easa- european aviation safety agency ielts (general training) reading: 9 listening: 8.5 speaking: 6.5 writing: 6 federal aviation administration (faa) e basic aircraft systems certificate number # 0874163-20170107-00414 embry-riddle aeronautical university e aircraft maintenance documentation for amt's certificate number # 0874163-20170107-00180 e human factors primer for aviation mechanics certificate number # 0874163-20170108-00258 e dirty dozen-human error in aircraft maintenance certificate number # 0874163-20170108-00107 2full time employment professional affiliations pakistan engineering council registered engineer license no. aero/2052 communication skills urdu native/bilingual proficiency english full professional proficiency hindi native or bilingual proficiency punjabi native or bilingual proficiency french intermmediate proficiency publications 2015 stability and control solution to quadcopters conference paper at 4 international conference on aerospace science and engineering (icase)-ieee, islamabad software skills good level . c/c++ . efex . arduino . solid edge . ni labview . microsoft visio . linux/unix . microsoft office . microsoft project . matlab and simulink intermediate flight simulator, maple, wolfram, python basic level fortran, assembly language for microcontrollers ansys (mechanical apdl), fluent hardware skills . subsonic (close & open circuit) wind tunnel test- ing . supersonic wind tunnel testing . smoke wind tunnel testing . circuit patching / soldering . fixed wing uav fabrication . pic microcontrollers . serial communication (pic, arduino and matlab) . i2c communication (pic, arduino and matlab . spi communication (pic, arduino and matlab) awards & achievement e merit scholarship for outstanding performance in masters program commandants merit badges for outstanding academic performance basketball team captain for 2 years at cadet college skardu as an undergraduate, was a member of the team managing \"go green project that was energy conservation awareness and plant trees campaign in vicinity of college of aeronauti- cal engineering, nust won second position in lab view contest held at cae based upon voice command control quad-copter offered contribution by mathworks and plotly jury member at \"jaazba air show event held at fast university, islamabad jury member of aero-modelling in \"world space week held at institute of space technology conducted matlab? /simulink workshop at institute of space technology awarded sports concussion training certifi- cate by university of utah (health care sports medicine) references dr. shehzad saleem khan lead engineer airbus operations gmbh, airbus uk muhammad arif chaudhry senior manager, bombardier aerospace, toronto, canada dr. javed khan head of the aerospace science engineering department tuskegee university, alabama, united states dr. khalid pervaiz professor institute of space technology gp capt dr. suhail akhtar associate professor & dean college of aeronautical engineering, paf academy risalpur website links linkedin personal profile mathworks(matlab) profile control lecture slides",
+    "text_from_header": "AEROSPACE ENGINEERING",
+    "detected_language": "en",
+    "master_edition": "MASI19"
+}

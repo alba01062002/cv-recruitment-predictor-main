@@ -1,0 +1,142 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Eduardo Martín Blecua",
+        "date_of_birth": "24/01/1992",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 23,
+        "email": "eduardomartin.emb@gmail.com",
+        "phone": "(34) 677195323",
+        "address": "Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Robotics and Automation",
+            "field": "Robotics and Automation",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2014 - Present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's in Industrial Electronic Engineering and Automatic Control",
+            "field": "Industrial Electronic Engineering and Automatic Control",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2010 - 2014",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence and Space",
+            "position": "Technical Project Manager Assistant",
+            "description": "Assisting in the technical management of projects, assisting with specialist coordination to solve technical problems.",
+            "start_date": "2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Robert Bosch Gasoline Systems",
+            "position": "Design Intern",
+            "description": "Mechanical design (Unigraphics 7.5 and Teamcenter 9) and structural analysis (ANSYS 14.5) of PA injection molded parts with fiber glass.",
+            "start_date": "2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "MarketingRobotics, a robotics and marketing startup",
+            "position": "Robot Development Intern",
+            "description": "Developing a humanoid robot using SolidWorks 2014 with a Santander internship for SMEs (Becas Santander de Prácticas en Pymes).",
+            "start_date": "2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "University Carlos III of Madrid, Robotics Association",
+            "position": "Quadrotor Flight Control Software Developer",
+            "description": "Developing flight control software for a quadcopter vehicle. (2010-2014)",
+            "start_date": "2010",
+            "end_date": "2014",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Innventio S.L., a robotics educational company",
+            "position": "Software and Communications Designer for Quadruped Teleoperated Robot",
+            "description": "",
+            "start_date": "2013",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Crowdfilament Project Co-Creator",
+            "position": "",
+            "description": "Organizing the purchase of filament for 3D printers through a crowdfunding platform.",
+            "start_date": "2012",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study Trips",
+            "country": "United Kingdom, Germany, United States, Brazil",
+            "institution_or_company": "Various Institutions and Companies (University Carlos III of Madrid, Imperial College London, Massachusetts Institute of Technology (MIT), Harvard University, Washington University in St. Louis, Technical University of Berlin)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Short-term study trips to various universities and institutions.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Portuguese",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SolidWorks",
+            "CATIA V5",
+            "ANSYS 14.5",
+            "Arduino C/C++",
+            "MATLAB and Simulink",
+            "ROS Framework (Basic)",
+            "YARP Framework (Intermediate)",
+            "Excel VBA (Intermediate)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "3D Printing",
+        "Robotics",
+        "Crowdfunding"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 9.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

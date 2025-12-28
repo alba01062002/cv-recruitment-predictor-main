@@ -1,0 +1,107 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Marcos Casado",
+        "date_of_birth": "02/05/1994",
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": 26,
+        "email": "marcoscasado6@mhmail.com",
+        "phone": "+34696735119",
+        "address": "Bomí 15, 28691 Villanueva de la Caada, Spain",
+        "LinkedIn": "https://www.linkedin.com/in/marcoscasado6/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://wwww.linkedin.com/in/marcoscasado6/"
+    },
+    "education_normalized": [
+        {
+            "degree": "BSc in Telecommunication Engineering, Telematics",
+            "field": "Telecommunications and Information Technology",
+            "university": "Carlos III Madrid University",
+            "location": "Madrid, Spain",
+            "year": "2016-2019",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus A400M MIDS",
+            "position": "Validation and Verification Engineer",
+            "description": "Part of the electronic warfare systems integration team. Responsibilities include validation and verification of airbus xplorers (AX), internship, and BSc thesis.",
+            "start_date": "09/2015",
+            "end_date": "06/2017",
+            "duration_years": 1.75
+        },
+        {
+            "company": "Networkcode Tech Solutions SL",
+            "position": "Co-founder and Full-Stack Developer",
+            "description": "Project focused on web application development and business digitalization.",
+            "start_date": "09/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus program",
+            "country": "Finland",
+            "institution_or_company": "University of Vaasa and VAMK (University of Applied Sciences), Vaasa, Finland",
+            "start_date": "02/2017",
+            "end_date": "06/2018",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Finland",
+            "institution_or_company": "University of Vaasa and VAMK (University of Applied Sciences), Vaasa, Finland",
+            "start_date": "2017-2018",
+            "end_date": null,
+            "description": "Systems and Software Engineering (Erasmus program)",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "AutoCAD",
+            "SolidWorks",
+            "CATIA",
+            "Python"
+        ],
+        "soft_skills": [
+            "Problem-solving",
+            "Autodidacticism",
+            "Hard work"
+        ]
+    },
+    "other_interests_normalized": [
+        "Aeronautics",
+        "Sports",
+        "Electronics"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "UP Center Indoor and FMP (Federación Madrileña de Pádel)",
+            "role": "Padel Coach",
+            "duration": "2017-present",
+            "description": ""
+        }
+    ],
+    "degree_years": 3.0,
+    "total_work_years": 9.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.0
+}

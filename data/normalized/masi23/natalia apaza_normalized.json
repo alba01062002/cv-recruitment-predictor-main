@@ -1,0 +1,121 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Natalia Apaza Severich",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "napazaseverich@gmail.com",
+        "phone": "+34 634805179",
+        "address": "",
+        "LinkedIn": "www.linkedin.com/in/natsevap",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineer, Master's in Flight Test and Aircraft Certification",
+            "field": "Aircraft Systems Integration",
+            "university": "Polytechnic University of Madrid - Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2013-2021",
+            "duration_years": 8.0
+        },
+        {
+            "degree": "Aeronautical Engineer",
+            "field": "",
+            "university": "National University of La Plata - Universidad Nacional de La Plata (UNLP)",
+            "location": "La Plata, Argentina",
+            "year": "Registration number N 1124",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "RPAS Flight Testing Polytechnic University of Madrid (UPM)",
+            "position": "Intern",
+            "description": "Analyzed JARUS and STANAG regulations to apply them to flight tests. Evaluated test hazard analysis in each flight test plan to identify potential risks.",
+            "start_date": "2021-11",
+            "end_date": "2022-04",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Argentinian Ministry of Interior",
+            "position": "Technical Engineer",
+            "description": "Conducted thorough inspections of commercial airplanes and made detailed technical reports. Developed strong technical writing skills, reduced dent mapping time by 50%.",
+            "start_date": "2013-08",
+            "end_date": "2014-03",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Argentine Army (DIMA)",
+            "position": "Junior Engineer",
+            "description": "Responsible for the airworthiness of aircraft, ensured compliance with industry standards and improved aircraft safety.",
+            "start_date": "2014-08",
+            "end_date": "2015-03",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Omens Pase",
+            "position": "",
+            "description": "Structural Engineer, worked on Atucha II nooo (PHWR) fuel rods.",
+            "start_date": "2010-03",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Polytechnic University of Madrid (UPM)",
+            "start_date": "2021-11",
+            "end_date": "2022-04",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Python",
+            "MS Office",
+            "CATIA",
+            "AutoCAD"
+        ],
+        "soft_skills": [
+            "Technical writing",
+            "Management experience",
+            "Flexibility",
+            "Time management",
+            "Effective teamwork",
+            "Efficient communication"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.2
+}

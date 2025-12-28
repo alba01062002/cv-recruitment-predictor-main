@@ -1,0 +1,146 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Niki Regina",
+        "date_of_birth": "30/04/1982",
+        "gender": "female",
+        "age_reference_year": 2013,
+        "age": 31,
+        "email": "niki.regina2@unibo.it",
+        "phone": "+39 0547 85279, +39 335 341218",
+        "address": "Via Rigossa, Cesenatico (FC), Italy",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Doctor of Philosophy in Control System Engineering and Operational Research",
+            "field": "Control system engineering and operational research",
+            "university": "University of Bologna",
+            "location": "Forlì, Italy",
+            "year": "2008-2010",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Master of Aerospace Engineering",
+            "field": "Aerospace engineering",
+            "university": "University of Bologna",
+            "location": "Forlì, Italy",
+            "year": "2004-2007",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Bachelor of Aerospace Engineering",
+            "field": "Aerospace engineering",
+            "university": "University of Bologna",
+            "location": "Forlì, Italy",
+            "year": "2001-2004",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Assistant Professor at University of Bologna - Faculty of Engineering (Cesena and Forli)",
+            "description": "In charge of teaching Automatic Control courses.",
+            "start_date": "2008",
+            "end_date": "12/2013",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Professor at University of Bologna - Faculty of Engineering (Cesena and Forli)",
+            "description": "In charge of teaching Automatic Control courses.",
+            "start_date": "2011",
+            "end_date": "12/2013",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Research Engineer at University of Bologna - LASIM Hangar Laboratories, Forlì, Italy",
+            "description": "Developed a new board platform for real-time data processing and validation of an ultralight vehicle.",
+            "start_date": "2011",
+            "end_date": "2012",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Research Engineer at Next S.p.A., Rome, Italy - Safeport 7 Framework Project",
+            "description": "Developed new authentication algorithms for communication between vessels and a ground station.",
+            "start_date": "2011-2012",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Research Engineer at New Production Concept S.r.l., Imola, Italy",
+            "description": "Developed a low-cost autopilot on Arduino platform and designed new UAV concepts.",
+            "start_date": "2011-2012",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Deputy Technical Manager at ISAER.S Forlì, Italy",
+            "description": "Technical manager of a certified ALSIM simulator and maintenance of hardware and software components.",
+            "start_date": "2009-2010",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Visiting PhD Student",
+            "country": "Australia",
+            "institution_or_company": "Australian Research Center of Aerospace Automation (ARCAA), Queensland University of Technology, Brisbane, Australia",
+            "start_date": "2009-2010",
+            "end_date": "",
+            "description": "Worked with Prof. Jason Ford and developed a new type of guidance law for pole inspection.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB / Simulink",
+            "C/C++",
+            "Arduino",
+            "Microsoft Office",
+            "Linux",
+            "Ansys Fluent"
+        ],
+        "soft_skills": [
+            "Programming languages and tools proficiency",
+            "Project management",
+            "Research and development",
+            "Teaching experience",
+            "Communication and collaboration"
+        ]
+    },
+    "other_interests_normalized": [
+        "Listening to contemporary music",
+        "Socializing with friends",
+        "Fitness"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.4
+}

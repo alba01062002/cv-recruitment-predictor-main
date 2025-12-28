@@ -1,0 +1,110 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Gorka Marcos Pedroso",
+        "date_of_birth": "09/04/1988",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 25,
+        "email": "g.marcos09@gmail.com",
+        "phone": "(+34) 619694372 (+44) 07435442793",
+        "address": "SF508, Stringfellow Hall, Cranfield University, Bedford, MK430FX",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MSc Autonomous Vehicle Dynamics and Control (including PFC)",
+            "field": "Autonomous Vehicle Dynamics and Control",
+            "university": "Cranfield University",
+            "location": "Bedfordshire, England",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Inteligencia Emocional Course",
+            "field": "",
+            "university": "Escuela de Inteligencia, Madrid",
+            "location": "Madrid",
+            "year": "2011",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Aeronautical Engineering (up to 5th course)",
+            "field": "Aeronautical Engineering",
+            "university": "E.T.S.I. Aeronáuticos (UPM)",
+            "location": "Madrid",
+            "year": "2006-2011",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Project Manager in the Antiprojects of Missile and Satellite (ID missile course and ID Space Vehicle II course)",
+            "description": "Responsible for leading a group of seven specialists, achieving the best grade among all groups in the second one.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "null",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Basque",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB (including Simulink)",
+            "Fluent",
+            "Gambit",
+            "Nastran",
+            "Patran",
+            "Solid Edge",
+            "STK",
+            "ESACOMP",
+            "Mathematica",
+            "Microsoft Office",
+            "Visio",
+            "Fortran 90"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Teamwork",
+            "Project Management",
+            "Time Management"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Amigos Sansomendi Club, Association belonging to the Confederation of Juvenile Centres Don Bosco of Spain",
+            "role": "Free Time Monitor",
+            "duration": "2005-present",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.3
+}

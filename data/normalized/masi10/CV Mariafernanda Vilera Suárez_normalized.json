@@ -1,0 +1,128 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Mariafernanda Vilera Suárez",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2010,
+        "age": null,
+        "email": "mafervs@gmail.com",
+        "phone": "680750517",
+        "address": "C/ Los Yébenes N 73, 10-B, CP 28047 Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Superior en Telecomunicación",
+            "field": "Telecomunicación: Sistemas de Telecomunicación",
+            "university": "Universidad Carlos II de Madrid",
+            "location": "Madrid",
+            "year": "2006-2010",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Ingeniero Técnico en Telecomunicación",
+            "field": "",
+            "university": "Universidad Carlos II de Madrid",
+            "location": "Leganés, Madrid",
+            "year": "2006-2007",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachiller en Ciencias (Juliol 2002)",
+            "field": "",
+            "university": "U.E. Calicantina. Maracay, Venezuela",
+            "location": "Maracay, Venezuela",
+            "year": "2002",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Universidad Carlos III de Madrid",
+            "position": "Beca en Informática",
+            "description": "Reparación e instalación de ordenadores. Mantenimiento software de equipos informáticos.",
+            "start_date": "10/2006",
+            "end_date": "05/2007",
+            "duration_years": 0.58
+        },
+        {
+            "company": "Thales Alenia Space",
+            "position": "Prácticas en HD (RF Pasiva)",
+            "description": "Programación de herramientas de diseño circuital. Diseño de prototipos de dispositivos de microondas para satélites.",
+            "start_date": "06/2007",
+            "end_date": "03/2009",
+            "duration_years": 1.75
+        },
+        {
+            "company": "Telefónica Soluciones para Grandes Empresas",
+            "position": "",
+            "description": "Diseño de redes de datos para grandes empresas. Configuración de proxys, desarrollo de servicios de hosting, domótica, GPS y telefonía móvil.",
+            "start_date": "05/2009",
+            "end_date": "12/2010",
+            "duration_years": 1.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Beca PLAJIMENO",
+            "country": "España",
+            "institution_or_company": "Universidad Carlos III de Madrid",
+            "start_date": "",
+            "end_date": "",
+            "description": "Beca otorgada a un estudiante de Maracay para cursar estudios en la Universidad Carlos II de Madrid.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C",
+            "C++",
+            "Java",
+            "MATLAB",
+            "MATLAB Simulink",
+            "Shell Script",
+            "Ensamblador",
+            "Windows",
+            "Linux",
+            "Programación de microprocesadores: Motorola 88KC11, 88000",
+            "Microsoft Office",
+            "Servlets",
+            "PHP",
+            "ISPS",
+            "SQL Server",
+            "Oracle",
+            "Equipos pasivos y activos de radiofrecuencia",
+            "Manejo de programas de diseño electromagnético: CST, Microwave Office, Mician y Cavmil"
+        ],
+        "soft_skills": [
+            "Trabajadora en equipo",
+            "Motivada",
+            "Aptitudes técnicas y liderazgo"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 3.91,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.7
+}

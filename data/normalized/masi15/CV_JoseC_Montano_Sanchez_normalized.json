@@ -1,0 +1,105 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José Carlos Montano Sánchez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": null,
+        "email": "montano.josec@gmail.com",
+        "phone": "(+34) 699858710",
+        "address": "C/ San Joaquín 8, 28943 Fuenlabrada, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Higher Technical School of Aeronautical and Space Engineering, Technical University of Madrid",
+            "location": "Madrid",
+            "year": "2010-2014",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Master in Professional Development",
+            "field": "",
+            "university": "Alcalá de Henares University",
+            "location": "",
+            "year": "2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space (Getafe, Madrid)",
+            "position": "GAIA Internship Program - Graduate Program Intern",
+            "description": "Assisted multidisciplinary teams with the implementation of lean manufacturing philosophy and methods in engineering department offices and FAL of A330-MRTT. Participated in preparing lean events such as VSM and 5S at the office, provided technical support and prepared necessary documentation for the engineering department.",
+            "start_date": "January 2014",
+            "end_date": "April 2014",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Defence & Space (Getafe, Madrid)",
+            "position": "GAIA Intern Program - Intern",
+            "description": "Developed tasks related to innovation and project management, involving new product development. Assisted the team with lean projects management implementation.",
+            "start_date": "October 2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Airbus Defence & Space (Getafe, Madrid)",
+            "start_date": "January 2014",
+            "end_date": "April 2014",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A1"
+        ],
+        [
+            "French",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5: Advanced level",
+            "SQL & Access: Advanced level",
+            "Nastran & Patran: User level",
+            "Matlab: Advanced level",
+            "Fortran, Python, Visual Basic, VBA, C#: Basic to advanced levels"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Curiosity",
+            "Creating theories and ideas",
+            "Leadership",
+            "Communication and foreign languages"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 9.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

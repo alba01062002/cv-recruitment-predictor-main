@@ -1,0 +1,96 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Diego Sebastián Aguado",
+        "date_of_birth": "18/01/1991",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 24,
+        "email": "diegosebastian.dsa@gmail.com",
+        "phone": "606628205",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelors degree in Industrial Engineering",
+            "field": "Mechanics of Machines and Structures",
+            "university": "Carlos III University of Madrid",
+            "location": "Madrid",
+            "year": "2009-2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Mechanical Assistant (Clasicos Hernandez)",
+            "description": "Worked during the summer of 2011 as a mechanical assistant.",
+            "start_date": "06/2011",
+            "end_date": "08/2011",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "United States of America, England",
+            "institution_or_company": "",
+            "start_date": "06/2008",
+            "end_date": "08/2007",
+            "description": "Traveled to New York (USA) in the summer of 2008 and Brighton (England) in the summer of 2007.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "PTC Creo (Modeling and Simulation)",
+            "Ansys",
+            "Matlab",
+            "AutoCAD",
+            "Abaqus",
+            "Unity Pro",
+            "Solid Works",
+            "Statgraphics",
+            "Fortran",
+            "Microsoft Office"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Overcoming capacity",
+            "Active listening (Communication skills and interpersonal relations workshop 2012)"
+        ]
+    },
+    "other_interests_normalized": [
+        "Team sports (indoor soccer, basketball)",
+        "Madrid Marathon participant",
+        "Single sport (tennis)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

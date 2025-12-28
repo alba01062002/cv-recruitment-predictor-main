@@ -1,0 +1,122 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Adrián Flores de la Cruz",
+        "date_of_birth": "24/09/1991",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 27,
+        "email": "adrian.flores@telefonica.net",
+        "phone": "+34 696 66 94 54",
+        "address": "Calle Abderrahamán II, Flores de la Cruz, Celina 12, 7-C, 30.009-Murcia",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Telecommunications Engineer with Specialization in Systems and Telecommunication Networks",
+            "field": "Telecommunications",
+            "university": "Universidad Politécnica de Cartagena",
+            "location": "Murcia, Spain",
+            "year": "2015-2016",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Priema S.L.",
+            "position": "Developer",
+            "description": "",
+            "start_date": "12/2012",
+            "end_date": "12/2013",
+            "duration_years": 1.0
+        },
+        {
+            "company": "Priema S.L.",
+            "position": "Developer",
+            "description": "",
+            "start_date": "01/2014",
+            "end_date": "12/2014",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Cynara E.U., S.L.U.",
+            "position": "Software Developer",
+            "description": "Developed software using MATLAB for simulating radar SAR type and working on the Paz mission of ESA and a Mars mission.",
+            "start_date": "01/2015",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Spain, Germany",
+            "institution_or_company": "Universidad Politécnica de Cartagena, Universidad Carlos III Madrid (SDN themed congress)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Participation in SDN-themed congress and research",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Technical english",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Java",
+            "C",
+            "C++",
+            "Python",
+            "VHDL",
+            "LaTeX",
+            "Fiber Card",
+            "ORCAD",
+            "Assembly Language",
+            "HFSS",
+            "Microwin Programs",
+            "STK"
+        ],
+        "soft_skills": [
+            "Management Linux User-Level Systems Programmer and Administrator",
+            "Management with Windows Operating Systems and Related Office Applications",
+            "Developing P2P Topologies (Chord, Pastry)",
+            "Familiarity with Ryu and OpenStack",
+            "Mininet",
+            "Oracle",
+            "Great Communication, Writing, and Social Skills",
+            "High Capacity for Teamwork in Multicultural Environments",
+            "Criticism, Logical Thinking, and Decisive Personality"
+        ]
+    },
+    "other_interests_normalized": [
+        "New Technologies",
+        "Traveling",
+        "Languages",
+        "Space Mission Development, European Space Agency, NASA, Astronomy",
+        "Sports (Currently Coaching a Basketball Team)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Coaching a Basketball Team",
+            "duration": "2016-2023",
+            "description": ""
+        }
+    ],
+    "degree_years": 1.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.8
+}

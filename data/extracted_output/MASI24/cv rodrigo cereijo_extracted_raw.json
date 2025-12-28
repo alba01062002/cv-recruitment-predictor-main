@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "rodrigo cereijo 05/07/1998 my contact: () +34 645 429177 my rodrigocereijo@gmail.com calle pazos fontenla 80, 3a bueu, pontevedra ) linkedin.com/in/rodrigo-cereijo-freire- s ' 07a5b2191 hard skill aerospace systems aeronavigation and space systems programming languages (python, matlab and javascript) dynamic and static structure studies and simulations advanced driver assistance systems communication protocols data management through plm and sap design programs (solidworks and catia) soft skill team work decision making multitasking innovation communication habilities language skills spanish galician english catalan a rodrigo cereijo freire aerospace systems engineer am a highly motivated and detail-oriented aerospace engineer, with a passion for innovation and teamwork. consider myself a multifaceted person capable of adapting to different work environments with a quick learning capacity. feel attracted to different technologic fields such as programming, systems integration, or structure design, among others. with a proven ability to work collaboratively, a problem-solving mindset, a spirit of continuous improvement and excellent interpersonal skills, am seeking a dynamic role in the engineering industry where can learn and improve the skills have adopted during my university stage together with making a great impact on the success of the company. ctag at stellantis adas developer technician 04/2023 - actually role in the adas area for the k9 mi-vie project at stellantis plant in vigo. officialization process of the evolutions of the parts of this area applicable to the entire project. follow up and management of the information related to officalizations, issues appeared in the cars, tests and any change affecting adas parts. role in the resolution of the issues appared on the cars tested in vigo plant. such issues could affect software, hardware and calibration of the pieces. task together with develop team. bachelor in aerospace systems engineering. mention in air navigation. universitat politécnica de catalunya - barcelona tech - upc 2016-2021 some interesting projects carried during my university stage: + programming projects using python and matlab. adopt an airport project: application of different regulations to airtraffic at the washington airport (iad), developed in matlab code. designing projects of pieces and mechanisms developed with solidworks. final degree project: design of an on-board flight tracking service forpassengers in real time by configuring a raspberry pi board and an on- board gps receiver.",
+    "text_from_header": "RODRIGO CEREIJO 05/07/1998",
+    "detected_language": "en",
+    "master_edition": "MASI24"
+}

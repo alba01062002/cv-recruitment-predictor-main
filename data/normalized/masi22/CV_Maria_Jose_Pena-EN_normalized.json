@@ -1,0 +1,115 @@
+{
+    "personal_information_normalized": {
+        "full_name": "María José Pena Manrique",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "marpenman@hotmail.com",
+        "phone": "",
+        "address": "",
+        "LinkedIn": "www.linkedin.com/in/marpenman",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aeronautical Engineering",
+            "field": "Aerospace Engineering (Aircraft Systems)",
+            "university": "University of Seville",
+            "location": "Seville, Spain",
+            "year": "2017-2019",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Degree in Aerospace Engineering (Aerospace Vehicles)",
+            "field": "",
+            "university": "University of Seville",
+            "location": "Seville, Spain",
+            "year": "2012-2017",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "FADA-CATEC",
+            "position": "Head of the New CATEC's Office in Santiago de Compostela (R&D Project Manager)",
+            "description": "Management of a team, direct client interaction, technical execution of work packages, business development, project management as a coordinating entity.",
+            "start_date": "02/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.83
+        },
+        {
+            "company": "FADA-CATEC",
+            "position": "R&D Project Manager in Avionics&System Division (Semi-Senior Profile)",
+            "description": "Management of a team, client interaction, technical execution of work packages, project management.",
+            "start_date": "11/2019",
+            "end_date": "02/2022",
+            "duration_years": 2.25
+        },
+        {
+            "company": "FADA-CATEC",
+            "position": "Intern in Avionics&System Division (Junior Profile)",
+            "description": "",
+            "start_date": "Jun-2019",
+            "end_date": "Nov-2019",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Charlotte, North Carolina",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Face-to-face work with daily fluent conversation in English.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Autocad",
+            "CATIA V5",
+            "Matlab",
+            "Office (Word, PowerPoint, Excel)",
+            "MS Project",
+            "Programming"
+        ],
+        "soft_skills": [
+            "Effective communication",
+            "Logical and analytical thinking",
+            "Problem solving",
+            "Time management",
+            "Project and processes management",
+            "Planning and design"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 2.0,
+    "total_work_years": 6.08,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

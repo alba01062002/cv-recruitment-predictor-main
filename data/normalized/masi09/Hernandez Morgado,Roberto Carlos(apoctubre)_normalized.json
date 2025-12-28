@@ -1,0 +1,108 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Roberto Carlos Hernández Morgado",
+        "date_of_birth": "18/11/1985",
+        "gender": "male",
+        "age_reference_year": 2009,
+        "age": 24,
+        "email": "rchmind@gmail.com",
+        "phone": "91 682 27 85, 635 53 42 75",
+        "address": "c/ Isabel Allende 3 3% B, Getafe (Madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial",
+            "field": "Automática y Electrónica",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2003-2008",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "CPM Spanish Marketing Network SA",
+            "position": "Promotor de Panini (100 horas)",
+            "description": "",
+            "start_date": "Diciembre 06-Enero 07",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "CPM Spanish Marketing Network SA",
+            "position": "Promotor de Navegadores Garmin",
+            "description": "En el centro Media Markt de Getafe, Junio 2007",
+            "start_date": "Junio 2007",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Randstad",
+            "position": "Almacenes Comercial Grupo Anaya de Getafe",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Orcad (Capture, PSPICE y Layout)",
+            "PSim",
+            "Matlab",
+            "Max+plus II",
+            "Mathcad",
+            "AutoCAD",
+            "Solid Edge",
+            "StatGraphics",
+            "Fortran",
+            "C",
+            "VHDL",
+            "Ensamblador (para microprocesadores Atmel de la familia 8051 e Intel Pentium)",
+            "Rapid Programación de Autómatas",
+            "Simatic S7-300 (Siemens)"
+        ],
+        "soft_skills": [
+            "Facilidad para el aprendizaje y uso de cualquier programa informático",
+            "Rápida habilidad para el aprendizaje y uso de cualquier programa informático",
+            "Facilidad de trabajo en equipo"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.9
+}

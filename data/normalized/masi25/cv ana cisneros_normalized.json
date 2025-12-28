@@ -1,0 +1,114 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ana María Cisneros Félix",
+        "date_of_birth": "06/03/2002",
+        "gender": "feminine",
+        "age_reference_year": 2025,
+        "age": 23,
+        "email": "anacisne2808@gmail.com",
+        "phone": "(+52) 6441399016 (móvil)",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/ana-cisneros-e/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería aeronáutica",
+            "field": "Aeronautical Engineering",
+            "university": "Instituto Tecnológico de Hermosillo",
+            "location": "Hermosillo, México",
+            "year": "2020-2024",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Licenciatura en administración de las finanzas",
+            "field": "Finance Administration",
+            "university": "Universidad Virtual del Estado de Guanajuato",
+            "location": "Guanajuato, México",
+            "year": "2020-2024",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Hangar de Gobierno del Estado de Sonora",
+            "position": "Desarrollador de Programa de Mantenimiento Preventivo para Aeronaves",
+            "description": "Realizó el desarrollo de un programa de mantenimiento preventivo para aeronaves, elaboración de cronogramas y procedimientos técnicos.",
+            "start_date": "08/2024",
+            "end_date": "31/01/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "NASA Space Apps Challenge",
+            "country": "Global",
+            "institution_or_company": "NASA",
+            "start_date": "07/2020",
+            "end_date": "",
+            "description": "Participó en el desarrollo de soluciones innovadoras para desafíos globales, aplicando conocimientos técnicos, creatividad y trabajo en equipo.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "International Air and Space Program (IASP)",
+            "country": "Global",
+            "institution_or_company": "AEXA",
+            "start_date": "11/2021",
+            "end_date": "",
+            "description": "Colaboró en proyectos relacionados con la industria aeroespacial, desarrollando habilidades en trabajo en equipo, solución de problemas y creatividad bajo escenarios de alta exigencia.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SolidWorks",
+            "CATIA V5",
+            "Microsoft Office 365"
+        ],
+        "soft_skills": [
+            "Trabajo en equipo",
+            "Adaptabilidad y aprendizaje continuo",
+            "Análisis técnico y documentación basada en manuales aeronáuticos"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2020-2024",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

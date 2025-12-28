@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "ignacio arroyo calvente address: villa de marín, 45. madrid, spain tel: +34678684705 email: i.arroyocalvente@gmail.com professional profile industrial engineer, specialization in electronics and automation. international experience. presently, working in an internship programme at airbus. heavy emphasis on teamwork, perseverance and comradeship. very inquisitive and pro-active. continuous improvement in capability and capacity. up for any challenge. willing to work for international companies with a multicultural environment. professional experience airbus operations s.l. madrid, spain manufacturing engineering july 2014 present tooling design with catia v5: - all permissions to modify and validate drawings and 3d models in order to upload them to the network properly. - upgrading designs from an initial state to a definitive state. e supporting the industrial leader of the belly fairing package industrialization in the a-320 program: - validation and modification of the drawings and 3d models designed by suppliers. e focal point in information dispatch to the suppliers of airbus operations s.l. (a-320, a-330 and a-380 programs). e collaboration in manufacturing improvements and new product introduction (npi). e proficient in database programs from airbus, such as epd connect, optegra, vault, gestion documental, pdm link ssci - a350 or sprint. e other technical issues: - preparation of technical documentation aiming to double the existing tooling due to a rate increase program. - practical problem solving contribution at the industrial plant of getafe. (pps meetings). - technical support for suppliers, attending technical issues of manufacturing in their headquarters. - manufacturing processes monitoring at the suppliers facilities. - attending multi-functional meetings through telecoms and webex. education and training airbus group internship programme, universidad de alcala madrid, spain master in professional development. july 2014 present polytechnic university of madrid, upm-spain madrid, spain bachelors degree in industrial electronics and automation engineering september 2009 july 2015 workshop: introduction to programming in labview environment (march 2013). significant projects during the studies: - design of an automated industrial plant (layout and programming in siemens simatic step 7). - design of a robotic cell. - legislative compliance in a mechanic shop. - design of a traffic-light cross with fpga system (hw language vhdl). - programming of a game in the c++ language with the opengl, glut and glu libraries. - currently, l am working on my final project with an embedded system, arduino. the project consists on designing a pattern recognition technique for classifying information, images, from a big data using artificial neural networks. helsinki, finland arcada, university of applied sciences january 2014 june 2014 materials processing technology erasmus programme: with this international experience have developed my communication and teamwork skills by working with students from various european universities. computer skills proficient in: - mathlab. - microsoft office. - catia v5. - microsoft visual studio c+ and c++ languages of programming. opengl and opencv libraries, as well. - simatic step 7 siemens. - simprocess. - solidworks. - vhdl-hw language of programming. - autocad. - sap. - microsoft project. languages spanish: (mother tongue) english: have attended different english courses at british council in madrid, reaching a first level of english (b2 in the cef). toeic: 815 score other information willing to travel. interests: traveling around the world, reading, cinema and sports as football, padel tennis and tennis, running or cycling. have gained knowledge about teamwork, leadership and comradeship by playing a great role in different football teams since was a child. driving license b.",
+    "text_from_header": "PROFESSIONAL PROFILE",
+    "detected_language": "en",
+    "master_edition": "MASI15"
+}

@@ -1,0 +1,94 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rafa Muboelim",
+        "date_of_birth": "28/11/2002",
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": 23,
+        "email": "rafamuboelim@gmail.com",
+        "phone": "+683672077",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeroespacial",
+            "field": "Ingeniería Aeroespacial",
+            "university": "Universidad de Sevilla",
+            "location": "Sevilla, España",
+            "year": "[2019-2023]",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Aún no tiene experiencia profesional.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Latex",
+            "Excel",
+            "Word",
+            "Arduino",
+            "HDL",
+            "Xilinx Vivado"
+        ],
+        "soft_skills": [
+            "trabajo en equipo",
+            "puntualidad y disciplina",
+            "comunicación clara y efectiva",
+            "resolución de problemas",
+            "gestión eficiente del tiempo"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2017",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 17,
+    "detected_language": "es",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

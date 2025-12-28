@@ -1,0 +1,132 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Suren Moattar Berenguer",
+        "date_of_birth": "02/05/1999",
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": 25,
+        "email": "surenmoattarberenguer@gmail.com",
+        "phone": "+34654030347",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in EDDM",
+            "field": "Aeronautical 3D design using CATIA and NX, Finite Elements Analysis, 3D printing",
+            "university": "Shahid Beheshti University",
+            "location": "",
+            "year": "2017-2022",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's degree in Mechanical Engineering",
+            "field": "Mechanical design, Finite Element Method (FEM) analysis, 3D printing",
+            "university": "Shahid Beheshti University",
+            "location": "",
+            "year": "2017-2022",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Adatica Engineering S.L.",
+            "position": "Design Engineer",
+            "description": "Aeronautical engineering and 3D design specialist currently working in Airbus UpNext's hypower project.",
+            "start_date": "01/24",
+            "end_date": "06/24",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Iran",
+            "institution_or_company": "IRSA, Innovation Section",
+            "start_date": "07/22",
+            "end_date": "09/22",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "University Internship",
+            "country": "Iran",
+            "institution_or_company": "CAN, Design Section",
+            "start_date": "07/21",
+            "end_date": "09/21",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Persian",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA",
+            "ABAQUS",
+            "Siemens NX",
+            "3D Printing",
+            "Graphic Design",
+            "Photoshop",
+            "Microsoft Office Tools (Excel, PowerPoint, Word)",
+            "Python"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Electric Guitar",
+        "Drawing",
+        "Painting"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Spanish Chamber of Commerce, Spanish Embassy in Tehran, Iran Gas & Petrol Exhibition",
+            "role": "Official Translator",
+            "duration": "2019-2018",
+            "description": ""
+        },
+        {
+            "organization": "Spanish Institute of Exterior Commerce (ICEX), Iran Gas & Petrol 2018 Exhibition",
+            "role": "Exhibition Booth Manager",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "organization": "Iran Railway Industry Exhibition 2018, MAFEX Booth",
+            "role": "Spanish Railway Cluster Association Representative",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "organization": "Iran Metalurgical Industry Exhibition 2018, Siderex Booth",
+            "role": "Spanish Steel Cluster Association Representative",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

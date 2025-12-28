@@ -1,0 +1,126 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ana Neira Guijarro",
+        "date_of_birth": "15/01/1987",
+        "gender": "female",
+        "age_reference_year": 2014,
+        "age": 27,
+        "email": "a.neirag@alumnos.upm.es, aneira987@gmail.com",
+        "phone": "+34 618 1430 40",
+        "address": "Calle Pea de Francia 12, 28005 Madrid (España)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería industrial",
+            "field": "Automática y electrónica",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid",
+            "year": "2005-2011",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "INDRA Sistemas S.A.",
+            "position": "Ingeniero junior",
+            "description": "No specific details provided",
+            "start_date": "05/2011",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "INDRA Sistemas S.A.",
+            "position": "Becaria",
+            "description": "Prácticas realizadas en el departamento de Ingeniería Electrónica",
+            "start_date": "10/2010",
+            "end_date": "04/2011",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Centro de Electrónica Industrial (CEI) de la ETS Madrid",
+            "position": "Becaria",
+            "description": "Prácticas realizadas en el CEI de la Escuela Técnica Superior de Ingenieros Industriales de Madrid",
+            "start_date": "10/2009",
+            "end_date": "09/2010",
+            "duration_years": 0.92
+        },
+        {
+            "company": "INDRA Sistemas S.A.",
+            "position": "Becaria",
+            "description": "Prácticas realizadas en el departamento de Ingeniería Electrónica de INDRA Sistemas S.A.",
+            "start_date": "07/2009",
+            "end_date": "09/2009",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Au-pair in Newcastle (Gran Bretaña)",
+            "position": "",
+            "description": "Estancia de Au-pair en Newcastle, Gran Bretaña.",
+            "start_date": "07/2007",
+            "end_date": "09/2008",
+            "duration_years": 1.17
+        },
+        {
+            "company": "Piscinas Algora S.L.",
+            "position": "Socorrista acuático",
+            "description": "",
+            "start_date": "07/2004",
+            "end_date": "09/2006",
+            "duration_years": 2.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Au-pair",
+            "country": "Gran Bretaña",
+            "institution_or_company": "Newcastle",
+            "start_date": "07/2007",
+            "end_date": "09/2008",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Rational Doors",
+            "Office",
+            "C++",
+            "LabWindows CVI",
+            "VHDL (Xilinx environment)",
+            "MATLAB",
+            "Maxwell 11 (Experiencia con PEXPRT y PEMAG), Simplorer, OrCAD (Capture y PSPICE), LTSpice"
+        ],
+        "soft_skills": [
+            "Programación electrónica"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2004-2006",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

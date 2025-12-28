@@ -1,0 +1,103 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Urbano Amador Sánchez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "yxurbamador@gmail.com",
+        "phone": "+34-678811612",
+        "address": "Calle Aire 89, 30880 Aguilas, Murcia, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's Degree in Aerospace Engineering with speciality in Aircrafts and Space Vehicles",
+            "field": "Aerospace Engineering",
+            "university": "University of Seville",
+            "location": "Seville, Spain",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Master's Degree in Aeronautical Engineering",
+            "field": "Aerospace Engineering",
+            "university": "University of Seville",
+            "location": "Seville, Spain",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "MSc in Aeronautical Engineering under the Gaia Program",
+            "field": "",
+            "university": "",
+            "location": "",
+            "year": "2017-2018",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Altran Technologies",
+            "position": "Consultant Engineer in Engine Performance Department (IPG1) of Airbus",
+            "description": "Generating engine performance databases, validation of engine decks, state-of-art study about model-based engine health monitoring, development of tools in Python for automating simulations and dealing with great amounts of data.",
+            "start_date": "07/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Airbus Defence & Space, Sevilla",
+            "start_date": "07/2017",
+            "end_date": "09/2015",
+            "description": "Worked within the Flight Test Analysis department for the A400M program. Focused on power plant and AC performance areas. Tasks included support to flight tests, analysis of flight test campaigns, validation of FTI, experience with smart data analytics tools in ADS flight test.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python applied to data analysis",
+            "Engine performance tools of Airbus",
+            "Flight test data analysis tools of Airbus DS",
+            "MATLAB/Simulink and Excel",
+            "Machine learning: scikit-learn Python library",
+            "Image processing tools: MATLAB and OpenCV",
+            "User level in CATIA, AutoCAD, ANSYS, Nastran/Patran, STK, LaTeX and Microsoft Project"
+        ],
+        "soft_skills": [
+            "Highly committed with quality",
+            "Continuous improvement",
+            "Team worker",
+            "Propose new ideas or methods to improve team performance",
+            "Study technical issues in detail"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 7.42,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.3
+}

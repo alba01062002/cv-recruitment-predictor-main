@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "summary a young structural engineer with multidisciplinary background as an engineer. quick to assimilate new ideas, concepts or strategies and really comfortable when using new technology as one of my passions. really like to take advantage of my technology skills to increase my productivity and efficiency. able to work on own initiative or in a group, having experienced international environment while studying my master's mr. santiago luis fernández la camara 67 6b, 33401 avilés, asturias, spain telephone: +34675044452 email: sdeluis9v gmail.com degree abroad, with colleagues all over the world. personal details nationality spanish age 24 birthdate 1990/04/09 driving licence european driving license issued by spanish government education and qualifications msc meng structural engineering chalmers (2012-2014) 120 ects - 2 year degree mechanical engineering (ingeniería industrial) (2008-2013) major in mechanics (structural mechanics) 300 ects 5 year degree additional education languages mechanical properties of materials 50h course university of oviedo calculation, gul and programming in matlab 50h course - university of oviedo 3d digitalizing and reverse engineering 50h course - university of oviedo interactive programming in python 75h online course rice university principles of computing 75h online course rice university spanish mother tongue english full professional proficiency french beginner proficiency swedish limited beginner proficiency, currently studying key technical skills . fea skills, both theoretical and practical. including software: o abaqus: advanced/proffesional. o = python scripting within abaqus environment e pre-processing and post processing e fully scripted solutions (gui plugin included) o hypermesh (pre-processor): intermediate . cad skills o autocad: intermediate . microsoft office: advanced e including excel macros and dynamic spreadsheets. e matlab: advanced . mathcad: advanced . programming languages: o c++: intermediate o python: advanced o visual basic: intermediate . computational engineering skills: experience with computer cluster empowering engineering calculations (c3se chalmers, gothenburg) work experience january 2014-june 2014 ncc teknik. r&d department, gothenburg (sweden) master thesis: applicability of set-based design on structural engineering e during my stance on ncc was integrated on the r&d department while doing my master thesis. my research field was the applicability of automation to bridge design, by using set-based design principles. technically, the project was developed by programming abaqus routines and achieving a tool that was able to generate different bridge alternatives and assess them. calculations were empowered by a cluster. july 2014 date grupo navec, material handling division, asturias (spain) structural engineer e my tasks as a structural engineer are design and calculation of steel structures integrated on conveyor belt systems, such as transfer towers and trussed galleries. additionally, create associated technical documentation, create new tools for the development of the design process and provide assistance in the manufacturing phase. voluntary work august 2013-june 2014 chalmers university of technology (circ) phadder to help new international students e actively involved in taking care of new international students coming to chalmers. voluntary work managed by circ (chalmers international reception committee)",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI15"
+}

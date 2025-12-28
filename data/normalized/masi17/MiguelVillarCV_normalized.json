@@ -1,0 +1,98 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Villar Álvarez",
+        "date_of_birth": "20/06/1991",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 26,
+        "email": "mvillaralvarez@gmail.com",
+        "phone": "+34 647560254",
+        "address": "c/ Carranza 4, 19 3 int 28004 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MSc Aeronautical Engineer (5-year degree)",
+            "field": "Aircraft and Space Vehicles Design Option: Aircraft Design",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2013-2014",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Colegio San Fernando",
+            "location": "Avilés, Spain",
+            "year": "2007-2009",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "JSF Hidraulica",
+            "position": "Project Engineer",
+            "description": "Design aluminium structures with SAP2000 program: domes and plain covers. Cost estimation of aluminium covers to prepare offers. Make drawings to approve the design and to manufacture the covers. Prepare installation, operation and maintenance manuals of the covers. Project planning from design until delivery. Monitoring of the manufacturing process.",
+            "start_date": "10/2014",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "FORTRAN 90",
+            "Maple",
+            "eSACOMP",
+            "MATLAB",
+            "AutoCAD",
+            "MS Project",
+            "Intermediate Microsoft Office",
+            "LyX",
+            "Mathcad",
+            "SAP2000",
+            "Advanced CATIA V5"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Project Management"
+        ]
+    },
+    "other_interests_normalized": [
+        "Technology",
+        "Tennis (8 years playing)",
+        "Planes",
+        "Movies",
+        "Cars"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 1.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.4
+}

@@ -1,0 +1,80 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Luis García Hernández",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": null,
+        "email": "juanluis.garcia@etsid.upv.es",
+        "phone": "+34 616530468",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineering MEng",
+            "field": "Aerospace Engineering",
+            "university": "Polytechnic University of Valencia, Spain",
+            "location": "Valencia",
+            "year": "2007-2011",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "C.A.M.V. Swimming-pool",
+            "position": "Lifeguard",
+            "description": "Summer job with high responsibility and attention to detail needed.",
+            "start_date": "2007-06/2009",
+            "end_date": "2009",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Musician (Collaboration in Action 5, Evaluation of ECTS Credits)",
+            "description": "Participation and collaboration in sports activities.",
+            "start_date": "2008-10",
+            "end_date": "2009",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Jornadas Aeronáuticas, Cultural Week, Trofeo Patron Voley Playa",
+            "description": "Participation in cultural events and sports activities.",
+            "start_date": "2010-05",
+            "end_date": "2010",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "London",
+            "institution_or_company": "City University London",
+            "start_date": "2011-2012",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.5
+}

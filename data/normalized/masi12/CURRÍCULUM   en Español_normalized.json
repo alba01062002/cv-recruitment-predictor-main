@@ -1,0 +1,142 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Ángel Sosa Gómez",
+        "date_of_birth": "03/06/1988",
+        "gender": "male",
+        "age_reference_year": 2012,
+        "age": 24,
+        "email": "miguel.sosa.gomez@gmail.com",
+        "phone": "660898500",
+        "address": "c/ los bordadores 1, 40004 Segovia, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ing. Superior",
+            "field": "Aeronáutico",
+            "university": "ETSIA (UPM)",
+            "location": "Madrid",
+            "year": "2006-2011",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "UPM (ETSIA Departamento)",
+            "position": "Becario de materiales",
+            "description": "Documentación y búsqueda de bibliografía, medición y análisis de resultados. Trato con clientes.",
+            "start_date": "11/2010",
+            "end_date": "07/2011",
+            "duration_years": 0.67
+        },
+        {
+            "company": "No Ne de Ayuca SL (Gasolinera)",
+            "position": "",
+            "description": "",
+            "start_date": "agosto 2008",
+            "end_date": "agosto 2007",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Conductor de coches de Adecco Días sueltos",
+            "position": "",
+            "description": "Alquiler, septiembre",
+            "start_date": "2010",
+            "end_date": "null",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Peón de fábrica Adecco",
+            "position": "",
+            "description": "",
+            "start_date": "julio 2008",
+            "end_date": "null",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Entrenador de fútbol UNAMI",
+            "position": "",
+            "description": "",
+            "start_date": "2006-2007",
+            "end_date": "null",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Estancia",
+            "country": "EE.UU.",
+            "institution_or_company": "Beca de la Caja Segovia",
+            "start_date": "null",
+            "end_date": "3 semanas en 2011",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Estancia",
+            "country": "Reino Unido",
+            "institution_or_company": "Beca del Ministerio de Educación de España",
+            "start_date": "null",
+            "end_date": "3 semanas en 2011",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Inmersión lingüística",
+            "country": "España (Universidad Internacional Menéndez Pelayo)",
+            "institution_or_company": "",
+            "start_date": "null",
+            "end_date": "Semana en 2011",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fortran",
+            "Matlab",
+            "Microsoft Office (Excel, Word, PowerPoint)",
+            "Solid Edge",
+            "Nastran"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Teamwork"
+        ]
+    },
+    "other_interests_normalized": [
+        "Jugar al fútbol",
+        "Ver películas",
+        "Viajar",
+        "Correr",
+        "Hacer rutas ciclistas"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Mentor de nuevos estudiantes",
+            "duration": "2007-2011",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.67,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI12",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.2
+}

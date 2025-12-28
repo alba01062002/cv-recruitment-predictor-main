@@ -1,0 +1,95 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel López Cordero",
+        "date_of_birth": "05/02/2003",
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": 22,
+        "email": "m4 miguelcllopez@gmail.com",
+        "phone": "+34 611 444 333",
+        "address": "calle virgen de todos los santos, 12, 16, 41011, sevilla",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeronáutica",
+            "field": "Aerospace Engineering",
+            "university": "Universidad de Sevilla",
+            "location": "Sevilla",
+            "year": "2021-2025",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Accenture",
+            "position": "Intern in Naval Systems: Control, Management, Automation, Combat Systems",
+            "description": "Worked with Siemens PLM and MBSE software while finishing my degree. Involved in programming tasks.",
+            "start_date": "04/2025",
+            "end_date": "07/2025",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus exchange program",
+            "country": "Italy (Pisa)",
+            "institution_or_company": "Universidad de Pisa",
+            "start_date": "2023-2024",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Italian",
+            "B2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5 (high proficiency)",
+            "Python / MATLAB",
+            "Enterprise Architect",
+            "Simulink",
+            "MBSE",
+            "PLM"
+        ],
+        "soft_skills": [
+            "analytical and problem-solving mindset",
+            "strong interest in understanding how things work",
+            "emotional intelligence and interpersonal sensitivity",
+            "eloquence and strong communication skills",
+            "teamwork-oriented",
+            "proactive and committed to continuous improvement"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.25,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

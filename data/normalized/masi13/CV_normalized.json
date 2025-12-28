@@ -1,0 +1,110 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Nuria Sanchez Celemin",
+        "date_of_birth": "20/07/1987",
+        "gender": "female",
+        "age_reference_year": 2013,
+        "age": 26,
+        "email": "nursancel@gmail.com",
+        "phone": "+34 618210279",
+        "address": "10, 4b. Benito Pérez Galdós. 14001 Cordoba. Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aeronautical Engineering",
+            "field": "Aircraft Production",
+            "university": "University of Seville",
+            "location": "Seville, Spain",
+            "year": "2005-2012",
+            "duration_years": 7.0
+        },
+        {
+            "degree": "Research Student",
+            "field": "Mechanical Engineering",
+            "university": "University of Technology, Sydney (UTS)",
+            "location": "Sydney, Australia",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Maths and Physics Teacher",
+            "description": "Due to selective Spanish examn.",
+            "start_date": "2007/01",
+            "end_date": "2011/12",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Image Hostess",
+            "description": "",
+            "start_date": "2008/01",
+            "end_date": "2011/12",
+            "duration_years": 0.0
+        },
+        {
+            "company": "UTS Housing Residence, Yura Mudang",
+            "position": "Spanish Language Teacher",
+            "description": "",
+            "start_date": "2012/01",
+            "end_date": "2012/12",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Research Student",
+            "country": "Australia",
+            "institution_or_company": "University of Technology, Sydney (UTS)",
+            "start_date": "2011/01",
+            "end_date": "2012/12",
+            "description": "Project: Fluid Heater in Hybrid and Electric Vehicles",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Nastran Patran",
+            "CATIA",
+            "SolidWorks",
+            "MATLAB",
+            "Simulink"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Reina Sofia Hospital",
+            "role": "",
+            "duration": "2003-2011",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.7
+}

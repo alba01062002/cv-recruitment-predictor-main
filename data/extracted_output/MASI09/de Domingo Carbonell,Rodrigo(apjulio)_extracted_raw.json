@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "currículum vitae datos personales nombre y apellidos: rodrigo de domingo carbonell lugar y fecha de nacimiento: murcia, 18 de febrero de 1984 domicilio: c/ santa catalina, 6,5% 30004 murcia teléfono: (+34) 645211685 e-mail: rodrigo.dedomingo@gmail.com formación académica 2002-2007 ingeniero superior de telecomunicaciones por la universidad politécnica de valencia. 2007 the university of sheffield, inglaterra, beca erasmus primer cuatrimestre. oklahoma state university, usa, proyecto fin de carrera, beca promoe segundo cuatrimestre. experiencia profesional 2006 prácticas de empresa con programa iaeste en el instituto de aviación de moscú (m.a.i.) (rusia) durante un mes y medio. tratamiento digital de seales de aviación con matlab. idiomas inglés: nivel alto oral y escrito. curso en hansa language centre, toronto (canadá), 2004. toefl test, 533, 2007. estancias en inglaterra y estados unidos. nivel básico de la escuela de idiomas. informática programación en c, java, matlab, labview y vhdl. otros datos de interés conservatorio de música: grado elemental y primero del medio de guitarra clásica. carné de conducir b-1, vehículo propio.",
+    "text_from_header": "CURRÍCULUM VITAE",
+    "detected_language": "es",
+    "master_edition": "MASI09"
+}

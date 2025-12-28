@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales nombre y apellidos: gabriel madariaga domínguez fecha de nacimiento: 12 de marzo de 1984 lugar de nacimiento: bilbao dni: 16.080.545 domicilio: avda. leioa 39b 1izq. - 48992 getxo - vizcaya móvil: +34 650 318 656 email: hyperlink \"mailto:madariagabriel@gmail.com\" madariagabriel@gmail.com experiencia profesional feb - ago 2008 nrj mobile parís, francia cargo: ayudante del jefe de proyectos de la dirección de sistemas de información de un opererador de telefonía móvil virtual (mvno). funciones: coordinación de los equipos de marketing y los equipos informáticos para el desarrollo de los proyectos del operador. testeo y validación de aplicaciones informáticas. formación académica sep 02 - abr 09 escuela técnica superior de ingeniería bilbao, espaa ingeniero de telecomunicación. realización del 5 curso en el instituto superior de electrónica de parís (isep) durante el curso 2007/08 por medio del programa de intercambio erasmus. proyecto fin de carrera realizado en la empresa nrj mobile. estudio del funcionamiento de un mvno. calificación: 8.5 sep 00 - jun 02 c.p.a. urdaneta loiu, vizcaya, espaa bachillerato tecnológico. calificación global: matrícula de honor formación complementaria idiomas inglés certificate of proficiency in english university of cambridge francés nivel alto hablado y escrito. experiencia laboral en francia euskera grado superior de la escuela oficial de idiomas conocimientos informáticos ofimática utilización avanzada del pack office programación c, c++, matlab, vhdl, java internet html, navegadores otros permiso de conducir tipo b",
+    "text_from_header": "CURRICULUM VITAE",
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

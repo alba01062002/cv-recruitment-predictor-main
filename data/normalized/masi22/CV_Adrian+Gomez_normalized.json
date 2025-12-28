@@ -1,0 +1,95 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Adrián Gómez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "adrig21040@gmail.com",
+        "phone": "+34 658494483",
+        "address": "Calle Torrevieja, 10 Com 28341 Valdemoro Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Industrial Electronic and Automatic Engineering",
+            "field": "Industrial Electronics and Automation Engineering",
+            "university": "Universidad Carlos III - Leganés",
+            "location": "Leganés, Spain",
+            "year": "2014-2021",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Indra Sistemas - Aranjuez, Madrid",
+            "position": "Junior Engineer",
+            "description": "Electronic, electrical and software engineering support in projects. Management of the requirements and development of new functionalities identified for their integration in the company's offer. Proposal of innovative ideas for the continuous improvement of the organization based on new technologies and trends. Drafting of technical documentation and technical presentations in a clear, concise and coherent manner. Collaboration with co-workers from different departments with different roles and responsibilities.",
+            "start_date": "02/2021",
+            "end_date": "12/2022",
+            "duration_years": 1.83
+        },
+        {
+            "company": "Deltys S.L - Majadahonda, Spain",
+            "position": "Technician",
+            "description": "Organization and updating of both physical and digital documentation. Participation in meetings and visits to clients when necessary. Drafting of technical documentation and preparation of presentations in a clear, concise and coherent manner. Preparation of manuals, reports and comparative reports of products.",
+            "start_date": "09/2014",
+            "end_date": "10/2021",
+            "duration_years": 7.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus student",
+            "country": "Germany",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Focus in robotics, programming and artificial intelligence. Bachelor's thesis about the use of machine learning and lidar for reactive obstacle avoidance in drones.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "German",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "C#",
+            "C++",
+            "OpenCV",
+            "Simulations using Unreal Engine 4"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Analysis and diagnosis capacity",
+            "Flexibility and adaptability"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 8.91,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

@@ -1,0 +1,133 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Angel Bermudez Rico",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "angel.bermudez.rico@hotmail.com",
+        "phone": "+34 679 637 659",
+        "address": "",
+        "LinkedIn": "www.linkedin.com/in/angel-bermudez-rico",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Innovation and Decision Making",
+            "field": "",
+            "university": "Universidad de Alcalá de Henares",
+            "location": "",
+            "year": "2019",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master in Aeronautical Engineering",
+            "field": "",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "",
+            "year": "2018",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's Degree in Aerospace Engineering",
+            "field": "",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "",
+            "year": "2016",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Alten, Madrid (Spain)",
+            "position": "Business Manager",
+            "description": "Identify new business opportunities / customers through contacts, events and research. Partnership establishment. Project management: CRM, PRM, TRM, risk analysis, KPIs, monitoring, career monitoring of personnel. Engagement with the customer: identification and analysis of business needs, communication and solutions proposal. Definition, creation and development of business plans: cold calling, client needs analysis and negotiation. Drafting, negotiation and closure of technical and commercial proposals, profit & loss management, cost control. Business case evaluation and new product/project development and monitoring. Leading a BU focused on aerospace and energy industries composed of more than 40 people.",
+            "start_date": "05/2019",
+            "end_date": "12/2025",
+            "duration_years": 6.58
+        },
+        {
+            "company": "ETT for Airbus DS (TASST3-TL1), Randstad Getafe (Spain)",
+            "position": "N/A",
+            "description": "Management of events and coordination for the A400M MDS Forum. Support on business development activities for OCCAR and promotion of the A400M MDS.",
+            "start_date": "03/2019",
+            "end_date": "05/2019",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Airbus DS (TEASP-TL2), Getafe (Spain)",
+            "position": "Intern",
+            "description": "Structural response modelling for A400M fleet operation use monitoring based on machine learning / deep learning predictive simulation and data analysis with Python, Keras and PyTorch, SQL and MATLAB. Strain gauge analysis for Eurofighter and signal data processing with MATLAB.",
+            "start_date": "03/2018",
+            "end_date": "03/2019",
+            "duration_years": 1.0
+        },
+        {
+            "company": "Ejército del Aire, Getafe (Spain)",
+            "position": "Intern",
+            "description": "C-295 fuel system modelling with CAD tool (CATIA) and drafting of technical guidance manuals.",
+            "start_date": "07/2016",
+            "end_date": "08/2016",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Airbus DS, Getafe (Spain)",
+            "position": "Intern",
+            "description": "Handling of technical manuals (AMM, SRM, IPC, ...). Production monitoring and reporting on OTCQP panels regarding maintenance task on C-235, F-18, C-130. Supervision of progress for scheduled maintenance tasks and events with Pelicano tool.",
+            "start_date": "02/2016",
+            "end_date": "04/2016",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "The Netherlands",
+            "institution_or_company": "Technische Universiteit Delft",
+            "start_date": "",
+            "end_date": "",
+            "description": "N/A",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Python",
+            "Keras",
+            "PyTorch",
+            "SQL",
+            "CATIA"
+        ],
+        "soft_skills": [
+            "Business development",
+            "Project management",
+            "Leadership",
+            "Analytical skills"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 8.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

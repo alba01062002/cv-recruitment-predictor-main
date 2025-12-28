@@ -1,0 +1,126 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Antonio Muoz Grosso",
+        "date_of_birth": "23/06/1982",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 28,
+        "email": "grhosso@hotmail.com",
+        "phone": "+34 658431886 / +34 954663389",
+        "address": "C/ Villegas Marmolejo 9-11 B3 C. 2, 41005 Sevilla",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Superior Industrial",
+            "field": "Industria",
+            "university": "Escuela Técnica Superior de Ingenieros, Universidad de Sevilla",
+            "location": "Sevilla",
+            "year": "2021",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Military (EADS Casa)",
+            "position": "Becario",
+            "description": "Gestión de ordenes de inversión de activos fijos, ops (planificación de proyectos de inversiones para el año), elaboración de especificaciones técnicas de gses, elaboración de protocolos y normativas para la gestión de documentación de equipamientos e infraestructuras, inventario de maquinarias. Gestión de inversiones de gse, utillajes e infraestructuras.",
+            "start_date": "11/2008",
+            "end_date": "11/2009",
+            "duration_years": 1.0
+        },
+        {
+            "company": "Alfonso Catering, a través de ETT, Oy Sevilla",
+            "position": "Ayudante de restauración",
+            "description": "",
+            "start_date": "03/2005",
+            "end_date": "01/2006",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Educasport y Ocio S.L.",
+            "position": "Monitor",
+            "description": "Organización y desarrollo de actividades formativas, gestión de recursos humanos (out-door training, coaching) y ocio para entes públicos y privados.",
+            "start_date": "02/2002",
+            "end_date": "06/2004",
+            "duration_years": 2.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Autocad",
+            "Imaginer Technical Solid Edge",
+            "Ecdial",
+            "Msc Adams",
+            "Matlab",
+            "MS-DOS",
+            "Microsoft Windows",
+            "Mac OS X",
+            "Microsoft Office: Word, Frontpage, PowerPoint, Excel, Outlook, Access",
+            "Internet: Medium-high level",
+            "HTML design: Medium level",
+            "Database: Basic level",
+            "PHP: Basic level",
+            "C++: Basic level",
+            "Wi-fi security: Basic level"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Leadership and coordination of teams",
+            "Autodidactic knowledge",
+            "Individual work capability",
+            "Personal development in personal tasks",
+            "Highly responsible and committed to work",
+            "Volunteer work with people with disabilities"
+        ]
+    },
+    "other_interests_normalized": [
+        "Autodidactic knowledge of information technology",
+        "Technology in general, with a special interest in aerospace technology",
+        "Flight line",
+        "Integrated avionics systems",
+        "Aircraft certification"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Various events for disabled people, including the World Fencing Championship for the Disabled",
+            "role": "Volunteer",
+            "duration": "2002-2004",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 4.16,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 39,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.4
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales nombre: fecha de nacimiento: dirección: teléfono: correo electrónico: experiencia laboral silvia belmonte lorente 13.01.1990 c/fundadores n 25 1d 28028 madrid 679749187 silviabelmonte o outlook.com 06/2015 - actualidad 04/2015 - 05/2015 ingeniería del software en accenture (espaa). diseo y lógica de programación estructurada. creación, codificación y edición de programas informáticos. codificación de programas cobol en entorno host, sistema operativo z/os. procesamiento y formateo de datos y ficheros, lógica y aritmética de programación, pruebas y juegos de ensayo, codificación de programas multimodulares y procesamiento de tablas. codificación en lenguaje de control de trabajos (jcl). creación, copia y edición de ficheros. desarrollo de bases de datos en lenguaje sql. cruce de tablas y ficheros. curso de formación en cobol. formación académica 10/2013 - 09/2014 10/2008 - 09/2014 06/2008 programa erasmus. proyecto fin de carrera en la universidad técnica de dresde (dresde, alemania) nota: 8,5/10 estudio de las emisiones de no, en cámaras de combustión: estudio de las emisiones alterando las condiciones de entrada del aire de combustión para diferentes combustibles. simulaciones con cantera-python y análisis de los resultados. diseo del sistema de acondicionamiento del aire de combustión para futuros estudios experimentales. ingeniería industrial en la universidad politécnica de cartagena (cartagena, espaa) nota media: 7,51/10 selectividad en murcia (espaa) nota media: 9,54/10 idiomas espaol: lengua materna inglés: nivel avanzado (en preparación del cae) alemán: nivel intermedio (certificado b1) informática software: matlab, mathematica, cantera-python, autocad, microcad, catia, multisim, solkane. programación: cobol, c++, python. entorno ms office. otras actividades 2013 proyecto en la empresa gold falconry. +. diseo de equipos para alojamiento de dispositivos electrónicos destinados a cetrería + diseo y optimización del prototipo del conjunto de carcasas para alojamiento y sujeción de los dispositivos electrónicos comercializados por el cliente para la toma de información durante el vuelo de halcones en cetrería. 2005 - 2013 profesora de clases particulares. matemáticas, física, química e inglés. 2010 - 2012 camarera en la cantina del cine bahía (mazarrón, murcia) 2005 - 2007 colaboradora en el programa colonia urbana. organización sin ánimo de lucro para nios sin recursos promovido por el centro municipal de servicios sociales de la ciudad de murcia. manejo de normativas iso, une, cte, din. aptitudes capacidad de trabajo en equipo. actitud pro-activa. motivación de aprendizaje constante. iniciativa para la resolución de problemas. creatividad. gestión eficaz ante conflictos. buena organización. otros datos de interés carnet de conducir: clase b aficciones: nuevas tecnologías, viajar, cine, leer y deporte. posibilidad de incorporación inmediata. disponibilidad absoluta para viajar.",
+    "text_from_header": "DATOS PERSONALES",
+    "detected_language": "es",
+    "master_edition": "MASI17"
+}

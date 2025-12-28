@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "miguel martín lópez dirección c/sabadell, 211, 3b, 28034, madrid teléfono +34 657466177 correo electrónico miguelmartinlopez90@gmail.com nacionalidad fecha de nacimiento espaola 14/08/1990 experiencia laboral mayo 2014-actualmente mayo 2013-septiembre 2013 senasa área de exámenes. mantenimiento y actualización bases de datos de preguntas y exámenes de licencias de técnicos de mantenimiento de aeronaves (parte 66) y pilotos (parte fcl). colaboración en el desarrollo y edición de la publicación \"fundamentos de electrónica\" perteneciente a la colección de senasa sobre easa parte 66. pinche pinche restaurant 116 harrogate road, chapel allerton, leeds, ls7 4ny, reino unido trabajo como camarero en un restaurante pequeo pero con mucha clientela. el trato con los clientes me ayudó mucho a mejorar mi nivel de inglés. educación y formación octubre 2013-actualmente universidad politécnica de madrid grado en ingeniería aeroespacial especialidad en ciencias y tecnologías aeroespaciales. septiembre 2008- marzo 2013 universidad politécnica de madrid ingeniería técnica aeronáutica especialidad en equipos y materiales aeroespaciales nota media: 7,47 competencias personales idiomas espaol: lengua materna inglés fluido. seis meses viviendo y trabajando en el reino unido. cambridge first certificate 78/100 informática otros cursos dominio de ms office (word, excel, powerpoint, outlook ) catia v5 (curso en la etsi industriales upm) nastran-patran (curso de introducción al método de los elementos finitos, uned) matlab ms project legislación aeronáutica, introducción a la normativa técnica, factores humanos en el mantenimiento de aeronaves, easa parte m y easa parte 145 actualización de conocimientos. todos ellos en senasa. información adicional permiso de conducir b/ coche propio disponibilidad total para viajar y cambiar de residencia page 2",
+    "text_from_header": "MIGUEL MARTÍN LÓPEZ",
+    "detected_language": "es",
+    "master_edition": "MASI15"
+}

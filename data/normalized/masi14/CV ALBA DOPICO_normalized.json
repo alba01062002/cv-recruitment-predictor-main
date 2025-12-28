@@ -1,0 +1,114 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alba Dopico Dopico",
+        "date_of_birth": "07/04/1988",
+        "gender": "female",
+        "age_reference_year": 2014,
+        "age": 26,
+        "email": "albadopico@gmail.com",
+        "phone": "+34620482306",
+        "address": "13, travesía priorio, 15405 Ferrol, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Industrial Engineering & B.Sc. in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "University of La Coruña, Escuela Politécnica Superior, Ferrol",
+            "location": "Ferrol, Spain",
+            "year": "2006-2013",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "LMS International (a Siemens Business)",
+            "position": "Intern (Erasmus Scholarship)",
+            "description": "Integrating and extending technical skills in the field of mechanical system simulation and vehicle dynamics. Developed a multi-body model of a vehicle to be extended in an integrated environment for co-simulation with on-board safety systems (ABS, ESP).",
+            "start_date": "07/2012",
+            "end_date": "02/2013",
+            "duration_years": 0.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Belgium",
+            "institution_or_company": "LMS International (a Siemens Business)",
+            "start_date": "07/2012",
+            "end_date": "02/2013",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Gallego",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "3D Virtual.lab Motion",
+            "1D LMS Amesim Software",
+            "Solid Edge",
+            "MATLAB",
+            "C/C++ (Dev C++)",
+            "Cosmos/M",
+            "Engineering Equation Solver (EES)",
+            "CESPLA",
+            "ExtendSim",
+            "Lindo, Lingo",
+            "ORCAD PSPICE",
+            "CATIA V5",
+            "Microsoft Windows Environment",
+            "Microsoft Word",
+            "Microsoft Excel",
+            "Microsoft PowerPoint",
+            "Microsoft Project",
+            "Autocad"
+        ],
+        "soft_skills": [
+            "Communication Skills",
+            "Teamwork",
+            "Leadership",
+            "Initiative",
+            "Dynamic and Eager to Learn"
+        ]
+    },
+    "other_interests_normalized": [
+        "Traveling and Getting to Know Different Cultures and Countries",
+        "Studying Different Languages",
+        "High Interest in Reading and Cinema"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 0.58,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

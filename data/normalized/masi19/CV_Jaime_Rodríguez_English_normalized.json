@@ -1,0 +1,102 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jaime Rodríguez Moreno",
+        "date_of_birth": "06/12/1994",
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": 25,
+        "email": "jaimeromoreno@gmail.com",
+        "phone": "+34 699895095",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Audiovisual System Engineering (Telecommunication field)",
+            "field": "Audiovisual system engineering",
+            "university": "Universidad Carlos III Madrid",
+            "location": "Leganés campus",
+            "year": "2014-2018",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "Master in Decision Making & Innovation",
+            "university": "Universidad de Alcalá",
+            "location": "",
+            "year": "2018-currently",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus",
+            "position": "Quality Conformance Management Trainee (GAIA)",
+            "description": "Experienced in project management, digitalization processes, measurement automation and data analysis within the scope of industrial manufacturing quality.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "JavaScript",
+            "HTML",
+            "C",
+            "C++",
+            "Visual Basic",
+            "MATLAB",
+            "Python",
+            "Web development",
+            "Digital image processing",
+            "Network protocols (Wireshark)",
+            "Simulations of telecommunication channels",
+            "Statistical analysis",
+            "Deep learning algorithms and neural networks"
+        ],
+        "soft_skills": [
+            "Autonomous learning",
+            "Willingness to work in individual and team environments",
+            "Tenacity and ambition",
+            "Sociability",
+            "Motivation to learn"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 9.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

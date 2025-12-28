@@ -1,0 +1,81 @@
+{
+    "personal_information_normalized": {
+        "full_name": "David Pascual Manzanares",
+        "date_of_birth": "28/08/1990",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 25,
+        "email": "pascualmanzanares.david@gmail.com",
+        "phone": "+34677745340",
+        "address": "C/Lina Odena 3, 3B, 28905 Getafe, Madrid, Spain",
+        "LinkedIn": "https://www.linkedin.com/in/david-pascual-manzanares-94185583/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://www.linkedin.com/pub/david-pascual-manzanares/94/185/583/"
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in aeronautical engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence and Space",
+            "position": "Intern in the mechanical design section of the satellite antenna and telecom department",
+            "description": "Performance of specific support tasks in the design of antenna tower and reflectors for the SES10 program. Development of mass and inertia models using CATIA V5.",
+            "start_date": "11/2014",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Spanish Air Force 45 Group",
+            "start_date": "07/2012",
+            "end_date": "",
+            "description": "Development of an engine maintenance record. First approach to the manuals and regulations used in civil aircraft maintenance (Airbus A310 and Falcon GO).",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "Visual Basic 6",
+            "Nastran - Hypermesh",
+            "Matlab",
+            "LaTeX",
+            "Fortran 90"
+        ],
+        "soft_skills": [
+            "Microsoft Office Advanced User",
+            "Word",
+            "Excel",
+            "PowerPoint"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.0
+}

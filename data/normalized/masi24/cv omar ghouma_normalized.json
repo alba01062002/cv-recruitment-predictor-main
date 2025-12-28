@@ -1,0 +1,97 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Omar Ghouma",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "ghomaomar074@gmail.com",
+        "phone": "+34 658 24 29 78",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Higher School of Aeronautics and Technologies (ESAT) Tunisian Diploma",
+            "field": "Aerospace Engineering",
+            "university": "",
+            "location": "Tunisia",
+            "year": "2018-2023",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "National Plant Protection Company Sonaprov, Tunisair Technics",
+            "position": "Intern / Intern",
+            "description": "",
+            "start_date": "June 2023 / March 2022",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Tunisia",
+            "institution_or_company": "National Plant Protection Company Sonaprov, Tunisair Technics",
+            "start_date": "",
+            "end_date": "",
+            "description": "Corrosion treatment at the entire structure of a Cessna A188B. Understanding tasks of the control office. 100-hour inspection on an ultralight aircraft (ULM) G1.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Arabic",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "Java",
+            "ANSYS RDM6",
+            "Python",
+            "ABAQUS",
+            "Arduino",
+            "CATIA V5",
+            "Microsoft Office",
+            "ISIS",
+            "PROTEUS",
+            "MATLAB/Simulink"
+        ],
+        "soft_skills": [
+            "creativity",
+            "leadership",
+            "motivation",
+            "problem-solving",
+            "flexibility and adaptation"
+        ]
+    },
+    "other_interests_normalized": [
+        "Swimming",
+        "Volleyball"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.5
+}

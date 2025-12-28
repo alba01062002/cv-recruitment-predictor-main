@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "objective education certificates experience skills languages awards/ affiliations references alberto molina sanchez c/ arzobispo morcillo n22 6a, 28029 madrid date of birth: 08.04.1984 phone: (+34) 676694088 molis.en.g@gmail.com - http://fluids.me.washington.edu to acquire a position in the aeronautical, energetic or consulting fields where i can utilize my technical and analytical skills. university of carlos iii, madrid, spain dec. 2009 = m.s. in energetic technologies = thesis: design and development of a laboratory for the study of warm rain formation = thesis conducted in collaboration with the mechanical engineering department at the university of washington university of carlos iti, madrid, spain may. 2006 = b.s. in mechanical engineering thesis: non-newtonian effects in a commercial double tubed heat exchanger applied to food technology thesis conducted in collaboration with hrs-spiratube group cadtech formación, getafe, spain aug. 2010 = master catia v5 r18 (80 hours) research assistant mar. 2009 - jul. 2010 university of washington, seattle, wa constructed and operated a multiphase fluid wind tunnel experiment to study the effect of air turbulence on cloud droplet collisions. = developed and installing a water droplet injection system into a wind tunnel = characterized flow turbulence, velocity and particle size using a pdpa (phase doppler particle analyzer) system droplet collision analysis using a high speed camera system = matlab program development for data processing = team work and management responsibilities in a three person research group research assistant nov. 2008 - feb. 2009 university of carlos iit, madrid, spain evaluated and quantified the voticity and heat transfer that corrugated walls introduce in non- newtonians flows across a commercial tubular heat exchanger. = conducted computational modeling analyses using fluent software package languages: proficient in matlab, and ability to code in basic and c/c++. software: fluent, gambit, solid edge, autocad, catia v5 and ms. office. machine shop: lathe, mill, cnc machining. drivers licence: b. fluent in english and spanish, both written and spoken. recipient of the 2006 leonardo davinci scholarship. volunteer at solidarios a non-profit organization for schizophrenia patients. available upon request",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI11"
+}

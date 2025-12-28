@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "jorge moreno domínguez ingeniero aeronáutico (5) +34 646445662 ww) www.linkedin.com/in/jormoredo jmoreno96@hotmail.com perfil ingeniero aeronáutico con experiencia en programación y tratamiento de datos en búsqueda activa de empleo en el sector aeroportuario y navegación aérea habilidades msft office python sas sql fortran latex experiencia laboral feb.20-act. ernst 8 young. consultor de negocio * modelado y validación de modelos estadísticos tratamiento de bases de datos seguimiento y revisión de normativa financiera jul.19-feb.20 altran. beca en sección i+d * programación en python de una aeronave solar no tripulada estudio de viabilidad del proyecto certificación easa c-23 educacion 2020-2022 universidad europea de madrid master habilitante en ingenieria aeronautica 2014-2020 universidad politécnica de madrid grado en ingeniería aeroespacial. especialización en navegación y sistemas aeroespaciales 2018-2019 universidad aeronautica en querétaro beca movilidad internacional en méxico espaol nativo inglés nivel ielts c1 francés competencias basicas datos de interés e disponibilidad para viajar e jugador de rugby federado y universitario e aficionado de ciclismo y triatlón",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI21"
+}

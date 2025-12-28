@@ -1,0 +1,132 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pierre Cayetano Brechard Alarcia",
+        "date_of_birth": "10/07/1992",
+        "gender": "male",
+        "age_reference_year": 2016,
+        "age": 24,
+        "email": "pierre.brechard.alarcia@gmail.com",
+        "phone": "+34 687 925 671, +34 91 41551697",
+        "address": "C/ Padre Claret 19 8D, Madrid, Madrid, Spain",
+        "LinkedIn": "https://es.linkedin.com/in/pierrebrechardalarcia",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Autonomous Vehicle Dynamics and Control",
+            "field": "Aircraft Systems Integration",
+            "university": "Cranfield University, United Kingdom",
+            "location": "United Kingdom",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's Degree in Aerospace Engineering",
+            "field": "",
+            "university": "Technical University of Madrid (UPM) - Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio (ETSIAE)",
+            "location": "Spain",
+            "year": "2014-2017",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Coordinator of the Payload Team",
+            "description": "Project: Quadrescue Cranfield University Aeronautical Society",
+            "start_date": "April 2015",
+            "end_date": "August 2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Tutor",
+            "description": "Tutoring high school students and preparing them for their exams in scientific subjects such as physics, chemistry, mathematics and technical drawing.",
+            "start_date": "September 2011",
+            "end_date": "June 2012",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Canada",
+            "institution_or_company": "École Polytechnique de Montréal, Canada",
+            "start_date": "June 2015",
+            "end_date": "August 2015",
+            "description": "International exchange program",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "FORTRAN 90/95",
+            "C++"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Team Management",
+            "Project Coordination"
+        ]
+    },
+    "other_interests_normalized": [
+        "Piano (14 years)",
+        "Basketball (12 years in a team)",
+        "Bass Guitar",
+        "Swimming (Top-level lessons for 10 years)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Chief Scout",
+            "duration": "Since September 2012",
+            "description": ""
+        },
+        {
+            "organization": "Misión San José de Maphinhane, Mozambique",
+            "role": "Volunteer",
+            "duration": "Summer 2011",
+            "description": ""
+        },
+        {
+            "organization": "Desarrollo y Asistencia, Mozambique",
+            "role": "Volunteer",
+            "duration": "10 months (2010/2011)",
+            "description": ""
+        },
+        {
+            "organization": "Madrid Rumbo Al Sur 2009 Expedition to Morocco",
+            "role": "Elected Member",
+            "duration": "Summer 2009",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

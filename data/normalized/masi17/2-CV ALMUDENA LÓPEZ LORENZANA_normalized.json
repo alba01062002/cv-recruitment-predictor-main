@@ -1,0 +1,115 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Almudena López Lorenzana",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "allop.lor@gmail.com",
+        "phone": "987221079/653815676",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Degree in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "University of León (ULE)",
+            "location": "León, Spain",
+            "year": "2013",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Specialized: Aeronautical Engines",
+            "university": "University of León (ULE) and University of Wollongong (Australia)",
+            "location": "",
+            "year": "2012-2016",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Transcom Worldwide",
+            "position": "Technical & Financial Customer Assistant",
+            "description": "Not specified in the text.",
+            "start_date": "Dec. 2012 - present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Servicios Normativos",
+            "position": "Consultant",
+            "description": "Not specified in the text.",
+            "start_date": "Oct. 2011 - Apr. 2012",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Share Sales Responsible (Telemark)",
+            "description": "Not specified in the text.",
+            "start_date": "Sept. 2009 - Feb. 2010",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Reception Responsible",
+            "description": "Worked at La Marina in Wollongong, Australia for half a year.",
+            "start_date": "Dec. 2008 - Jun 2009",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Computer Equipment Sales",
+            "description": "Not specified in the text.",
+            "start_date": "Sep. 2007 - Jan 2008",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study Abroad",
+            "country": "Australia",
+            "institution_or_company": "University of Wollongong",
+            "start_date": "July 2008",
+            "end_date": "July 2009",
+            "description": "Studied subjects such as astrophysics, project engineering and air and noise pollution.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Japanese",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA",
+            "ISO 9001 Auditor",
+            "Technical Conference: Good Practice - Experiences and Singular Business Model (Prevention Awards 2005)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Languages and different cultures"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.2
+}

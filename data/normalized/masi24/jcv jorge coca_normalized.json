@@ -1,0 +1,88 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge Coca García",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "jorge.coca@edu.uah.es",
+        "phone": "+34 685 632 818",
+        "address": "Calle San Vidal, 28803 Alcalá de Henares, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ing. Electrónica y Automática Industrial",
+            "field": "Electronics and Industrial Automation",
+            "university": "Universidad de Alcalá de Henares",
+            "location": "Alcalá de Henares, España",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Profesor Particular Autónomo",
+            "description": "Enseñanza de diferentes niveles de estudios.",
+            "start_date": "Ene 2021",
+            "end_date": "Nov 2022",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Estonia",
+            "institution_or_company": "Tallinn University of Technology - TallTech",
+            "start_date": "Sep 2023",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Tallinn, Estonia",
+            "institution_or_company": "Tallinn University of Technology - TallTech",
+            "start_date": "Sep 2023 - Actualidad",
+            "end_date": null,
+            "description": "Industrial Engineering",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "C programming",
+            "Intel Quartus Prime",
+            "Matlab / Simulink",
+            "AutoCAD"
+        ],
+        "soft_skills": [
+            "Team player",
+            "Perfectionist",
+            "Motivator & leader"
+        ]
+    },
+    "other_interests_normalized": [
+        "Deportes",
+        "Dormir",
+        "Descanso personal",
+        "Relajación"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 1.5
+}

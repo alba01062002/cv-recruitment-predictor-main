@@ -1,0 +1,85 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Carlos Rodríguez Rodríguez",
+        "date_of_birth": "28/09/1985",
+        "gender": "male",
+        "age_reference_year": 2009,
+        "age": 24,
+        "email": "juancarlosrr@hotmail.com",
+        "phone": "617 115 081, 916 825 788",
+        "address": "c/ Eridano, 17, Getafe 28905 Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial",
+            "field": "Máquinas y Estructuras",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2003-2008",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Profesor Particular",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Word",
+            "Excel",
+            "PowerPoint",
+            "Matlab",
+            "Statgraphics",
+            "Ansys",
+            "Autocad",
+            "Solid-Edge",
+            "Fortran",
+            "Mathcad"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Carnet de Conducir B1",
+        "Disponibilidad para Viajar"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.5
+}

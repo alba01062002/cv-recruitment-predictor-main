@@ -1,0 +1,99 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alvaro Solera Martin-Nieto",
+        "date_of_birth": "17/08/1990",
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": 31,
+        "email": "alvaro.solera17@gmail.com",
+        "phone": "+34 658824231",
+        "address": "Madrid, Spain",
+        "LinkedIn": "www.linkedin.com/in/alvaro-solera",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in mechanical engineering",
+            "field": "Mechanical Engineering",
+            "university": "Carlos III University of Madrid",
+            "location": "Madrid, Spain",
+            "year": "2011-2018",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "GSC Servicios y Reparaciones Solera",
+            "position": "Mechanical Technician",
+            "description": "Machinery and vehicle maintenance.",
+            "start_date": "August 2010 - July 2017",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Gotenman Technology",
+            "position": "Project Manager, Powertrain Department",
+            "description": "Engine calibration, dynamometer, track and road calibration, development, assembly and testing manager of modified vehicles.",
+            "start_date": "July 2018 - March 2020",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "VSD Events Driving Instructor",
+            "position": "Driving Instructor in Automotive Events",
+            "description": "",
+            "start_date": "March 2011 - June 2011",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Ireland",
+            "institution_or_company": "Dublin, Ireland",
+            "start_date": "March 2011 - June 2011",
+            "end_date": "",
+            "description": "Part-time work.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Solidworks",
+            "Office (Word, Excel, PowerPoint)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Automotive Professional Training Advance Pitstop",
+            "role": "Driving Instructor in Automotive Events",
+            "duration": "2011",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 28,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.4
+}

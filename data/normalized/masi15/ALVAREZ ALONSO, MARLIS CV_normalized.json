@@ -1,0 +1,93 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Marlis Álvarez Alonso",
+        "date_of_birth": "12/06/1991",
+        "gender": "female",
+        "age_reference_year": 2015,
+        "age": 24,
+        "email": "alvarezalonsomarlis@gmail.com",
+        "phone": "+34 629306216",
+        "address": "46 4b, calle almazán, 28011, madrid, espaa",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bsc & Msc in Aeronautical Engineering",
+            "field": "Air Transport, Airports and Air Navigation",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2009-2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "United States of America (US)",
+            "institution_or_company": "",
+            "start_date": "07/2008",
+            "end_date": "",
+            "description": "Spanish-English course at FLS International, Citrus College (Los Angeles)",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Canada",
+            "institution_or_company": "",
+            "start_date": "07/2009",
+            "end_date": "",
+            "description": "English course at Kaplan (Cambridge), Toronto",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5-V6 R21",
+            "AutoCAD",
+            "CYPE",
+            "Nastran and Hyperworks",
+            "Microsoft Office Tools (Word, Excel, PowerPoint)"
+        ],
+        "soft_skills": [
+            "Communication Skills",
+            "Good Listener",
+            "Teamwork Skills",
+            "Problem-solving Attitude",
+            "Ability to Work Efficiently and Productively"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.0
+}

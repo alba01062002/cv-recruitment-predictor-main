@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": "María Monseñart Martínez",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "mmonserrat.mm@gmail.com",
+        "phone": "618584248",
+        "address": "",
+        "LinkedIn": "www.linkedin.com/in/maria-monserrat-martinez",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería de Telecomunicaciones",
+            "field": "Ingeniería de Telecomunicaciones",
+            "university": "Universidad Politècnica de Catalunya",
+            "location": "Barcelona",
+            "year": "2017-2022",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Avanade Spain",
+            "position": "Prácticas en ERP - Supply Chain Management",
+            "description": "",
+            "start_date": "Marzo de 2022",
+            "end_date": "12/2022",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Premios Zapping Associació de Consumidors de Mitjans Audiovisuals de Catalunya",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "Diciembre de 2016",
+            "end_date": "Mayo de 2017",
+            "description": "Coorganizadora, comenzó como voluntaria haciendo críticas cinematográficas y gestionando la web. Más tarde ayudó en el montaje y gestión de los premios Zapping: gestión finalistas.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalán",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "Excel",
+            "Redes Telemáticas",
+            "Dynamics 365",
+            "Servicios y Aplicaciones",
+            "PowerBI",
+            "Telemáticas",
+            "Azure",
+            "SQL",
+            "Deep Learning Basics",
+            "Linux",
+            "Arduino",
+            "Raspberry Pi"
+        ],
+        "soft_skills": [
+            "Creatividad",
+            "Toma de decisiones",
+            "Compromiso",
+            "Adaptabilidad",
+            "Liderazgo",
+            "Trabajo en equipo",
+            "Comunicación"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Premios Zapping Associació de Consumidors de Mitjans Audiovisuals de Catalunya",
+            "role": "Coorganizadora, comenzó como voluntaria haciendo críticas cinematográficas y gestionando la web. Más tarde ayudó en el montaje y gestión de los premios Zapping: gestión finalistas.",
+            "duration": "Diciembre de 2016 - Mayo de 2017",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

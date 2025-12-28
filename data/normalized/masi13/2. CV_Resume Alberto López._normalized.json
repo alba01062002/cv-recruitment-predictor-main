@@ -1,0 +1,153 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alberto López Serna",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": null,
+        "email": "albertols87@gmail.com",
+        "phone": "+34 660450582",
+        "address": "Calle Sevilla 15, 1B, Fuenlabrada, Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Industrial Engineering with specialization in Electronics",
+            "field": "Industrial Engineering",
+            "university": "Carlos III University of Madrid",
+            "location": "Madrid, Spain",
+            "year": "2005-2009",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Master's degree in Advanced Electronic Systems (incomplete)",
+            "field": "Advanced Electronic Systems",
+            "university": "Carlos III University of Madrid",
+            "location": "Madrid, Spain",
+            "year": "2010-2011",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Degree Project: Lighting LED System for Performance Evaluation (First Class)",
+            "field": "Electronics",
+            "university": "Carlos III University of Madrid",
+            "location": "Madrid, Spain",
+            "year": "2009-2010",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Academia Universitaria Atica, Madrid (Spain)",
+            "position": "Teacher / Part-Time",
+            "description": "Teaching general preparation in electrical theory, A/D electronic, assembler, and basic electromagnetism. Preparing and supervising specific experimental subjects.",
+            "start_date": "2009-12",
+            "end_date": "2012-06",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Medhesa S.L., Madrid (Spain)",
+            "position": "Intern / Full-Time Electrical Consulting Company",
+            "description": "Monitoring power consumption of clients. Monitoring/reporting electrical bills by studying the power-load curve. Checking/filing bill electrical control using internal company software.",
+            "start_date": "2011-10",
+            "end_date": "2011-12",
+            "duration_years": 0.0
+        },
+        {
+            "company": "University Group for Identification Technologies (GUTD, Carlos III University of Madrid)",
+            "position": "Intern / Part-Time",
+            "description": "Designing, developing, installing and performing the degree project: Lighting LED System for Performance Evaluation. Evaluating and presenting the aims of the project. Making decisions about electronic/electrical components.",
+            "start_date": "2009-10",
+            "end_date": "2010-12",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Canada",
+            "institution_or_company": "",
+            "start_date": "2010-08",
+            "end_date": "2010-09",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Preparing CAE and IELTS Academic Certifications",
+            "country": "Ireland, Dublin",
+            "institution_or_company": "",
+            "start_date": "2012-06",
+            "end_date": "Currently",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Orcad Capture and Layout",
+            "Matlab and Simulink",
+            "Keil uVision (Assembly 8051 Projects, LPC2129 in C)",
+            "Modelsim (VHDL using Altera Max+Plus II 10 and Quartus ID)",
+            "Microsoft Office (Advanced): Word, Excel, PowerPoint, and Outlook",
+            "C Programming (During all college years and final project)",
+            "Assembler (3 year BSc)",
+            "VHDL (4th year BSc)",
+            "Windows XP and Seven (Advanced)",
+            "Linux (Intermediate)",
+            "Symbian, Android (Advanced, Modifying ROM)",
+            "Automation Programming - Mitsubishi RV-2AJ, ABB, PLC"
+        ],
+        "soft_skills": [
+            "Flexibility",
+            "Hard-working",
+            "Investigating, Analyzing and Problem Solving",
+            "Teamwork",
+            "Pro-activity",
+            "Interpersonal Skills",
+            "Teaching"
+        ]
+    },
+    "other_interests_normalized": [
+        "Football",
+        "Cooking",
+        "Coffee and Tea Drinking",
+        "Music (Post-punk, Art Rock, Ethnic Sounds, Ambient, Electronic, Alternative Rock, Folk, Funky or Soul)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Amateur Football Team at Carlos III University of Madrid",
+            "role": "President",
+            "duration": "2010-2023",
+            "description": ""
+        },
+        {
+            "organization": "Street Workout Group La Barra Nostra",
+            "role": "Member",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

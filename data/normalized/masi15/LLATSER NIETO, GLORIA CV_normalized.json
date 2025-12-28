@@ -1,0 +1,140 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Gloria Llátser Nieto",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2015,
+        "age": null,
+        "email": "gloria.llatser@gmail.com",
+        "phone": "+33 (0) 6 23 43 49 54, +34 648 14 80 82",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Thermal and Energy Engineering",
+            "field": "Térmica y energética",
+            "university": "Ecole Centrale Lyon",
+            "location": "Lyon, France",
+            "year": "2013-2014",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's in Industrial Engineering",
+            "field": "Mecánica",
+            "university": "Universitat Politècnica de Catalunya - ETSEIB",
+            "location": "Barcelona, Spain",
+            "year": "2009-2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Alten (Ingénierie et conseil en technologie, télécommunications, systèmes d'information)",
+            "position": "Ingeniera Mecánica",
+            "description": "",
+            "start_date": "10/2014",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "SNECMA (Aéronautique, groupe Safran)",
+            "position": "Prácticas como Ingeniera",
+            "description": "",
+            "start_date": "03/2014",
+            "end_date": "09/2014",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "France",
+            "institution_or_company": "Ecole Centrale Lyon",
+            "start_date": "12/2013",
+            "end_date": "03/2014",
+            "description": "Proyecto de cálculo mecánico y concepción",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "France",
+            "institution_or_company": "",
+            "start_date": "12/2013",
+            "end_date": "03/2014",
+            "description": "Proyecto final de carrera y proyecto de master: construcción de un calculador del juego rotor-estátor del compresor alta presión del motor GE90-115B",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Universitat Politècnica de Catalunya - ETSEIB",
+            "start_date": "05/2008",
+            "end_date": "03/2009",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalan",
+            "C2"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SolidWorks",
+            "Matlab",
+            "Ansys",
+            "Ansys Fluent",
+            "Patreon",
+            "Excel",
+            "Word",
+            "PowerPoint",
+            "C",
+            "VBA"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Skiing",
+        "Tennis",
+        "Music",
+        "Paddle",
+        "Cooking",
+        "Art"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Fair Oak School (Primary school)",
+            "role": "English teacher",
+            "duration": "2007",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

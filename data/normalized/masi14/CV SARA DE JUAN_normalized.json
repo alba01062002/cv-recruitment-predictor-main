@@ -1,0 +1,94 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sara Juan Silván",
+        "date_of_birth": "04/02/1987",
+        "gender": "female",
+        "age_reference_year": 2014,
+        "age": 27,
+        "email": "sara.jsilvan@gmail.com",
+        "phone": "+34 699 807 745",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Superior de Telecomunicaciones",
+            "field": "Telecomunicaciones",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, España",
+            "year": "2005-2012",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Thales España Grp, S.A.U",
+            "position": "Bid Manager",
+            "description": "Forma parte del equipo de ofertas identificando riesgos y requisitos del cliente. Realiza ofertas sencillas y complejas, manteniendo el contacto con el cliente, gestionando a los proveedores, realizando la oferta técnica y económica y buscando y colaborando con expertos de diferentes departamentos para desarrollar la oferta que cumpla los requisitos del cliente.",
+            "start_date": "01/2011",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Finlandia",
+            "institution_or_company": "Tampere University of Technology, Communications Engineering Unit",
+            "start_date": "08/2011",
+            "end_date": "05/2012",
+            "description": "Desarrolló el proyecto fin de carrera 'Nomothetic Approaches for Spectrum Sensing' en Tampere University of Technology, Finlandia, estudiando posibles detectores utilizados en radio cognitiva y simulaciones con MATLAB.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "C",
+            "Java",
+            "Unix Shell Programming",
+            "Windows",
+            "Linux",
+            "Microsoft Office (Word, Excel, PowerPoint, Access, Microsoft Project)",
+            "OpenOffice"
+        ],
+        "soft_skills": [
+            "Adaptabilidad a nuevos lugares y entornos multiculturales",
+            "Capacidad de trabajo independiente o con supervisión",
+            "Facilidad para trabajar en equipo",
+            "Espíritu de superación"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2005-2012",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

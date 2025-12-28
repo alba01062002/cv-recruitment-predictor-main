@@ -1,0 +1,99 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rodrigo Cereijo Freire",
+        "date_of_birth": "05/07/1998",
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": 26,
+        "email": "rodrigocereijo@gmail.com",
+        "phone": "+34 645 429177",
+        "address": "Calle Pazos Fontenla 80, 3a, Bueu, Pontevedra",
+        "LinkedIn": "https://www.linkedin.com/in/rodrigo-cereijo-freire-s-07a5b2191/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor in Aerospace Systems Engineering",
+            "field": "Aerospace Systems, Air Navigation",
+            "university": "Universitat Politècnica de Catalunya - Barcelona Tech (UPC)",
+            "location": "Barcelona",
+            "year": "2016-2021",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Stellantis",
+            "position": "ADAS Developer Technician",
+            "description": "Role in the ADAS area for the K9 mi-vie project at Stellantis plant in Vigo. Officialization process of the evolutions of the parts of this area applicable to the entire project. Follow up and management of information related to officializations, issues appeared in cars, tests, and any change affecting ADAS parts. Role in the resolution of the issues appared on the cars tested in Vigo plant such as software, hardware, and calibration tasks.",
+            "start_date": "04/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Catalan",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "MATLAB",
+            "JavaScript",
+            "Dynamic and Static Structure Studies and Simulations",
+            "Advanced Driver Assistance Systems (ADAS)",
+            "Communication Protocols",
+            "Data Management through PLM and SAP",
+            "Design Programs: SolidWorks, CATIA"
+        ],
+        "soft_skills": [
+            "Team Work",
+            "Decision Making",
+            "Multitasking",
+            "Innovation",
+            "Communication Habilities"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 2.67,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

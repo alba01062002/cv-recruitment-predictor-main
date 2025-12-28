@@ -1,0 +1,125 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ángel Martínez Roldán",
+        "date_of_birth": "26/03/1989",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 28,
+        "email": "angel.martinez.roldan@gmail.com",
+        "phone": "+34 638 306 974",
+        "address": "",
+        "LinkedIn": "https://es.linkedin.com/in/angelmartinezroldan",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Aeronautical Engineering",
+            "field": "Aircraft Systems Integration",
+            "university": "Polytechnical University of Madrid (UPM)",
+            "location": "Alcalá de Henares, Spain",
+            "year": "2015-present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's degree in Aeronautical Engineering",
+            "field": "Airports and Air Navigation",
+            "university": "Polytechnical University of Madrid (UPM)",
+            "location": "Alcalá de Henares, Spain",
+            "year": "2007-2014",
+            "duration_years": 7.0
+        },
+        {
+            "degree": "",
+            "field": "Master thesis: Bio-inspired helical fiber composite. Analytical and numerical modelling.",
+            "university": "University of Liège (ULG)",
+            "location": "Liège, Belgium",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Master's degree in Numerical Simulation in Engineering with ANSYS, specialized in mechanical analysis",
+            "field": "",
+            "university": "Alcalá de Henares University (UAH)",
+            "location": "Alcalá de Henares, Spain",
+            "year": "2015-present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master's degree in Professional Development: Competence development in companies, strategy and efficiency, communication challenges, economics, international business law, finance, productivity and innovation, people & management",
+            "field": "",
+            "university": "",
+            "location": "",
+            "year": "2015-present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defense and Space",
+            "position": "Procurement of Platform Systems Department Internship",
+            "description": "Fuel and Refueling Systems, Electrical Systems, Landing Gear and Hydraulics, Aircraft Interiors and Environmental Control Systems (A400M cargo loading)",
+            "start_date": "2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Belgium",
+            "institution_or_company": "University of Liège (ULG)",
+            "start_date": "2014-2015",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA V5",
+            "ANSYS",
+            "FORTRAN",
+            "Blender",
+            "STK",
+            "MS Office"
+        ],
+        "soft_skills": [
+            "Teamworking",
+            "Leadership",
+            "Public speaking",
+            "Negotiation"
+        ]
+    },
+    "other_interests_normalized": [
+        "Driving license: B1 (automobile) since 2012",
+        "Music and piano studies 1996 - present"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

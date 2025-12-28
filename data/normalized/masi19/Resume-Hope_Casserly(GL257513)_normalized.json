@@ -1,0 +1,123 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Hope Casserly",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "hcasserly1015@gmail.com",
+        "phone": "+1 (705) 933-6477",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Engineering Computer Engineering",
+            "field": "Computer Engineering",
+            "university": "The University of Guelph",
+            "location": "Guelph, Ontario",
+            "year": "2011-2016",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Solar Ship Inc.",
+            "position": "Full-time Electrical Engineer in Training",
+            "description": "Interpreted instructions/drawings and installed electrical components. Adhered to a high standard of aircraft manufacturing. Developed schematics, assemblies, and testing of prototypes. Introduced to higher level of electrical and electronic development, trouble-shooting, testing, and maintenance.",
+            "start_date": "07/2016",
+            "end_date": "12/2025",
+            "duration_years": 9.42
+        },
+        {
+            "company": "Cpk Interior Products",
+            "position": "Full-time Engineering Intern",
+            "description": "Worked with the professional maintenance pillar team of a world class manufacturing automotive plant. Developed skills in adherence to 5S methodology, injection press and industrial robot analysis. Solved prolonging life and usage problems.",
+            "start_date": "04/2015",
+            "end_date": "07/2016",
+            "duration_years": 1.25
+        },
+        {
+            "company": "Ngtronix Industries Corp",
+            "position": "Lead Manufacturing Hand (Part-time)",
+            "description": "Led the manufacturing of a major electrical lighting contract. Reported milestones reached and remaining aspects of the project. Estimated inventory quantities.",
+            "start_date": "09/2014",
+            "end_date": "12/2014",
+            "duration_years": 0.25
+        },
+        {
+            "company": "University of Guelph",
+            "position": "Lab Technician Assistant (Full-time)",
+            "description": "Assisted with setting up electronic labs for the incoming students. Put together student lab kits.",
+            "start_date": "07/2014",
+            "end_date": "08/2014",
+            "duration_years": 0.08
+        },
+        {
+            "company": "University of Guelph",
+            "position": "Undergraduate Research Volunteer (Full-time)",
+            "description": "Worked with FPGA boards to design and develop student lab manuals. Communicated effectively with a supervising professor.",
+            "start_date": "05/2014",
+            "end_date": "09/2014",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Kognitive Marketing",
+            "position": "Promotional Representative (Full-time)",
+            "description": "Engaged with consumers to promote the features and benefits of financial service products. Built rapport, matched product features to customer needs, closed sales.",
+            "start_date": "05/2013",
+            "end_date": "09/2013",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C",
+            "Java",
+            "Assembly",
+            "MATLAB",
+            "Visual Basic",
+            "VHDL",
+            "Simulink",
+            "LabView",
+            "Python",
+            "Excel (intermediate)",
+            "Arduino IDE",
+            "Visio",
+            "Cadence",
+            "LaTeX"
+        ],
+        "soft_skills": [
+            "team player",
+            "hard working",
+            "committed to quality work",
+            "excellent communication",
+            "organization",
+            "time management",
+            "attention to detail",
+            "quick learner"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

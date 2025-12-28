@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sergi Escribano Undurraga",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "sergiescribanou@gmail.com",
+        "phone": "+34 649 89 57 15",
+        "address": "",
+        "LinkedIn": "linkedin.com/in/sergi-escribano-undurraga-51baaa146",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Polytechnic University of Catalonia",
+            "location": "Barcelona, Spain",
+            "year": "2018-2022",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Bachelor's in Aerospace Vehicles",
+            "field": "Aerospace Vehicles",
+            "university": "Polytechnic University of Catalonia",
+            "location": "Barcelona, Spain",
+            "year": "2014-2018",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Software Developer Control and Analysis Techniques (TCA)",
+            "position": "Software Developer",
+            "description": "Developing software for data acquisition of atmospheric gas emissions analysis, adjusting client requirements with technical ones, elaborating technical documentation.",
+            "start_date": "2017",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ Program",
+            "country": "Poland",
+            "institution_or_company": "Warsaw University of Technology",
+            "start_date": "2014-2015",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalan",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB and C/C++ for dynamic, thermal and fluid computer simulations",
+            "Python and Java for object-oriented programming",
+            "LabVIEW for front end and user interface design of industrial applications",
+            "Excel for unit testing tasks and automated reporting routines",
+            "TeamViewer and AnyDesk for remote software maintenance assistance",
+            "Eagle for PCB design",
+            "SolidWorks for basic CAD design",
+            "ANSA for Fem structural analysis"
+        ],
+        "soft_skills": [
+            "Responsibility and self-discipline in daily work",
+            "Flexibility in work routines while combining job and studies",
+            "Strong teamwork and cooperation skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Spanish driving license (B)",
+        "Amateur runner in long distance races",
+        "Football coach with license"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "UPC Space Program",
+            "role": "Active member",
+            "duration": "2016-2017 to 2018-2019",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

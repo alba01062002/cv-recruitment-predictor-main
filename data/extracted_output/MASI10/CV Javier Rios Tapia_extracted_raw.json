@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales nombre y apellidos: francisco javier ríos tapia lugar y fecha de nacimiento: badajoz, 20-julio-1983 estado civil: soltero dirección: av. ramón de carranza n18, 41011. sevilla. teléfono: 954 45 35 36 / 652 427944 e-mail: hyperlink \"mailto:javirios83@hotmail.com\" javirios83@hotmail.com otros datos: carnet de conducir y coche propio. disponibilidad geográfica. formación académica ingeniero industrial por la escuela técnica superior de ingenieros de sevilla. finalizado en julio de 2009. especialidad: organización industrial. intensive english language program en la universidad de pennsylvania (philadelphia), durante los meses de septiembre y octubre de 2009. 1 ao como becario erasmus en la universidad de florencia (italia). 2008-09. experiencia laboral colaboración en distintas campaas de marketing (movistar, vodafone, xbox). clases particulares de física y matemáticas a estudiantes de e.s.o y bachillerato. idiomas: espaol: nativo. inglés: nivel alto. italiano: nivel alto. francés: nivel bajo. informática: conocimientos nivel alto: procesadores de texto (word) hojas de calculo (excel) programas de presentaciones (power point) entorno de windows navegadores web. matlab.",
+    "text_from_header": "DATOS PERSONALES",
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

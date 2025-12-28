@@ -1,0 +1,141 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Aya Derouich",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "derouichaya159@gmail.com",
+        "phone": "+34 634 23 26 25",
+        "address": "6 avenida de madrid, 23003 jaén, spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineering Degree",
+            "field": "Aeronautical engineering",
+            "university": "ESAT University, Tunisia",
+            "location": "Tunisia",
+            "year": "2019-2024",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Integrated Preparatory Studies to Engineering School",
+            "university": "ESAT University, Tunisia",
+            "location": "Tunisia",
+            "year": "2019-2021",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "High School Diploma",
+            "university": "Al Aliyah High School, Tunisia",
+            "location": "Tunisia",
+            "year": "2018-2019",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Jaén University Campus Las Lagunillas, Spain",
+            "position": "Intern in Mechanics Laboratory",
+            "description": "Design and prototype a flexible system adaptable to pollinate various crops, using plant-specific algorithms.",
+            "start_date": "02/2024",
+            "end_date": "12/2025",
+            "duration_years": 1.83
+        },
+        {
+            "company": "TunisAir Fideyls, Tunisia",
+            "position": "Intern in Air Operations Management Integrated Operations Control Center",
+            "description": "Flight planning: creating flight schedules and coordinating departures and arrivals.",
+            "start_date": "08/2023",
+            "end_date": "09/2023",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Sonaprov: National Plant Protection Company Hangar MRO, Tunisia",
+            "position": "Intern in Aircraft Maintenance Engineer",
+            "description": "Performed aircraft maintenance tasks such as inspections, parts replacements, lubrication, corrosion treatment, and disassembly according to manuals.",
+            "start_date": "06/2023",
+            "end_date": "07/2023",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Tunisair Technics, Tunisia",
+            "position": "Intern in Aircraft Maintenance Engineer",
+            "description": "Recognition of aircraft maintenance tasks and engineering procedures.",
+            "start_date": "03/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ Scholarship for Exchange Semester",
+            "country": "Spain",
+            "institution_or_company": "Jaén University Campus Las Lagunillas, Spain",
+            "start_date": "01/2024",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Arabic",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "Java",
+            "ANSYS RDM 6",
+            "Python",
+            "ABAQUS",
+            "CATIA V5",
+            "ISIS",
+            "Proteus",
+            "MATLAB/Simulink"
+        ],
+        "soft_skills": [
+            "collaboration",
+            "communication",
+            "analytical thinking",
+            "reliability and adaptability"
+        ]
+    },
+    "other_interests_normalized": [
+        "sport",
+        "travel",
+        "reading"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "RIAC ESAT",
+            "role": "Project Manager/Coach",
+            "duration": "09/2022-12/2023",
+            "description": ""
+        },
+        {
+            "organization": "Enactus ESAT",
+            "role": "Club Member",
+            "duration": "09/2021-12/2023",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 5.74,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

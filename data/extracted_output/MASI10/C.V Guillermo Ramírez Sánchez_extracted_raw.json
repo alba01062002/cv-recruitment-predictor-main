@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales nombre: guillermo david ramírez sánchez dirección: c miguel de cervantes, 8 población: villamuriel de cerrato provincia: palencia fecha de nacimiento: 20/07/1984 teléfono: 697203145 correo electrónico: gdrs960 gmail.com guillermodavid.ramirez@alumnos.uva.es estudios realizados sep 2002-marzo 2007- ingeniería técnica informática de gestión en la universidad de valladolid. sep 2007-octubre 2009. ingenieria informatica en la universidad de valladolid. practicas julio 2006-octubre 2006 realización de prácticas de apoyo a gestión de la red y documentación de un sistema datawarehouse en la empresa grupo siro, dentro del departamento de informática, en las instalaciones que esta empresa posee en venta de baos, palencia. idiomas curso de inglés del 15 de octubre de 2008 al 2 de noviembre de 2008 en the horner school of english de dublín en en nivel pre-intermediate. curso de inmersión en lengua inglesa en nivel intermedio del 15 al 19 de septiembre de 2008 en la universidad internacional menéndez pelayo con una duración de 40 horas lectivas. curso de inmersión en lengua inglesa en nivel intyermedio del 5 al 9 de octubre de 2009 en la universidad internacional menéndez pelayo con una duración de 40 horas lectivas. superados los dos primeros cursos de inglés de la escuela oficial de idiomas en palencia. otros datos permiso de conducir. disponibilidad de vehículo propio.",
+    "text_from_header": "DATOS PERSONALES",
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

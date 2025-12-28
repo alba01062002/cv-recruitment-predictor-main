@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "- josé ignacio cogolludo galán datos personales nombre josé ignacio apellidos cogolludo galán fecha de nacimiento 9 de junio de 1986 lugar de nacimiento móstoles (madrid) dni 47524936-j dirección c/ río sella, n 6, escalera 2 6 izquierda, 6 a 28934 móstoles (madrid) teléfono fijo 916474330 teléfono móvil (prioritario) 600770577 e-maill jicogolludo@alumnos.upm.es e-mail2 jicogog@hotmail.com formacion academica titulo bachillerato centro 1.e.s. miguel de cervantes (móstoles) calificación matrícula de honor a destacar beca de aprovechamiento académico excelente concedida por la comunidad de madrid en el ao 2004 2004 - 2008 título ingeniería técnica aeronáutica especialidad aeronaves universidad politécnica de madrid centro escuela universitaria de ingeniería técnica aeronáutica (euita) proyecto fin de carrera diseo de un simulador de vuelo mediante herramientas matlab/simulink calificación proyecto 9.5/10 calificación media 7.86/10 cursos curso 1: energía eólica: fundamentos aerodinámicos duración 45 horas periodo octubre 2006-febrero 2007 entidad universidad politécnica de madrid duración 45 horas periodo febrero 2008-mayo 2008 entidad universidad politécnica de madrid duración 15 horas periodo julio 2008 entidad foindesa idiomas leído escrito hablado correctamente correctamente mejorable 05/10/2009 1 - josé ignacio cogolludo galán fecha 29/07/03 - 18/08/03 lugar londres (inglaterra) entidad ef education london fecha 03/08/2009 - 23/08/2009 lugar londres (inglaterra) entidad malvern house london prácticas entidad ala 35 (base aérea de getafe) lugar getafe (madrid) duración 130 horas periodo agosto de 2008 funciones familiarización con las tareas de mantenimiento de las flotas de aeronaves cn-235 y c-295 llevadas a cabo por el escuadrón de mantenimiento del ala 35 experiencia profesional septiembre 2008 - enero 2009 empresa i.t.d. (servicios de ingeniería y tecnologías de diseo) puesto calculista en prácticas en el departamento de estructuras de dicha empresa funciones labores de apoyo en los cálculos estructurales del lower wing cover del a350 xwb y en el a330 mrtt empresa metro de madrid s.a. puesto becario en prácticas por la fundación universidad - empresa funciones tuve la oportunidad de participar en los siguientes proyectos: 1. estudio aerodinámico de la resistencia al avance en túneles del nuevo material móvil 2. análisis del comportamiento dinámico de todos los vehículos del parque del material móvil (sistema depresys) 3. estudio de las aceleraciones experimentadas por el nuevo material móvil con vistas a mejorar el confort de los pasajeros 4. implantación de los nuevos sistemas de control automático de trenes cbtc (communication based train control) y driverless 5. implantación de prototipos de puertas de andén en línea 12 de metro sistema operativo windows xp /2000 navegador internet explorer correo electrónico ms outlook procesador de textos ms word hoja de cálculo ms excel bases de datos ms access presentaciones ms powerpoint programación ms visual basic y c diagramas ms visio gestion de proyectos ms office project manager 05/10/2009 2 - josé ignacio cogolludo galán diseo catia v cálculo estructural nastran / patran cfd fluent simulación de sistemas dinámicos simulink software matemático matlab 05/10/2009 3",
+    "text_from_header": "DATOS PERSONALES",
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

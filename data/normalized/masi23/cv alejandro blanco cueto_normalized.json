@@ -1,0 +1,102 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro Blanco Cueto",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "aleblancocueto@icloud.com",
+        "phone": "+34 616 991 938",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2018-2023",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Iberia Maintenance",
+            "position": "Trainee",
+            "description": "Collaboration in the performance of training and preventive and corrective maintenance tasks on equipment and installations.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Capgemini Engineering",
+            "position": "Navigation Systems Junior Engineer",
+            "description": "Actively contributed to the revision process of requirements and technical specifications for the navigation system within Airbus Sirtap project.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Airbus Sirtap Project (Capgemini Engineering)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Contributed to the revision process of requirements and technical specifications for the navigation system.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fortran 99",
+            "Excel",
+            "Matlab",
+            "Xfoil"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Creativity",
+            "Communication",
+            "Problem-solving"
+        ]
+    },
+    "other_interests_normalized": [
+        "Physics",
+        "Mathematics",
+        "Chemistry"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Private Tutor",
+            "duration": "Started: September, 2018 - Present",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.9
+}

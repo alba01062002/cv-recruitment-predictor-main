@@ -1,0 +1,90 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Antonio Ortiz Villegas",
+        "date_of_birth": "24/07/1999",
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": 23,
+        "email": "antonioortizvillegaz@gmail.com",
+        "phone": "+34 634671213",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [],
+    "work_experience_normalized": [
+        {
+            "company": "Islantilla, Spain",
+            "position": "Waiter and Shift Manager at El Tinglao",
+            "description": "Worked as a waiter and cashier in the family-owned restaurant. Managed service for clients outside the bar and terrace since 2016; became shift manager from 2019 to assist with various functions.",
+            "start_date": "20/06/2016",
+            "end_date": "01/09/2021",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Italy and Germany (partly in Belgium)",
+            "institution_or_company": "Universita di Pisa, Naturkultur Erasmus+ Youth Exchange Program",
+            "start_date": "27/09/2021 - current",
+            "end_date": "",
+            "description": "Participated in a 10-day exchange program in Bremen and Brussels explaining EU institutions' functions.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Croatia (also Serbia and Croatia)",
+            "institution_or_company": "Cinewar Erasmus+ Youth Exchange Program",
+            "start_date": "19/04/2022 - 27/04/2022",
+            "end_date": "",
+            "description": "Exchanged with topics related to war and cinema, held in Osijek, Croatia.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Seville, Spain and Italy",
+            "institution_or_company": "Universidad de Sevilla and Universita di Pisa (Erasmus exchange program)",
+            "start_date": "18/09/2017 - current",
+            "end_date": null,
+            "description": "Aerospace Engineering",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Italian",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB/Simulink",
+            "CATIA"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Planning",
+            "Collaboration in heterogeneous groups",
+            "Experienced team player"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.3
+}

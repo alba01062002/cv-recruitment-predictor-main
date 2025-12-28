@@ -1,0 +1,103 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Andrea López Rodríguez",
+        "date_of_birth": "30/07/1996",
+        "gender": "female",
+        "age_reference_year": 2020,
+        "age": 24,
+        "email": "andrea317960@hotmail.com",
+        "phone": "+34 619443383",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "Instituto Superior Técnico de Lisboa, Portugal",
+            "location": "Lisbon, Portugal",
+            "year": "2019-present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Industrial Engineering",
+            "field": "Mechanical Engineering",
+            "university": "Universidad de Sevilla (University of Seville)",
+            "location": "Seville, Spain",
+            "year": "2014-2019",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Private Teacher for Physics and Mathematics",
+            "description": "Taught secondary and high school students.",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Portugal",
+            "institution_or_company": "Instituto Superior Técnico de Lisboa (IST-UL)",
+            "start_date": "2018",
+            "end_date": "2019",
+            "description": "Studied and obtained the second prize at the end of studies.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "Portuguese",
+            "B2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Technical Drawing and Modeling",
+            "Project Management",
+            "Solid Mechanics",
+            "Vibrations and Noise",
+            "Environmental Technology",
+            "Metrology and Quality Control"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Communication",
+            "Adaptability to Multicultural Environments"
+        ]
+    },
+    "other_interests_normalized": [
+        "Basketball player for Feminism Seville team (8 years)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

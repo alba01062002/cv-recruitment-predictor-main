@@ -1,0 +1,169 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alvaro Lopez Toledo",
+        "date_of_birth": "04/12/1989",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 28,
+        "email": "alvaro..toledo@gmail.com",
+        "phone": "+34 626 657 844",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Higher education certificate in Development of Web Applications",
+            "field": "Web Application Development",
+            "university": "IES Virgen del Espino",
+            "location": "Soria, Spain",
+            "year": "2016",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master's in Professional Development 4.0",
+            "field": "",
+            "university": "Universidad de Alcala de Henares",
+            "location": "Madrid, Spain",
+            "year": "2015-2016",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Mechanical Engineering Degree",
+            "field": "Mechanical Engineering",
+            "university": "Carlos III University of Madrid",
+            "location": "Leganés, Spain",
+            "year": "2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Certificate in Avionics Maintenance Technician",
+            "field": "Avionics",
+            "university": "CP IFP Profesor Raúl Vázquez",
+            "location": "",
+            "year": "2011-2015",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Telecommunications Engineering Internship",
+            "field": "",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "",
+            "year": "2007-2009",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "INDRA Sistemas, SG",
+            "position": "SAP Consultant Roll Out, ENEL-ENDESA Project",
+            "description": "",
+            "start_date": "11/2016",
+            "end_date": "Currently",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Operations, DGR",
+            "position": "SAP PM-Key User Administrator (SPA PM, MM) and Maintenance Responsible",
+            "description": "",
+            "start_date": "06/2015",
+            "end_date": "06/2016",
+            "duration_years": 1.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "United Kingdom",
+            "institution_or_company": "Farnborough Engineering Ltd, Maintenance Department, Avionic Section",
+            "start_date": "08/2010",
+            "end_date": "09/2010",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Hangar 1, Madrid, Adolfo Suárez Barajas Airport, Iberia LAE",
+            "start_date": "03/2011",
+            "end_date": "06/2011",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "ABaqus Cae",
+            "Python",
+            "SAP PM",
+            "SolidWorks",
+            "SolidEdge",
+            "MATLAB",
+            "FORTRAN",
+            "Java",
+            "Phyton"
+        ],
+        "soft_skills": [
+            "Perseverance and search for alternatives",
+            "Proactive attitude",
+            "High organizational skills",
+            "Great adaptability skills",
+            "Customer service experience",
+            "Experience in diagnosis of machinery issues",
+            "PLC configuration via Step 7 Manager",
+            "PDI controllers",
+            "Frequency inverters",
+            "Energy saving LED installations",
+            "Assembly components such as switches, electrical controls, and junction boxes",
+            "Installation and operation of ground support test equipment for flight evaluations",
+            "Interpreting flight test data",
+            "Creating teams",
+            "Punctuality",
+            "Team management",
+            "Motivation and dedication",
+            "Preparation of documents and presentations",
+            "Responsibility",
+            "Self-management"
+        ]
+    },
+    "other_interests_normalized": [
+        "Car ownership",
+        "Driving license",
+        "Mim for creating the marketing plan",
+        "Boughtside administration and management",
+        "Google tools for project coordination",
+        "Outlook for creating the business plan",
+        "SAP PM initiative",
+        "Microsoft Office (Word, PowerPoint, Excel)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Not specified",
+            "role": "Instructor, Training Maintenance Personnel, Working as an Organization and Coordination of Activities in Summer Camps, Skiing Instructor",
+            "duration": "2007-2009",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 1.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.9
+}

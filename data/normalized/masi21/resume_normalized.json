@@ -1,0 +1,97 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Hari Karthik",
+        "date_of_birth": "04/11/1998",
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": 23,
+        "email": "karthikhari101@gmail.com",
+        "phone": "+91-6239281673",
+        "address": "h.no 1-2-64, jhansi road, korutla, telangana (505326)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's of Technology in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Lovely Professional University (Punjab)",
+            "location": "Phagwara",
+            "year": "2016-2020",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Internship with Tata Lockheed Martin Aerostructures Limited. Worked on supply chain management as buyer, managed purchase requisitions, orders and services in SAP.",
+            "start_date": "01/2020",
+            "end_date": "12/2020",
+            "duration_years": 0.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Telugu",
+            "C2"
+        ],
+        [
+            "Hindi",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "ZWCAD",
+            "C language",
+            "C++",
+            "Matlab",
+            "Creo"
+        ],
+        "soft_skills": [
+            "Communication skills",
+            "Flexibility and adaptability",
+            "Learning agility: quick learner",
+            "Tolerance: good at stress management",
+            "Positive attitude: creating a positive work environment"
+        ]
+    },
+    "other_interests_normalized": [
+        "Blood donation",
+        "Chess",
+        "Tree plantation",
+        "Peace rally on International Peace Day"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.92,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

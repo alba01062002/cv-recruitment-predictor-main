@@ -1,0 +1,111 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge Rogelio Piqueras Andrés",
+        "date_of_birth": "07/10/1990",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 25,
+        "email": "orge.piqueras19g@gmail.com",
+        "phone": "+34 690743153",
+        "address": "C/Isla de Menorca, 14, 45280 España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial Superior con Intensificación en Ingeniería Mecánica",
+            "field": "Ingeniería Mecánica",
+            "university": "Escuela Técnica Superior de Ingenieros Industriales de Ciudad Real (UCLM)",
+            "location": "Ciudad Real, España",
+            "year": "2010-actualmente",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defense and Space",
+            "position": "Becario en Departamento de Ingeniería de Military Aircraft",
+            "description": "Control de configuración y gestión de modificaciones en el Airbus A330 MRTT. Ingeniería de proceso en el Airbus A400M.",
+            "start_date": "02/2014",
+            "end_date": "03/2014",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Deloitte",
+            "position": "Team Leader y Encargado del Área de Mecánica",
+            "description": "Llevó a cabo el proyecto Formula Student llevado a cabo por la Universidad de Castilla La Mancha. Jefe de equipo, encargado del área de mecánica y responsable del proyecto de transmisión.",
+            "start_date": "2012",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Elis Manomatic",
+            "position": "Team Leader y Encargado del Área de Mecánica",
+            "description": "Implementación de metodología de registro y control de rechazo de producción en planta. Análisis de causa de rechazo de producción y propuestas de mejora. Seguimiento de la implantación de dichas propuestas de mejora.",
+            "start_date": "07/2012",
+            "end_date": "06/2013",
+            "duration_years": 0.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "España",
+            "institution_or_company": "Departamento de Producción, Elis Manomatic, Planta de Getafe",
+            "start_date": "07/2012",
+            "end_date": "06/2013",
+            "description": "Prácticas de empresa. Implementación de metodología de registro y control de rechazo de producción en planta.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SolidWorks",
+            "CATIA V5",
+            "SolidCAM",
+            "WinUNISOFT",
+            "ANSYS",
+            "MATLAB",
+            "Java",
+            "Microsoft Proyect",
+            "Visual Basic",
+            "Access",
+            "Excel",
+            "SQL"
+        ],
+        "soft_skills": [
+            "Liderazgo y organización",
+            "Organización",
+            "Gestión",
+            "Comunicación en inglés (buenas dotes comunicativas)"
+        ]
+    },
+    "other_interests_normalized": [
+        "Fabricación, construcción, mantenimiento y puesta a punto de componentes y sistemas mecánicos",
+        "Líder del equipo de Formula Student",
+        "Monitor de tiempo libre en campamentos organizados por la Dirección de Asistencia al Personal del Ejército de Tierra"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 1.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 20,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

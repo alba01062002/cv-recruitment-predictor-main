@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Liam Ritchie Theaker",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "liamrt@hotmail.co.uk",
+        "phone": "+447709141694",
+        "address": "18 Blenheim Gardens, Kingston upon Thames, KT2 7BW, United Kingdom",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BSc (Hons) Aircraft Engineering",
+            "field": "Aircraft Engineering",
+            "university": "Kingston University, London",
+            "location": "London",
+            "year": "2016-2017",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Cargolux Airlines",
+            "position": "Aircraft Maintenance Technician",
+            "description": "Performed line and hangar maintenance on Boeing 747-8 and 747-400 aircraft. Completed mandatory courses such as Aircraft Type Course. Tasks included defect troubleshooting, fault diagnosis, inspection, component removal/installation/servicing, operational testing, and creation of non-routine paperwork.",
+            "start_date": "11/2013",
+            "end_date": "08/2016",
+            "duration_years": 2.75
+        },
+        {
+            "company": "Various European Clients (contractor)",
+            "position": "Aircraft Technician",
+            "description": "Provided wide-ranging services to clients across Europe including Cargolux, Lufthansa Technik, VT Aerospace, Flybe, Jet Aviation, and Swiss International Airlines. Managed the end-to-end life cycle of maintenance projects for multiple aircraft types.",
+            "start_date": "01/2007",
+            "end_date": "10/2013",
+            "duration_years": 6.75
+        },
+        {
+            "company": "Lufthansa Resource Technical Training",
+            "position": "Apprentice",
+            "description": "Gained knowledge and experience to qualify as an aircraft maintenance technician.",
+            "start_date": "10/2004",
+            "end_date": "01/2007",
+            "duration_years": 2.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "TRAX",
+            "AMOS",
+            "MS Office"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Problem resolution",
+            "Organisational skills",
+            "Communication"
+        ]
+    },
+    "other_interests_normalized": [
+        "Competitive football",
+        "Travel",
+        "Squash"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Clean-up project after a major storm and an organisation for under-privileged children",
+            "role": "",
+            "duration": "2010",
+            "description": ""
+        }
+    ],
+    "degree_years": 1.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

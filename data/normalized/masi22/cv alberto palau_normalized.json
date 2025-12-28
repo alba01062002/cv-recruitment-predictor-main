@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alberto Palau Soler",
+        "date_of_birth": "05/10/1998",
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": 24,
+        "email": "alberto.palau.soler@gmail.com",
+        "phone": "+34 617478708",
+        "address": "arroyomolinos, madrid,spain (28939)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Degree in Aerospace Engineering (Aerospace Propulsion specialty)",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2016-2023",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Akka Technologies",
+            "position": "A400M PWP Systems Integration Engineer",
+            "description": "Working on the A400M program as a powerplant systems engineer. Developing engine modifications affecting multiple systems and conducting risk assessments of operational incidents.",
+            "start_date": "06/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.5
+        },
+        {
+            "company": "Altran (Capgemini Engineering)",
+            "position": "Junior Engineer/Consultant",
+            "description": "Internship in the R&D department of ASD division, working on a space-mission project including mission analysis and development of orbital maneuvers.",
+            "start_date": "02/2021",
+            "end_date": "02/2022",
+            "duration_years": 1.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Ecosimpro/Proosis: excellent knowledge",
+            "Python: intermediate",
+            "Matlab/Octave: intermediate",
+            "Fortran: intermediate",
+            "Git/Zapier/Integromat/Power Automate: intermediate",
+            "Asana/Trello/Monday.com: basic knowledge"
+        ],
+        "soft_skills": [
+            "Proactive",
+            "Efficient",
+            "Team work",
+            "Fast learner",
+            "Skilled at language learning",
+            "Public speaker"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "E-Club de Vuelo UPM, Jaeste",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 4.5,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

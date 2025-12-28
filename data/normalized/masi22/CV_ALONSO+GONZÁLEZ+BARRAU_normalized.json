@@ -1,0 +1,90 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alonso González Barrau",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "alonsobarrau@gmail.com",
+        "phone": "+34 633 178 379",
+        "address": "",
+        "LinkedIn": "linkedin.com/in/alonso-gonz%e1%83%a1lez-979606231/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería de la energía",
+            "field": "Ingeniería de la energía",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2016 - present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "AGH University of Science and Technology",
+            "location": "unknown",
+            "year": "2021 - 2022",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Professor particular",
+            "description": "Professor particular de varios alumnos de la ESO y Bachillerato de inglés, matemáticas, física y química.",
+            "start_date": "2018-09",
+            "end_date": "2021-07",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [],
+        "soft_skills": [
+            "Capacidad de trabajo en equipo.",
+            "Organización y planificación.",
+            "Resolución de problemas y adaptabilidad.",
+            "Gestión de personas.",
+            "Manejo de paquete office y RRSS."
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Residencia de ancianos La Granadilla",
+            "role": "Voluntario",
+            "duration": "2013 - 2014",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.4
+}

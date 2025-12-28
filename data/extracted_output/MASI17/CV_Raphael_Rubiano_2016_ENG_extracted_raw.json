@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal details raphael andres rubiano vasco madrid - es 652300988 ranruva02o hotmail.com education e bachelor degree of aerospace engineering in aircrafts at universidad europea de madrid (2012-2016). languages english: advanced (c1.2) by the language center at universidad europea de madrid e french: basic level (a1) other skills office skills advance user level (dtp, word processors, spreadsheets, internet, mail, etc.) design advance user level (catia, auto cad, photoshop, etc.) workbench y patran / nastran. structural analysis including fea, modal analysis, test and verification and fluid dynamics analysis. other competences training course on cms's 3d at aac (october 2016). training course on, lean manufacturing at aac (april 2016). training course on manufacturing and assembly in aerospace engineering at aac (april 2016). course of military aircraft normative - spanish legislation and european framework at aac. (march 2016) course of amma certification at airbus defense and space (march 2016). training course on fod prevention and pg-133 at aac (march 2016). participation at proyecto hub to entrepreneurs, assessment and implementation of business initiatives at universidad europea de madrid (november 2014 april 2015). course of cabin crew member (ccm) at centro de estudios aeronáuticos de málaga (ceae) (september 2011-february 2012). working experience e 2016- current. ayesa air control: manufacturing and process engineering engineering department - project on technical instructions development for removal, reworks and reinstallations on the a330 mrtt of airbus defence and space (ads). update of information regarding technical instructions, documentation and configuration for the a330 mrtt project. development of 3d cms's for assembly and conversion of components in the a330 mrtt. july-august (2015) blink corner: store shift manager - sale of mobile phones and products related to mobile telephony. - customer service and problem solver. - costs and sales control. - stock control. july-august (2014/2015) café gourmet: junior manager - task assignment and timetable control. - customer service and loyalty. - payment control. - stock control. july-august (2013/2014) personal classes of maths, technical drawing and physics to high school students. material and activities preparation. - teaching methods according to specific needs. - academic observation and evaluation of the student. - use of new technologies as a supplement in the development of the student.",
+    "text_from_header": "PERSONAL DETAILS",
+    "detected_language": "en",
+    "master_edition": "MASI17"
+}

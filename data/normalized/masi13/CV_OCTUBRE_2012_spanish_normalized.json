@@ -1,0 +1,129 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Guillermo Gago Oliveira",
+        "date_of_birth": "26/10/1994",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 19,
+        "email": "quille.gaqgo@gmail.com",
+        "phone": "+34914154081",
+        "address": "Calle Rafael Bergamin 18, 7b, 28043 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial",
+            "field": "Industria",
+            "university": "Universidad Politécnica Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2010 - actualidad",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Ingeniería Técnica Industrial (Especialidad en Electrónica Industrial)",
+            "field": "Electrónica Industrial",
+            "university": "Universidad Politécnica Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2005 - 2010",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Mecánica",
+            "university": "Escuela Pontificia de Comillas ICAI",
+            "location": "Madrid",
+            "year": "2004 - 2005 (1er ao no completado)",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Minas",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2002 - 2004 (2 ao no completado)",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Industria",
+            "university": "Colegio San José del Parque (Hnos. Maristas)",
+            "location": "Madrid",
+            "year": "1988 - 2002",
+            "duration_years": 10.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Altran",
+            "position": "Analista de Propuestas para el Nuevo Piloto Automático del NC212",
+            "description": "Análisis de propuestas, teleconferencias con ofertantes, integración del piloto automático en bancos de ensayos.",
+            "start_date": "09/2012",
+            "end_date": "12/2013",
+            "duration_years": 1.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B1"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "Portuguese",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office (Word, Excel, Access, PowerPoint, Project)",
+            "Sistemas Operativos: Windows, Linux",
+            "Lenguajes de Programación: C, ensamblador, VHDL",
+            "Autómatas y Robots: Robostudio, Roboworks, Siemens Simatic Step7, Rapid",
+            "Diseño de Circuitos: PSPICE, ORCAD, MAXPLUS II, SEE-Expert, Amesim, Powersim",
+            "Procesado de Señales: MATLAB (Simulink), STATGRAPHICS",
+            "Optimización y Simulación Numérica: ORSTAT 2000, Witness, Mathcad"
+        ],
+        "soft_skills": [
+            "Excelente capacidad de comunicación",
+            "Trabajo en equipo",
+            "Proactividad y resolución de problemas",
+            "Responsabilidad y compromiso"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 1.25,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 16,
+    "detected_language": "es",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

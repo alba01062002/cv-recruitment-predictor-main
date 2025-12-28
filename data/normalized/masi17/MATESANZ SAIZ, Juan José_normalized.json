@@ -1,0 +1,122 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan José Matesanz Saiz",
+        "date_of_birth": "01/11/1991",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 26,
+        "email": "juan.matesanz.saizg@gmail.com",
+        "phone": "+34 665 954 756",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineer",
+            "field": "Aircraft Systems Integration",
+            "university": "Escuela Técnica Superior de Ingenieros Aeronáuticos (ETSIA) - Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid",
+            "year": "2009-2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "GMV Aerospace and Defence S.A.U.",
+            "position": "GNSS Junior Engineer",
+            "description": "Responsibility for maintenance, development and evolution of the ground segment of Galileo OSPF and EGNOS operating system. Developed internal analysis tools of navigation messages.",
+            "start_date": "02/2016",
+            "end_date": "12/2025",
+            "duration_years": 9.83
+        },
+        {
+            "company": "Airbus Operations S.L.",
+            "position": "Design Engineer Intern",
+            "description": "Aerodynamic design team focusing on fuselage, HTP and belly fairing to optimize plane configuration. Worked with CFD, numerical simulations, postprocessing, development of tools and methods.",
+            "start_date": "09/2015",
+            "end_date": "02/2016",
+            "duration_years": 0.42
+        },
+        {
+            "company": "The Von Karman Institute for Fluid Dynamics (VKI)",
+            "position": "Research Engineer Intern",
+            "description": "Focused on thermal exchange during spacecraft atmospheric re-entry. Co-author of a conference paper.",
+            "start_date": "11/2014",
+            "end_date": "06/2015",
+            "duration_years": 0.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Belgium",
+            "institution_or_company": "The Von Karman Institute for Fluid Dynamics (VKI)",
+            "start_date": "01/2016",
+            "end_date": "",
+            "description": "Focused on thermal exchange during spacecraft atmospheric re-entry. Co-author of a conference paper.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "France",
+            "institution_or_company": "École de 'Air, Salon de Provence (ESA)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Participant in the 11* Pegasus-ALAA students conference on behalf of UPM.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "Netherlands, Belgium, France",
+            "institution_or_company": "Various companies and institutions (Astrium, ESA)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Continuous feedback from the plasma wind tunnel tests team.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "Bash",
+            "Linux",
+            "MS Office",
+            "C"
+        ],
+        "soft_skills": [
+            "Critical thinking",
+            "Responsibility",
+            "Teamworking",
+            "Problem solving",
+            "Communication",
+            "Adaptability to change"
+        ]
+    },
+    "other_interests_normalized": [
+        "Guitarist"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.1
+}

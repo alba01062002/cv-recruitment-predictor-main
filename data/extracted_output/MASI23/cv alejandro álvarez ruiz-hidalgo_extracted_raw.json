@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "alejandro alvarez ruiz-hidalgo +34 618388437 summary dedicated aerospace engineer committed to research and innovation, with the desire to pursue a masters in aerospace engineering. considerable background in systems engineering, composites, and hydrogen tanks, motivated by technological developments and ecological transition. work experience akkodis technologies spain - power plant control systems engineer jan 2023 - present e european male rpas (teypi tl3 powerplant control & monitoring). propulsion systems, subcontracted by airbus defence and space. e design, verification, and validation of the propulsion management systems and interfaces testing different cases based on predefined requirements and flight scenarios. e training in virtual engineering, and model-based system engineering approach. e draft of technical specifications documents. citd engineering and technologies - stress engineer mar 2022 - july 2022 e improved the modeling of im7/8552 cfrp samples using the finite element method. e shortened the computation time and reduced the cfrp waste caused by the perception and characterization of delaminations, and their connection with the design of the ply drop-off. e wrote an extensive thesis in collaboration with citd that includes a full review of the composites modeling state-of-the-art, the laminate and drop-off design, the manufacturing processes, and the analysis of six samples to contrast their behavior and results. citd engineering and technologies - stress engineer trainee jul 2021 - oct 2021 analysis and design of aerospace structures with the finite element method. evaluated the mechanical behavior of cfrp-made hydrogen tanks under cryogenic conditions. e researched and proposed different tank structures. performed static analysis considering different requirements/regulations, and presented the results in specific reports. e executed the testing and validation of the tanks geometry. education 2017 - 2022 bsc aerospace engineering at universidad rey juan carlos (gpa: 7.25/10) 2020 - 2021 bsc aerospace engineering at istanbul technical university (gpa: 7.71/10) 2015 - 2017 technical high school at escuelas pias de san fernando languages mt spanish c1 cae english a2 german experiences erasmus + 2020-2021 istanbul, turkey, english exchange 2014 ilkley, yorkshire, england, german exchange 2015 sindelfingen, stuttgart, germany. skills & volunteer technical ansys scade, altair hyperworks, hypermesh and hyperview, python, matlab & simulink, and autocad // learning doors and cameo office excel, powerpoint, word, and latex. soft skills throughout my university period, i mastered leadership, critical thinking, and decision- making. these skills shaped me into a receptive, capable, and adaptable person. volunteer itaka escolapios foundation (monitor, organizing a summer camp for kids on the brink of poverty), ecovidrio (recycling waste from la vuelta cycling race).",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI23"
+}

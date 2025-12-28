@@ -1,0 +1,147 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Manuel Ángel García Muñoz",
+        "date_of_birth": "29/11/1994",
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": 25,
+        "email": "1003768600walumnos.uc3m.es",
+        "phone": "+34 618136706",
+        "address": "49, río duero street, 1d, 28913 leganés (madrid) (spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad de Cádiz, Cádiz (Spain)",
+            "location": "Cádiz",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Master in Aeronautical Engineering",
+            "field": "Aeronautical Engineering",
+            "university": "Universidad Carlos III de Madrid, Madrid (Spain)",
+            "location": "Madrid",
+            "year": "2018-present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Development of the first UC3M-Sener satellite",
+            "university": "UC3M-Sener Aerospace Chair, Universidad Carlos III de Madrid / Sener, Madrid (Spain)",
+            "location": "Madrid",
+            "year": "2015-2016",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aiciturri Aeronáutica SL",
+            "position": "Process Control Engineer Intern",
+            "description": "",
+            "start_date": "01/08/2016",
+            "end_date": "31/01/2017",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ programme",
+            "country": "Germany",
+            "institution_or_company": "Hochschule Augsburg, Augsburg (Germany)",
+            "start_date": "11/08/2014",
+            "end_date": "15/08/2014",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus+ programme",
+            "country": "Spain",
+            "institution_or_company": "",
+            "start_date": "27/06/2011",
+            "end_date": "08/07/2011",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus+ programme",
+            "country": "Spain",
+            "institution_or_company": "",
+            "start_date": "27/07/2015",
+            "end_date": "31/07/2015",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Augsburg",
+            "institution_or_company": "Hochschule Augsburg, Augsburg (Germany)",
+            "start_date": "2014-2015",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Python",
+            "Dev-C++",
+            "AMPL Optimization Modeling",
+            "OpenFOAM Analysis of Continuum Mechanics Problems",
+            "CATIA V5: Part, Assembly, Plan and Surface Design, Machining",
+            "Gmat",
+            "Patran",
+            "Nastran",
+            "AutoCAD",
+            "Microsoft Project",
+            "Wolfram Mathematica",
+            "Engineering Equation Solver (EES)",
+            "STK",
+            "Excel Spreadsheets, Writing Macros, VBA Programming"
+        ],
+        "soft_skills": [
+            "Leadership (Experience as Student Representative at University).",
+            "Multicultural Teamwork Skills Gained as Member of Student and Musical Associations.",
+            "Motivational Capabilities (Inspiring and Motivating Others)"
+        ]
+    },
+    "other_interests_normalized": [
+        "Have been taking classes for more than 10 years in a music academy and playing for several music bands.",
+        "Clarinet Player"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "juan artiga albalat address: c/ carcagente, 4 1-g 12005 castellon (spain) place and date of birth: castellon 15/06/1984 phone: +34 606668452 e-mail: j.artiga a@gmail.com academic education from 2002 to 2010: telecommunication engineering at universidad politécnica de valencia. last year as an exchange student at polytechnica gdansk (poland) (erasmus scholarship holder) taking courses and writing my degree thesis: selected problems of training of otdr operators. work experience september 2011 present: digitelig 1. from august 2012, team leader of 9 people, in digitelig for vodafone projects to huawei 2. working at headquarters of huawei in madrid. assistant and supervisor of different projects: orange's ran renewal project, vodafone's helice project 8 orange's williams project. 3. working at the headquarters of vodafone in madrid. assistant and supervisor of different projects: integration of 4g (lte) equipment. vodafone's ran refresh project. vodafone's single ran project. august 2010 august 2011: arca telecom 1. 7 months working at the headquarters of vodafone in madrid. assistant and supervisor of different projects: topology changes (cdt), enlargements and reduction on e1, bridging phase ii and phase ill. 2. 6 months working at the headquarters of huawei in madrid. supervisor and assistant in the project of swap on comunidad valenciana. swapping equipment between nokia/siemens and huawei in orange's reprinting project. also integrating huawei equipment. complementary education july 2007: one month stay in malta studying and improving my english. january-july 2011: diploma systems planning and traffic management in urban areas. languages spanish: mother tongue catalan: mother tongue english: advanced level french: basic level (3 years in high school) technical skills mobile phone technologies: - systems: huawei 2g/3g/4g, nokia 2g/3g, siemens 2g. - mobile managers: m2000, u2000, tnms, remedy v7. - topology setup changes (cdt) = lub interface, making enlargements and reductions on e1, routes for new additions (tnms). - knowledge of: traffic nodes ericsson, smx siemens (tnms constitution), ptn and rtn (huawei). matlab c/c++ java visual basic other information of interest collaboration as a driving schoolteacher in the family business in permits a-1 a-2 a b btp c-1 y c. waiter in \"union de jovenes\" from sant mateo.",
+    "text_from_header": "CURRICULUM VITAE",
+    "detected_language": "en",
+    "master_edition": "MASI13"
+}

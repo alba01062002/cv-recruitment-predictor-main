@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "datos personales apellidos: rabanos iruela nombre: elena domicilio: c/ chiquinquirá n* 4, 5% d madrid 28033. fecha de nacimiento: 13 / 07/ 1982 lugar de nacimiento: madrid teléfono: 646 88 79 38 91 764 66 77 correo electrónico: elena.rabanos@gmail.com formación académica 2008- ... actualmente, realizando el proyecto fin de carrera de ingeniería de telecomunicación. 2000-2008 estudios de ingeniería de telecomunicación en la universidad carlos ill de madrid. especialidad: sistemas y redes de telecomunicación. asignaturas de libre elección orientadas a organización industrial, liderazgo y planificación y gestión de las comunicaciones. 1999 - 2000 c.o.u. (opción a). colegio santa maría de la asunción. padres paúles. 1996 - 1999 b.u.p. colegio santa maría de la asunción. padres paúles. formación complementaria 1989 - 1997 estudios de solfeo y formación musical. escuela municipal de música federico chueca 1992-1999 estudios de piano. escuela municipal de música federico chueca experiencia laboral: 2008 beca en la empresa hispasat (del 2 de junio hasta 30 septiembre 2008) 2005 - ... profesora particular. clases de matemáticas, física y estadística. idiomas inglés nivel medio-alto. 2008 toefl con puntuación de 71/120 2007-... cursando estudios en la escuela oficial de idiomas barajas (actualmente ni1, antiguo 3) 2002 certificado wall street institute: upper waystage 1 2002 examen toeic. puntuación 550. francés nivel básico. 2007-... cursando estudios en la escuela oficial de idiomas barajas (actualmente nb2, antiguo 2) informática programación en matlab, c y java. conocimientos sistema operativo linux. conocimientos básicos programación en ensamblador. manejo de herramientas informáticas bajo el entorno windows, conocimientos del paquete integrado office (word, access, excel, power point). otros 2001 permiso de conducción b. 1997 - 2008 jugadora federada de baloncesto (federación madrid y federación castilla y león). participación en la beca del ministerio de educación y ciencia: programa de recuperación y utilización educativa de pueblos abandonados (verano del 2004, 2005 y 2006).",
+    "text_from_header": "CURRICULUM VITAE",
+    "detected_language": "es",
+    "master_edition": "MASI09"
+}

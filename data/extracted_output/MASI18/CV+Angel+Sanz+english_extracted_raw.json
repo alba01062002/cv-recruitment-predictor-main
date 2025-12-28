@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "ángel luis sanz vilaverde address: c/ antonio lópez, 146 2b, madrid nationality: spanish driving license: spanish license phone: +34 679 45 42 09 e-mail: sanzvilaverde @ gmail.com education 2016-2017 msc astronautics and space engineering, cranfield university (uk) core modules: mission analysis and design (space system engineering, communications, propulsion, astrodynamics) elective courses: finite element method (fem), spacecraft attitude dynamics and control (sado). group design project: socrates: operations and software architecture: integration of the whole mission in a consistent timeline. definition of spacecraft operational states and conditions. estimation of software size and throughput. thesis: evidencing a public outreach activity on space engineering in the movies. develop a m-level critique of good or bad examples of space engineering in movies. 2015-2016 pre-masters course in engineering, cranfield university (uk) core modules: mechanical design, propulsion and power, aeronautical engineering, basic aerodynamics, engineering stress analysis, engineering materials and failure analysis, mathematics, cad, vba, thermofluids. individual research project: drag augmentation devices for space debris mitigation in low earth orbit. study of different drag augmentation devices. design of a new drag augmentation device. comparison between the new design and the existing ones. 2004-2014 technical aeronautic engineering, upm (spain) universidad politécnica de madrid. subjects include: general mechanics, fluid mechanics, solid mechanics, continuous material mechanics, materials, aerodynamics, thermodynamics, helicopters, mathematics, statistics, structural dynamics, thermal, metallic and plastic materials, cad, aerospace technology, structures modeling. work experience 2005-2014 cibar gestión s.l. commercial agent in real estate market reporting to the general manager, as an agent in real estate transactions purchasing, renting and selling lands, apartments and industrial units and in charge of the informatics department. languages and it skills languages: spanish: (mother tongue) english: fluent it skills: operating systems: windows office: excel, word, power point, project, visio. programming: vba, matlab, maple. software: esatan, blender, catia v5, stk, stela, nastran/patran. interests and other 2013, 2015. ielts exam certification. 2013 master catia v5 (90 hours). cadtech formación. 2008 aeroplane modelling construction and flying course. universidad politécnica de madrid. 2007 military and aeronautic culture course. academia general del aire. san javier. murcia (spain).",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI18"
+}

@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": null,
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "",
+        "phone": "+34645846131",
+        "address": "calle de chile 25, madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aerospace Engineering Degree",
+            "field": "Mechanical Analysis Using Finite Elements Method with ABAQUS/CAE",
+            "university": "University of León",
+            "location": "León",
+            "year": "2015-2016",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Aerospace Engineering Degree",
+            "field": "",
+            "university": "University of León",
+            "location": "León",
+            "year": "2011-2015",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Altran",
+            "position": "Airworthiness Engineer in Airbus DS Product Integrity for A400M (Flight Test and Retrofit Aircrafts) and Certification. Military Flight Test Permit Management.",
+            "description": "Responsibilities not explicitly stated but roles such as managing military flight test permits, working on the A400M (flight test and retrofit aircrafts) certification process.",
+            "start_date": "May 2018",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Altran",
+            "position": "MSG3 Analyst in Maintenance Program Airbus DS",
+            "description": "Specialized in zonal and system analysis, being part of A400M powerplant committees (PCCB & ECCB), MPD scrutiny, MSG3 analysis for A380 and Beluga XL.",
+            "start_date": "Apr 2017",
+            "end_date": "Apr 2018",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Altran",
+            "position": "R&D Internship Product Designer and Mechanical Designer in New Bleed System Design for Airbus A350.",
+            "description": "Involved in designing pneumatic pipe lines, valves such as pressure relief valve or double and triple bypass valves, performing CFD simulations, and 3D printing prototyping.",
+            "start_date": "Apr 2016",
+            "end_date": "Apr 2017",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "A1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "ABAQUS/CAE",
+            "ANSYS",
+            "CATIA V5",
+            "NX Unigraphics",
+            "Autodesk Fusion 360",
+            "AMM, AMP, MRBD, MPD, PPH, AMAM (software)",
+            "CFD simulations"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Communication",
+            "Fellowship",
+            "Flexibility",
+            "Integrity",
+            "Responsibility"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 1.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

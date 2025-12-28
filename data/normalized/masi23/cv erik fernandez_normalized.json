@@ -1,0 +1,105 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Erik Fernandez Martinez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "erikfermar.work@gmail.com",
+        "phone": "+34608797192",
+        "address": "calle atun n1 bw32 03540 alicante",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Aerospace Engineering, Hons (Design)",
+            "field": "Aerospace Engineering",
+            "university": "University of the West of England, Bristol",
+            "location": "Bristol",
+            "year": "2021-2023",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor of Aerospace Engineering, Hons (Design) 1:1",
+            "field": "Aerospace Engineering",
+            "university": "",
+            "location": "King's College Alicante Sixth Form",
+            "year": "2018-2021",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Getafe, Alten",
+            "position": "Integrated Planning and Management A400M (TEAP)",
+            "description": "Part of the team responsible for integrated planning and management of the A400M project.",
+            "start_date": "10/2022",
+            "end_date": "04/2023",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Airbus (TEYVM-TL4)",
+            "position": "Lab Test Means Development",
+            "description": "Part of the team developing lab test means.",
+            "start_date": "04/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "United Kingdom",
+            "institution_or_company": "University of the West of England, Bristol",
+            "start_date": "09/2021",
+            "end_date": "04/2023",
+            "description": "Engaged in high performance maneuvering aircraft research, including CFD modeling and drone model evaluation for military operations.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Python",
+            "Java"
+        ],
+        "soft_skills": [
+            "SolidWorks",
+            "CATIA",
+            "Ansys",
+            "OpenVSP"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 3.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

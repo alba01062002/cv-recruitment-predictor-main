@@ -1,0 +1,111 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francisco Javier Ríos Tapia",
+        "date_of_birth": "20-julio-1983",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 27,
+        "email": "javirios83@hotmail.com",
+        "phone": "+34 954 45 35 36 / +34 652 427944",
+        "address": "Av. Ramón de Carranza n18, 41011 Sevilla",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Industrial",
+            "field": "Organización industrial",
+            "university": "Escuela Técnica Superior de Ingenieros de Sevilla",
+            "location": "Sevilla",
+            "year": "2009",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Colaborador en distintas campañas de marketing (Movistar, Vodafone, Xbox)",
+            "description": "Participación en diversas campañas de marketing para las empresas Movistar, Vodafone y Xbox.",
+            "start_date": "No especificado",
+            "end_date": "No especificado",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Clases particulares de física y matemáticas a estudiantes de E.S.O. y bachillerato",
+            "description": "Instrucción individual en materias de física y matemáticas para estudiantes de ESO y Bachillerato.",
+            "start_date": "No especificado",
+            "end_date": "No especificado",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Intensive English Language Program",
+            "country": "United States",
+            "institution_or_company": "University of Pennsylvania (Philadelphia)",
+            "start_date": "Septiembre de 2009",
+            "end_date": "Octubre de 2009",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus becario",
+            "country": "Italy",
+            "institution_or_company": "University of Florence (Florencia)",
+            "start_date": "Septiembre de 2008",
+            "end_date": "Agosto de 2009",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Italian",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Procesadores de texto (Word)",
+            "Hojas de cálculo (Excel)",
+            "Programas de presentaciones (PowerPoint)",
+            "Entorno de Windows Navegadores web"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "No especificado",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

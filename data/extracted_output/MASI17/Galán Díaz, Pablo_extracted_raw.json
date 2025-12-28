@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "pablo galán díaz address: m +34 617 59 20 78 guzmán el bueno 108 t+34 91 514 66 51 edificio xiv portal a 32 c e pablogalandiaz(w gmail.com 28003 madrid, spain education msc aeronautical engineer (major in airplanes), tt universidad politécnica de madrid. work tooling design internship, industria de turbo propulsores ha s.a., ajalvir (madrid area), spain experience - study of tp400 low pressure turbine and turbine exhaust case assembly and disassembly. - tooling database developing in excel and access. programming in vba. - quality manufacturing documentation: verification and supplier relations. - assistance in day to day tooling design activities: proof load tests, tooling verification, design documentation, etc. hydraulic engineer internship, airbus defence&space, getafe (madrid area), spain hydraulic system modelling in amesim: - development of ramp & door system model for cn-235. - study and analysis of shock absorber model for nose and main landing gear of a330/340 mrtt and adaptation to a400m. languages spanish: mother tongue. english: fluent in speaking and writing. - english course, alpha college of english, dublin, mark obtained: adanced french: basic - escuela oficial de idiomas, courses a2 and b1 computer advanced user of microsoft office . word, excel, powerpoint, visio. macros and vba. skills lms imagine.lab amesim, simulation software for the modeling and analysis of multi-domain systems. programming in fortran 90, optional subject. other programming languages: matlab, maple, vba. 2009 2016 october 2015 - present december 2014 - july 2015 (8 months) 2011. one-month stay 2007 - 2009 other skills cad design with catia v5, sketcher. part design. drafting. assembly. wireframe and surface design. use of parameters and formulas. basic nx knowledge. airport design course with pathplanner airside+, airplane movement simulation. apron entering. push- back. jet blast analysis. compliance with regulations. platform and apron design. finger design. driving license triathlete",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI17"
+}

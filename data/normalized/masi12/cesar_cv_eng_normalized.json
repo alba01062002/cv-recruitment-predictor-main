@@ -1,0 +1,82 @@
+{
+    "personal_information_normalized": {
+        "full_name": "César Álvarez",
+        "date_of_birth": "12/03/1988",
+        "gender": "male",
+        "age_reference_year": 2012,
+        "age": 24,
+        "email": "cesar.alvarez.diezo@gmail.com",
+        "phone": "+34 600885251",
+        "address": "p. Dolores Ibarriñu n2 6a, 28823 Coslada (Madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Mechanical Engineering Degree",
+            "field": "Mechanical Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2006-2010",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "Automotive Engineering Master Programme",
+            "university": "Chalmers University of Technology",
+            "location": "Gothenburg, Sweden",
+            "year": "2010-2011",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Sweden",
+            "institution_or_company": "Chalmers University of Technology",
+            "start_date": "09/2010",
+            "end_date": "08/2011",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Swedish",
+            "A2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA V5",
+            "Solid Edge",
+            "Microsoft Office",
+            "Borland Pascal"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI12",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.3
+}

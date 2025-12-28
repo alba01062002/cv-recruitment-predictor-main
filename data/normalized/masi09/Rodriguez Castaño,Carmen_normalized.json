@@ -1,0 +1,94 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carmen Rodríguez Castao",
+        "date_of_birth": "07/05/1984",
+        "gender": "female",
+        "age_reference_year": 2009,
+        "age": 25,
+        "email": "kainairc@hotmail.com",
+        "phone": "639517764",
+        "address": "c/ Manuel Azaa n 127 3 B., 04006 Almería, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Telecommunications Engineering",
+            "field": "Telecommunications Engineering",
+            "university": "Escuela Técnica Superior de Ingenieros de Telecomunicaciones, Málaga",
+            "location": "Málaga",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Course in Wireless Networks",
+            "field": "Wireless Networks",
+            "university": "Universidad de Almería",
+            "location": "Almería",
+            "year": "2007",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Laboratory Instructor of Electronic Technology",
+            "description": "Instructor in the Laboratory of Electronic Technology at the Escuela Técnica Superior de Ingenieros de Telecomunicaciones, Málaga.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Canada",
+            "institution_or_company": "University of Guelph",
+            "start_date": "07/2007",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "C++",
+            "PHP"
+        ],
+        "soft_skills": [
+            "sociable",
+            "dynamic",
+            "charming",
+            "easy to get along with people and adaptability"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.1
+}

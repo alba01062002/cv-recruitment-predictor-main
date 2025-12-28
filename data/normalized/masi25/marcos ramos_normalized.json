@@ -1,0 +1,166 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sergio Ramos Guerrero",
+        "date_of_birth": "20/03/2001",
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": 24,
+        "email": "sergioramosguerrero20@gmail.com",
+        "phone": "(+34) 674706928",
+        "address": "Guadalbullón 11, 5D, 41013 Seville (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ing. Aeroespacial",
+            "field": "Aeronautical Engineering",
+            "university": "University of Cádiz",
+            "location": "Cádiz, Spain",
+            "year": "2019-2024",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Bachillerato en Rama de Tecnología",
+            "university": "IES Kursaal",
+            "location": "Algeciras, Spain",
+            "year": "2017-2019",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "Educación Secundaria Obligatoria (ESO)",
+            "university": "",
+            "location": "Algeciras, Spain",
+            "year": "2013-2017",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "The Atexis - Sevilla, Spain",
+            "position": "Training Content Developer",
+            "description": "Development of technical training content for A400M and A330 MRTT aircraft. Use of aerospace documentation standards and specialized authoring tools. Participation in quality reviews and manual validation processes.",
+            "start_date": "13/01/2025",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "The Blue Elephant - Spain",
+            "position": "Car Wash Technician (Full-Time)",
+            "description": "Customer service and basic maintenance of car wash machines.",
+            "start_date": "01/12/2024",
+            "end_date": "15/01/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Carrefour - Algeciras, Spain",
+            "position": "Stock Replenishment (Part-Time)",
+            "description": "Product restocking and inventory control.",
+            "start_date": "01/07/2023",
+            "end_date": "12/09/2023",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Decathlon - Los Barrios, Spain",
+            "position": "Sports Section Manager (Full-Time)",
+            "description": "Customer service, stock management and technical advice on sports products.",
+            "start_date": "15/07/2022",
+            "end_date": "20/09/2022",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Poland",
+            "institution_or_company": "",
+            "start_date": "05/03/2022",
+            "end_date": "",
+            "description": "Study year in Warsaw, Poland for Aerospace Engineering degree subjects.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "United States of America",
+            "institution_or_company": "Libertyville, Illinois",
+            "start_date": "03/02/2017",
+            "end_date": "",
+            "description": "Three-week immersion program with a host family in Libertyville, Illinois.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "France",
+            "institution_or_company": "Rennes",
+            "start_date": "04/02/2018",
+            "end_date": "",
+            "description": "One-week exchange in Rennes, France for French immersion and language reinforcement.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "United Kingdom",
+            "institution_or_company": "Oxford",
+            "start_date": "10/03/2015",
+            "end_date": "",
+            "description": "Three-week English course in Oxford with a host family.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Arduino",
+            "Matlab",
+            "Simulink",
+            "C++",
+            "Python (Programming)",
+            "Visual Basic",
+            "Fusion 360",
+            "3D Printing Process",
+            "Ansys Fluent",
+            "Microsoft Excel",
+            "SolidWorks",
+            "CATIA V5 Modeling Software"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Communication",
+            "Problem Solving",
+            "Project Management",
+            "Attention to Detail"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Not provided in the CV text",
+            "duration": "2020-2024",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

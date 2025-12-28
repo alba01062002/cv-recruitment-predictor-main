@@ -1,0 +1,109 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ignacio Rodríguez Méndez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "rodriguez.mendez.ignacio@gmail.com",
+        "phone": "+34 628 769 974",
+        "address": "Calle Marea n2, 1150 Cadiz, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Industrial Engineer",
+            "field": "Energy Engineering (equivalent to MEng with a 2:1 grade)",
+            "university": "ETSI-ESCUELA TÉCNICA SUPERIOR DE INGENIEROS DE SEVILLA, Sevilla, Spain",
+            "location": "Sevilla, Spain",
+            "year": "2009-2015",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Ingenieur Centralien",
+            "field": "Fluid Mechanics, Aerodynamics, Numerical Methods in Engineering, Turbulence Modeling, Fluid-Structure Interactions",
+            "university": "École Centrale Marseille, Aix-Marseille University, Marseille, France (part of double degree program)",
+            "location": "Marseille, France",
+            "year": "2013-2015",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space, Sevilla, Spain",
+            "position": "Internship in the production team of final assembly line A400M",
+            "description": "Participated in the development of the production planning and collaborated in all necessary procedures to ensure the proper aircraft configuration. Ensured department objectives regarding deliveries and promoted continuous improvement of procedures reducing HNCs. Followed the OSW of partners (AUK, Nantes, IFA).",
+            "start_date": "Feb 2016",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "France",
+            "institution_or_company": "Airbus Helicopters, Internal Aerodynamics Department, Marignane, France and École Centrale Marseille, Aix-Marseille University, Marseille, France",
+            "start_date": "April 2015",
+            "end_date": "October 2015",
+            "description": "6 months: Development of a model of the helicopter main rotor by means of an unsteady actuator disk. 3D geometry preparation, high-quality mesh generation and CFD simulation using Fluent in HPC cluster environment. Coding UDF in C++ with parallel considerations. Advanced post-processing.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "France",
+            "institution_or_company": "Veolia Propreté, Marseille, France",
+            "start_date": "June 2014",
+            "end_date": "August 2014",
+            "description": "3 months: Business case study of the replacement of smoke's warming systems in Nimes incineration plant. Thermodynamic 1D analysis of the plant and investment analysis and profitability of the operation.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA",
+            "Solid Edge",
+            "Matlab",
+            "Simulink",
+            "Fluent (Solver)",
+            "Tecplot (Post)"
+        ],
+        "soft_skills": [
+            "Team player",
+            "Multicultural skills",
+            "Positive attitude",
+            "Good performance in high-pressure environments",
+            "Proactive",
+            "Able to work autonomously"
+        ]
+    },
+    "other_interests_normalized": [
+        "Kitesurfing",
+        "Climbing",
+        "Water polo"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.3
+}

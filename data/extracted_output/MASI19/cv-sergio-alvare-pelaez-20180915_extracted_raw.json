@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "sergio alvaré peláez ingeniería electrónica y de telecomunicaciones serglo(walvate.es 665 93 21 28 es.linkedin.com/in/sergioalvarepelaez } formación universidad politécnica de madrid máster en ingeniería de sistemas electrónicos, 2017. electrónica digital, electrónica analógica, microelectrónica, arquitecturas digitales. trabajo de fin de máster: implementación de algoritmos de dinámica de fluidos computacional sobre mallas no estructuradas en unidades de procesamiento gráfico. universidad de oviedo grado en ingeniería de telecomunicación, mención en sistemas electrónicos, 2015. matlab, electrónica digital, electrónica analógica, ingeniería de redes, teoría de la seal, ingeniería de control. nociones de ensamblador, java, c++, python, vhdl. institut polytechnique de grenoble erasmus. école nationale supérieure de physique, électronique, matériaux. systemes electroniques intégrés, 2014. trabajo de fin de grado: algoritmos de detección de seales impulsivas. presentado ante tribunal en lecole nationale supérieure winformatique et de mathématiques appliquées (ensimag). experiencia indra sistemas enero 2018 - actualmente ingeniero en indra espacio. departamento de mando y control. integración de sistemas en el proyecto ascat (advanced scatterometer) para eumetsat. trabajando estrechamente con el contratista advanced radar technologies (art). sopra steria marzo 2017 - diciembre 2017 desarrollador junior en proyecto para crédit agricole. mantenimiento y evolución de aplicaciones java y ch. documentación del proceso de transición de aplicaciones desde la sede de lille a la sede de madrid. contacto continuo con el cliente, en francés. departamento de ingeniería electrónica de la universidad politécnica de madrid & departamento de ingeniería informática de la universidad complutense de madrid julio 2016 - marzo 2017 asistente de investigación. optimización energética de centros de procesado de datos. análisis de técnicas de refrigeración líquida, sistemas de refrigeración por cambio de fase. institut polytechnique de grenoble, ensimag octubre 2014 - febrero 2015 asistente de investigación . adaptación de códigos matlab para demostrar, ante responsables de la armada francesa, las aplicaciones del trabajo que el departamento de teoría de la seal realiza en el área del análisis de seales acústicas generadas por odontocetos. resultados presentados como trabajo de fin de grado. glencore agosto de 2012 y julio de 2013 electrónica de potencia, automatización de planta, procesos de química industrial, monitorización térmica. idiomas inglés nivel básico de francés",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI19"
+}

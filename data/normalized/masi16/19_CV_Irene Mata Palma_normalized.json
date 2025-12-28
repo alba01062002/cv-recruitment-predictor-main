@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Irene Mata Palma",
+        "date_of_birth": "26/01/1989",
+        "gender": "female",
+        "age_reference_year": 2016,
+        "age": 27,
+        "email": "irenematapalma@gqmail.com",
+        "phone": "+34 675 49 50 09",
+        "address": "Villa de Rota, 4 -1a 14005 Córdoba (España)",
+        "LinkedIn": null,
+        "Instagram": "irenematapalma",
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Professional Development in Competence Development in Companies Strategy & Efficiency Communication Challenges Economics International Business Law Finance Productivity & Innovation People & Management",
+            "field": "Professional Development",
+            "university": "Universidad de Alcalá",
+            "location": "Alcalá de Henares",
+            "year": "2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Ingeniería Aeronáutica",
+            "field": "Aircraft Systems Integration",
+            "university": "Escuela Técnica Superior de Ingenieros, Universidad de Sevilla",
+            "location": "Sevilla",
+            "year": "2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Universidad Rey Juan Carlos",
+            "location": "",
+            "year": "2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defense & Space",
+            "position": "Practicas de Empresa en Departamento de Procurement and Supply Chain",
+            "description": "Seguimiento y mejora de KPLs para ajustarse a la planificación. Analisis de carga - capacidad de varios proveedores aeronáuticos.",
+            "start_date": "2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5R19",
+            "A SAP A",
+            "Microsoft Office",
+            "MATLAB & Simulink",
+            "PSPICE 9.1",
+            "AS NASTRAN",
+            "Patran",
+            "WinCam",
+            "SmarSketch"
+        ],
+        "soft_skills": [
+            "Liderazgo",
+            "Teamwork",
+            "Comunicación",
+            "Proactividad"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "es",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

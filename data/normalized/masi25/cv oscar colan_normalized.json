@@ -1,0 +1,88 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Oscar Alberto Colan Rabines",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "oscaralberto.colan@hotmail.com",
+        "phone": "+34 686 96 16 00",
+        "address": "Urb. Los Pinos, Olias del Rey, Toledo, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Aerospace Engineering",
+            "field": "Aerospace Materials",
+            "university": "University of Castilla-La Mancha",
+            "location": "Toledo, Spain",
+            "year": "September 2019 - July 2025",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "TSR Wind",
+            "position": "Intern",
+            "description": "Marking damages/defects on wind turbine blades.",
+            "start_date": "December 15, 2023",
+            "end_date": "February 15, 2024",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD",
+            "SolidWorks",
+            "Abaqus",
+            "OpenFOAM",
+            "C",
+            "Matlab"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Collaboration",
+            "Communication",
+            "Agility with results"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.4
+}

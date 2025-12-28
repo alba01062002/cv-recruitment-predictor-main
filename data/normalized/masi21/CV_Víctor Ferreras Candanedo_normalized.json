@@ -1,0 +1,116 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Victor Ferreras Candanedo",
+        "date_of_birth": "18/04/1994",
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": 27,
+        "email": "victorfercando@gmail.com",
+        "phone": "+34 655374727",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeroespacial - Especialidad: Motores Aeronáuticos",
+            "field": "Ingeniería Aeroespacial",
+            "university": "Universidad de León",
+            "location": "León, España",
+            "year": "2016-2020",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Máster Oficial Habilitante en Ingeniería Industrial (Sólo a Falta de Entrega de Proyecto)",
+            "field": "Ingeniería Industrial",
+            "university": "Universidad de Sevilla",
+            "location": "Sevilla, España",
+            "year": "2017-Actualidad",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airgrup S.L.",
+            "position": "Ingeniero de Calidad - Becario",
+            "description": "Gestión de calidad y soporte a la producción de piezas fabricadas mediante procesos de soldadura (TIG) y tubería para el sector aeroespacial. Asimismo, realizó el diseño y análisis aerodinámico (Cfd) de aviones de aeromodelismo fabricados mediante impresión 3d.",
+            "start_date": "10/2019",
+            "end_date": "07/2020",
+            "duration_years": 0.75
+        },
+        {
+            "company": "Airgrup S.L.",
+            "position": "Ingeniero de Calidad - Becario",
+            "description": "Gestión de calidad y soporte a la producción de piezas fabricadas mediante procesos de soldadura (TIG) y tubería para el sector aeroespacial. Asimismo, realizó el diseño y análisis aerodinámico (Cfd) de aviones de aeromodelismo fabricados mediante impresión 3d.",
+            "start_date": "05/2019",
+            "end_date": "09/2019",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Formula Student",
+            "position": "Miembro del Departamento de Aerodinámica, Diseño, Análisis Estructural y Fabricación de Piezas con Materiales Compuestos (fibra de carbono, fibra de vidrio y fibra de basalto). Montaje/Reparación en las competiciones de Assen (Holanda) y Montmeló (España)",
+            "description": "",
+            "start_date": "09/2017",
+            "end_date": "09/2019",
+            "duration_years": 2.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship / Volunteering",
+            "country": "Holanda, España",
+            "institution_or_company": "Formula Student",
+            "start_date": "05/2019",
+            "end_date": "07/2019",
+            "description": "Miembro del Departamento de Aerodinámica, Diseño, Análisis Estructural y Fabricación de Piezas con Materiales Compuestos (fibra de carbono, fibra de vidrio y fibra de basalto). Montaje/Reparación en las competiciones de Assen (Holanda) y Montmeló (España)",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SolidWorks",
+            "AutoCAD",
+            "Catia V5 Generative Shape Design",
+            "Catia V5 Mechanical",
+            "Abaqus",
+            "OpenFOAM",
+            "HyperMesh y Optistruct"
+        ],
+        "soft_skills": [
+            "Comunicación, Organización y Creatividad",
+            "Adaptabilidad y Trabajo en Equipo",
+            "Inteligencia Emocional",
+            "Google Suite y Microsoft Office"
+        ]
+    },
+    "other_interests_normalized": [
+        "Taekwondo (12 Dan)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 9.0,
+    "total_work_years": 3.08,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

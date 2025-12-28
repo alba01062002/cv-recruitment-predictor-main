@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Paul Stefan Joksch",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "pauljoksch@outlook.de",
+        "phone": "+49 152 28950518",
+        "address": "Hochlandstrafe 55, 12589 Berlin",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Engineering and Management",
+            "field": "Automotive Engineering & International Business",
+            "university": "University of Applied Sciences Dresden",
+            "location": "Dresden",
+            "year": "2018 - today",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor of Science in Physics",
+            "field": "",
+            "university": "TU Dresden",
+            "location": "",
+            "year": "2016 - 2018",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "Studium generale",
+            "university": "TU Berlin",
+            "location": "",
+            "year": "2015 - 2016",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Global Payment Processing AG",
+            "position": "Working Student as Campaign Manager",
+            "description": "Developed and improved an onboarding process for business partners, communicated product updates with the team, developed software requirements specifications for the purchase of adtech solutions, lead the purchase process, researched and displayed processes within the team, developed a web scraper for competitor research, submitted improvements for a new product that got accepted.",
+            "start_date": "02/2020",
+            "end_date": "12/2022",
+            "duration_years": 2.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "German",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "A2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office proficient",
+            "Visual Basic basic skills",
+            "Autocad good skills"
+        ],
+        "soft_skills": [
+            "Problem solving",
+            "Communicative",
+            "Teamwork"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 2.83,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "juan garbayo de pablo aerospace engineer address: torpedero tucumán 12, 42c 28106 madrid, spain mobile phone: +34627500310 e-mail: juangarbayopablo@gmail.com date of birth: 10 - january - 1988 professional profile aeronautical/aerospace engineer at the universidad politécnica de madrid (ing. sup. aeronáutico). have developed my final year project at db systemtechnik gmbh (munich, germany), concluding it with honors. have also studied one year at the rwth aachen (aachen, germany). these experiences have allowed me to develop teamwork and communication abilities in multidisciplinary and international environments, as well as to perfect my english and my german. in addition to this, have expert knowledge of some of the most relevant cad and cae software used in the aerospace industry. professional experience may 2013 july 2013 developer of a graphical user interface for engineering software institution universidad politécnica de madrid (upm), madrid, espaa sector renewable energies. geothermal energy. description early-stage development of a graphical user interface (gui) for a computational model developed at the upm, to analyze and design geothermal boreholes. definition of the main functions, elements and distribution of the gui. programming of the first versions and iterations of the different modules of the gui. oct 2012 april 2013 masters thesis internship (completed with honors) company db systemtechnik gmbh - section for aerodynamics and air conditioning munich, germany sector railway industry description computational fluid dynamics (cfd) study for the enlargement of dbs climatic chamber in minden, for weather-independent hvac tests on railroad vehicles. investigation of diverse in- and outlet schemes and the compliance of the resulting temperature and velocity fields with the european norms on hvac tests. the simulations were carried out using the software ansys cfx and optimized in cooperation with dbs hvac laboratories. final simulations validated the new design, enabled the definition of guidelines to circumvent potential problems and provided a model to study operational situations inside the chamber. juan garbayo de pablo education page 2 of 2 sept 2006 july 2013 institution specialization area sept 2010 sept 2011 institution specialization area computer skills ingeniería superior aeronáutica (bsc + msc in aerospace engineering) universidad politécnica de madrid (upm), madrid, spain space vehicle design and space missions analysis and design international university exchange programme rwth aachen, aachen, germany aerospace engineering programming engineering software catia v5 ansys cfx abaqus nastran o.s others foreign languages fortran e master in mechanical design at abgam, dassault systemes educational partner e development of cfd simulations at db systemtechnik gmbh (masters thesis) e course specialist in aerospace structural analysis using abaqus at ct ingenieros e course modelling of composite materials using abaqus at ct ingenieros e course on fem analysis using nastran. windows, linux and os x microsoft office english german french level certificate level certificate level negotiation level cambridge advanced certificate in english negotiation level - 18 months in germany goethe zertifikat c1 a2 currently attending intensive courses in toulouse. expected level in january 2013: b2 references available upon request toulouse, october 2013",
+    "text_from_header": "JUAN GARBAYO DE PABLO",
+    "detected_language": "en",
+    "master_edition": "MASI14"
+}

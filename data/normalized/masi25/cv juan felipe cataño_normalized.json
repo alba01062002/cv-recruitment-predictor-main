@@ -1,0 +1,109 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Felipe Catao Velásquez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "juanfcavel@gmail.com",
+        "phone": "+34 640 095 320",
+        "address": "Quiri, BCN",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineering",
+            "field": "Aircraft Systems Integration",
+            "university": "Universidad Pontificia Bolivariana Med, Colombia",
+            "location": "Medellín, Colombia",
+            "year": "2016 - 2021",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Mercadona S.A.",
+            "position": "Logistics Administration Assistant",
+            "description": "Coordinated supply chain activities including inventory control, order processing, and supplier communication. Managed logistical documentation for shipments ensuring compliance with internal and external requirements. Collaborated with other departments to solve logistical issues and improve workflow efficiency.",
+            "start_date": "05/2021",
+            "end_date": "05/2025",
+            "duration_years": 4.0
+        },
+        {
+            "company": "Grupo Viva Air Med, Colombia",
+            "position": "Powerplant Engineering Intern",
+            "description": "Performed time control processes for engine preservation monitoring to ensure compliance with maintenance schedules. Created engineering orders for the execution of technical tasks and corrective actions. Prepared oil consumption reports for audit and regulatory purposes. Reviewed fan blade mapping to support inspection procedures and engine performance tracking. Analyzed airworthiness directives (ADS) and service bulletins (SB) to assess applicability and ensure regulatory compliance.",
+            "start_date": "06/2020",
+            "end_date": "12/2020",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Catalan",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CAD (Computer-Aided Design)",
+            "FEM (Finite Element Method)",
+            "Excel",
+            "SolidWorks",
+            "CATIA",
+            "Python"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Project Management",
+            "Problem-Solving",
+            "Analytical Skills",
+            "Organizational Skills",
+            "Communication Skills",
+            "Collaboration",
+            "Attention to Detail"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 4.5,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

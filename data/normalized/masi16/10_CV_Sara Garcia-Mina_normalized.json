@@ -1,0 +1,99 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sara García-Mina Martínez",
+        "date_of_birth": "04/06/1990",
+        "gender": "female",
+        "age_reference_year": 2016,
+        "age": 26,
+        "email": "",
+        "phone": "+34609566672",
+        "address": "Sector Pueblos 11, Madrid (Tres Cantos), 28760",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Telecommunication and Electrical Engineering",
+            "field": "Telecommunication and Electrical Engineering",
+            "university": "Universidad Autónoma de Madrid",
+            "location": "Madrid, Spain",
+            "year": "5 years-course degree",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Scholarship: Collaboration in areas of research with biometric research group atvs in Escuela Politécnica de la Universidad Autónoma de Madrid. Experience with signal processing, pattern recognition, computer vision and machine learning algorithms under MATLAB and C++ environments.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "",
+            "description": "Scholarship: Collaboration with Cátedra UAM-Telefónica. Agreement between Department of Electronic and Communication Technologies (Escuela Politécnica de la Universidad Autónoma de Madrid) and Telefónica.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Everis Aerospace and Defence",
+            "position": "Junior Consultant (Full-time)",
+            "description": "Position at Everis Aerospace and Defence as a Junior Consultant from November 2014 to August 2015.",
+            "start_date": "11/2014",
+            "end_date": "08/2015",
+            "duration_years": 0.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Canada",
+            "institution_or_company": "Nova Scotia, Canada (Academic Year 2006-2007)",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "C++",
+            "Signal Processing",
+            "Pattern Recognition",
+            "Computer Vision",
+            "Machine Learning"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.75,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

@@ -1,0 +1,104 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Carlos Molinero",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "j.c.molinero.f@gmail.com",
+        "phone": "+34 660115410",
+        "address": "",
+        "LinkedIn": "linkedin.com/in/juancarlos-molinero",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Degree in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Carlos III University of Madrid",
+            "location": "Madrid",
+            "year": "2016-2022",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Air Force & Segula Technologies",
+            "position": "Aerospace Engineer",
+            "description": "Preventive maintenance of the NH90 military helicopter, working at Spanish medium management. Utilized skills in Simulink, CATIA, XFLR5, Python, Nastran.",
+            "start_date": "07/2022",
+            "end_date": "12/2022",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Mobility Program",
+            "country": "United States of America",
+            "institution_or_company": "Iowa State University (ISU)",
+            "start_date": "10/2021",
+            "end_date": "05/2022",
+            "description": "Study and project work, including design and manufacturing of a UAV, FLL robotics competition, fluid mechanics paper.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "SolidEdge (SolidWorks)",
+            "Excel",
+            "ABAQUS",
+            "Simulink",
+            "CATIA",
+            "XFLR5",
+            "Python",
+            "Nastran"
+        ],
+        "soft_skills": [
+            "Problem solving",
+            "Teamwork",
+            "Resilience",
+            "Broad-mindedness",
+            "Enthusiasm"
+        ]
+    },
+    "other_interests_normalized": [
+        "3D Design",
+        "Space Visual Development",
+        "Robotics"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Food Bank in Madrid",
+            "role": "Volunteer work with homeless, intellectually handicapped",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.42,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "luis rueda currás aeronautical engineer madrid, espaa +34 619 354 134 luisjre@hotmail.es professional profile aeronautical engineering with a proven record of innovation and analytical problem-solving. leverage advanced aeronautical expertise alongside strong programming skills in c++, python and matlab to design, prototype and optimise high-performance aerospace systems. experienced in building efficient, scalable software pipelines and data-driven simulations that address complex engineering challenges, deliver measurable performance gains and push technological boundaries within the aerospace sector. now seeking to apply this blend of engineering rigour and software fluency to drive next-generation aircraft and space-flight solutions. professional experience e researcher in navigation algorithms for space debris removal, urjc ...........:cccccccsssseee: jul 2024 current design, devolopment and implementation of al-driven solutions for autonomous navigation systems in uncooperative and satellite environments e software developer in proyect phoenix for pangaea, inta/esa ......cccccccscsesesseeeeee jan 2023 sept 2024 design, implementation, and testing of camera and raman handling software for the raman-libs spectrometer of the esa's phoenix project education e master in aeronautical engineering .............cccccccscsesescssssescsesessessscsesescsecsescscsseeesescsesesees sep 2023 jul 2025 universidad rey juan carlos e* aerospace engineering with specialization in aeronavigation ..............cccsscesesesesseseseseeees sep 2018 jul 2023 universidad rey juan carlos skills programming & scripting: software engineering: = python (numpy, scipy, scikit-image) ................ expert = git & gitlab ccd 0.0... cece cee eee eeee expert bci chit ccc cence ne ne ne nte ne nen een en eens advanced =\" docker & conda ......... cece cence eee eee advanced = matlab/simulinke ................:0 cece ee ee eee advanced = linux / unix command line (bash) ................... expert mo julia cece ee eee e ne ee ee enene tena es advanced aerospace-specific: data science & ai: = naif spice ancillary data toolkit ............. intermediate = image processing / computer vision .................. expert = ecss space-engineering standards ............ intermediate = frameworks: pytorch, tensorflow, cuda .... advanced productivity & documentation: = neural networks: cnns, llm fine-tuning ...... advanced = latex, microsoft office ...............0..cc cece eee expert courses ee generative al with llms certification ..........ooococonccnnnnnnnnnncncnnnnnnnnnnnnnnoncnnnnnnonnnnononononononos jul 2024 sept 2024 nvidia nca gnel certification ee advanced course in industrial design with catia ..oooooonoccccnnccconnccnnoncccnonccnonnccnnoncccnonacnns jul 2022 sept 2022 centro de estudios profesionales plm & engineering languages english an cl spanish a ccacaceccecsceccscececcccsceccececcecescece native",
+    "text_from_header": "LUIS RUEDA CURRÁS",
+    "detected_language": "en",
+    "master_edition": "MASI25"
+}

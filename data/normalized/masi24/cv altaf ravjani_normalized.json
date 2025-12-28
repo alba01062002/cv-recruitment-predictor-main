@@ -1,0 +1,145 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Altaf M Ravjani",
+        "date_of_birth": "15/06/1997",
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": 27,
+        "email": "mr.ar1472@gmail.com",
+        "phone": "+34 605730098",
+        "address": "Barcelona, Spain",
+        "LinkedIn": "https://www.linkedin.com/in/ravjani-altaf/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Space and Aeronautical Engineering",
+            "field": "Space and Aeronautical Engineering",
+            "university": "Universitat Politècnica de Catalunya - Barcelona Tech (UPC)",
+            "location": "Barcelona, Spain",
+            "year": "2023-2024",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Remote Pilot and Instructor Training",
+            "field": "",
+            "university": "Indira Gandhi Rashtriya Uran Akademi (IGRUA)",
+            "location": "India",
+            "year": "2022",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Central University of Karnataka",
+            "location": "India",
+            "year": "2014-2018",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "S&P Global",
+            "position": "Lead Data Researcher / Analyst",
+            "description": "Responsible for conducting comprehensive data research on industry asset data, managing hierarchical data structures in collaboration with cross-functional teams. Duties included performing reserves and resource calculations, suggesting lean and automation improvements, and conducting feasibility studies.",
+            "start_date": "07/2019",
+            "end_date": "09/2023",
+            "duration_years": 4.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Volunteering",
+            "country": "Austria",
+            "institution_or_company": "UN COPUOS - Delegation of SGAC",
+            "start_date": "01/2021",
+            "end_date": "",
+            "description": "Attended event of UN Committee of Peaceful Uses of Outer Space at Vienna International Centre.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Volunteering",
+            "country": "India / Austria",
+            "institution_or_company": "Invincible NGO's Trekking Camps under Project Sparsh",
+            "start_date": "2020",
+            "end_date": "2023",
+            "description": "Worked as senior instructor for Invincible NGO's trekking camps, which helped understand the role of effective coordination and leadership.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Volunteering",
+            "country": "Spain",
+            "institution_or_company": "Pegasus Europe Event of 30 Best Aerospace Engineering Universities in Europe (UPC)",
+            "start_date": "04/2024",
+            "end_date": "04/2024",
+            "description": "Volunteered for Pegasus Europe event.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Analytical Skills",
+            "Data Analysis and Visualization",
+            "Lean",
+            "Project Management",
+            "Research",
+            "Strategic Planning",
+            "Outlook",
+            "Document Management Systems",
+            "Collaboration and Communication Tools"
+        ],
+        "soft_skills": [
+            "Effective Communication",
+            "Team Building and Motivation",
+            "Strategic Planning & Decision Making",
+            "Adaptability and Flexibility",
+            "Innovation and Creativity",
+            "Critical Thinking"
+        ]
+    },
+    "other_interests_normalized": [
+        "Flight Simulation",
+        "Traveling to Aerospace Events",
+        "Model Rocketry",
+        "STEM Education",
+        "Outdoor Activities like Mountaineering, Camping, Hiking, Hitchhiking"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "UN COPUOS - Delegation of SGAC",
+            "role": "Volunteer",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "organization": "Invincible NGO's Trekking Camps under Project Sparsh",
+            "role": "Senior Instructor",
+            "duration": "2020-2023",
+            "description": ""
+        },
+        {
+            "organization": "Pegasus Europe Event of 30 Best Aerospace Engineering Universities in Europe (UPC)",
+            "role": "Volunteer",
+            "duration": "04/2024 - 04/2024",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 4.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 21,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

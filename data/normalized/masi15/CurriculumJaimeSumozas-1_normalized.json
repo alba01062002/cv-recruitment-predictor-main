@@ -1,0 +1,129 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jaime Sumozas Arribas",
+        "date_of_birth": "25/05/1990",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 25,
+        "email": "jaimesumozas@gmail.com",
+        "phone": "+34655848743",
+        "address": "9 c/ tres picos 7, 28470 cercedilla, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Proyecto de Fin de Carrera (TFG)",
+            "field": "Aeronáutica",
+            "university": "Escuela Técnica Superior de Ingenieros Aeronáuticos, Universidad Politécnica de Madrid",
+            "location": "Madrid, España",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachillerato",
+            "field": "",
+            "university": "Colegio Inmaculada Concepción, San Lorenzo de El Escorial",
+            "location": "España",
+            "year": "2008",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Indra",
+            "position": "Becario de Simulación",
+            "description": "",
+            "start_date": "01/02/2014",
+            "end_date": "31/08/2014",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Everis, Madrid",
+            "position": "Consultor Junior",
+            "description": "",
+            "start_date": "12/01/2015",
+            "end_date": "14/05/2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Decathlon, Majadahonda",
+            "position": "Vendedor en el departamento de deportes de invierno",
+            "description": "",
+            "start_date": "01/12/2013",
+            "end_date": "31/12/2013",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Bélgica",
+            "institution_or_company": "Universidad de Lieja",
+            "start_date": "09/15/2012",
+            "end_date": "10/14/2013",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Bélgica",
+            "institution_or_company": "Universidad de Lieja",
+            "start_date": "2012-2013 (Erasmus)",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Fortran (basic level)",
+            "Solid Edge",
+            "CATIA",
+            "Windows",
+            "Microsoft Office"
+        ],
+        "soft_skills": [
+            "buena capacidad para trabajar en grupo",
+            "mentalidad abierta",
+            "buena adaptación en ambientes multiculturales",
+            "buena capacidad comunicativa",
+            "capacidad de organización y liderazgo"
+        ]
+    },
+    "other_interests_normalized": [
+        "ciclismo",
+        "esquí de montaña"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Equipo Nacional de Esquí de Montaña",
+            "role": "",
+            "duration": "2008 (asistente al Campeonato del Mundo en Suiza)",
+            "description": ""
+        }
+    ],
+    "degree_years": 1.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.1
+}

@@ -1,0 +1,148 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ivan González Pérez",
+        "date_of_birth": "02/05/1993",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 25,
+        "email": "ivan.gzp930@gmail.com",
+        "phone": "633 52 79 78",
+        "address": "c/ de Maudes 8, cp: 28003 Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Degree in Aerospace Engineering",
+            "field": "Aerospace engineering - multidisciplinary profile",
+            "university": "Universidad de Cádiz. Escuela Superior de Ingeniería. Aeroplanes",
+            "location": "Cádiz",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "Advanced RPA Pilot Course",
+            "university": "Aeródromo de Casarrubios del Monte",
+            "location": "Madrid",
+            "year": "2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Surface Design with CATIA V5",
+            "university": "Universidad de Cádiz. Escuela Superior de Ingeniería",
+            "location": "Cádiz",
+            "year": "2014-2014",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Parts, Assembly and Planes Design with CATIA V5",
+            "university": "Universidad de Cádiz. Escuela Superior de Ingeniería",
+            "location": "Cádiz",
+            "year": "2014-2014",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Introduction to AutoCAD",
+            "university": "IES Rafael Reyes",
+            "location": "",
+            "year": "2013-2015",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence and Space",
+            "position": "Curricular Intern (Part-time)",
+            "description": "Controlling the flow of information offered by SAP in the programs of the factory.",
+            "start_date": "10/2014",
+            "end_date": "01/2015",
+            "duration_years": 0.25
+        },
+        {
+            "company": "Aeródromo de Casarrubios del Monte",
+            "position": "Aviation Instructor (Full-time)",
+            "description": "Educating RPA pilots.",
+            "start_date": "12/2015",
+            "end_date": "08/2016",
+            "duration_years": 0.67
+        },
+        {
+            "company": "Chris Carter, Southampton",
+            "position": "Au Pair (Full-time)",
+            "description": "Looking after kids.",
+            "start_date": "05/2017",
+            "end_date": "12/2018",
+            "duration_years": 1.58
+        },
+        {
+            "company": "Airbus Defence and Space",
+            "position": "Aeronautical Intern - Fuel, Inerting and Fire Protection Systems (Full-time)",
+            "description": "Analysing fuel systems of military aircraft.",
+            "start_date": "05/2017",
+            "end_date": "12/2025",
+            "duration_years": 8.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD",
+            "CATIA V5",
+            "MATLAB",
+            "AMESim",
+            "ANSYS CFD"
+        ],
+        "soft_skills": [
+            "trustworthy",
+            "versatile",
+            "great apprentice",
+            "enjoy working with computers by myself or in a team",
+            "using own initiative"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.9
+}

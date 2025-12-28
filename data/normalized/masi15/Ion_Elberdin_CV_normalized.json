@@ -1,0 +1,151 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ion Elberdin Navarro",
+        "date_of_birth": "26/10/1986",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 29,
+        "email": "ionelberdino@gmail.com",
+        "phone": "+34 669129003",
+        "address": "Calle Serradilla 7, 42c. 28044 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aeronautical Engineering",
+            "field": "Aeronautical Engineering",
+            "university": "Universidad Politécnica de Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2014",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Online Course in Computational Thinking and Data Science",
+            "field": "",
+            "university": "MIT via edX platform",
+            "location": "",
+            "year": "2015-03 to 2015-05",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Online Course in Artificial Intelligence",
+            "field": "",
+            "university": "UC Berkeley via edX platform",
+            "location": "",
+            "year": "2015-02 to 2015-04",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "HP50g Programming Calculator and Python Courses Instructor",
+            "position": "Teacher",
+            "description": "Taught HP50g programming calculator and python courses for part-time aeronautical students.",
+            "start_date": "2011-01",
+            "end_date": "2015-12",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Universidad Politécnica de Madrid (UPM)",
+            "position": "Part-Time Research Assistant",
+            "description": "Calibrated data acquisition hardware to measure temperature and pressure for future student experiments.",
+            "start_date": "2007-01",
+            "end_date": "2008-12",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Private Teacher of University Access Exam Prep Students",
+            "description": "Taught part-time subjects including maths, physics, chemistry, and technical drawing.",
+            "start_date": "2007-01",
+            "end_date": "2014-12",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Customer Relationship Manager (CRM) Developer for MyLittleMomo ES Startup",
+            "position": "Developer",
+            "description": "Helped set up a website and an integrated CRM with an online booking system.",
+            "start_date": "2012-01",
+            "end_date": "2013-12",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Travel",
+            "country": "Mauritius",
+            "institution_or_company": "",
+            "start_date": "2014-11",
+            "end_date": "2015-01",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Overland Journey",
+            "country": "Central Europe and Russia",
+            "institution_or_company": "",
+            "start_date": "2010-06",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA V5",
+            "MSC Nastran/Patran",
+            "OpenFOAM",
+            "Python",
+            "Fortran",
+            "C/C++",
+            "C#",
+            "Java",
+            "R",
+            "SQL",
+            "OOP",
+            "MS Office (Excel, Word & Access)",
+            "Home Projects with Raspberry Pi and Data Acquisition Boards",
+            "Web Design & Architecture Development"
+        ],
+        "soft_skills": [
+            "Emotional Intelligence",
+            "Team Management",
+            "Leadership",
+            "Problem Solving"
+        ]
+    },
+    "other_interests_normalized": [
+        "Traveling and Cultural Immersion",
+        "Overland Journey",
+        "Hockey Player"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

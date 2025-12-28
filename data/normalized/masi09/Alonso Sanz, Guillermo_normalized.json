@@ -1,0 +1,111 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Guillermo Alonso Sanz",
+        "date_of_birth": "15/07/1983",
+        "gender": "male",
+        "age_reference_year": 2009,
+        "age": 26,
+        "email": "guillegeme@hotmail.com",
+        "phone": "+34 629011851",
+        "address": "C/ Paseo del Pinar 53, 3B, 28231 Las Rozas, Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Superior de Telecomunicación",
+            "field": "Telecommunications",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2001-2007",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Agilent Technologies",
+            "position": "Becario",
+            "description": "Desarrollando labores técnico-comerciales. Las principales actividades desarrolladas fueron la venta de productos, asesoramiento a clientes, apoyo a la red comercial y manejo de bases de datos.",
+            "start_date": "07/2007",
+            "end_date": "02/2008",
+            "duration_years": 0.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Italia",
+            "institution_or_company": "Politecnico di Torino",
+            "start_date": "2005-2006",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "EE.UU.",
+            "institution_or_company": "University of Illinois Institute of Technology (UIC)",
+            "start_date": "Feb-2008",
+            "end_date": "Sep-2008",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Turín, Italia",
+            "institution_or_company": "Politecnico di Torino",
+            "start_date": "2005-2006 (Erasmus)",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Chicago, EE.UU.",
+            "institution_or_company": "University of Illinois Institute of Technology (UIC)",
+            "start_date": "Feb-2008/Sep-2008",
+            "end_date": null,
+            "description": "Medical Imaging Research Center",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Italian",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "Assembler",
+            "Matlab",
+            "SAP R3",
+            "Microsoft Office",
+            "Internet"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Música",
+        "Viajar",
+        "Deportes: Baloncesto, Paddle, Mountain Bike, Natación"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.58,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.3
+}

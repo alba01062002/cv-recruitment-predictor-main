@@ -1,0 +1,85 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Andrés González Antohi",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "andresgonzalezantohi@gmail.com",
+        "phone": "+34 611 419 313",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Dual degree program of computer engineering and video game development",
+            "field": "Computer Engineering + Video Game Development & Design",
+            "university": "Rey Juan Carlos University",
+            "location": "Madrid, Spain",
+            "year": "2020-2025",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Solusoft",
+            "position": "Junior Web Developer",
+            "description": "",
+            "start_date": "10/2024",
+            "end_date": "12/2024",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Romanian",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "JavaScript",
+            "SQL",
+            "SQLite",
+            ".NET",
+            "C#",
+            "C++",
+            "MongoDB",
+            "GNU Bash",
+            "Springboot",
+            "HTML/CSS",
+            "CUDA",
+            "Arduino",
+            "Python",
+            "XML"
+        ],
+        "soft_skills": [
+            "Ducker, Kubernetes"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.17,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.5
+}

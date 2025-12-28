@@ -1,0 +1,102 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Álvaro Sicilia Muoz",
+        "date_of_birth": "13/08/1998",
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": 23,
+        "email": "alsimu.98@hotmail.com",
+        "phone": "+34 608 043 033",
+        "address": "Lorca, Murcia",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación (Mención en Sistemas de Telecomunicación)",
+            "field": "Matemáticas, Física e Informática",
+            "university": "Universidad Politécnica de Valencia",
+            "location": "",
+            "year": "2016-2020",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Ayuntamiento de Lorca",
+            "position": "Becario de Análisis y Mejora del Diseño en la Fibra Óptica",
+            "description": "Aprendizaje de código HTML.",
+            "start_date": "2019",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Various private tutoring engagements",
+            "position": "Profesor de Apoyo Particular en Matemáticas y Física",
+            "description": "",
+            "start_date": "2016-2020",
+            "end_date": "2020",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Java",
+            "LaTeX",
+            "Teoría de Circuitos",
+            "Dispositivos Electrónicos",
+            "Sistemas de Microprocesadores Verilog"
+        ],
+        "soft_skills": [
+            "Versatilidad",
+            "Adaptabilidad",
+            "Aprendizaje rápido",
+            "Puntualidad",
+            "Responsabilidad",
+            "Trabajo en equipo"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.9
+}

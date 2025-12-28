@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "=. er at ey profile: personal information: contact details: name: ruben cubo ramos tel: +34-680-754492 nationality: spanish email: lagunaff8@hotmail.com date of birth: 22/nov/1989 physics graduate in universidad complutense de madrid with nine months of part-time experience in attitude control systems design of satellites and a mostly technological background looking for an international career. proactive, dynamic, able to work both as a team and as an individual, avid to learn and progress, fairly ambi- tious and result oriented with great attention to details. education: sep 2007 jul 2012 msc in physics (licenciatura en fisica) universidad complutense de madrid main areas of study: electronics, systems control, robotics, quantum physics, solid state physics, nuclear and particle physics, wave mechanics, mathematical and numerical methods, optics, electromagnetism, statistical mechanics. international experience: it was done with an erasmus grant in uppsala (sweden) during the academic year 2010-2011. the courses there were taught in english and were mostly focused on theoretical physics (analytical mechanics, quantum mechanics and nu- clear and particle physics) because they were compulsory in my home university. an addi- tional course in fluid dynamics was taken as well. average grading: the average achieved was 8.82/10 professional experience: sep 2011 jul 2012 universidad complutense de madrid collaboration internship (part-time) in the department of computer architecture and automation responsible for: = cubesat satellite modeling and control. the acs of the satellite was designed using only the magnetic field because of its small size and the premises of the humsat project (low cost and simplicity). the work can be divided into three main parts: attitude determination: this was done by using the magnetic field vector and its derivative, along with the triad algorithm. other approaches were considered, such as using only the magnetic field directly and linearizing the model control algorithmia: using previous experience with other satellites (such as nanosat) a pd controller was chosen. because the problem was non-holonomic, control logic had to be used, such as detumbling modes and control gain tunning, depending on the stage of the orbit (equator, poles...). modeling (simulator only): both the satellite dynamics and its subsystems were modeled. noise and residuary dipole perturbations were also included in the final model of the satellite. satisfactory results were achieved in simulations and the acs is in process of being implemented to a first prototype during the following months. jul 2011 aug 2011 csic jae-intro internship (full-time) in the department of materials corrosion responsible for: = pretreatment of aerospace aluminum alloys. the aluminum alloys used were simplified versions of commercial alloys, with zinc and copper as solutes. they were first honed, then pretreated with acid-base baths and fi- nally treated with a cerium bath. both lab field work and technical work were performed during it. specific skills: programming matlab-simulink, c++ languages platforms originpro others office applications specific courses: = systems control, 150 hours. universidad complutense de madrid. including theory of linear systems, modeling, controlling algorithms (pid, phase networks), estimators, robust control, optimal control (by both deterministic and bio-inspired methods) and an introduction to non-linear systems = fpga programming, 60 hours. universidad complutense de madrid. both schematics and vhdl were used in an spartan 3-200 fpga. it included basic combinational and se- quential design, vga management and finally, an vga game. = microcontrollers programming, 30 hours. universidad complutense de madrid. basic course in assembler programming in a microchip 16f84. communication via an i2c bus with an spartan 3-200 fpga was also done. = robotics, 45 hours. universidad complutense de madrid basic course in robotics including kinematics, fixed robots, mobile robots and sensors. languages: = english (c1, very high). center of modern languages (csim) = japanese (a2-2, intermediate). center of modern languages (csim) = french (ai, basic)",
+    "text_from_header": "PERSONAL INFORMATION: CONTACT DETAILS:",
+    "detected_language": "en",
+    "master_edition": "MASI13"
+}

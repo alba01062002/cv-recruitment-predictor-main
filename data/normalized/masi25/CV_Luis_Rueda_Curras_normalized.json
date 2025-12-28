@@ -1,0 +1,95 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Luis Rueda Currás",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "luisjre@hotmail.es",
+        "phone": "+34 619 354 134",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Aeronautical Engineering",
+            "field": "Aeronautical Engineering with specialization in aeronavigation",
+            "university": "Universidad Rey Juan Carlos",
+            "location": "Madrid, España",
+            "year": "2023-2025",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Researcher in Navigation Algorithms for Space Debris Removal",
+            "description": "E researcher in navigation algorithms for space debris removal at URJC.",
+            "start_date": "Jul 2024",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Pangaea, INTA/ESA",
+            "position": "Software Developer on Project Phoenix",
+            "description": "Design, implementation, and testing of camera and Raman handling software for the Raman-libs spectrometer.",
+            "start_date": "Jan 2023",
+            "end_date": "Sep 2024",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python (numpy, scipy, scikit-image)",
+            "Git & GitLab",
+            "C++",
+            "MATLAB/Simulink",
+            "Linux / Unix command line (bash)",
+            "Julia",
+            "PyTorch, TensorFlow, CUDA",
+            "Naif Spice Ancillary Data Toolkit",
+            "Image processing / computer vision",
+            "ECSS Space-Engineering Standards"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 2.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.0
+}

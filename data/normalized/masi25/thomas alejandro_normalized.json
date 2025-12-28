@@ -1,0 +1,98 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Thomas Alejandro Rincón Rojas",
+        "date_of_birth": "14/06/2003",
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": 22,
+        "email": "thomasrinconrj@gmail.com",
+        "phone": "+34 610 14 80 22",
+        "address": "c/ María Curie, 7 - 28342 Valdemoro - Madrid",
+        "LinkedIn": "https://www.linkedin.com/in/thomasrinconrojas",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "www.linkedin.com/in/thomasrinconrojas"
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería electrónica industrial y automática",
+            "field": "Electronics and Industrial Automation Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Operations",
+            "position": "Área de Operaciones (Support)",
+            "description": "Apoyo en el área de operaciones, colaborando en un proyecto de automatización de procesos para mejorar la eficiencia en la producción.",
+            "start_date": "02/2025",
+            "end_date": "actualmente",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+",
+            "country": "Austria",
+            "institution_or_company": "FH Technikum Wien",
+            "start_date": "09/2024",
+            "end_date": "02/2025",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "German",
+            "B1"
+        ],
+        [
+            "French",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microcontroller programming"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Problem-solving",
+            "Adaptability"
+        ]
+    },
+    "other_interests_normalized": [
+        "Programación de microcontroladores",
+        "Diseño de circuitos",
+        "Desarrollo de sistemas"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

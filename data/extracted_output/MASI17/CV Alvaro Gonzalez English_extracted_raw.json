@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "gonzález caballero, álvaro +34 616 32 97 63 personal information dni: 53449502-d date and place of birth: 05/04/1991, leganés address: josé luis lópez aranguren square, 2 4d 28914 leganés (madrid) e-mail: alvarogonz1991 @icloud.com work experience july 2016 / may 2016 airbus defence & space internship, array antennas area (barajas) telecommunications systems, airbus. (part-time 30 hours per week) may 2016 / december 2015 accent on you internship, systems department alhambra renovation, accenture technology solutions. (part-time 25 hours per week) education and training 2016 / 2011 bachelors degree in telematics engineering, carlos iii university of madrid, school of engineering (leganés). 2011 /2009 science and technology bachiller, siglo xxi high school (leganés). personal skills communications networks and services management, (communication protocol architecture, networks, routing, congestion control), and wireless and mobile networking (specialized on mobility solutions in ipv6). advance handle of linux os, linux tools (as wireshark, tcpdump, javac) and linux command console. advance knowledge on programming techniques, and ability to develop software in different languages as java, android, sql, c, c#, html and others, including mechanisms to manage concurrency problems. use of different ide and related software: .net, tfs, eclipse, oracle and androidstudio. ability to develop microprocessor based digital systems (arm architecture) with keils uvision tool. pcb design with altium. competent with most operative systems (os x, 10s and windows), and office software tools as word, excel, powerpoint or sharepoint 2013. languages spanish native. english b2 level: 2016 cambridge english: first (fce) cefr level b2. present / 2016 taking advance, english connection (leganés). complementary education 2006 / 2001 elemental grade musical education, pablo cassals public leganés music school. present / 2012 b driving licence. hobbies - assembling of personalise computer systems, adapted to the user necessities including sleeving, hardware and on demand pieces. - knowledge on electronic devices repairs, as smartphones, tablets or pc. - paddle tennis practice. - recreational pursuit on music and especially on spanish guitar.",
+    "text_from_header": "DNI: 53449502-D",
+    "detected_language": "en",
+    "master_edition": "MASI17"
+}

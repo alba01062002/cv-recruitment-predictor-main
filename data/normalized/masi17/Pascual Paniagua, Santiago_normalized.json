@@ -1,0 +1,114 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Santiago Pascual Paniagua",
+        "date_of_birth": "05/09/1993",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 24,
+        "email": "santy.p793@wgmail.com",
+        "phone": "630660201",
+        "address": "9 c/ Antonio Sancha 46, 28042 Madrid (España)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelors degree",
+            "field": "Telecommunications Engineering",
+            "university": "Universidad de Alcalá, Superior Polytechnic School (EPS UAH)",
+            "location": "Alcalá de Henares, Spain",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Innerspec Technologies Europe S.L.",
+            "position": "UT (Ultrasounds) Engineer Intern",
+            "description": "Performing various tasks in technical department. Testing ultrasonic equipment in laboratory. Analysis and debugging company software and hardware. Helping in troubleshooting for customer at European level. Support throughout Europe with company's technologies.",
+            "start_date": "02/2015",
+            "end_date": "08/2015",
+            "duration_years": 0.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus program",
+            "country": "Poland",
+            "institution_or_company": "Technical University of Lódz, Lodz",
+            "start_date": "",
+            "end_date": "",
+            "description": "Finishing my studies at Technical University of Lódz, carrying out the final project (bachelor level) about communication in a smart heating system.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Exchange program",
+            "country": "Sweden",
+            "institution_or_company": "",
+            "start_date": "2010",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Exchange program",
+            "country": "Thessaloniki (Campus Europae project)",
+            "institution_or_company": "",
+            "start_date": "2015-08-24",
+            "end_date": "2015-08-30",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C/C++",
+            "VHDL",
+            "MATLAB",
+            "Altium",
+            "OrCAD",
+            "Xilinx",
+            "Ise",
+            "Keil",
+            "Atmel"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Presentation",
+            "Leadership",
+            "Organizational skills",
+            "Quality control and calibration processes"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "19/6/2016",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.5,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

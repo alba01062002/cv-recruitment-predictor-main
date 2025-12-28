@@ -1,0 +1,95 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sara Marrojas",
+        "date_of_birth": "19/07/1998",
+        "gender": "female",
+        "age_reference_year": 2023,
+        "age": 25,
+        "email": "saramarrojas19@gmail.com",
+        "phone": "+34-660 430 456",
+        "address": "c/rodrigo gil de hontaón, 4 getafe (madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Industrial Engineering",
+            "field": "Industrial Technologies Engineering with specialization in Electronics and Automatic Control",
+            "university": "Universidad Carlos III Madrid, Spain",
+            "location": "Madrid",
+            "year": "2021-2023",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "University Carlos III Madrid",
+            "position": "Research Support Technician",
+            "description": "Worked in the robotics department.",
+            "start_date": "01/2022",
+            "end_date": "12/2022",
+            "duration_years": 0.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Germany",
+            "institution_or_company": "Universität Paderborn",
+            "start_date": "09/2022",
+            "end_date": "07/2023",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Paderborn, Germany",
+            "institution_or_company": "Universität Paderborn, Germany",
+            "start_date": "2022-2023",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Abaqus",
+            "Solid Edge",
+            "CoppeliaSim (V-REP)",
+            "ROS Gazebo",
+            "C and C++",
+            "Rapid (RobotStudio, ABB)",
+            "Arduino"
+        ],
+        "soft_skills": [
+            "Microsoft Office",
+            "Image Editing: Photoshop",
+            "Video Editing: Pinnacle Studio and Vegas Pro"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 2.0,
+    "total_work_years": 0.92,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.4
+}

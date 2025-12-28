@@ -1,0 +1,101 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alberto Alfaro Gimeno",
+        "date_of_birth": "22/02/1984",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 26,
+        "email": "aalfarogimeno@yahoo.es",
+        "phone": "636373780",
+        "address": "c/padrón n 2, 5 c escalera derecha, 28925 alcorcón (madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Título en Ingeniería Técnica Industrial",
+            "field": "Mecánica",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2008-2012",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Cines Yelmo Cineplex",
+            "position": "Acomodador",
+            "description": "",
+            "start_date": "null",
+            "end_date": "null",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Almacenes de El Corte Inglés",
+            "position": "Mozo de Almacén",
+            "description": "",
+            "start_date": "null",
+            "end_date": "null",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Investrónica",
+            "position": "Técnico Reparador de Módems",
+            "description": "",
+            "start_date": "null",
+            "end_date": "null",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Solid Edge: Synchronous Technology",
+            "Fortran",
+            "Matlab",
+            "Femap",
+            "Ansys"
+        ],
+        "soft_skills": [
+            "Facilidad de trabajo en equipo",
+            "Disponibilidad para viajar"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 28,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

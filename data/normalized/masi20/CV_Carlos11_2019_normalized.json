@@ -1,0 +1,108 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Carlos San Gabriel Romero",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "carlos.sanga1996@gmail.com",
+        "phone": "+34 629 961 396",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/carlos",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Air Navigation Engineering",
+            "field": "Air Navigation Engineering",
+            "university": "Universitat Politècnica de Catalunya, EETAC",
+            "location": "Barcelona, Spain",
+            "year": "2014-2019",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Iberia LAE",
+            "position": "Aircraft Dispatcher",
+            "description": "Responsible for the control and supervision of handling operations. Revision of loadsheets and last minute changes. Management and assignment of delay codes.",
+            "start_date": "02/2017",
+            "end_date": "12/2025",
+            "duration_years": 8.83
+        },
+        {
+            "company": "Vueling Airlines",
+            "position": "Flight Ops Engineering - Routes Intern",
+            "description": "Technical aerodrome and route studies (performance limitations, deferred items, company policies and regulations compliance). LIDO OC for flight planning. LIDO database management and updating. Cartography analysis relative to the airac cycle. Crosscheck of navigation data for the FMS (Honeywell & Tales). Deviation point, balked landing and performance tables (PEP & FlySmart) knowledge. Automation of routine/repetitive tasks.",
+            "start_date": "05/2018",
+            "end_date": "01/2019",
+            "duration_years": 0.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "B2"
+        ],
+        [
+            "Catalan",
+            "C1"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "German",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MS Office tools (macros - VBA)",
+            "Database management (MS Access, SQL)",
+            "MATLAB",
+            "C#",
+            "LIDO",
+            "Computational Fluid Dynamics",
+            "CAD (SolidWorks)"
+        ],
+        "soft_skills": [
+            "Process improvement",
+            "Computer aided engineering",
+            "Automatization of routine/repetitive tasks"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 9.5,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

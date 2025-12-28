@@ -1,0 +1,135 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan José López García",
+        "date_of_birth": "03/06/1990",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 25,
+        "email": "jjlopezgarcia90@gmail.com",
+        "phone": "+34 696683110",
+        "address": "St. Luxemburgo, 13, Jerez de la Frontera (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Dipl.-Aerospace Engineer",
+            "field": "Aircraft & Spacecraft Integration",
+            "university": "Universidad de Sevilla (ETSI)",
+            "location": "Sevilla, Spain",
+            "year": "2013",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "High School (Science)",
+            "field": "",
+            "university": "La Salle (High School, Lycée)",
+            "location": "Jerez de la Frontera (Spain)",
+            "year": "2008",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Ten Idiomas Language School",
+            "position": "Invigilator",
+            "description": "",
+            "start_date": "07/15/2006",
+            "end_date": "07/16/2006",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Ten Idiomas Language School C/Caracuel, Jerez de la Frontera (Spain)",
+            "position": "",
+            "description": "",
+            "start_date": "07/15/2006",
+            "end_date": "07/16/2006",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Arus FS Team (Andalucia Racing Universidad de Sevilla)",
+            "position": "Formula Student Team Member",
+            "description": "Aerodynamic analysis with CFD software (Fluent) and bodywork design.",
+            "start_date": "10/01/2012",
+            "end_date": "09/21/2013",
+            "duration_years": 0.0
+        },
+        {
+            "company": "ELDAS Project, Airbus Space & Defence, Av. del Aeropuerto, s/n, 41020 Sevilla, Spain",
+            "position": "Intern (Final Year Thesis)",
+            "description": "Study and development/improvement in new leakage determination methods based on hydraulic systems; generation of correlations with the suppression of fluid as test work, and use of pneumatics test methods as final objective.",
+            "start_date": "07/03/2013",
+            "end_date": "12/31/2013",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Instituts für Stromungsmechanik, Hermann-Blenk-Str. 37, 38108 Braunschweig, Deutschland",
+            "position": "PhD Candidate Assistant (Erasmus Placement Programme)",
+            "description": "Design and development tasks relative to an ice wind tunnel, such as fluidization unit; experimental, calibration, and measurement work done.",
+            "start_date": "07/07/2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "France",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Interchange in Béziers (France), where lived two weeks with a native family.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB R2011",
+            "Simulink",
+            "Nastran",
+            "Patran",
+            "Microsoft Office (Word/PowerPoint/Excel)",
+            "Fluent",
+            "CATIA V5R19 (Part Design/Assembly/Wireframe & Surface Design)",
+            "Ansys",
+            "C++ Language",
+            "Satellite Tool Kit V10",
+            "Proteus",
+            "Photoshop"
+        ],
+        "soft_skills": [
+            "Multidisciplinary International Teamwork",
+            "Outgoing Person and Self-Confident",
+            "Effective Communication with Other Countries People",
+            "Interchange in Béziers (France) for Two Weeks Living with a Native Family"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.7
+}

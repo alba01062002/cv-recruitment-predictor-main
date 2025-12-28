@@ -1,0 +1,95 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Carmona Fernández",
+        "date_of_birth": "30/09/1989",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 24,
+        "email": "juan.carmona.fernandez@gmail.com",
+        "phone": "+34 630 47 56 83",
+        "address": "camino de humera, 19. (colonia de los ángeles) pozuelo de alarcón, madrid spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in industrial electronics and automation",
+            "field": "industrial electronics and automation",
+            "university": "Universidad Carlos III Madrid",
+            "location": "Madrid",
+            "year": "2008-2012",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "circuits and electronics 6.002x by mitx",
+            "university": "",
+            "location": "",
+            "year": "2012-2012",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Técnicas Constructivas de Mantenimiento S.L.",
+            "position": "Life Guard",
+            "description": "Full-time life guard position from June to August 2007 and 2006",
+            "start_date": "06/2007",
+            "end_date": "08/2007",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "USA",
+            "institution_or_company": "New York, USA",
+            "start_date": "2012",
+            "end_date": "2012",
+            "description": "Intensive course for summer 2012 preparing advance Cambridge certificate",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C/C++ (advanced)",
+            "Matlab (advanced)"
+        ],
+        "soft_skills": [
+            "MS Office (advanced)",
+            "Driving license B1"
+        ]
+    },
+    "other_interests_normalized": [
+        "swimming",
+        "travelling and getting to know other countries and cultures",
+        "soccer",
+        "outdoor activities such as trekking, geocaching or camping"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 9.0,
+    "total_work_years": 0.17,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.4
+}

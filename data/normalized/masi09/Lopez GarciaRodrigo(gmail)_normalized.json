@@ -1,0 +1,81 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rodrigo López García",
+        "date_of_birth": "27/03/1984",
+        "gender": "male",
+        "age_reference_year": 2009,
+        "age": 25,
+        "email": "rologa09@hotmail.com",
+        "phone": "620673765 (móvil), 944221740 (fijo)",
+        "address": "c/. general concha 37-2dcha. 48012-bilbao",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science in Thermal Power",
+            "field": "Gas Turbine Technology",
+            "university": "Cranfield University",
+            "location": "Bedford",
+            "year": "2007-2008",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Ingeniero Superior Industrial",
+            "field": "Diseño Mecánico",
+            "university": "Escuela Superior de Ingeniería de Bilbao (UPV)",
+            "location": "Bilbao",
+            "year": "2002-2008",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Solid Edge",
+            "ANSYS",
+            "Tricalc",
+            "CFD",
+            "Matlab"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Camarero en el bar la estufa y en el pub bilbost",
+        "Jugador de fútbol en la liga regional vizcaína en varios equipos (basurto, la pea y askartza)",
+        "Profesor particular de física, química y matemáticas"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": false,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 6.9
+}

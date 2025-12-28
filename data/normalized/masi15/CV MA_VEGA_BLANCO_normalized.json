@@ -1,0 +1,97 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Angel Vega Blanco",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": null,
+        "email": "vegablanco91@gmail.com",
+        "phone": "636 57 81 66",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor in Aeronautical Engineering",
+            "field": "Aeronautical Engineering",
+            "university": "Escuela Técnica Superior de Ingenieros Aeronáuticos, Universidad Politécnica de Madrid",
+            "location": "",
+            "year": "2009 - 2015",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Master in Industrial/Aeronautical Design (CATIA V5)",
+            "field": "Aerospace Engineering",
+            "university": "CT Formación",
+            "location": "",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "CADtech Iberica",
+            "position": "Aeronautical Draftsman Designer, Catia V5 CAD",
+            "description": "Composites tooling design. Composite design using CATIA V5 and CPD.",
+            "start_date": "02/2014",
+            "end_date": "09/2015",
+            "duration_years": 1.58
+        },
+        {
+            "company": "Airbus Defence and Space",
+            "position": "",
+            "description": "Structure design and performance (ALM) research and development internship. Part-time job, 5h/day (from February 2014 to September 2014), then 7h/day (September 2014 to February 2015)",
+            "start_date": "09/2014",
+            "end_date": "02/2015",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "Matlab",
+            "VBA",
+            "Fortran",
+            "Microsoft Office"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Reading",
+        "Team Sports",
+        "Jogging"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 2.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.0
+}

@@ -1,0 +1,82 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Asensio Urteaga",
+        "date_of_birth": "24/09/1991",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 24,
+        "email": "juanasen19@gmail.com",
+        "phone": "655675033",
+        "address": "c/ terral n 1 portal 1 3% c pozuelo de alarcón 28223 - madrid, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Eléctrica",
+            "field": "Ingeniería Eléctrica",
+            "university": "Universidad Carlos III de Madrid (UC3M)",
+            "location": "Madrid",
+            "year": "2023",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Elecnor S.A.",
+            "position": "Prácticas Laborales en Departamento de Instalaciones",
+            "description": "Realización de valoración de licitaciones públicas y privadas de proyectos de instalaciones eléctricas. Taller del paso del mundo académico al laboral: la incorporación a la empresa (20 horas) impartido por SOPP (UC3M).",
+            "start_date": "04/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Estancia de 1 mes",
+            "country": "Inglaterra y Florida",
+            "institution_or_company": "",
+            "start_date": "null",
+            "end_date": "null",
+            "description": "Nivel alto de inglés hablado y escrito.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fortran",
+            "Matlab"
+        ],
+        "soft_skills": [
+            "Microsoft Office",
+            "Programación básica en Fortran y Matlab"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2020-2022",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 3.67,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 32,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

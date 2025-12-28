@@ -1,0 +1,97 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Ángel Sánchez-Puebla Fernández",
+        "date_of_birth": "15/12/1994",
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": 25,
+        "email": "maspufe@gmail.com",
+        "phone": "654 86 59 85",
+        "address": "c/. Guatemala, 1 28907 Getafe Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's Degree in Industrial Technologies Engineering",
+            "field": "Industrial Technologies Engineering",
+            "university": "University Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2018",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Seat-Audi-Volkswagen Gran Centro Getafe",
+            "position": "Logistics Operator",
+            "description": "Support role, full time. July 2016 - Sep 2016.",
+            "start_date": "07/2016",
+            "end_date": "09/2016",
+            "duration_years": 0.17
+        },
+        {
+            "company": "",
+            "position": "Part-time Support Teacher",
+            "description": "2011 - Present",
+            "start_date": "2011-01-01",
+            "end_date": "12/2019",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "UK",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Several stays in UK (Swindon, Folkestone and Oxford side)",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB/Simulink/Simscape (advanced level, including graphical interface by using GUIDE)",
+            "Fluent (advanced level)",
+            "C (advanced level)",
+            "MS Office and Open Office (advanced level in Excel, Word, PowerPoint)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2018.10.12 - 47313548h",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.17,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

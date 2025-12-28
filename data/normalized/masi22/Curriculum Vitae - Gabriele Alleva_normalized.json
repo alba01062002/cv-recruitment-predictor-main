@@ -1,0 +1,111 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Gabriele Alleva",
+        "date_of_birth": "09/07/1996",
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": 26,
+        "email": "gabrielealleva96@gmail.com",
+        "phone": "+39 3467046865",
+        "address": "via fratelli cairoli 4, 20025 Legnano (MI) Italy",
+        "LinkedIn": "https://bit.ly/3g5vawo",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science in Space Engineering with Distinction",
+            "field": "Space Dynamics and Missions, Advanced Guidance Navigation and Control (GNC/AOCS)",
+            "university": "University of Surrey - United Kingdom",
+            "location": "United Kingdom",
+            "year": "2020-2021",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's Degree in Aerospace Engineering",
+            "field": "Atmospheric Flight Mechanics, Mechanics of Structures and Solids, Aerospace Propulsion",
+            "university": "Politecnico di Milano - Italy",
+            "location": "Italy",
+            "year": "2015-2020",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "txt e-solutions",
+            "position": "Aerospace Software Engineer Intern",
+            "description": "Main tasks: - Modeling flight dynamics of aeronautical systems and their simulation - Acquisition and application of development and validation techniques for on-board avionics systems - Application of development and programming techniques of a flight model - Validation in a simulated environment of tests carried out with respect to the code using the appropriate tools - Drafting of documentation relating to performed tests (EASA, FAA) - Problem solving and management of complex systems",
+            "start_date": "04/2022",
+            "end_date": "12/2022",
+            "duration_years": 0.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Italian",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French and spanish",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab/Simulink programming (6 years)",
+            "Python programming",
+            "C/C++ programming",
+            ".NET",
+            "Unix, Linux",
+            "Visual Studio",
+            "LaTeX",
+            "3D modelling: Autodesk Inventor, Autodesk SolidWorks and Solidedge"
+        ],
+        "soft_skills": [
+            "Enthusiastic and self-motivated",
+            "Curious and fast learner with the ability to think outside the box",
+            "Determined to self-improvement",
+            "Critical and forward thinking, even under pressure",
+            "Good teamwork skills"
+        ]
+    },
+    "other_interests_normalized": [
+        "Actor",
+        "Karateka",
+        "Pianist & Guitarist"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.67,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

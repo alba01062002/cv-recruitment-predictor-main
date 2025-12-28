@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal information first name / surname javier zamorano fernández address mobile e-mail nationality date and place of birth education avda/ derechos humanos 2 esc izq 5c, alcorcón (madrid) +34 626293532 javier.zamorano.fernandez@gmail.com spanish 04.06.1988, madrid (spain) 09/2006 04/2014 03/2013 10/2013 09/2004- 06/2006 work experience master in aerospace engineering escuela técnica superior de ingeniería aeronáutica (etsia), polytechnic university of madrid , madrid, spain master thesis on cfd simulations with ansys cfx 12.1 for investigation and validation of counter current flow limitation (ccfl) in a large-diameter pwr hot-leg geometry institute for nuclear energy, technische universitat munchen, munich, germany (mark 1.6) highschool , major of mechanical&science, (mark 8,7 of 10) santisima trinidad , madrid, spain 10/2013 01/2014 10/2010 06/2012 skills&competences (hiwi) institute for nuclear energy, technische universitat múnchen -50 hours cfd simulations with ansys cfx 12.1, mesh and geometry design with ansys icem 12.1 and catia v5. practical work at the department of manufacturing engineer in etsia, spain, madrid-500 hours catia design, solid edge design, numerical control programming in fortran. languages: spanish english german courses and certificates: computer skills: <native> <fluent> oral and writing. <basic/intermediate> oral and writing. - course of piv method in fluid mechanics, prague 2009, (mark a) (80 hours) - course of bridges structural design, budapest 2011, (mark a) (70 hours) - ansys cfx user fortran training, munich 2013 - microsoft office <high> - matlab <basic> - solid edge <high> catia <high> > icem, cfx<high> - fortran <basic> miscellanea willing to relocate teamwork skills, bringing cooperation and warm atmosphere sportive and enthusiastic 7 years of conservatory studying piano driving license",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI15"
+}

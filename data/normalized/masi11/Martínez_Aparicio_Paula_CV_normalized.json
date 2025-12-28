@@ -1,0 +1,123 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Paula Martín Ez Aparicio",
+        "date_of_birth": "14/09/1984",
+        "gender": "female",
+        "age_reference_year": 2011,
+        "age": 27,
+        "email": "paula.m.aparicio@gmail.com",
+        "phone": "+34637989685",
+        "address": "camino de los saucos 137, 33203 Gijón, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master degree in mechanical engineering (maschinenbau)",
+            "field": "Electronics and automatic control",
+            "university": "Technische Universität Clausthal, Germany",
+            "location": "Clausthal-Zellerfeld",
+            "year": "2007-2008",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Ingenieria superior industrial (Escuela Politécnica Superior de Ingenieros Industriales de Gijón EPSIIG) - Polytechnic school of engineering",
+            "field": "Mechanical engineering",
+            "university": "University of Oviedo, Spain",
+            "location": "Gijón, Spain",
+            "year": "2003-2008",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Biogas Fuel Cell S.A.",
+            "position": "Project manager",
+            "description": "National and international projects related to biogas applications and new uses",
+            "start_date": "04/2010",
+            "end_date": "06/2010",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Escuela Politécnica Superior de Ingeniería de Gijón, Universidad de Oviedo, Spain",
+            "position": "Researcher",
+            "description": "Pem fuel cell system for marine applications",
+            "start_date": "12/2009",
+            "end_date": "04/2010",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Institut für Polymerwerkstoffe und Kunststofftechnik TU Clausthal, Institute of polymer materials and plastics engineering - Technical University of Clausthal, Germany",
+            "position": "Research assistant",
+            "description": "Antifouling system for marine applications",
+            "start_date": "12/2009",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Institut für elektrische Informationstechnik TU Clausthal, Institute of electrical information technology - Technical University of Clausthal, Germany",
+            "position": "Investigation assistant",
+            "description": "",
+            "start_date": "03/2008",
+            "end_date": "05/2008",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Sporadic jobs in the service sector",
+            "position": "",
+            "description": "",
+            "start_date": "2003-2008",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Germany",
+            "institution_or_company": "Technische Universität Clausthal, Germany",
+            "start_date": "09/2007",
+            "end_date": "10/2008",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB and Simulink",
+            "PSim",
+            "STEP7",
+            "CODESYS",
+            "LabView",
+            "C/C++",
+            "Assembly language",
+            "AutoCAD",
+            "CATIA",
+            "PROE",
+            "ANSYS"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Driving license"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI11",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.2
+}

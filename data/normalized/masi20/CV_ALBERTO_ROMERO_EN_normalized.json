@@ -1,0 +1,100 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alberto Romero Gutiérrez",
+        "date_of_birth": "18/10/1992",
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": 28,
+        "email": "romero.gutierrez.alberto@gmail.com",
+        "phone": "+34 666 759 059",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Industrial Engineering (specialising in Organizational Engineering)",
+            "field": "Industrial Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2018",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "Universidade Nova de Lisboa",
+            "location": "Lisbon, Portugal",
+            "year": "2018",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Robert Bosch Spain",
+            "position": "Production Engineer Internship (Sector Filters Dnox 3.1 Engineering)",
+            "description": "",
+            "start_date": "October 2018",
+            "end_date": "April 2019",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Portugal",
+            "institution_or_company": "Universidade Nova de Lisboa",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office (Word, Excel, PowerPoint, Access, Outlook, Visio)",
+            "C",
+            "C++",
+            "Java",
+            "Matlab",
+            "VB"
+        ],
+        "soft_skills": [
+            "Public Speaking Certificate (100 hours)"
+        ]
+    },
+    "other_interests_normalized": [
+        "Academic English",
+        "National Physics Olympics (Finalist)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "NGO Bokatas-Madrid",
+            "role": "Volunteer",
+            "duration": "2010-2012",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

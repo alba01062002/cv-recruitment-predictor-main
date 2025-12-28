@@ -1,0 +1,127 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Blanca García Dorado",
+        "date_of_birth": "20/4/1998",
+        "gender": "female",
+        "age_reference_year": 2022,
+        "age": 24,
+        "email": "blanca.gdorado@gmail.com",
+        "phone": "+34 654 730 871",
+        "address": "Pozuelo de Alarcón, Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aerospace engineering student",
+            "field": "Aerospace engineering",
+            "university": "Polytechnic University of Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2016-2021",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "High school teacher - subjects: mathematics, physics and chemistry",
+            "position": "Teacher",
+            "description": "",
+            "start_date": "2016-03",
+            "end_date": "2019-07",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Organizer of engineering fairs at UPM - roles: social networks and communication with invited companies",
+            "position": "Event Organizer",
+            "description": "",
+            "start_date": "2019-08",
+            "end_date": "2020-07",
+            "duration_years": 0.0
+        },
+        {
+            "company": "INTA, Madrid - roles: instrumentation and implementation of a missile test bench",
+            "position": "Student Internship in Systems Engineering",
+            "description": "",
+            "start_date": "2020-08",
+            "end_date": "2021-07",
+            "duration_years": 0.0
+        },
+        {
+            "company": "EIT Deloitte, Madrid - roles: functional consultant, project management and monitoring",
+            "position": "Analyst",
+            "description": "",
+            "start_date": "2021-08",
+            "end_date": "12/2022",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Catia",
+            "MS Office Suite",
+            "Xfoil",
+            "Adina",
+            "Fortran"
+        ],
+        "soft_skills": [
+            "Analytical thinking",
+            "Communication skills",
+            "Teamwork",
+            "Problem resolution",
+            "Determination",
+            "Leadership",
+            "Commitment",
+            "Empathy",
+            "Cooperation"
+        ]
+    },
+    "other_interests_normalized": [
+        "Sports (running, horse-riding, basketball, skiing)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Pablo Horstmann association",
+            "role": "Preparing lunches and dinners for families in need",
+            "duration": "2016",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

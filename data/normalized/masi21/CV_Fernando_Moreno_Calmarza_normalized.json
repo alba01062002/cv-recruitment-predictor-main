@@ -1,0 +1,109 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Fernando Moreno Calmarza",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "",
+        "phone": "+34 664 110 871",
+        "address": "c/Barrionuevo 2, 19001 Guadalajara, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Graduate in ingeniería electrónica industrial y automática",
+            "field": "Electronics and Industrial Automation",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aibus Operations S.L.",
+            "position": "Manufacturing Engineering - Shopfloor Technical Support",
+            "description": "Technical support in the shopfloor of a manufacturing company. Responsibilities included software and tools group, computer-aided design (AutoCAD, Inventor), and industrial engineering tasks such as lean methods implementation.",
+            "start_date": "02/2020-present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Jomar Seguridad S.L.",
+            "position": "Construction Manager Assistant",
+            "description": "",
+            "start_date": "10/2018-03/2019",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C/C++",
+            "MATLAB",
+            "AutoCAD",
+            "Inventor",
+            "Lean methods",
+            "Microsoft Office",
+            "Computer-aided design (CAD)",
+            "Industrial engineering",
+            "Electric and electronic control",
+            "Data science",
+            "Digital electronics",
+            "Microprocessors"
+        ],
+        "soft_skills": [
+            "Problem-solving",
+            "Creativity",
+            "Teamwork",
+            "Learning"
+        ]
+    },
+    "other_interests_normalized": [
+        "History",
+        "Sports",
+        "Music",
+        "Engineering",
+        "Travel",
+        "Photography"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.0
+}

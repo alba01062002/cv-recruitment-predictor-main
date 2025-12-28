@@ -1,0 +1,129 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Maider Agirrezabal Igarza",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "maideragirrezabal@gmail.com",
+        "phone": "+34 669 091 433",
+        "address": "",
+        "LinkedIn": "linkedin.com/in/maider-agirrezabal-igarza",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Telecommunications Engineering",
+            "field": "Telecommunication Technologies and Services",
+            "university": "Polytechnic University of Catalonia (UPC)",
+            "location": "Barcelona, Spain",
+            "year": "2014-2020",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Software Developer at Construcciones y Auxiliares de Ferrocarriles (CAF)",
+            "position": "Software Developer",
+            "description": "Develop and implement an application for projects management, test and validate the application.",
+            "start_date": "02/2020",
+            "end_date": "12/2025",
+            "duration_years": 5.83
+        },
+        {
+            "company": "Fides Mar",
+            "position": "Hardware & Test Engineer",
+            "description": "Tested and refined software prior to rollout.",
+            "start_date": "03/2019",
+            "end_date": "07/2019",
+            "duration_years": 0.33
+        },
+        {
+            "company": "ICT Informatic Mobile World Congress (MWC)",
+            "position": "Configurator of Communication Equipment / Network Connection Problem Solver",
+            "description": "Configured communication equipment, solved network connection problems.",
+            "start_date": "01/2018",
+            "end_date": "03/2018",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Teacher (Particular Classes)",
+            "position": "Math Teacher for Master's Access",
+            "description": "",
+            "start_date": "01/2017",
+            "end_date": "10/2017",
+            "duration_years": 0.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "Catalan",
+            "B2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Basque",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C programming language",
+            "C# programming language",
+            "Java programming language",
+            "LabVIEW",
+            "Quartus",
+            "Arduino",
+            "MATLAB",
+            "Signal processing"
+        ],
+        "soft_skills": [
+            "Commitment",
+            "Problem-solving skills",
+            "Adaptability"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 7.08,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

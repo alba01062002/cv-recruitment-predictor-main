@@ -1,0 +1,142 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Borja Orozco",
+        "date_of_birth": "04/06/1993",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 24,
+        "email": "bororvi@gmail.com",
+        "phone": "+34 616 264 730",
+        "address": "c/Madrid 1, 12d E Leganés e 28911 Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Aeronautical Engineering",
+            "field": "Aircraft Design",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2015-present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Degree in Aerospace Engineering",
+            "field": "Aircraft Systems Integration",
+            "university": "University of Bristol - Advanced Composites Centre for Innovation (Exchange Student)",
+            "location": "Bristol, UK",
+            "year": "2011-2015",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Access to University",
+            "field": "",
+            "university": "Cambridge International A-Level General Certificate of Education",
+            "location": "",
+            "year": "1996-2011",
+            "duration_years": 10.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airia Ingeniería y Servicios S.A.",
+            "position": "Airport and Air Navigation Engineering Consultancy Intern",
+            "description": "Technical documentation (updating of airdrome manuals and operational procedures, airport master plans and airfield drawings to meet legislation requirements), technical assistance to AENA (quality audits and certification processes)",
+            "start_date": "04/16-present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "EXPAL Aeronautics S.A.",
+            "position": "Aircraft Maintenance Engineer Intern",
+            "description": "Aeronautical Engineering Dept. Spanish Air Force Aircraft Maintenance Support Programme: preparation and modification of technical documents for F-18, C101 platforms and EJ200 engine (maintenance and inspection manuals, working cards, drawings), maintenance activities scheduling supply chain and budgeting, product requirements inspection, validation and testing",
+            "start_date": "10/14-may 15",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "University of Bristol - Advanced Composites Centre for Innovation (Research Assistant)",
+            "position": "",
+            "description": "Fatigue analysis of folded composite structures, research programme on aircraft morphing structures: design of a test rig to characterize the fatigue life of folded composite structures testing and data processing, test rig validation",
+            "start_date": "07/12-present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Spanish Air Force - ALA 12 Madrid, Spain",
+            "position": "Aircraft Maintenance Engineer Intern Engineering & Quality Dept. F-18 Fleet Maintenance Programme",
+            "description": "Aircraft structural damage analysis (non-destructive testing), airworthiness certification analysis (F404 engine afterburner replacement)",
+            "start_date": "10/12-may 13",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "International Student Network Valencia, Spain",
+            "position": "Staff Member",
+            "description": "Provide solutions to straightforward matters or signposting and supporting progress on more complex issues via the relevant agencies",
+            "start_date": "sep. 15-present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Exchange Student",
+            "country": "Spain, UK",
+            "institution_or_company": "Universidad Politécnica de Valencia, University of Bristol - Advanced Composites Centre for Innovation",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "German",
+            "B1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Autocad",
+            "Matlab",
+            "Mathematica",
+            "MS Office (Word, Excel, PowerPoint, Project)"
+        ],
+        "soft_skills": [
+            "Leadership Skills",
+            "Problem Solving"
+        ]
+    },
+    "other_interests_normalized": [
+        "Hip-hop, Funky, Ballet and Latin Ballroom dance"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "High Performance Dance Team Valencia",
+            "role": "Lead Dancer",
+            "duration": "2015-present",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

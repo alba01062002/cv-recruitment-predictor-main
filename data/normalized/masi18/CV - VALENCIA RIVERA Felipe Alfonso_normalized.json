@@ -1,0 +1,132 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Felipe Valencia Rivera",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": null,
+        "email": "felipe.valenciara@gmail.com",
+        "phone": "+33 753 4155 74",
+        "address": "Lle de Nantes, 44200- Nantes",
+        "LinkedIn": "https://www.linkedin.com/in/felipe",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://www.linkedin.com/in/felipe"
+    },
+    "education_normalized": [
+        {
+            "degree": "Diplôme d'Ingénieur Génie Mécanique et Productique",
+            "field": "Ingénierie Industrielle, Qualité, Manufacture, Recherche Opérationnelle",
+            "university": "Universidad Tecnológica de Pereira, Colombie",
+            "location": "",
+            "year": "2014-2017",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Master 2 Production KIMP (Knowledge Integration in Manufacturing Production)",
+            "field": "Approche dans les systèmes de production, amélioration continue et l'analyse de processus",
+            "university": "École Nationale Supérieure des Arts et Métiers, Metz",
+            "location": "",
+            "year": "2017-2020",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Group SAS Nantes",
+            "position": "Consultant MI-GSO",
+            "description": "Centralisation de l'avancement des études pour la consolidation du planning général et le coût du projet. Contribution à la gestion de la charge-capacité, analyse des écarts aux objectifs et alertes en cas de dérive.",
+            "start_date": "01/2017",
+            "end_date": "06/2018",
+            "duration_years": 1.42
+        },
+        {
+            "company": "STX France St. Nazaire (44600) France",
+            "position": "Ordonnancier et Gestionnaire de la Production",
+            "description": "Ordonnancement et gestion de la production, étude des écarts à l'objectif et assistance aux utilisateurs dans l'exploitation des résultats.",
+            "start_date": "07/2016",
+            "end_date": "06/2017",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Tubauto SA - Sens (89100)",
+            "position": "Stagiaire Maintenance",
+            "description": "Préparation et mise en place de l'audit énergétique selon la norme ISO 50001, planification et réalisation de divers projets visant à réduire la consommation électrique et de gaz dans l'usine.",
+            "start_date": "07/2014",
+            "end_date": "06/2015",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Pentagrama Pereira, Colombie",
+            "position": "Stagiaire Qualité",
+            "description": "Proposition et mise en place d'un projet d'amélioration continue basé sur la méthodologie du Lean Manufacturing et de 5S, utilisation d'outils tels que Poka Yoke, AMDEC, actions correctives et préventives et détermination des coûts de la non-qualité (CNQ) dans une ligne de production.",
+            "start_date": "07/2013",
+            "end_date": "06/2014",
+            "duration_years": 0.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Not specified in the text.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "International",
+            "country": "Guatemala",
+            "institution_or_company": "Universidad de San Carlos",
+            "start_date": "",
+            "end_date": "",
+            "description": "Not specified in the text.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA V5",
+            "SAP"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Team spirit"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Voluntary member of the Research Operation Group (GEIO UTP)",
+            "duration": "2016-2017",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 4.18,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "mixed",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

@@ -1,0 +1,157 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Lazo Gómez",
+        "date_of_birth": "20/08/1979",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 31,
+        "email": "nanir3@hotmail.com",
+        "phone": "654.98.30.75",
+        "address": "c/ Luis Pérez n 18, Jerez de la Frontera (Cádiz)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Técnica Industrial",
+            "field": "Mecánica",
+            "university": "Escuela Superior de Ingeniería de Cádiz",
+            "location": "Jerez de la Frontera (Cádiz)",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Técnico Especialista en Máquinas y Herramientas",
+            "field": "",
+            "university": "C.S.F.P Manuel Lora Tamayo Salesianos",
+            "location": "Jerez de la Frontera (Cádiz)",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Máster Superior en Prevención de Riesgos Laborales, Especialidad Seguridad en el Trabajo",
+            "field": "",
+            "university": "FAFFE",
+            "location": "",
+            "year": "700 horas",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Máster Superior en Prevención de Riesgos Laborales, Especialidad Ergonomía y Psicosociología Aplicada",
+            "field": "",
+            "university": "FAFFE",
+            "location": "",
+            "year": "250 horas",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Máster Superior en Prevención de Riesgos Laborales, Especialidad Higiene Industrial",
+            "field": "",
+            "university": "FAFFE",
+            "location": "",
+            "year": "250 horas",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Curso de Coordinador de Seguridad y Salud en Obras de Construcción",
+            "field": "",
+            "university": "FAFFE",
+            "location": "",
+            "year": "200 horas",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Curso de Certificación Energética de Edificios, Homologado por IDEA",
+            "field": "",
+            "university": "Colegio de Peritos e Ingenieros Técnicos Industriales de Cádiz",
+            "location": "",
+            "year": "50 horas",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Curso de Soldadura por los Procedimientos de Tig y Electrica",
+            "field": "",
+            "university": "C.S.F.P Manuel Lora Tamayo",
+            "location": "Jerez de la Frontera (Cádiz)",
+            "year": "100 horas",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Herpasur S.A.",
+            "position": "Soldador en Acero Inoxidable",
+            "description": "Realizando funciones de soldador en acero inoxidable y otras funciones relacionadas con la misma. Duración: cuatro meses.",
+            "start_date": "2001",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Quemasur S.L.",
+            "position": "Instalador de Calefacción, Agua Caliente Sanitaria, Energía Solar y Productos Petrolíferos",
+            "description": "Realizando funciones durante los periodos vacacionales. Duración: 2001-2005",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Torrent S.A.",
+            "position": "Operario Manipulador en Maquinas de Inyección de Polímeros Plásticos",
+            "description": "Realizando funciones durante nueve meses. Duración: 2005-2006",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Quemasur S.L.",
+            "position": "Ingeniero Proyectista",
+            "description": "Realizando cálculos y memorias técnicas de climatización, agua caliente sanitaria, energía solar, productos petrolíferos, mediciones y presupuestos. Duración: seis meses (2007)",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Bodegas 501",
+            "position": "Ingeniero Técnico Capataz en Planta de Embotellado, Producción, Almacén y Dirección de Personal",
+            "description": "Realizando funciones durante un año y ocho meses. Duración: 2008-2009",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Portuguese",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Autocad",
+            "Maple V"
+        ],
+        "soft_skills": [
+            "Capacidad de aprendizaje",
+            "Facilidad para trabajar en grupo"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

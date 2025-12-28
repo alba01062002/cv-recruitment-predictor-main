@@ -1,0 +1,105 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Lorena Martínez Simón",
+        "date_of_birth": "12/04/1984",
+        "gender": "female",
+        "age_reference_year": 2009,
+        "age": 25,
+        "email": "imartinezsimon@gqmail.com",
+        "phone": "646710407",
+        "address": "c/ Leeros 36, 4 f 28039 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Superior de Telecomunicaciones",
+            "field": "Comunicaciones",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2002-2008",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Tatanka Camp and The Canadian Center Summer Camp",
+            "position": "Monitora de Ocio y Tiempo Libre",
+            "description": "Responsable de un grupo de 10-14 niños de entre 6 y 13 años, impartición de actividades deportivas, trabajo con un equipo de 10-13 monitores. (2005-2007 and 2002-2004)",
+            "start_date": "07/2005",
+            "end_date": "07/2008",
+            "duration_years": 3.0
+        },
+        {
+            "company": "Tatanka Camp",
+            "position": "Coordinadora de Ocio y Tiempo Libre",
+            "description": "Coordinación de un equipo de 12 monitores, supervisión de su trabajo, responsable del correcto funcionamiento del campamento, nexo de unión entre los directores de la empresa y los monitores. (July 2008)",
+            "start_date": "07/2008",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Informática y matlab y c",
+            "B2"
+        ],
+        [
+            "Sistema operativo linux",
+            "C1"
+        ],
+        [
+            "Java",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "C",
+            "Office (Word, Excel, PowerPoint...)",
+            "Sistema Operativo Linux",
+            "Awk",
+            "LaTeX",
+            "HTK",
+            "Praat",
+            "MUME",
+            "Java"
+        ],
+        "soft_skills": [
+            "Responsabilidad",
+            "Trabajo en equipo",
+            "Organización",
+            "Comunicación"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

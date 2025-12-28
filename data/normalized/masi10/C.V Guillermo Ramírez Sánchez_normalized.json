@@ -1,0 +1,104 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Guillermo David Ramírez Sánchez",
+        "date_of_birth": "20/07/1984",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 26,
+        "email": "gdrs960@gmail.com, guillermodavid.ramirez@alumnos.uva.es",
+        "phone": "697203145",
+        "address": "c Miguel de Cervantes, 8, Villamuriel de Cerrato, Palencia",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Técnica Informática de Gestión",
+            "field": "Informática de Gestión",
+            "university": "Universidad de Valladolid",
+            "location": "Valladolid",
+            "year": "2002-2007",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Ingeniería Informática",
+            "field": "Informática",
+            "university": "Universidad de Valladolid",
+            "location": "Valladolid",
+            "year": "2007-2009",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Realización de prácticas de apoyo a gestión de la red y documentación de un sistema datawarehouse en la empresa Grupo Siro, dentro del departamento de informática.",
+            "start_date": "07/2006",
+            "end_date": "10/2006",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Irlanda (Dublín)",
+            "institution_or_company": "The Horner School of English",
+            "start_date": "15/10/2008",
+            "end_date": "02/11/2008",
+            "description": "Curso de inglés nivel pre-intermediate",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "España (Santander)",
+            "institution_or_company": "Universidad Internacional Menéndez Pelayo",
+            "start_date": "15/09/2008",
+            "end_date": "19/09/2008",
+            "description": "Curso de inmersión en lengua inglesa, 40 horas lectivas",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "España (Santander)",
+            "institution_or_company": "Universidad Internacional Menéndez Pelayo",
+            "start_date": "05/10/2009",
+            "end_date": "09/10/2009",
+            "description": "Curso de inmersión en lengua inglesa, 40 horas lectivas",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "España (Palencia)",
+            "institution_or_company": "Escuela Oficial de Idiomas",
+            "start_date": "",
+            "end_date": "",
+            "description": "Superados los dos primeros cursos de inglés",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 0.25,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.4
+}

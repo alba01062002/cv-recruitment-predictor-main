@@ -1,0 +1,139 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José María Barón",
+        "date_of_birth": "17/09/1997",
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": 25,
+        "email": "jmbaronrufete17997@gqmail.com",
+        "phone": "+34 647101188",
+        "address": "c/ Reina Mercedes 15, Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Industrial Technology Engineering",
+            "field": "Automatics and Electronics",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2015-2020 (Feb)",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master's in Industrial Engineering",
+            "field": "Automatics and Electronics",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2019-nowadays",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Business Analytics and Big Data",
+            "university": "IMF Business Analytics and Camilo José Cela University",
+            "location": "",
+            "year": "2019-nowadays",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Prosegur Alarms",
+            "position": "Talent Program Intern",
+            "description": "",
+            "start_date": "06/2019",
+            "end_date": "12/2019",
+            "duration_years": 0.5
+        },
+        {
+            "company": "CEI, UPM",
+            "position": "Researcher in Advanced Modelling of the Latest Silicon IGBT",
+            "description": "",
+            "start_date": "11/2019",
+            "end_date": "nowadays",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Valencian",
+            "B2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SAP",
+            "RStudio",
+            "Office Pack",
+            "Power BI",
+            "MATLAB",
+            "CATIA",
+            "ANSYS",
+            "ORCAD",
+            "COMSOL",
+            "Altium Designer",
+            "C++",
+            "VHDL",
+            "HTML5",
+            "Python",
+            "Java",
+            "VBA",
+            "Fortran",
+            "Linux commands"
+        ],
+        "soft_skills": [
+            "self-taught",
+            "responsible",
+            "able to cope with a high workload"
+        ]
+    },
+    "other_interests_normalized": [
+        "economics and business",
+        "acting with a team according to a common goal",
+        "love receiving responsibility"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.5,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

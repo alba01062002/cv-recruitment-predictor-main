@@ -1,0 +1,127 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Iván Berto Martínez",
+        "date_of_birth": "15/02/1989",
+        "gender": "male",
+        "age_reference_year": 2014,
+        "age": 25,
+        "email": "bm bertom2@gmail.com",
+        "phone": "+34 620 008 462",
+        "address": "Yps/germanias, 83 n 2, 46702 Gandía (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science",
+            "field": "Energy Specialization",
+            "university": "Akademia Górniczo-Hutnicza im. Stanisława Staszica (AGH University of Science and Technology)",
+            "location": "Kraków, Poland",
+            "year": "2012-2013",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's Degree in Industrial Engineering",
+            "field": "Energy Specialization",
+            "university": "Polytechnic University of Valencia (UPV)",
+            "location": "",
+            "year": "2007-2012",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Pastisseria Tano S.L.",
+            "position": "Manager, Orders, Bartender and Co-manager of a beach bar",
+            "description": "",
+            "start_date": "01/07/2008",
+            "end_date": "31/08/2008",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Electricidad Montseny S.L.",
+            "position": "Internship, Scholarship holder",
+            "description": "",
+            "start_date": "01/07/2007",
+            "end_date": "31/08/2007",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Electricidad Montseny S.L.",
+            "position": "Internship, Scholarship holder",
+            "description": "",
+            "start_date": "02/07/2011",
+            "end_date": "02/08/2011",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Electricidad Montseny S.L.",
+            "position": "Internship, Scholarship holder",
+            "description": "",
+            "start_date": "01/07/2008",
+            "end_date": "31/08/2008",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus scholarship",
+            "country": "Poland",
+            "institution_or_company": "Akademia Górniczo-Hutnicza im. Stanisława Staszica (AGH University of Science and Technology)",
+            "start_date": "2012-2013",
+            "end_date": "",
+            "description": "Full year student, courses related to clean coal technologies and fuel cells",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Valencian/catalan",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD (2D) - Middle level",
+            "Microsoft Office - Professional level",
+            "MATLAB - Middle level",
+            "Mathcad - Middle level",
+            "Prezi - Professional level",
+            "CATIA - Low/Middle level"
+        ],
+        "soft_skills": [
+            "Organizational / Managerial Skills",
+            "Job-related skills",
+            "Leadership experience in fuel cells assembly and operation",
+            "Technical skills in power plant operation and calculation",
+            "Technical skills in industrial air conditioning projects",
+            "Technical skills in building solar energy projects"
+        ]
+    },
+    "other_interests_normalized": [
+        "Economy: energy consulting and energy market",
+        "Hobbies: tennis, paddle and films",
+        "Science: new materials, new energy sources, space science (physical cosmology and planetary science)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

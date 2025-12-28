@@ -1,0 +1,94 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Gabriel Van Daele Umpiérrez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "gabvandaele@gmail.com",
+        "phone": "609 12 54 79",
+        "address": "",
+        "LinkedIn": "www.linkedin.com/in/gabriel-van-daele-umpiérrez-689798244",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "ingeniería electrónica industrial y automática",
+            "field": "Electrical Engineering and Industrial Automation",
+            "university": "Universidad del País Vasco",
+            "location": "",
+            "year": "2016 - 2022",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "ingeniería industrial",
+            "field": "",
+            "university": "Universidad Alfonso X el Sabio",
+            "location": "",
+            "year": "2023 - actualidad",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "SOPRA Steria",
+            "position": "desarrollador junior",
+            "description": "Corrección de errores y desarrollo de nuevas funcionalidades en una API interna del cliente. Puso a prueba mi capacidad de resolución de problemas, comunicación no solo con el equipo sino en francés con el cliente además de trabajo con tiempos límites de entrega.",
+            "start_date": "10/2022",
+            "end_date": "11/2023",
+            "duration_years": 1.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "excel",
+            "autocad",
+            "ansys",
+            "tiaportal"
+        ],
+        "soft_skills": [
+            "buena comunicación",
+            "trabajador de equipo",
+            "justo honesto asertivo comprometido rápido aprendiendo calmado bajo presión enérgico"
+        ]
+    },
+    "other_interests_normalized": [
+        "música",
+        "mma",
+        "ajedrez",
+        "surf",
+        "rally"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 1.08,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 6.5
+}

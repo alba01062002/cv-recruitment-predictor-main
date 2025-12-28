@@ -1,0 +1,115 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miriam Delgado de Mendoza Candón",
+        "date_of_birth": "16/08/1993",
+        "gender": "female",
+        "age_reference_year": 2019,
+        "age": 26,
+        "email": "miriamdmc93@gmail.com",
+        "phone": "+34 660046046",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Applied Science, Aerospace Engineering Process and Manufacturing Engineering MRTT Airframe Installations & Systems",
+            "field": "Aerospace Engineering",
+            "university": "Superior School of Engineering, Cadiz (Spain)",
+            "location": "Cadiz, Spain",
+            "year": "2011-2016",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Final Project: Implementation of a Quality Management System Focus on Non-Conformities Detected by Customer in Aerospace Industry (Customer Protection Board at Airbus)",
+            "field": "",
+            "university": "Airbus Defence and Space (Getafe) on behalf of Aertec Solutions",
+            "location": "Spain",
+            "year": "2018",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space Quality Composites CBC Plant (Cadiz, Spain)",
+            "position": "Internship Improvement of PPS (Practical Problem Solving) System",
+            "description": "Knowledge of all processes of the plant: sheet metal, superplastic forming and diffusion bonding, assembly and composite as well as Kepner Tregoe and Shainin.",
+            "start_date": "October 2014",
+            "end_date": "May 2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Defence & Space Quality Composites CBC Plant (Cadiz, Spain)",
+            "position": "Internship + Temp. Contract - Follow-up KPIs: Concessions and Cost of Non-Quality",
+            "description": "Operational surveillance updating (product, people and process), Leadership of PPS meetings (level 1 and 2), Implementation of Customer Protection Board.",
+            "start_date": "March 2015",
+            "end_date": "April 2018",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "ANSYS Fluent CFD",
+            "Offimatic Photo Editing Software (Wolfram Mathematica, Statgraphics, R Commander)",
+            "SAP Computer Programming (C, Python, VBA)"
+        ],
+        "soft_skills": [
+            "Non-Verbal Communication",
+            "Negotiations",
+            "Team Management",
+            "Teamwork",
+            "Importance of Commitment and Leadership"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "CDM Group - Community of Madrid",
+            "role": "Development of Managing High-Performance Teams, Training Skills to Become an Innovative Leader",
+            "duration": "2018",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

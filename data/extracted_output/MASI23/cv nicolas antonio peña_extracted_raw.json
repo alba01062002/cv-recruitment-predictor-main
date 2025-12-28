@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "nicolasantoniopmo gmail.com linkedin.com/in/napenamoreno +34677717637 nicolás a. pea moreno highly motivated future graduate in aerospace engineering from the polytechnical university of madrid. creative and innovative person with strong interpersonal and communicative skills and a deep knowledge in computer science and physics. have developed specific industry experience in artificial intelligence during internship at kerox technology. education degree in aerospace engineering 2015 - currently studying school of aeronautical and space engineering, polytechnical university of madrid specialization: aerospace sciences and technologies outstanding grades in optimization (9.1), orbital mechanics (9), physics (9.1), computer science (9) and finite element method (8.8). work experience internship in artificial intelligence february 2021 - july 2021 kerox technology, s.l. - development and evaluation of al algorithms. - data load and clean. - selection and training of models. it skills fortran (advanced) main coding language in computer science and numerical calculus. matlab (advanced) used in different projects for optimization and finite element method. catia (advanced) participated in a project based learning initiative for the graphic design subject. python (advanced) main coding language in the internship in kerox technology, for the development of machine learning algorithms. achievements / awards finalist in national mathematics championship march 2014 languages = spanish: native language. = english: b2 (cambridge first certificate in english). driving license: b. own vehicle. hobby and interests: programming, robotics, cooking and travelling.",
+    "text_from_header": "NICOLÁS A. PEÑA MORENO",
+    "detected_language": "en",
+    "master_edition": "MASI23"
+}

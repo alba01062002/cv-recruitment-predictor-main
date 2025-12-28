@@ -1,0 +1,97 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Piyush Anand",
+        "date_of_birth": "22/09/1998",
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": 22,
+        "email": "piyushanand098@gmail.com",
+        "phone": "+91 9417284124, +91 7895354540",
+        "address": "H. No. 202, Anand Villa, Kathehra Chowk, Thathiaran Mohalla, Phagwara-144401, India",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "B.Tech in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "University of Petroleum and Energy Studies, Dehradun",
+            "location": "Dehradun",
+            "year": "2013-2019",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Gensor Aerospace & IT Pvt. Ltd.",
+            "position": "Flight Display System Interface Developer",
+            "description": "To define the flight display system interface and warning and alerting system for Genjet GLJ-3X1 (Microjet) design challenges/projects.",
+            "start_date": "07/2017",
+            "end_date": "08/2017",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "United States",
+            "institution_or_company": "Experimental Sounding Rocket Association (ESRA)",
+            "start_date": "09/2016",
+            "end_date": "08/2017",
+            "description": "Worked in the aero structures and recovery systems division for designing and fabrication of a sounding rocket to deliver a 10 pound payload to an altitude of 10,000 feet as part of the Intercollegiate Rocket Engineering Competition (IREC).",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "A2"
+        ],
+        [
+            "Japanese",
+            "A2"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Hindi",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Arduino",
+            "NetBeans IDE 7.0",
+            "Proteus 7.0 Professional",
+            "CDS/ISIS",
+            "CATIA V5R19"
+        ],
+        "soft_skills": [
+            "Decision Making",
+            "Technical Support",
+            "Research and Conceptual Development",
+            "Designing",
+            "Project Management",
+            "Team Management",
+            "Organizing and Prioritizing Workload",
+            "Working Independently or Collaboratively"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.08,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.2
+}

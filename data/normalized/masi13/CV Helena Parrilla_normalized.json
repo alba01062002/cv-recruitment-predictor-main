@@ -1,0 +1,126 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Helena Parrilla Martín",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2013,
+        "age": null,
+        "email": "helenahpmohotmail.com",
+        "phone": "616070974",
+        "address": "c/Doctor Ferrán, 22. Barcelona",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master degree in Gestión y Dirección Aeroportuaria y Aeronáutica",
+            "field": "Gestión y Dirección Aeroportuaria y Aeronáutica",
+            "university": "IT Aerea (in collaboration with the Colegio Oficial de Ingenieros Aeronáuticos de España)",
+            "location": "",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Comunicación",
+            "university": "INECO S.A.",
+            "location": "",
+            "year": "2012",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Sistema de Gestión Empresarial para Ingenieros",
+            "university": "MP Sistemas",
+            "location": "",
+            "year": "2010",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Avionics and Navigation Systems Seminar",
+            "university": "Seville",
+            "location": "",
+            "year": "2010",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Aerospace/ Aeronautical Engineering",
+            "university": "Escuela Superior de Ingenieros de Sevilla",
+            "location": "",
+            "year": "2003-2010",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "INECO S.A.",
+            "position": "Member of the oficina de gestión de seguridadoperacional (OGSO) at Barcelona Airport",
+            "description": "",
+            "start_date": "June 2010",
+            "end_date": "October 2011",
+            "duration_years": 0.0
+        },
+        {
+            "company": "INECO S.A.",
+            "position": "In charge of the oficina de gestión de seguridadoperacional (OGSO) at Barcelona Airport",
+            "description": "",
+            "start_date": "October 2011",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Exchange student",
+            "country": "Spain",
+            "institution_or_company": "Universidad Politécnica de Cataluña",
+            "start_date": "",
+            "end_date": "",
+            "description": "2008-2009",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "nastran/patran",
+            "autocad",
+            "catia v5",
+            "aeroturn",
+            "matlab",
+            "smartskecht",
+            "simulink",
+            "sms tool: sgiso"
+        ],
+        "soft_skills": [
+            "responsible and hard-working",
+            "great capacity for teamwork and under pressure",
+            "open-minded, with no problems of adaptations to new and dynamic environments"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.8
+}

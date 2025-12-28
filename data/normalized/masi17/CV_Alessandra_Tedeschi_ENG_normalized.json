@@ -1,0 +1,120 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alessandra Tedeschi",
+        "date_of_birth": "09/11/1986",
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": 31,
+        "email": "alessandratedeschi@hotmail.it",
+        "phone": "+39 3332770021",
+        "address": "via giovanni guareschi 75 - 00143 rome, italy",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Industrial and Control System Engineering (with specialization in control system engineering)",
+            "field": "Control system engineering",
+            "university": "Universita degli Studi Roma Tre",
+            "location": "Rome, Italy",
+            "year": "2012-2016",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Bachelor degree in Computer Engineering (with specialization in control system engineering)",
+            "field": "Control system engineering",
+            "university": "Universita degli Studi Roma Tre",
+            "location": "Rome, Italy",
+            "year": "2005-2012",
+            "duration_years": 7.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "European Space Agency ESTEC - Noordwijk, the Netherlands",
+            "position": "Trainee in the electrical engineering department, control system division (TEC-ECC)",
+            "description": "",
+            "start_date": "08/2014",
+            "end_date": "01/2015",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work",
+            "country": "Norway",
+            "institution_or_company": "University of Bergen - Department of Informatics at Bergen University",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Italian",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Simulink",
+            "RSLogix500",
+            "IRSView 32",
+            "iFIX v4.0",
+            "RSLinx",
+            "LINGO",
+            "Adobe Photoshop",
+            "Aperture"
+        ],
+        "soft_skills": [
+            "OpenOffice",
+            "Microsoft Office Suite",
+            "Windows 95",
+            "Windows 8",
+            "Linux",
+            "Mac OS X",
+            "Java",
+            "C",
+            "Visual Basic",
+            "Ladder"
+        ]
+    },
+    "other_interests_normalized": [
+        "Skiing",
+        "Volleyball",
+        "Piano",
+        "Snowboarding"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Ail (Associazione italiana contro le leucemie-linfomi e mieloma) Italian Onlus",
+            "role": "Volunteer",
+            "duration": "2014-2016",
+            "description": ""
+        },
+        {
+            "organization": "Save the Children (Independent organization for children)",
+            "role": "Volunteer",
+            "duration": "United States, Cuba, Africa and European countries",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.42,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

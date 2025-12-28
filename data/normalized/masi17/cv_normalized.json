@@ -1,0 +1,88 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Gonzalo Cuevas Ezquerra",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "gcuevasez@gmail.com",
+        "phone": "+34 665850255",
+        "address": "Leonor de la Vega, 5, 62 C, 39300 Torrelavega, Cantabria (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Electrical Engineering",
+            "field": "Electrical and Energy Engineering",
+            "university": "Escuela Técnica Superior de Ingenieros Industriales y de Telecomunicaciones. University of Cantabria (Spain)",
+            "location": "Cantabria, Spain",
+            "year": "2012-2016",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Applus+ Norcontrol SPain.",
+            "position": "Internship in Electrical Distribution",
+            "description": "Legal review of electrical transformers and lines of high and medium voltage. Location of lines and transformers.",
+            "start_date": "03/2015",
+            "end_date": "10/2015",
+            "duration_years": 0.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus program - Electrical Engineering",
+            "country": "Poland",
+            "institution_or_company": "Politechnika Warszawska - University of Technology (Warsaw, Poland)",
+            "start_date": "02/2016",
+            "end_date": "07/2016",
+            "description": "Proyect: The conception of the DC machine model of the mechanical traction load.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office (Word, Excel and PowerPoint)",
+            "MATLAB",
+            "AutoCAD",
+            "Simulink"
+        ],
+        "soft_skills": [
+            "Basic knowledge of MATLAB programming",
+            "Windows and Mac OS expert",
+            "Interested in outdoor sports (hiking, snowboarding)",
+            "Former basketball player",
+            "Availability to change residence",
+            "Full car driving license"
+        ]
+    },
+    "other_interests_normalized": [
+        "Outdoors sports (hiking, snowboarding)",
+        "Former basketball player"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.58,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.9
+}

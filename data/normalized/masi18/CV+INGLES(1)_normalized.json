@@ -1,0 +1,149 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Maria Isabel Leon Lopez",
+        "date_of_birth": "17/10/1992",
+        "gender": "female",
+        "age_reference_year": 2018,
+        "age": 26,
+        "email": "mariaisaleonlopez@gmail.com",
+        "phone": "+34605532357",
+        "address": "Rodeiro 6, sobrado do bispo, Barbadas, Ourense",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Management, Science and Engineering",
+            "field": "N/A",
+            "university": "Beihang University (Buaa)",
+            "location": "Beijing, China",
+            "year": "2016-2018",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's degree in Aerospace Engineering",
+            "field": "Aerospace Systems",
+            "university": "Beihang University (Buaa)",
+            "location": "Beijing, China",
+            "year": "2016",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's degree in Aerospace Engineering",
+            "field": "Navigation and Aerospace Systems",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2010-2016",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "High School Diploma in Piano Conservatory of Music",
+            "field": "",
+            "university": "Piano Conservatory of Music",
+            "location": "Ourense, Spain",
+            "year": "2004-2010",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Gaia",
+            "position": "Internship - Quality Department (ODCM)",
+            "description": "Support function in operational surveillance of area, person and product. KPI collection of central production quality. Non-quality cost estimating. Support role on a project about concessions. Support role on assessments and internal audits. Give training courses to operators.",
+            "start_date": "07/2017",
+            "end_date": "12/2025",
+            "duration_years": 8.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Exchange student",
+            "country": "China",
+            "institution_or_company": "Beihang University (Buaa)",
+            "start_date": "2016",
+            "end_date": "2016",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "International volunteering",
+            "country": "India",
+            "institution_or_company": "Apna Ghar Sansthan",
+            "start_date": "07/2013",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "International volunteering",
+            "country": "Thailand",
+            "institution_or_company": "Udutama Nachuak",
+            "start_date": "2013",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Galician",
+            "C2"
+        ],
+        [
+            "Chinese",
+            "A2"
+        ],
+        [
+            "Portuguese",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Project",
+            "PowerPoint",
+            "Excel",
+            "Word",
+            "Access",
+            "AutoCAD",
+            "Fortran",
+            "R programme",
+            "SAP"
+        ],
+        "soft_skills": [
+            "Training and mentoring",
+            "Project management",
+            "Quality control",
+            "Intercultural communication"
+        ]
+    },
+    "other_interests_normalized": [
+        "Piano playing",
+        "Cultural activities",
+        "Music"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Apna Ghar Sansthan",
+            "role": "Volunteer - Maths and English classes in an orphanage",
+            "duration": "07/2013",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 8.42,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

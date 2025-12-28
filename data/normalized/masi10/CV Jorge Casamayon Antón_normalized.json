@@ -1,0 +1,132 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge Casamayón Antón",
+        "date_of_birth": "08/07/1985",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 25,
+        "email": "jorge.casamayon@gmail.com",
+        "phone": "(34) 620-84-94-79, (34) 91-767-14-67",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería de Telecomunicaciones",
+            "field": "Comunicaciones Móviles",
+            "university": "Universidad Autónoma de Madrid",
+            "location": "España",
+            "year": "03/2008 - 06/2012",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master en Informática y Telecomunicaciones",
+            "field": "Comunicaciones y Redes",
+            "university": "Universidad Autónoma de Madrid",
+            "location": "España",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "El Corte Inglés",
+            "position": "Ventas al Público",
+            "description": "Venta al público de equipamiento informático de la marca HP, promoción de trabajo nuevos productos, soporte técnico. Venta cara al público de libros de texto, gestión de reservas, pedidos, resolución de problemas con la distribución. Venta de cara al público de diverso material deportivo de diferentes marcas.",
+            "start_date": "12/2005 - 10/2006",
+            "end_date": "12/2006",
+            "duration_years": 0.0
+        },
+        {
+            "company": "El Corte Inglés",
+            "position": "Ventas al Público",
+            "description": "Venta al público de equipamiento informático de la marca HP, promoción de trabajo nuevos productos, soporte técnico. Venta cara al público de libros de texto, gestión de reservas, pedidos, resolución de problemas con la distribución.",
+            "start_date": "09/2007 - 12/2006",
+            "end_date": "01/2007",
+            "duration_years": 0.0
+        },
+        {
+            "company": "El Corte Inglés",
+            "position": "Ventas al Público",
+            "description": "Venta de cara al público de diverso material deportivo de diferentes marcas.",
+            "start_date": "12/2006 - 01/2007",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Estancia",
+            "country": "Canadá",
+            "institution_or_company": "",
+            "start_date": "2009",
+            "end_date": "2010",
+            "description": "Período de cinco meses.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Estancia",
+            "country": "Québec",
+            "institution_or_company": "",
+            "start_date": "2014",
+            "end_date": "2015",
+            "description": "Período de un mes.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Windows, Mac OS X, Linux",
+            "Microsoft Office",
+            "MATLAB",
+            "C y C++",
+            "Java",
+            "XILINX",
+            "VHDL",
+            "SQL"
+        ],
+        "soft_skills": [
+            "Sensato",
+            "Afable",
+            "Gran trabajador",
+            "Capaz de actuar en equipo",
+            "Motivado",
+            "Ganas de aprender y utilizar sus habilidades para llevar al éxito el trabajo"
+        ]
+    },
+    "other_interests_normalized": [
+        "Cine",
+        "Viajar",
+        "Fútbol",
+        "Ciclismo",
+        "Naturaleza"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

@@ -1,0 +1,143 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Mansour Mansour",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "mansourmansour19250@gmail.com",
+        "phone": "+34 617 1457 39",
+        "address": "Calle Virgen de la Capilla, Jaén, 23001, Spain",
+        "LinkedIn": null,
+        "Instagram": "@mansour mansour",
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Engineering Degree",
+            "field": "Aerospace Engineering",
+            "university": "ESAT University Tunisia",
+            "location": "Tunisia",
+            "year": "2019-2021",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Integrated Preparatory Studies to Engineering School",
+            "field": "",
+            "university": "ESAT University Tunisia",
+            "location": "Tunisia",
+            "year": "2019-2021",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "High School Diploma",
+            "field": "",
+            "university": "Lycée Ahmed Noureddin, Tunisia",
+            "location": "Tunisia",
+            "year": "2017-2018",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Jaén University Campus Las Lagunillas Spain",
+            "position": "Intern in Thermal Engines Laboratory",
+            "description": "Conducted an in-depth study on sustainable aviation fuels with a focus on plastic-derived jet fuel for my end-of-studies project.",
+            "start_date": "01/2024",
+            "end_date": "12/2025",
+            "duration_years": 1.92
+        },
+        {
+            "company": "Avionav Tunisie",
+            "position": "Intern in Aeronautical Structures",
+            "description": "Designing and manufacturing light aircraft, including assembly of piston engines (rotax), and overseeing the development of fixed-wing drone avionics systems.",
+            "start_date": "08/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.33
+        },
+        {
+            "company": "Valeo Tunisie",
+            "position": "Intern: Maintenance Management Engineer",
+            "description": "Forecasting inventory management for maintenance stock in a maintenance warehouse, and monitoring corrective maintenance tasks on machines.",
+            "start_date": "07/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.42
+        },
+        {
+            "company": "Tunisair Technics Tunisie",
+            "position": "Intern: Aircraft Maintenance Engineer",
+            "description": "Identification of aircraft maintenance tasks and engineering procedures.",
+            "start_date": "03/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ for exchange semester",
+            "country": "Spain",
+            "institution_or_company": "Jaén University Campus Las Lagunillas",
+            "start_date": "01/2024",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Arabic",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C++",
+            "Java",
+            "Ansys RDM 6",
+            "Python",
+            "Abaqus",
+            "Arduino",
+            "CATIA V5",
+            "ISIS",
+            "Proteus",
+            "MATLAB/Simulink"
+        ],
+        "soft_skills": [
+            "teamwork",
+            "problem-solving",
+            "communication",
+            "flexibility and adaptability"
+        ]
+    },
+    "other_interests_normalized": [
+        "Exploring",
+        "Food",
+        "Football",
+        "Travel"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "JCI: Junior Chamber International Tunisia",
+            "role": "Member/Action Leader",
+            "duration": "03/2016 - 08/2018",
+            "description": ""
+        },
+        {
+            "organization": "Enactus Tunisie",
+            "role": "Head of Business Development Department",
+            "duration": "09/2020 - 06/2022",
+            "description": ""
+        }
+    ],
+    "degree_years": 3.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

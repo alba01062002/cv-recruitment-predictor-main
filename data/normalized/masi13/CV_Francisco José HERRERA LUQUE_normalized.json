@@ -1,0 +1,134 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francisco José Herrera Luque",
+        "date_of_birth": "01/16/83",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": null,
+        "email": "francisco.herrera.luque@gmail.com",
+        "phone": "+34 692 13 16 51",
+        "address": "Manuel de Falla, 20, Getafe (Madrid), Spain",
+        "LinkedIn": "https://es.linkedin.com/in/franciscoherreraluque/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Telecommunication Engineering",
+            "field": "Communications Planning and Management",
+            "university": "Carlos III University of Madrid",
+            "location": "Madrid, Spain",
+            "year": "2010-2012",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Carlos III University (Telematics Department)",
+            "position": "Assistant Researcher",
+            "description": "Participant in the price-gen project aimed at the development of a pilot in intelligent electricity networks. Performed tasks include development of studies and analysis on suitable communications technologies, and design of a communications network for an advanced measurement infrastructure deployment.",
+            "start_date": "10/2011",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Deutsche Telekom AG (Berlin, Germany)",
+            "position": "Intern",
+            "description": "Participant in the Bowlmap project. Research and development of a visual and real-time monitoring and debugging tool for communication networks.",
+            "start_date": "02/2011",
+            "end_date": "09/2011",
+            "duration_years": 0.58
+        },
+        {
+            "company": "ECC Company",
+            "position": "Cofounder (Part-time)",
+            "description": "Industrial instrumentation equipment certification services in the water & waste water sector. Responsible for business strategic planning, marketing and publicity.",
+            "start_date": "10/2007",
+            "end_date": "08/2009",
+            "duration_years": 1.83
+        },
+        {
+            "company": "Carlos III University (Classroom Workshop Service)",
+            "position": "Scholarship Holder (Part-time)",
+            "description": "Advice and education of teaching staff in the use of information and communications technologies, web design and development, contents layout, and interactive tutorials development.",
+            "start_date": "10/2007",
+            "end_date": "08/2009",
+            "duration_years": 1.83
+        },
+        {
+            "company": "Grupo Enjoy Company (Full-time & Part-time)",
+            "position": "Cofounder",
+            "description": "Social events planning and management. Responsible for business strategic planning, marketing and publicity, relations with suppliers, recruiting, and work groups leading.",
+            "start_date": "2002",
+            "end_date": "2008",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Programme Stay",
+            "country": "Hungary",
+            "institution_or_company": "Budapest University of Technology and Economics (TU Budapest)",
+            "start_date": "09/2010",
+            "end_date": "06/2012",
+            "description": "Master's thesis writing: Feature subset selection using support-vector machines by averaging over probabilistic genotype data. Scholarship during the first semester.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "C/C++",
+            "Assembler (Intel Pentium 4, PIC, Motorola 68hc11 and 68000)",
+            "Shellscript",
+            "HTML",
+            "JavaScript",
+            "Perl",
+            "Python",
+            "XML",
+            "SQL",
+            "VHDL",
+            "Openlayers",
+            "Windows (OS)",
+            "Linux (OS)",
+            "Mac OS"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "Research and Development",
+            "Web Design and Development",
+            "Interactive Tutorial Development",
+            "Teaching Staff Advice",
+            "Marketing and Publicity",
+            "Business Strategic Planning",
+            "Technical Report Redaction"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 2.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.4
+}

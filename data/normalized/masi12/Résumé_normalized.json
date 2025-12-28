@@ -1,0 +1,61 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro González Gago",
+        "date_of_birth": "02/11/1987",
+        "gender": "male",
+        "age_reference_year": 2012,
+        "age": 25,
+        "email": "ansans.30@gmail.com",
+        "phone": "661 88 64 86",
+        "address": "c/ Francisco Llorens 8, 5 izda., 15011 La Coruña (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aeronautical Engineering",
+            "field": "Aeronautical Engineering",
+            "university": "Escuela Técnica Superior de Ingenieros Aeronáuticos, Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2005-2011",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French and italian",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Solid Edge",
+            "Basic CATIA V5",
+            "Matlab",
+            "Fortran"
+        ],
+        "soft_skills": [
+            "Teamwork"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI12",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.9
+}

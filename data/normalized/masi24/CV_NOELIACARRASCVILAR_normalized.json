@@ -1,0 +1,146 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Noelia Carrasco Vilar",
+        "date_of_birth": "17/03/2001",
+        "gender": "female",
+        "age_reference_year": 2024,
+        "age": 23,
+        "email": "noeliacarrascovilar@gmail.com",
+        "phone": "(+34) 622836974",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Computer Engineering",
+            "field": "Computer Science",
+            "university": "Universidad de Granada",
+            "location": "Granada, Spain",
+            "year": "2019-2023",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "T-SYSTEMS",
+            "position": "Junior Java Developer",
+            "description": "Engineered and worked on an internal project focusing on automating database exports, enhancing operational efficiency and data availability. Participated in advanced training sessions to master Java development techniques and database management.",
+            "start_date": "10/02/2024",
+            "end_date": "10/05/2024",
+            "duration_years": 0.0
+        },
+        {
+            "company": "CodeLearn S.L.",
+            "position": "Programming Teacher",
+            "description": "Designed and delivered interactive programming curriculum for students aged 8-16, focusing on languages like Java, Python, and C++, and topics such as cybersecurity and cloud computing. Fostered a hands-on learning environment by integrating technology-based teaching tools to increase student engagement and comprehension.",
+            "start_date": "09/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.25
+        },
+        {
+            "company": "Atlax360",
+            "position": "Business Intelligence Intern",
+            "description": "Led initiatives for data validation and load processes, improving data integrity and streamlining data usage. Developed SQL scripts and managed databases to enhance system functionality and user satisfaction.",
+            "start_date": "10/2022",
+            "end_date": "03/2023",
+            "duration_years": 0.42
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Exchange Year",
+            "country": "Italy",
+            "institution_or_company": "Politecnico di Milano",
+            "start_date": "01/09/2021",
+            "end_date": "30/06/2022",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "German",
+            "A2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Italian",
+            "B2"
+        ],
+        [
+            "Chinese mandarin",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "Spring Framework",
+            "Spring Boot",
+            "Thymeleaf",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PostgreSQL",
+            "Maven",
+            "Git",
+            "Lombok",
+            "JUnit",
+            "Mockito",
+            "Python",
+            "Machine Learning (Scikit-learn)",
+            "Data Visualization",
+            "Computer Vision",
+            "Cybersecurity",
+            "Network Protocols",
+            "System and Network Defense",
+            "Application Security",
+            "Docker",
+            "Kubernetes",
+            "OpenShift",
+            "DevOps"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "Teamwork",
+            "Communication Skills",
+            "Adaptability",
+            "Attention to Detail",
+            "Problem Solving",
+            "Innovation"
+        ]
+    },
+    "other_interests_normalized": [
+        "Teaching",
+        "Technology",
+        "Innovation"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Fundació Rosa Oriol",
+            "role": "Volunteer in Spanish and Cultural Integration",
+            "duration": "01/09/2015 - 01/09/2017",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 7.67,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

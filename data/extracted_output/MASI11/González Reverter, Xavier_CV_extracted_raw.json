@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "personal information \"= full name: xavier gonzalez reverter = phone number: (+34) 616273612 \"= e-mail: xevigonzalez@gmail.com = dni/id. number: 39378284-f qn address: c/bilbao 22 4 2? manresa cp: 08241 (spain) a = born the 12 of june in 1985 in manresa (spain) = driving license b cars. academic education = 2006-2010: aeronautical engineering, with the specialization in space vehicles, studied in universidad politécnica de madrid (etsia - upm). o project of end of degree done in poitiers, france, developing a solver to simulate turbulence in supersonic flows [march july 2010] \"= 2003-2006: technical engineering in aeronautics, with the specialization in air navigation, studied in universidad politécnica de catalua (epsc - upc). o project of end of degree: aerodynamic study in cfd (with fluent) of an air-brake applied to fast motorboats. \"= graduate of eso with excellent marks and bachelors degree with distinction international experience \"= march - july 2010: erasmus exchange in poitiers, france, doing the project of end of degree. the project was written in english. = october 2009: best engineering competition about robotics in the technical university from sofia, bulgaria. 26 working hours. languages \" catalan \"= spanish = english: advanced level = french: intermediate-advanced level informatics \"= programming in c, c++ and visual basic \"= knowledge of microsoft office, autocad, photoshop, matlab, labview, gambit, fluent, solid edge and basic knowledge of catia v5. experience \"= in aeronautical jobs: o march-july 2010: internship in the research center ceat (centre detudes aérodynamiques et thermiques) in poitiers, france, doing the project of end of degree with an erasmus scholarship, developing a solver to simulate turbulence in supersonic flows in cfd software (openfoam). it was a full-time job. \"not aeronautical jobs: o have worked several summers in some factories as a workman and have worked during 5 summers as a teacher/coach in a basketball summer-camp (ae sedis basquet). hobbies play basketball, being always the captain of the teams where have played (player of the young teams of basquet manresa).",
+    "text_from_header": "PERSONAL INFORMATION",
+    "detected_language": "en",
+    "master_edition": "MASI11"
+}

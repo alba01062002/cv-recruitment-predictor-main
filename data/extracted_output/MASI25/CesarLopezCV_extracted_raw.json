@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "cesar lopez computer science and engineering m+34644445467 mcesarlopman(agmail.com clopman [cesarlopezmantecon personal profile energetic and passionate computer engineer. my insatiable interest and self demand drives me to seek excellence in every challenge undertake. experience ct ingenieros aai. sl getafe electronics, rf & software development technical staff (full time) jan 2025 - present + contributed to multiple projects related to electronic warfare. key projects: - development and optimization of a python application for airbus. - design, document, and test of a high frequency modem fpga-based implementation. + technical skills: vhdl, vivado, python, ghdl, git + soft skills: agile methodologies, teamwork, time management, documentation sports club madrid volleyball coach (part time) september 2019 - present + after years of playing volleyball, transitioned to teaching the sport, leveraging my teamwork and leadership skills. this experience has honed my planning and interpersonal abilities. + soft skills: strategic planning, group management, teamwork, time management, communication. education ss university carlos ii of madrid leganes, madrid bachelor in computer science and engineering sep 2021 - jul 2025 + courses: machine learning, distributed systems, data structures and algorithms, software development, computer networks, computer ar- chitecture, operative systems, cryptography and cybersecurity ies miguel delibes torrejon de la calzada, madrid high school diploma with honors sep 2019 - june 2021 + graduated with honors with a mark of 9.47 out of 10 languages english full professional proficiency (c1 advance - cambridge english) spanish native proficiency french elementary proficiency (a2 - ministére de education nationale) recent projects creator v extension leganes, spain university carlos iii of madrid sep 2024 - jun 2025 + creator extension to give support for risc-v vector extension. this was my final bachelor project, obtaining a perfect score. * technical skills: javascript, vue.js, python, html, css, latex + soft skills: documentation, time management secure agenda leganes, spain university carlos iil of madrid sept 2023 - dec 2024 + development of an agenda app using python. the main focus was to develop a useful and intuitive interface while preserving the secure storage and management of the sensible data. + technical skills: python, git, bash + soft skills: agile, report writing file sharing p2p system leganes, spain university carlos iii of madrid mar 2024 - apr 2024 + design and develop a distributed application that allows users to share files, coordinated by a central server. + use of different technologies (sockets, rpcl and wep services) alongside various programming languages to achieve full functionality. + technical skills: c, python with spyne, bash scripting. + soft skills: teamwork, report writing. july 10, 2025 1 fluid behavior simulation leganes, spain university carlos iii of madrid dec 2023 - aug 2024 + develop a performance oriented simulation of fluid behavior based in a given physics model. able to run a full simulation in under 30 seconds, achieving the maximum score. + technical skills: c++, bash, git + soft skills: teamwork, time management, communication, project management, documentation. skills programming = python (fastapi, flaskapi, pandas, numpy, mathplotlib, seaborn, scikit-learn), c, c++, rust, vhdl, javascript, html/css data bases sql language and sql-lite and oracle databases miscellaneous linux, shell (bash/zsh), docker, eiex, microsoft office, git. soft skills data modeling, problem-solving skills, analytical and critical thinking, teamwork, effective communication in english achievements + obtaining perfect score on my bachelors thesis: development of risc-v vector instructions for the creator simulator * complete 8 courses with honors during my computer science degree. participated in the ada byron regional programming competition in 2024. passed cambridge advanced english certificate with score of 186, equivalent to a cerf level of c1. + diplóme d'études en langue francaise a2. july 10, 2025",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI25"
+}

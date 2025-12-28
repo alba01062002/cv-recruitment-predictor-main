@@ -1,0 +1,87 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Juan García-Cano Locatelli",
+        "date_of_birth": "19/10/1983",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 30,
+        "email": "danielgclocatelli@gmail.com",
+        "phone": "+49-0174-883-1849, +34-677-70-18-74",
+        "address": "Hamburg - Germany",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Masters in Industrial Engineering",
+            "field": "Specialized Energetic Technologies",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2002-2011",
+            "duration_years": 9.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus on behalf of Alten Technology GmbH (Germany)",
+            "position": "Systems Engineer",
+            "description": "Program a400M aircraft condition and monitoring system, EYMM4 digital flight data recording system. Main functions: focal point validation & verification process, configuration management, certification and qualification, safety and maintainability.",
+            "start_date": "03/2012",
+            "end_date": "Currently",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus on behalf of CT Ingenieros (Madrid, Spain)",
+            "position": "Systems Engineer",
+            "description": "Program: Single Aisle APU electrics & electronic control DPT. Main functions: design validation & verification process, design reviews.",
+            "start_date": "07/2011",
+            "end_date": "02/2012",
+            "duration_years": 0.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internships",
+            "country": "Spain (Getafe)",
+            "institution_or_company": "EADS Military Air Systems",
+            "start_date": "10/2009",
+            "end_date": "08/2009",
+            "description": "Program: UAV ICE accretion physics simulation. Main functions: study ice accretion physics, modify ONERA software model of icing growth, fortran program language and VBA macros Excel.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Italian",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB & Simulink",
+            "FORTRAN, C, C++",
+            "VBA macros Excel",
+            "Airbus Tools (DOORS, GRFeie, Track-Dev, ICC)",
+            "Office Suite (Word, Excel, PowerPoint, Outlook, Visio, Access)"
+        ],
+        "soft_skills": [
+            "Leadership and team player",
+            "Ability to work under pressure",
+            "Creative"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 9.0,
+    "total_work_years": 0.58,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.1
+}

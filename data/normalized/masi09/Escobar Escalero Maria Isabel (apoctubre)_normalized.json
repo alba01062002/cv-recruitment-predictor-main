@@ -1,0 +1,123 @@
+{
+    "personal_information_normalized": {
+        "full_name": "María Isabel Escobar Escalero",
+        "date_of_birth": "24/12/1982",
+        "gender": "female",
+        "age_reference_year": 2009,
+        "age": 27,
+        "email": "['maybeee@hotmail.com', 'maybeee@gmail.com']",
+        "phone": "+34-667-20-44-54",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Technical Telecommunication Engineering",
+            "field": "Telematics",
+            "university": "University Carlos III of Madrid",
+            "location": "Madrid",
+            "year": "2000-2004",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "Master Thesis in Computer Science",
+            "field": "",
+            "university": "University Carlos III of Madrid",
+            "location": "Madrid",
+            "year": "2004-2006",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bilingual Group in Telecommunication Engineering: Planning and Management of Communications",
+            "field": "",
+            "university": "University Carlos III of Madrid",
+            "location": "Madrid",
+            "year": "2003-2006",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Futurespace S.A.",
+            "position": "Internship",
+            "description": "Adaptation of the web of AESA (Spanish Agency of Feed Security) for the Ministry of Health and Consumption, to physically handicapped people and to multilanguage. Make changes in the web of Occidental Hotels & Resorts asking for the client.",
+            "start_date": "03/2004",
+            "end_date": "07/2004",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Germany",
+            "institution_or_company": "University of Stuttgart",
+            "start_date": "10/2006",
+            "end_date": "12/2006",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Germany",
+            "institution_or_company": "University of Stuttgart, Germany",
+            "start_date": "2004-2008",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "A1"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "C/C++",
+            "Web Programming: Servlets, JSP, HTML and JavaScript",
+            "Databases: Oracle and MySQL",
+            "Integrated Development Environment (IDE): Eclipse, JBuilder 7, MySQL-Front, Toad 6.5, Dreamweaver UltraDev 4, Microsoft Virtual SourceSafe 6.0",
+            "Office Automation: Microsoft Office and Lotus Smartsuite",
+            "Writing Documents: LaTeX",
+            "MATLAB, ORCAD PSpice, Statgraphics, Microsoft Project, Braillesurf 4.0, WinHTTrack Website Copier, TAW (Web Accessibility Test), Lynx 2.8.5"
+        ],
+        "soft_skills": [
+            "Hard working and steadfast",
+            "Gift and wish to learn",
+            "Curious person to develop new projects",
+            "Adaptability to work in groups",
+            "Wish to get good results",
+            "Availability to travel"
+        ]
+    },
+    "other_interests_normalized": [
+        "Knowing other cultures",
+        "Reading books and the PC world",
+        "Listening music",
+        "Seeing films"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 9.0,
+    "total_work_years": 0.33,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI09",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.6
+}

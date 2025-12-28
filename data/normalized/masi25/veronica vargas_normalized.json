@@ -1,0 +1,140 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Veronica Vargas Salinas",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "verovargas2412@gmail.com",
+        "phone": "(321) 977-3867",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Science in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "University of West Florida",
+            "location": "Pensacola, FL",
+            "year": "2025",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Boston Scientific Minneapolis, MN",
+            "position": "Supply Engineering Intern",
+            "description": "Developed documentation to enhance communication between supply engineering R&D and design quality assurance. Implemented a modified agile planning process, facilitating bi-weekly meetings for effective cross-functional communication. Utilized Windchill to set up component qualification and set risk index categories. Applied Solidworks electrical knowledge to update the symbol library.",
+            "start_date": "05/2024",
+            "end_date": "08/2024",
+            "duration_years": 0.25
+        },
+        {
+            "company": "University of West Florida, Pensacola, FL",
+            "position": "Bike Shop - Outdoor Adventure Instructor",
+            "description": "Used tools for maintenance, repair, and assembly of bicycles, including diagnostics and troubleshooting. Assembled an electric bike powered by a DC motor, utilizing a gear ratio configuration to optimize torque delivery to the rear wheels. Planned and led outdoor activities for community members.",
+            "start_date": "08/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "AFS - (France)",
+            "country": "France",
+            "institution_or_company": "Lycée Benjamin Franklin, Auray",
+            "start_date": "08/2017",
+            "end_date": "08/2017",
+            "description": "Completed 10th grade",
+            "duration_years": 0.0
+        },
+        {
+            "type": "NASA Rover Internship",
+            "country": "",
+            "institution_or_company": "University of West Florida, Pensacola, FL",
+            "start_date": "08/2024",
+            "end_date": "",
+            "description": "Contributed to the engineering and design of a chassis and drivetrain for a NASA rover competition. Carried out Solidworks stress analysis with contact conditions.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Mechatronics Internship",
+            "country": "",
+            "institution_or_company": "University of West Florida, Mechatronics Lab, Pensacola, FL",
+            "start_date": "08/2024",
+            "end_date": "",
+            "description": "Designed and built a custom robotic car chassis programmed for navigation with infrared sensors and wall avoidance. Developed an automated heating and air conditioning control system based on sensor-detected temperature differences. Engineered a catapult mechanism that tracks a target and adjusts projectile trajectories.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Mechanical Design Project",
+            "country": "",
+            "institution_or_company": "University of West Florida, Machine Design Project, Pensacola, FL",
+            "start_date": "01/2024",
+            "end_date": "05/2024",
+            "description": "Conducted reliability and safety factor analysis for PT6 power shaft, turbine, and ball bearings, utilizing online engine data. Analyzed component durability and operational safety to assess performance standards and potential failure points.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SolidWorks",
+            "SolidWorks Electrical",
+            "AutoCAD",
+            "Arduino",
+            "Java",
+            "Matlab",
+            "C-Programming",
+            "SCADA Systems"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Engineering Projects",
+        "Outdoor Activities",
+        "Biking"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Student Advisory Board: UWF College of Engineering",
+            "role": "Member",
+            "duration": "01/2024 - Present",
+            "description": ""
+        },
+        {
+            "organization": "Society of Women in Engineering, University of West Florida",
+            "role": "Member",
+            "duration": "08/2024 - Present",
+            "description": ""
+        },
+        {
+            "organization": "STEM Scholars Program: University of West Florida",
+            "role": "Participant",
+            "duration": "08/2024 - Present",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 3.58,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.6
+}

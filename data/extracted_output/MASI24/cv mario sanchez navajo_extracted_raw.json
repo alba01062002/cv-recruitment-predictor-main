@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "contacto +34 722785641 msancheznavajo@gmail.com villanueva del pardillo madrid, espana competencias lenguajes: java, c, c++, python, bash, dart (flutter), mql5, php. tecnologias: sistemas operativos, redes, rest, git, sonarqube, mysql, arduino, ros, junit tests, nociones de hacking. trabajo en equipo: métodos agiles como scrum. logros + obtenidas 5 matrículas de honor durante el grado. e admitido en el grupo de investigación cvar-upm. . participación en concursos de ingeniería: 2018/2019/2020 - asti challenge 2022/2023 - betech competition 2023 - national cyber league 0006 mario sánchez navajo (ud sx estudiante de ultimo ano de ingenieria informatica experiencia laboral desarrollador informatico en practicas feb 2024 - actualidad grupo computer vision & aerial robotics e análisis de eficiencia de soluciones software. e procesamiento de gran volumen de datos generados por un sensor lidar. + redacción de documentación técnica. desarrollo de software para drones bajo el entorno ros2 con python y c++. repartidor de comida a domicilio dic 2022 - jul 2023 restaurante dragón. villanueva del pardillo, madrid. profesor particular 2022 enseanza de matemáticas y física para secundaria. dependiente dic 2021 - oct 2022 librería la isla de los cuentos. las rozas, madrid. educación erasmus ago 2023 - ene 2024 kth royal institute of technology, suecia grado en ingeniería informática sep 2020 - actualidad universidad politécnica de madrid, espaa idiomas espaol: nativo inglés: avanzado - ielts cl y",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI24"
+}

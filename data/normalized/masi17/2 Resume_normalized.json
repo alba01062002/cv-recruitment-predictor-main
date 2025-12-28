@@ -1,0 +1,143 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Adrián Diez Roshan",
+        "date_of_birth": "31/12/1987",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 30,
+        "email": "adriandiezohotmail.com",
+        "phone": "(+34) 666900146, (+34) 91 7425383",
+        "address": "C/ San Venancio, 3, 3A, 28022 Madrid, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado de Ingeniería Aeronáutica, especializada en aeronavegación",
+            "field": "Ingeniería Aeronáutica",
+            "university": "Universidad Politécnica de Madrid (U.P.M)",
+            "location": "Madrid, España",
+            "year": "octubre 2013",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Título de Ingeniería Técnica Aeronáutica, especializada en aeronavegación",
+            "field": "Ingeniería Aeronáutica",
+            "university": "Universidad Politécnica de Madrid (U.P.M)",
+            "location": "Madrid, España",
+            "year": "febrero 2013 - agosto 2015",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "INDRA Sistemas - Aranjuez. (Madrid)",
+            "position": "Ingeniero de Aseguramiento de Calidad (Jornada Completa)",
+            "description": "Asegurar el cumplimiento de estándares y requisitos del sistema de calidad según las normas EASA/PERAM 145, PECAL 2110/2210/2310, ISO/EN 9001-9100-9110. Soporte en actividades como la representación de INDRA ante clientes y socios, certificación de entregables, monitorización del cumplimiento de requisitos contractuales, participación en las revisiones de diseño, auditorías a subcontratistas críticos, coordinación de equipos internos multidisciplinares, gestión de incidencias, no conformidades, concesiones y reclamaciones de clientes.",
+            "start_date": "mayo 2015",
+            "end_date": "12/2017",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Beca Erasmus",
+            "country": "Alemania",
+            "institution_or_company": "RWTH (Rheinisch-Westfálische Technische Hochschule) Aquisgrán, Universidad de Cracovia (AGH)",
+            "start_date": "julio 2007",
+            "end_date": "agosto 2013",
+            "description": "Realización del proyecto de fin de carrera: Real Time Kinematics Applications on Micro Aerial Vehicles con un resultado de 9.5/10.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Irvine, EE.UU.",
+            "institution_or_company": "Universidad de California Irvine (EE.UU.)",
+            "start_date": "junio 2015 - presente",
+            "end_date": null,
+            "description": "Automatismos (IoT)",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Michigan, EE.UU.",
+            "institution_or_company": "Universidad de Michigan (EE.UU.)",
+            "start_date": "pendiente del proyecto final diciembre 2014 - marzo 2015",
+            "end_date": null,
+            "description": "Lenguaje de Programación Python: Estructura de Datos, Bases de Datos y Web Análisis",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "-",
+            "institution_or_company": "SEPÉ - Grupo Femxa",
+            "start_date": "noviembre 2013 - septiembre 2015",
+            "end_date": null,
+            "description": "SAP - Software de Logística y Gestión (Módulos SD y MM)",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Study",
+            "country": "Madrid, España",
+            "institution_or_company": "INDRA Sistemas - Aranjuez, Madrid",
+            "start_date": "mayo 2015 - presente",
+            "end_date": null,
+            "description": "Especialización en Aseguramiento de Calidad (Jornada Completa)",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Aquisgrán, Alemania",
+            "institution_or_company": "RWTH (Rheinisch-Westfálische Technische Hochschule) Aquisgrán, Alemania",
+            "start_date": "julio 2007 - agosto 2013",
+            "end_date": null,
+            "description": "Beca Erasmus para Real Time Kinematics Applications on Micro Aerial Vehicles",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab/Simulink (Aeroespacial Engineering Toolbox & Blockset, Diseño de Sistemas de Control)",
+            "Python: Estructura de Datos, Bases de Datos y Web Análisis",
+            "SAP Módulos SD y MM (Procesos Comerciales, Documentos Empresariales, Datos Maestros, Facturación, Condiciones Comerciales, Gestión de Stocks, Fabricación, Reclamaciones, Sistemas Info/Análisis, MRP)",
+            "Software de Diseño: AutoCAD y CATIA V5",
+            "Método de Elementos Finitos: Nastran/Patran"
+        ],
+        "soft_skills": [
+            "Liderazgo",
+            "Comunicación",
+            "Trabajo en Equipo",
+            "Responsabilidad",
+            "Capacidad para Trabajar bajo Presión",
+            "Creatividad y Flexibilidad"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "es",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

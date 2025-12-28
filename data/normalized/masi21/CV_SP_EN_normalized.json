@@ -1,0 +1,170 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sergio Pérez Romero",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Technical Aeronautical Engineering",
+            "field": "Aerospace Equipment and Materials",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2002-2007",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus",
+            "position": "Process Engineer for DDMS@EURO",
+            "description": "Responsible of developing and fulfilling concurrence package regarding to electrical and mechanical manufacturing: concurrence, process definition, tool requirements definition, tool testing.",
+            "start_date": "01/2009 - 02/2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus",
+            "position": "Process Engineer for A330-MRTT (FAF, GOS, ROKAF, FAF, MFM)",
+            "description": "Responsible of nose zone. Refurbishing support to FAL: management of manufacturing queries, definition and release of work orders and other technical documentation, process definition, concurrence with design office, industrial planning definition, non-conformity queries solving (RP3 electrical).",
+            "start_date": "11/2012 - 02/2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus",
+            "position": "FTI Design Engineer for A400M",
+            "description": "Responsible of power plant & FFS, support to M, special instructions definition.",
+            "start_date": "01/2008 - 09/2008",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus",
+            "position": "Electrical Design Engineer for A330-MRTT (RAAF, FSTA, UAE, RAF, GOS)",
+            "description": "Definition and modification of wiring diagrams, harness, control units, and installations; support to manufacturing on FAL; support to customer for SSBB implementation (FSTA airtanker); responsible of design on fuselage area; responsible of service bulletins (SSBB).",
+            "start_date": "01/2009 - 02/2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus",
+            "position": "Electrical Design Engineer for A330-MRTT (FSTA)",
+            "description": "Definition and modification of harness and electrical installation; support to manufacturing on FAL.",
+            "start_date": "12/2015 - present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus",
+            "position": "Electrical Design Engineer for A330-MRTT (RAAF, FSTA)",
+            "description": "Definition and modification of harness and electrical installation; support to manufacturing on FAL.",
+            "start_date": "12/2015 - present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus",
+            "position": "Electrical Design Engineer for AS50XWB",
+            "description": "Definition of SAM A for HTP and VTP, regarding electrical installations.",
+            "start_date": "12/2015 - present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Engineering Driven People",
+            "start_date": "01/2008 - 09/2008",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "UK",
+            "institution_or_company": "Bournemouth",
+            "start_date": "01/2009 - 02/2015",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "UK",
+            "institution_or_company": "Brize Norton",
+            "start_date": "01/2009 - 02/2015",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "France, Germany, Spain",
+            "institution_or_company": "Toulouse, Manching, Sevilla",
+            "start_date": "11/2012 - 02/2014",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "MATLAB",
+            "AutoCAD",
+            "SolidWorks",
+            "CATIA",
+            "Python"
+        ],
+        "soft_skills": [
+            "Process Definition",
+            "Tool Requirements Definition",
+            "Tool Testing",
+            "Manufacturing Queries Management",
+            "Work Orders Release",
+            "Technical Documentation",
+            "Non-Conformity Query Solving"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2008-2015",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "mixed",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

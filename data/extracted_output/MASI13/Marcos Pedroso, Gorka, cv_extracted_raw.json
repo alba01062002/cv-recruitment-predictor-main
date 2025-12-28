@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "gorka marcos pedroso fecha de nacimiento: 9 de abril de 1988 d.n.i.: 72748861-e domicilio actual: sf508, stringfellow hall, cranfield university, bedford, mk430fx teléfonos: (+34) 619694372 (+44) 07435442793 email: g.marcos09 0 gmail.com formacion académica 2011-2012 msc autonomous vehicle dynamics and control (incluido pfc) cranfield university, bedfordshire, inglaterra feb. 2011 curso de inteligencia emocional escuela de inteligencia, madrid 2006-2011 ingeniería aeronáutica (hasta 5 curso) e.t.s.i. aeronáuticos (upm), madrid idiomas materno: castellano otros: inglés (nivel alto), euskera (nivel alto) informática software: matlab (incluido simulink), fluent, gambit, nastran, patran, solid edge, stk, esacomp, mathematica, microsoft office y visio programación: fortran 90 otros datos de interés project manager en los anteproyectos de misil (asignatura misiles id) y de satélite (asignatura vehículos espaciales ii) a lo largo de la carrera, responsable de liderar un grupo de otros siete especialistas, consiguiendo la mejor calificación entre todos los grupos en el segundo de ellos. monitor de tiempo libre del club de amigos sansomendi (vitoria), asociación perteneciente a la confederación de centros juveniles don bosco de espaa, desde 2005. participación en diversos concursos internacionales como las ediciones de 2011 y 2012 de beertual challenge de grupo modelo y edición 2011 de fly your ideas de airbus. participación en el proyecto destaca (desarrollo de estudiantes de alto potencial), llevado acabo por las universidad politécnica y la universidad complutense de madrid, incluidas sesiones personalizadas de coaching.",
+    "text_from_header": "GORKA MARCOS PEDROSO",
+    "detected_language": "es",
+    "master_edition": "MASI13"
+}

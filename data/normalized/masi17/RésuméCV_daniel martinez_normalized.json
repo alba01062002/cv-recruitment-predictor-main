@@ -1,0 +1,126 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Daniel Martínez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "dmartinez1341240@gmail.com",
+        "phone": "+34 697 397 001",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/dmartinez31/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://www.linkedin.com/in/dmartinez31/"
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "Polytechnic University of Valencia - Valencia, Spain",
+            "location": "Valencia",
+            "year": "2016 - present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor of Science in Industrial Technologies Engineering",
+            "field": "Industrials Technologies Engineering",
+            "university": "Polytechnic University of Valencia - Valencia, Spain",
+            "location": "Valencia",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Distance Course, Hypersonics - From Shock Waves to Scramjets",
+            "field": "Aircraft Systems Integration",
+            "university": "The University of Queensland - Brisbane, Australia",
+            "location": "Brisbane",
+            "year": "Autumn 2016",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Distance Course, Finite Elements Analysis and Applications",
+            "field": "Finite Element Method",
+            "university": "Tsinghua University - Tsinghua, China",
+            "location": "Tsinghua",
+            "year": "Autumn 2016",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Polytechnic University of Valencia (Department of Thermal Machines)",
+            "position": "Developer and Designer",
+            "description": "Development of graphical user interfaces and numerical algorithms for CFD study of diesel motoras fenmnicas injectors. Coding and graphical design with MATLAB and C++. Software are currently used by international companies.",
+            "start_date": "2013 - 2016",
+            "end_date": "12/2017",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Lexikos Apps",
+            "position": "Developer and Designer",
+            "description": "Development and design of Android mobile applications. Graphical design and Java coding with Eclipse. More than 10000 downloads on Google Play.",
+            "start_date": "2014 - present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Australia, China, Ireland, USA, UK, Germany, Switzerland",
+            "institution_or_company": "The University of Queensland, Tsinghua University, Various locations in Ireland and the UK, various stays in Germany and Switzerland",
+            "start_date": "",
+            "end_date": "",
+            "description": "Several study stays for durations ranging from less than 2 weeks to several months.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalan",
+            "B2"
+        ],
+        [
+            "Japanese",
+            "A2"
+        ],
+        [
+            "Modern greek",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "C++",
+            "Java",
+            "Autocad",
+            "Catia",
+            "Ansys",
+            "Openfoam",
+            "Inventor",
+            "CFast",
+            "HTML",
+            "Python",
+            "MySQL"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

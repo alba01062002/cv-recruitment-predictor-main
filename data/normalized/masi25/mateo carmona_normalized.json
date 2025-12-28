@@ -1,0 +1,100 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Manuel Mateo Carmona",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "manuteo26@gmail.es",
+        "phone": "+34 697 509 708",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Politecnico di Milano (1863)",
+            "location": "Milan, Italy",
+            "year": "2019 - 2024",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Andalucía Racing Team",
+            "position": "Design and Assembly Manager for ART24D Single-Seater",
+            "description": "Responsible for the design and assembly management of the ART24D single-seater. Led CFD simulations and performance analysis for aerodynamic development, including the team's first deflectors system. Participated in the manufacturing of the aero package in composites. Represented the team in design presentations evaluated by F1 engineers. Gained hands-on experience in trackside problem-solving during competitions in Germany and testing at the Jerez Angel Nieto Circuit.",
+            "start_date": "03/2022",
+            "end_date": "10/2024",
+            "duration_years": 2.58
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Germany",
+            "institution_or_company": "",
+            "start_date": "02/2025",
+            "end_date": "07/2025",
+            "description": "Airbus Xplorer internship focused on value stream mapping of the final assembly and functional testing process of the A400M. Cross-functional understanding of the FAL. Applied lean methodology to reduce build process hours.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Italian",
+            "A2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5: Advanced design of wings using surface design, part design, and assembly design modules",
+            "Excel: Proficient in data handling and task automation using Python (Pandas)",
+            "Other tools: Ultimaker Cura, Altair HyperMesh, Patran-Nastran, STK, Fusion (CNC machining)"
+        ],
+        "soft_skills": [
+            "Organized",
+            "Sociable",
+            "Strongly committed to duties"
+        ]
+    },
+    "other_interests_normalized": [
+        "Passionate cyclist and sports enthusiast",
+        "Deeply interested in automotive engineering, which has led me to compete on F1 circuits",
+        "Former competitive rower and gold medalist at the Spanish national championships"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2020-2022",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 2.58,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

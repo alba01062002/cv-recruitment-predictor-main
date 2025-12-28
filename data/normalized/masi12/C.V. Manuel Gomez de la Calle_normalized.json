@@ -1,0 +1,116 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Manuel Gómez de la Calle",
+        "date_of_birth": "11/01/1987",
+        "gender": "male",
+        "age_reference_year": 2012,
+        "age": 25,
+        "email": "mgomezqicai.cs",
+        "phone": "+34 677.33.23.97, +34 921.44.37.14",
+        "address": "Calle Sepúlveda 41, 4C, 40006 Segovia (España)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial (Electrónica)",
+            "field": "Industriales",
+            "university": "Escuela Técnica Superior de Ingeniería (ICAI), Universidad Pontificia Comillas, Madrid",
+            "location": "Madrid",
+            "year": "2005-2010",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Diplomado en Comunicaciones Industriales",
+            "field": "",
+            "university": "Escuela Técnica Superior de Ingeniería (ICAI), Universidad Pontificia Comillas, Madrid",
+            "location": "Madrid",
+            "year": "2009-2010",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "DAU Componentes",
+            "position": "Ingeniero Industrial (Departamento de Calidad)",
+            "description": "",
+            "start_date": "oct 2009",
+            "end_date": "jun 2010",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Endesa",
+            "position": "Becario",
+            "description": "Proyecto Fin de Carrera: Modelo de previsión de la electricidad a largo plazo",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD",
+            "Circuitos",
+            "LTSpice",
+            "Orcad",
+            "Statgraphics",
+            "Matlab",
+            "Derive",
+            "SQL",
+            "SAP"
+        ],
+        "soft_skills": [
+            "Formador",
+            "Mecanizado"
+        ]
+    },
+    "other_interests_normalized": [
+        "Esquí",
+        "Ciclismo",
+        "Fútbol sala",
+        "Atletismo",
+        "Senderismo",
+        "Novela histórica y policíaca"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Restaurante El Bernardino",
+            "role": "Camarero",
+            "duration": "Verano y fines de semana, días festivos",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI12",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

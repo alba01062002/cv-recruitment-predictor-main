@@ -1,0 +1,103 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Raquel López Malagón",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "raquellm254@gmail.com",
+        "phone": "+34690662489",
+        "address": "Avenida de Córdoba, n 2, 5 g. 28026 Madrid, España",
+        "LinkedIn": "https://www.linkedin.com/in/raquel-lopez-malagon/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://www.linkedin.com/in/raquel-lopez-malagon/"
+    },
+    "education_normalized": [
+        {
+            "degree": "Aeronautical Mechanical Design Engineer",
+            "field": "Aerospace Engineering",
+            "university": "Higher Polytechnic School, University of Málaga",
+            "location": "Málaga",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "CT Ingenieros",
+            "position": "Mechanical Design Engineer of Aeronautical Structures",
+            "description": "Worked at Leonardo Helicopters, Varese (Italy). Main activities and responsibilities: Structural designer at AW609 program. Modifications development at nacelle powerplant and structure. FT&A documentation, check lists and engineering orders development.",
+            "start_date": "08/2019",
+            "end_date": "12/2025",
+            "duration_years": 6.33
+        },
+        {
+            "company": "CT Ingenieros",
+            "position": "Mechanical Design Engineer of Aeronautical Structures",
+            "description": "Worked at Aciturri Aerostructures, Tres Cantos, Madrid (Spain). Main activities and responsibilities: February 2019 - March 2019 Engineering support. Airbus A350 Fal Toulouse. HLFC installation in VTP A350 MSNO1. Structural designer at VTP A350, HLFC VTP A350 and Ewira C295 programs.",
+            "start_date": "12/2017",
+            "end_date": "08/2019",
+            "duration_years": 1.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SolidWorks",
+            "Procad",
+            "Catia V5: Part design, generative shape design, aerospace sheetmetal design, drafting and composites design (ply by ply and grid method)",
+            "Generative Structural Analysis (Advance level): User Level",
+            "Pass V2 (PDM Link)",
+            "VPM (Enovia)",
+            "Enovia V6",
+            "Teamcenter",
+            "SAP",
+            "Microsoft Office"
+        ],
+        "soft_skills": [
+            "Excellent analytical skills, prioritization, organization and decision making.",
+            "Patience, initiative and perseverance in problem solving.",
+            "Capacity to work both as a team member as well as independently."
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 8.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

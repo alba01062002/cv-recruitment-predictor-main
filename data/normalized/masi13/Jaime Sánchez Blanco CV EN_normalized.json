@@ -1,0 +1,125 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jaime Sánchez Blanco",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": null,
+        "email": "sanchezblancojaime@gmail.com",
+        "phone": "+34 651160280",
+        "address": "Antonio Alcalde 1, 3D. Valladolid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BEng Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "Universidad de Valladolid, Spain",
+            "location": "Valladolid",
+            "year": "2006-2010",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "Product Development",
+            "university": "City of Bristol College, UK",
+            "location": "Bristol",
+            "year": "2010-2011",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "MPB Aerospace",
+            "position": "Quality Engineer / Aerospace Quality Inspector",
+            "description": "Identify, evaluate and propose solutions to quality problems during production. Manage non-conformance reports by contacting either the customer or supplier. Work with workshop, programs, and programming staff.",
+            "start_date": "09/2011",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Back2Front Hospitality Recruitment",
+            "position": "Assistant Manager",
+            "description": "Organizing catering events and managing the supply of staff needed.",
+            "start_date": "08/2010",
+            "end_date": "07/2011",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Renault España",
+            "position": "Working within Valladolid Assembly Engineering Department",
+            "description": "Feasibility study, design, approaching of the features and final implementation of the assembly line of the electric car Renault Twizy. Study of logistics, supplying, operations and final redaction of the suppliers handbook. Designer and implementer of new projects in the assembly line of Renault Clio, Mégane and Modus.",
+            "start_date": "01/2010",
+            "end_date": "08/2010",
+            "duration_years": 0.58
+        },
+        {
+            "company": "CIE Advertising",
+            "position": "Logistic Manager",
+            "description": "In charge of a team of 5 people. Ordering, collecting, processing and delivering regional government information all around the region.",
+            "start_date": "11/2008",
+            "end_date": "03/2009",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Program",
+            "country": "Poland",
+            "institution_or_company": "Poznan University of Technology",
+            "start_date": "11/2008",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "A1"
+        ],
+        [
+            "Polish",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Autocad",
+            "Microstation",
+            "CATIA",
+            "PCDMIS Advanced Level",
+            "General Packages (Microsoft Word, Excel, PowerPoint, Project)",
+            "Windows XP-Vista-7, Linux and Unix"
+        ],
+        "soft_skills": [
+            "Excellent People Skills: Communication Skills, Empathy and a Positive Approach",
+            "Very Easy-going Person, Socializing and Integrating",
+            "Organizational: Big Initiative with Team Focus, Ability to Work with Team Members to Achieve a Collective Aim, Proactive, Organized, Efficient, Flexible and Patient",
+            "Creativity: Evidence of Problem Solving Techniques, Great Ability to Plan and Manage Time, Able to Devise New Approaches and Generate New Ideas",
+            "Accuracy: Handy and Skillful, Very Careful and Accurate"
+        ]
+    },
+    "other_interests_normalized": [
+        "Automotion",
+        "Aviation",
+        "Science in General",
+        "Politics and History",
+        "Renewable Energies",
+        "Engineering"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.7
+}

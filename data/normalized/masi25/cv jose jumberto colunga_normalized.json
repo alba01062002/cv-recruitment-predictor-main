@@ -1,0 +1,142 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José Humberto Colunga Olea",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "snzjose.colungaoa@udlap.mx",
+        "phone": "+52 622 855 8039",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Mechatronics Engineering",
+            "field": "Mechatronics Engineering",
+            "university": "Universidad de las Américas Puebla - UDLAP",
+            "location": "Puebla, Mexico",
+            "year": "2021-2023",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Bachelor's degree in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "Universidad de las Américas Puebla - UDLAP",
+            "location": "Puebla, Mexico",
+            "year": "2017-2022",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Volkswagen Puebla, MX",
+            "position": "Gateway ECU Part Owner and Project Leader - BTv (R&D)",
+            "description": "Project management: series support, planning, supplier follow-up, cross-areas coordination. Created deviation permits, change requests, problem sheets. Conducted functional tests. Performed fault analysis of signal and message through CANoe traces. Participated in launch and after-sales meetings with managers and board members.",
+            "start_date": "03/2025",
+            "end_date": "12/2025",
+            "duration_years": 0.75
+        },
+        {
+            "company": "Volkswagen Puebla, MX",
+            "position": "Automotive Electric-Electronic Specialist (e-House - Pilot Hall)",
+            "description": "Head of electrical project launch for VW Taos MY2025 and later. Conducted complete-vehicle electronic commissioning. Escalated electrical issues to management and board of directors. Solved electronic faults through constant communication between R&D and production departments.",
+            "start_date": "08/2023",
+            "end_date": "03/2025",
+            "duration_years": 1.58
+        },
+        {
+            "company": "Tetakawi Sonora, MX",
+            "position": "Infrastructure and Maintenance - Project Coordinator",
+            "description": "",
+            "start_date": "06-2022",
+            "end_date": "07-2022",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Medtronic Sonora, MX",
+            "position": "Manufacturing Engineer Intern",
+            "description": "Solidworks design and assembly of stent graft sewing fixture prototypes. Updated fixture drawings on the company’s documentation system. Conducted quality testing and statistics generation for stent graft fabric and suture.",
+            "start_date": "05-2019",
+            "end_date": "07-2019",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "IT Infrastructure Intern",
+            "description": "Camera optimization through firmware configuration. Designed a standardized camera classification and naming throughout the company. Created operation manual for new IT standards of video surveillance processes.",
+            "start_date": "02-2021",
+            "end_date": "06-2021",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CSWA Certified SolidWorks",
+            "CATIA",
+            "ANSYS",
+            "ROBOCK",
+            "Inventor",
+            "AutoCAD TIA Portal",
+            "Multisim",
+            "PSIM",
+            "FluidSim",
+            "CANoe",
+            "Ladder Logic",
+            "Latex",
+            "CAPL (basics)",
+            "Microsoft Office",
+            "Jira",
+            "Power BI",
+            "SharePoint",
+            "Power Automate",
+            "Illustrator",
+            "Premiere",
+            "DaVinci Resolve"
+        ],
+        "soft_skills": [
+            "Project management",
+            "Problem solving",
+            "Communication",
+            "Cross-areas coordination",
+            "Supplier follow-up"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 2.33,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

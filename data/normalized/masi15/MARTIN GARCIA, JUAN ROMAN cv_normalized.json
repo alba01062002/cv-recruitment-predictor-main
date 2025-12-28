@@ -1,0 +1,118 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Roman Martin Garcia",
+        "date_of_birth": "21/11/1988",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 27,
+        "email": "juamargar4@gmail.com",
+        "phone": "+34658888178",
+        "address": "9 Mar Negro 1, 2*D, 41009 Sevilla (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Licenciado",
+            "field": "Energy Technology",
+            "university": "Universidad de Sevilla, Sevilla (Spain)",
+            "location": "Sevilla",
+            "year": "2013-2014",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Master's in Energy Technology",
+            "field": "Energy Technology",
+            "university": "Lappeenranta University of Technology, Finland",
+            "location": "Finland",
+            "year": "2012-2013",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Isotrol SA, Spain",
+            "position": "Functional Analyst",
+            "description": "Generation of reports and technical documentation in energy and smart-city projects. Give expert advice on engineering, renewable energies and energy efficiency. Suggest improvement measures towards creating better designs. Review plans and drawings. Support project manager in related daily tasks.",
+            "start_date": "05/2014",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Isotrol SA, Spain",
+            "position": "Internship - Adviser in the Development of Energy Efficiency Solutions and Smart City Projects",
+            "description": "Assist project manager in related tasks. Create technical documentation and deliverables.",
+            "start_date": "08/2012",
+            "end_date": "05/2013",
+            "duration_years": 0.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Finland",
+            "institution_or_company": "Lappeenranta University of Technology",
+            "start_date": "",
+            "end_date": "2013",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Chinese",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Technical Computing Software Skills (MATLAB, EES, ...)",
+            "Python and C++ Programming Skills",
+            "SCADA HMI Design (GE Cimplicity)",
+            "Hydraulic Engineering Simulation System (ANSYS CAE software)"
+        ],
+        "soft_skills": [
+            "Global Mindset and Desire for an International Career",
+            "Mature and Responsible Personality",
+            "Persistence",
+            "Team-Work Spirit",
+            "Flexibility and Openness to New Ideas",
+            "Assimilation and Analysis of Technical Data from Various Sources",
+            "Troubleshooting",
+            "Good Command of MS Office Suite"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2013-2014",
+            "description": ""
+        }
+    ],
+    "degree_years": 1.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.9
+}

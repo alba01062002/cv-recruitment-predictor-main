@@ -1,0 +1,98 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José María Veguillas Fustel",
+        "date_of_birth": "15/04/1986",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 29,
+        "email": "ba veguillas.fustel@wgmail.com",
+        "phone": "+34 655 082 042",
+        "address": "q villamanin 16 bf, 28011, Madrid, Spain",
+        "LinkedIn": "https://es.linkedin.com/pub/josé-maria-veguillas-fustel/8b/2ba/640",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MSc Aeronautical Engineering",
+            "field": "Aerospace Systems and Airports",
+            "university": "Escuela Técnica Superior de Ingeniería Aeronáutica (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Assistant Project Manager for Escuela Técnica Superior de Ingeniería Aeronáutica (Infrastructure, Aerospace Systems and Airports Department)",
+            "description": "Traffic forecasting for 2030 in Bilbao Airport, studying the capacity of the current passenger terminal building and aircraft platform; designing and planning a new passenger terminal building and aircraft platform; resource and staff requirements analysis; cost analysis; use of AutoCAD as design tool",
+            "start_date": "",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "International House Madrid",
+            "position": "Cambridge PET and KET for Schools Exams Invigilator",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Fortran",
+            "MATLAB",
+            "Solid Edge",
+            "AutoCAD"
+        ],
+        "soft_skills": [
+            "Communication and social skills",
+            "Organizational / managerial skills (empathic, team worker, conflict resolution)"
+        ]
+    },
+    "other_interests_normalized": [
+        "Other personal interests not specified in the CV"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Private tutor",
+            "duration": "From September 2004 to ongoing",
+            "description": ""
+        }
+    ],
+    "degree_years": 1.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.9
+}

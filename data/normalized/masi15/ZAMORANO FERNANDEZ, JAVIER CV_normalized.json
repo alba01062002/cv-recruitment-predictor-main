@@ -1,0 +1,107 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Javier Zamorano Fernández",
+        "date_of_birth": "04/06/1988",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 27,
+        "email": "javier.zamorano.fernandez@gmail.com",
+        "phone": "+34 626293532",
+        "address": "Avda/ Derechos Humanos 2, Esc Izq 5c, Alcorcón (Madrid), Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Escuela Técnica Superior de Ingeniería Aeronáutica (ETSIA), Polytechnic University of Madrid",
+            "location": "Madrid, Spain",
+            "year": "2013-2014",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Mechanical and Science Major",
+            "university": "Santisima Trinidad, Madrid, Spain",
+            "location": "Madrid, Spain",
+            "year": "2010-2012",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Hiwi (Intern)",
+            "description": "Institute for Nuclear Energy, Technische Universität München - CFD simulations with ANSYS CFX 12.1, mesh and geometry design with ANSYS ICEM 12.1 and CATIA V5.",
+            "start_date": "01/2014",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "",
+            "position": "Hiwi (Intern)",
+            "description": "Department of Manufacturing Engineering, ETSIA, Spain - 500 hours CATIA design, Solid Edge design, numerical control programming in FORTRAN.",
+            "start_date": "10/2013",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Germany",
+            "institution_or_company": "Institute for Nuclear Energy, Technische Universität München",
+            "start_date": "10/2013",
+            "end_date": "",
+            "description": "CFD simulations with ANSYS CFX 12.1 for investigation and validation of counter current flow limitation (CCFL) in a large-diameter PWR hot-leg geometry.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "ICEM CFD",
+            "ANSYS CFX",
+            "FORTRAN",
+            "Solid Edge Design",
+            "Numerical Control Programming in FORTRAN"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Bringing cooperation and warm atmosphere",
+            "Sportive and enthusiastic"
+        ]
+    },
+    "other_interests_normalized": [
+        "Conservatory studying piano",
+        "Driving license"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 3.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

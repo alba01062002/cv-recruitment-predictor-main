@@ -1,0 +1,83 @@
+{
+    "personal_information_normalized": {
+        "full_name": null,
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "",
+            "field": "",
+            "university": "",
+            "location": "Istanbul, TR",
+            "year": "",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "SunExpress Airlines Inc.",
+            "position": "Aircraft Maintenance Planning Engineer",
+            "description": "Prepared base maintenance schedule and packages for base maintenance activities including redelivery checks, C checks, modifications and landing gear replacements. Prepared maintenance reserve related check work packages and contacted lessors. Set the base maintenance schedule involving tender process and evaluating/commenting on maintenance agreements and aircraft lease agreements.",
+            "start_date": "10/2015",
+            "end_date": "currently",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Turkey",
+            "institution_or_company": "Turkish Aerospace Industries Inc., Istanbul Technical University Machine Workshop",
+            "start_date": "Jul/2012, Aug/2011",
+            "end_date": "",
+            "description": "Summer internships with various roles and activities.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA",
+            "CFM56",
+            "EASA Part M",
+            "EASA Part 145"
+        ],
+        "soft_skills": [
+            "Project management",
+            "Communication",
+            "Problem solving"
+        ]
+    },
+    "other_interests_normalized": [
+        "Fencing",
+        "Lindy Hop Dancing"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "BEST (Board of European Students of Technology)",
+            "role": "Organizer",
+            "duration": "2011",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 1.5
+}

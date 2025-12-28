@@ -1,0 +1,93 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Álvaro García-Heras Pino",
+        "date_of_birth": "03/06/1985",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 25,
+        "email": "alvaropino85@gmail.com",
+        "phone": "626762569",
+        "address": "c/Lago Baolas n 22, Getafe, Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachillerato Tecnológico",
+            "field": "",
+            "university": "Escolapios de Getafe",
+            "location": "Getafe, Madrid",
+            "year": "",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Ingeniería Técnica Industrial en Electricidad",
+            "field": "Electricidad",
+            "university": "Universidad Carlos III",
+            "location": "Madrid",
+            "year": "Cursada",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Adaptación al Grado en Ingeniería Eléctrica",
+            "field": "",
+            "university": "Universidad Carlos III",
+            "location": "Madrid",
+            "year": "Cursada",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aquasol",
+            "position": "Mantenimiento de equipos eléctricos acuáticos",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "General Electric",
+            "position": "Becario en Diseño y Calidad de Sistemas de Protección Eléctrica",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Office",
+            "AutoCAD",
+            "Statgraphics",
+            "Matlab",
+            "MS Project"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.1
+}

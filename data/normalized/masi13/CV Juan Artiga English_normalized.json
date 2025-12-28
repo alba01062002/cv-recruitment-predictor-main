@@ -1,0 +1,96 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Artiga Albalat",
+        "date_of_birth": "15/06/1984",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 29,
+        "email": "j.artiga a@gmail.com",
+        "phone": "+34 606668452",
+        "address": "c/ Carcagente, 4 1-G 12005 Castellon (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Telecommunication Engineering",
+            "field": "Telecommunications",
+            "university": "Universidad Politécnica de Valencia",
+            "location": "Spain",
+            "year": "2002-2010",
+            "duration_years": 8.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Digitelig, Huawei, Vodafone",
+            "position": "Team Leader, Assistant, Supervisor",
+            "description": "Working on various projects including Vodafone's Helice Project, Orange's Ran Renewal Project, and Vodafone's Single Ran Project.",
+            "start_date": "09/2011",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "ARCA Telecom",
+            "position": "Assistant, Supervisor",
+            "description": "Working on different projects including topology changes, enlargements and reductions on E1, bridging phase II and III.",
+            "start_date": "08/2010",
+            "end_date": "07/2011",
+            "duration_years": 0.92
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Poland",
+            "institution_or_company": "Polytechnica Gdansk",
+            "start_date": "",
+            "end_date": "",
+            "description": "Taking courses and writing the degree thesis on selected problems of training of ODT operators.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "C/C++",
+            "Java",
+            "Visual Basic",
+            "m2000",
+            "u2000",
+            "tnms",
+            "remedy v7",
+            "traffic nodes ericsson",
+            "smx siemens (tnms constitution)",
+            "ptn and rtn (huawei)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Waiter at Union de Joves from Sant Mateo.",
+        "Driving Schoolteacher in Family Business for Permits A-1, A-2, A, B, BTP, C-1, and C."
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 26,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

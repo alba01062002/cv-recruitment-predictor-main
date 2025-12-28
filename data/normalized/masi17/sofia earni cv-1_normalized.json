@@ -1,0 +1,107 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sofia Earni",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "sofiajoseph219@gmail.com",
+        "phone": "+917995726934",
+        "address": "No 67-1-1, Ground Floor, Beside SBI Bank, Rajeswari Nagar, LB Nagar Main Road, Kakinada 533003",
+        "LinkedIn": "https://uk.linkedin.com/in/sofia-earni-8476178a",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BEng (Hons) Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Sheffield Hallam University",
+            "location": "UK",
+            "year": "2014-2016",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "Level 5 BTEC Higher National Diploma in Aerospace Engineering",
+            "university": "Indian Institute of Aeronautical Engineering, India",
+            "location": "India",
+            "year": "2011-2013",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "A/AS Levels",
+            "university": "Narayana Educational Institutions, India",
+            "location": "India",
+            "year": "2009-2011",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "",
+            "field": "O Levels",
+            "university": "Ashram Public School, India",
+            "location": "India",
+            "year": "2006-2009",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Sheffield Hallam University",
+            "position": "Course Ambassador",
+            "description": "Talking with prospective students, parents and visitors about my experience of being a student at Sheffield Hallam University. Answering questions the guests may have regarding the course and the university.",
+            "start_date": "2015",
+            "end_date": "Ongoing",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Sheffield Hallam University",
+            "position": "Estates Project Assistant",
+            "description": "Assisting the staff as they are enhancing and expanding engineering facilities of the university. Talking to student and knowing their opinion on the refurbishment.",
+            "start_date": "2015",
+            "end_date": "Ongoing",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "National Flying Laboratory Centre at Cranfield University",
+            "start_date": "",
+            "end_date": "",
+            "description": "Attended a flight laboratory course.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "3D modelling nozzles",
+            "CFD analysis",
+            "Analytical calculations using Excel and MATLAB"
+        ],
+        "soft_skills": [
+            "Leadership (Project leader for group project)",
+            "Cultural awareness"
+        ]
+    },
+    "other_interests_normalized": [
+        "Interested in travelling to places and occasionally play basketball",
+        "Member for the Institution of Engineering and Technology (IET) & Institution of Mechanical Engineers",
+        "Active member in the church choir, skits and other church activities such as volunteering at many church and charity events."
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.0
+}

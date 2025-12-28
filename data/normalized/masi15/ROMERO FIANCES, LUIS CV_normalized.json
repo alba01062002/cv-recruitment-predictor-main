@@ -1,0 +1,124 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Luis Romero Fiances",
+        "date_of_birth": "17/10/1989",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 26,
+        "email": "bm.silursr33g@hotmail.com",
+        "phone": "+34 697262144",
+        "address": "9 c/ general castaos, 6 - 2c 23003 - jaen",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Professional Development",
+            "field": "Enterprise structure and organization, corporate legal environment, business finances, human resources planning",
+            "university": "Universidad de Alcalá de Henares, Madrid (Spain)",
+            "location": "",
+            "year": "2014-2016",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Master's in Aeronautical Engineering (5 years + final project)",
+            "field": "Aircrafts and space vehicles",
+            "university": "Escuela Técnica Superior de Ingenieros de Sevilla, Universidad de Sevilla (Spain)",
+            "location": "",
+            "year": "2007-2013",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defense and Space",
+            "position": "Internship in A400M Final Assembly Line, San Pablo Sur, Seville",
+            "description": "",
+            "start_date": "Aug/2013",
+            "end_date": "Jul/2014",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Spanish Air Force Gando Military Base, Las Palmas de Gran Canaria",
+            "position": "Internship in Engineering and Quality",
+            "description": "",
+            "start_date": "Jun/2014",
+            "end_date": "Aug/2014",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Turkey",
+            "institution_or_company": "Istanbul Technical University",
+            "start_date": "Sep/2011",
+            "end_date": "Jul/2012",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "MATLAB",
+            "CATIA V5",
+            "Nastran-Patran",
+            "AutoCAD",
+            "Mathematica",
+            "Proteus",
+            "Dreamweaver",
+            "C Compiler",
+            "Real Term",
+            "Texmaker",
+            "Lyx"
+        ],
+        "soft_skills": [
+            "Communication Skills",
+            "Organizational / Managerial Skills",
+            "Job-related Skills",
+            "Computer Skills",
+            "Driving Licence",
+            "Sociable and Flexible",
+            "Persistent and Responsible",
+            "Creative",
+            "Good Organizational Skills",
+            "Ability to Speak in Public"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

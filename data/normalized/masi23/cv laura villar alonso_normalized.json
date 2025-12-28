@@ -1,0 +1,81 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Laura Villar Alonso",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "auravillar2809@gmail.com",
+        "phone": "+34 630454137",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/laura-villar-alonso/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": "http://www.linkedin.com/in/laura-villar-alonso/"
+    },
+    "education_normalized": [
+        {
+            "degree": "Specialised in energy management and utilisation",
+            "field": "Energy Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "",
+            "year": "2023",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "NTT Data",
+            "position": "Solutions Assistant",
+            "description": "Working on projects such as BDI - Redi EA Database and Datadis Website - Aelec.",
+            "start_date": "11/2022",
+            "end_date": "12/2025",
+            "duration_years": 3.08
+        },
+        {
+            "company": "NTT Data",
+            "position": "Intern",
+            "description": "Working on BDI - Redi EA Database projects.",
+            "start_date": "04/2021",
+            "end_date": "11/2022",
+            "duration_years": 1.58
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office",
+            "SAP"
+        ],
+        "soft_skills": [
+            "Analytical",
+            "Problem-solving",
+            "Positive",
+            "Hardworking",
+            "Patient",
+            "Team player"
+        ]
+    },
+    "other_interests_normalized": [
+        "Reading",
+        "Travelling and learning about different cultures",
+        "Playing volleyball"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 4.66,
+    "has_master": true,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 1.9
+}

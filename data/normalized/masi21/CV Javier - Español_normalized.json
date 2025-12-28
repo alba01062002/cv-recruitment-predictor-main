@@ -1,0 +1,128 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Javier Torró Nadal",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "javitn1992@gmail.com",
+        "phone": "+34 663 39 63 52",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/javitn1992/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Máster en Ingeniería Aeronáutica",
+            "field": "Ingeniería Aeronáutica",
+            "university": "Universidad Politécnica de Valencia",
+            "location": "Valencia, España",
+            "year": "2018",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Grado en Ingeniería Mecánica",
+            "field": "",
+            "university": "Universidad Politécnica de Valencia",
+            "location": "Valencia, España",
+            "year": "2015",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "GMV Tres Cantos",
+            "position": "Ingeniero GNSS",
+            "description": "Desarrollo de algoritmos en proyectos relacionados con GNSS e implementación de software en C++ y Python.",
+            "start_date": "2019",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Air Europa Airlines S.A.U",
+            "position": "Ingeniero de Fiabilidad",
+            "description": "Realización de informes de fiabilidad de la flota e análisis de datos de los sistemas de las aeronaves con el fin de mejorar los parámetros de fiabilidad.",
+            "start_date": "2018-06",
+            "end_date": "2019-03",
+            "duration_years": 0.0
+        },
+        {
+            "company": "GECI Española Levante S.A.U",
+            "position": "Ingeniero Aeronáutico en prácticas",
+            "description": "",
+            "start_date": "2017-06",
+            "end_date": "2017-09",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Español valenciano",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "First certificate b2",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Agile",
+            "Algoritmos",
+            "Excel",
+            "Git",
+            "SBC",
+            "Software Ansys - CFD",
+            "C++",
+            "Linux",
+            "Matlab",
+            "Python"
+        ],
+        "soft_skills": [
+            "Innovación",
+            "Creación",
+            "Adaptabilidad al entorno",
+            "Trabajo en equipo",
+            "Autodidactismo"
+        ]
+    },
+    "other_interests_normalized": [
+        "Deporte",
+        "Fútbol"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "paula martín ez aparicio address: camino de los saucos137 33203 gijón spain email: paula.m.aparicio@gmail.com cell-phone 0034637989685 date of birth: 14/ 09/ 1984 age: 26 nationality: spanish marital status: single education 09-2007/ 10-2008 tu clausthal tatnial university of clausthal, germany. mater thesis : bidirectional vehicle-to-grid smart module based on the virtual synchronous machine concept 09-2007/ 08-2008 erasmus tu clausthal tahniail univesity of clausthal, gamany. majoring in electronics and automatic control 10-2003/ 08-2007 ingenieria superior industrial (escuela politécnica superior de ingenieros industriales de gijón epsiig)- palytahnic shrool of engneringgijm master degree in mechanical engineering (maschinenbau) specialized in electronic and automatic (syears) work experien ce 04-2010/ 06-2010 biogas fuel cell s.a. project manager (national and international projects related to biogas applications and new uses) 04-2010/ 06-2010 escuela politécnica superior de ingenieria de gijón, universidad de oviedo univesity of oviedo, spain. researcher (pem fuel cell system for marine aplications) 12-2009/ 04-2010 institut fiir polymerwerkstoffe und kunststofftechnik tu clausthal institute of poymer materials and plastics engnering - tahniaal univesity of clausthal, geamany. researcher assistant (antifouling system for marine aplications) 03-2008/ 05-2008 institut fiir elektrische informationstechnik tu clausthal institute of fe letrical information technology - technical university of clausthal, gemany. investigation assistant 2003-2008 sporadic jobs in the service sector. computer skills e control sofware: matlab and simulink, psim, step7, codesys, labview e programming languages: c/c++ , assembly language. e design software: autocad, catia, proe, ansys lan guages spanish mother tongue english fluent (2001: advanced english course at the university of oviedo) german notable (2008: intensive german course at tu clausthal) other skills and interests e driving license",
+    "text_from_header": "PAULA MARTÍN EZ APARICIO",
+    "detected_language": "en",
+    "master_edition": "MASI11"
+}

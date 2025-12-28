@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "pablo herrero ginés, aeronautical engineer address: paseo juan xxiii, n246, 102b - 28040 madrid (spain) telephone: (0034) 650241403 e-mail: pablo.herrero.gines@gmail.com place and date of birth: salamanca (spain), 7/4/1987 driving license: spanish license (2006) work experience 2012 (6 months) -gamesa corporación tecnológica, s.a. msc aeronautical engineering final project internship: 3d synthetic wind generation by conditional simulation. currently working on it. education 2012 - 2005 -msc aeronautical engineering. universidad politécnica de madrid (spain). 2011 (3 months) -computational fluid dynamics (cfd) internship. summer internship in universidade da beira interior (covilhá, portugal). 2010 (1 month) -spanish air force internship. summer internship in morón military base (seville, spain). 2005 (1 month) -aeronautical engineering and air navigation summer course. universidad de salamanca (spain). languages language spoken level written level spanish native native english high high corresponding to level b.2c.1 chinese beginner beginner a.2 - hsk il, 2012 it-skills -computational fluid dynamics (cfd): fluent. -maple. -computer-aided design (cad): solid edge. -minitab. -microsoft office: word, excel, power point. -c/c++. -matlab. -esacomp. achievements 2009 -entertainment manager. planning and organizing activities for children in summer camps (junta de castilla y león). 2005 -physics olympiad. first place in regional round (salamanca, spain) and participation in national one (almeria, spain). 2003 -mathematical olympiad. second place in regional round (salamanca, spain). interests -travelling: stays in europe and north america, interrail (2007). -sport: soccer, athletics, badminton. -dancing: latin music (salsa, bachata, merengue, cha-cha-cha), tango.",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI13"
+}

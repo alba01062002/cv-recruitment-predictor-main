@@ -1,0 +1,104 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pablo Santos García de la Riva",
+        "date_of_birth": "22/04/2001",
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": 23,
+        "email": "pablosagari@gmail.com",
+        "phone": "(+34) 620 233 249",
+        "address": "Ne y Hoyo de Manzanares, Madrid, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor degree in aerospace engineering",
+            "field": "Aerospace Engineering",
+            "university": "Technical University of Madrid (Universidad Carlos III de Madrid)",
+            "location": "Madrid",
+            "year": "september 2019 - jun 2024",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Accenture",
+            "position": "Data Analyst Internship",
+            "description": "",
+            "start_date": "august 2021",
+            "end_date": "may 2022",
+            "duration_years": 0.0
+        },
+        {
+            "company": "OpenAirlines",
+            "position": "Data Scientist Internship",
+            "description": "",
+            "start_date": "october 2022",
+            "end_date": "february 2023",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "United States",
+            "institution_or_company": "Georgia Institute of Technology",
+            "start_date": "august 2021",
+            "end_date": "may 2022",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Python",
+            "Abaqus",
+            "RStudio",
+            "Solid Edge",
+            "Microsoft Office - Excel, PowerPoint, Word"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Effort",
+            "Perseverance",
+            "Proactivity",
+            "Insight"
+        ]
+    },
+    "other_interests_normalized": [
+        "Second native qualified on the duatlhon Spanish championship in teams category",
+        "High performance athlete"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Math and Physics Tutor",
+            "duration": "closed 14/01/24 a2 b2",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 18,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

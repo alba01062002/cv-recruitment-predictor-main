@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "juan gallego garcía 3 cl montserrat, 18, 42 a 28015 madrid y 654039963 y galgarcia(dgmail.com nacido en granada el 3 de junio de 1979. formación académica 2008 estudios de ingeniero industrial. et.s.i. industriales, universidad nacional de educación a distancia. cuarto curso en la actualidad. 2008 ingeniero técnico aeronáutico (aeronaves). e.u.1t. aeronáutica, universidad politécnica de madrid. 2006 proyecto de fin de carrera. adhesive joint testing in aqueous environment - development of an experimental setup. institut de maintenance aéronautique (ima) laboratoire de mécanique physique (lmp). université bordeaux 1, burdeos, francia. formación complementaria 2008 curso de técnico especialista en análisis de estructuras aeroespaciales por el método de elementos finitos. cadtech ibérica, s.a., getafe, madrid. 164 horas. 2008 curso de aplicación práctica de la mecánica de fluidos por ordenador (fluent-gambit). e.u.1t. aeronáutica, universidad politécnica de madrid. 45 horas. 2008 curso de programación en fortran. e.u.i.t. aeronáutica, universidad politécnica de madrid. 45 horas. idiomas inglés: excelente, hablado y escrito. certificate of proficiency in english (cpe), universidad de cambridge, reino unido (1997). first certificate in english (fce), universidad de cambridge, reino unido (1996). francés: nivel avanzado, hablado y escrito. siete meses de estancia en francia para la realización del proyecto de fin de carrera. curso anual preparatorio para el examen dalf c1, institut francais de madrid (2006-2007). informática sistemas operativos: microsoft windows xp y vista. ofimática: microsoft office. cad: ds catia v5. cfd: ansys gambit-fluent. cálculo estructural: ds catia v5, msc nastran, msc patran, siemens plm femap. programación: fortran, nociones de java. madrid, noviembre de 2008",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI09"
+}

@@ -1,0 +1,79 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Umair Sufyan",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "['umair.sufyan@caapakistan.com.pk', 'umairsufyan@gmail.com']",
+        "phone": "+92 333 5268152",
+        "address": "House # 34, Spring Valley, Simly Dam Road, Barakahu, Islamabad",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Engineering (Aerospace)",
+            "field": "Aerospace",
+            "university": "College of Aeronautical Engineering, National University of Sciences & Technology",
+            "location": "Islamabad",
+            "year": "2008",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Pakistan Civil Aviation Authority",
+            "position": "Joint Director Airworthiness (Senior Airworthiness Surveyor)",
+            "description": "Investigation of in-flight reported defects, aircraft safety oversight, audit & surveillance of CAA approved organizations, type certification activities and formulation of regulations.",
+            "start_date": "04/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.67
+        },
+        {
+            "company": "Pakistan Civil Aviation Authority",
+            "position": "Sr. Deputy Director Airworthiness (Airworthiness Surveyor)",
+            "description": "Investigation of in-flight reported defects, aircraft safety oversight, audit & surveillance of CAA approved organizations.",
+            "start_date": "12/2009",
+            "end_date": "04/2018",
+            "duration_years": 8.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MS Office, MS Project"
+        ],
+        "soft_skills": [
+            "capable of handling unique problems and devising solutions",
+            "capable of planning and executing projects to a timeline",
+            "well-disciplined and punctual",
+            "capable of meeting targets within assigned deadlines with ease"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.0
+}

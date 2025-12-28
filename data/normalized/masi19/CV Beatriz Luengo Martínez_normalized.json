@@ -1,0 +1,98 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Beatriz Luengo Martínez",
+        "date_of_birth": "15/06/1994",
+        "gender": "female",
+        "age_reference_year": 2019,
+        "age": 25,
+        "email": "b.luengo.martinez@gmail.com",
+        "phone": "664770027",
+        "address": "",
+        "LinkedIn": "www.linkedin.com/in/beatriz-luengo-martinez-676364146/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MSc in Decision Making and Innovation",
+            "field": "not specified",
+            "university": "Universidad de Alcalá de Henares",
+            "location": "",
+            "year": "2018-present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Oakes Defence & Space",
+            "position": "Engineering Support Internship",
+            "description": "Booked hours management, creation of work orders in Pelicano tool, attendance to daily SQCDP meetings, implementation of lean panel and PPS1, creation of department control room, support for maintenance of F-18, documentation closing of two A400M aircrafts, implementation of improvements in the department, control of certificate of conformity (COC) to fulfill PERAM-145.",
+            "start_date": "January 2018",
+            "end_date": "12/2019",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Catia",
+            "B2"
+        ],
+        [
+            "Microsoft office (word, powerpoint, excel, project)",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "Fortran",
+            "Maple",
+            "CATIA (intermediate)",
+            "Ecosimpro - Proosis"
+        ],
+        "soft_skills": [
+            "Project management",
+            "Teamwork",
+            "Communication",
+            "Problem solving",
+            "Learning new things"
+        ]
+    },
+    "other_interests_normalized": [
+        "Karate training (7 years federated)",
+        "Theatre contest participant (2013, 2016 and 2018)",
+        "Participation in aerospace student games in Toulouse (2017)",
+        "Handball team member"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.5
+}

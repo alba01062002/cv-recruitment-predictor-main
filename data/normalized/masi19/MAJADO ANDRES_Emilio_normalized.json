@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Emilio Majado Andrés",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "e.majadoo@gmail.com",
+        "phone": "",
+        "address": "Avenida de la Castellana 28054, Madrid (España)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aeronautical Engineering",
+            "field": "Aerospace Systems and Air Transport",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "Madrid, España",
+            "year": "2015-2018",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Master's in Professional Development, Business Administration",
+            "field": "",
+            "university": "University of Alcalá (UAH)",
+            "location": "",
+            "year": "2015-2016",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's Degree in Aerospace Engineering",
+            "field": "Aerospace Vehicles",
+            "university": "Technical University of Madrid (UPM)",
+            "location": "Madrid, España",
+            "year": "2010-2015",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aena - Division of Technical Evaluation of Offers",
+            "position": "Aeronautical Engineer",
+            "description": "Review of technical specifications during the selection process of potential candidates for airport services provision and results evaluation.",
+            "start_date": "10/2017",
+            "end_date": "08/2018",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Airbus Group - MRO Production A400M",
+            "position": "Aeronautical Engineer",
+            "description": "Support to A400M, A310 and C130 activities: workforce and workload management, problem reports preparation, project management activities (cost and planning control), production standards, maintenance procedures definition and associated documentation preparation, implementation of quality and lean manufacturing tools.",
+            "start_date": "01/2015",
+            "end_date": "02/2016",
+            "duration_years": 1.08
+        },
+        {
+            "company": "Airbus Group - MRO Test and Flight Line",
+            "position": "Aeronautical Engineer",
+            "description": "Support to A400M, A310 and C130 activities: workforce and workload management, cost control and lean manufacturing tools implementation.",
+            "start_date": "09/2014",
+            "end_date": "12/2014",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "AutoCAD",
+            "Microsoft Office",
+            "Lean Manufacturing"
+        ],
+        "soft_skills": [
+            "Proactivity",
+            "Teamwork",
+            "Problem Solving",
+            "Quality Management",
+            "Project Management"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 9.0,
+    "total_work_years": 2.16,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.7
+}

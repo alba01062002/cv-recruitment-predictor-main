@@ -1,0 +1,142 @@
+{
+    "personal_information_normalized": {
+        "full_name": "María Encarnación García Spain Hernández",
+        "date_of_birth": "05/03/1991",
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": 26,
+        "email": "exmegh91@hotmail.com",
+        "phone": "+34 659496623",
+        "address": "C/ Covarrubias 21, 112 28010, Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MSC Aeronautical Engineer (Intensification Aircraft and Space Vehicles. Option: Aircraft Design)",
+            "field": "Aircraft Systems Integration",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2015-2018",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "High School Graduate (Science)",
+            "field": "",
+            "university": "Colegio Salzillo",
+            "location": "Molina de Segura, Spain",
+            "year": "2009-2007",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aertec Industrial Engineering",
+            "position": "Tooling Engineer",
+            "description": "Management of the conversion from A330 commercial to military aircrafts (MRTT: Multi Role Tanker Transport)",
+            "start_date": "02/2015",
+            "end_date": "07/2015",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Accenture",
+            "position": "Management Consultant",
+            "description": "Business Strategy, Client Support and Negotiation",
+            "start_date": "11/2014",
+            "end_date": "02/2015",
+            "duration_years": 0.25
+        },
+        {
+            "company": "CESA (Compácia Española de Sistemas Aeronáticos)",
+            "position": "Intern - IPL Product Support",
+            "description": "",
+            "start_date": "09/2014",
+            "end_date": "11/2014",
+            "duration_years": 0.17
+        },
+        {
+            "company": "S4A Solutions for Aviation",
+            "position": "Aeronautical Engineer",
+            "description": "LOPA Modification, Service Bulletins, Certification Plan, Ground Tests, Flammability, Electric and Electronic Analysis, Drawings in CATIA",
+            "start_date": "2015-2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "FORTRAN 90",
+            "Maple",
+            "eSACOMP",
+            "MATLAB",
+            "Microsoft Office",
+            "Airbus Tools (EPD, Vault System, Sipla, Sprint...)",
+            "CATIA V5"
+        ],
+        "soft_skills": [
+            "Remodelación",
+            "Análisis y certificación de la cabina de pasajeros de un global express XRS"
+        ]
+    },
+    "other_interests_normalized": [
+        "Football",
+        "Traveling",
+        "Dancing",
+        "Meeting new people",
+        "Learning culture",
+        "Cross Fit"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "EASA Part 145, Aertec Industrial Engineering",
+            "role": "Volunteer",
+            "duration": "20h",
+            "description": ""
+        },
+        {
+            "organization": "Fuel Tanker, Aertec Industrial Engineering",
+            "role": "Volunteer",
+            "duration": "20h",
+            "description": ""
+        },
+        {
+            "organization": "Trinity College",
+            "role": "C1.2",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 3.0,
+    "total_work_years": 0.84,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.6
+}

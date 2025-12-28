@@ -1,0 +1,105 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Emilio Arroyo Zarco",
+        "date_of_birth": "30/07/1998",
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": 23,
+        "email": "emilioarroyozarco@gmail.com",
+        "phone": "+34 678938008",
+        "address": "pz/ pedro santos gómez n5 2a, 41010 sevilla",
+        "LinkedIn": "www.linkedin.com/in/emilio-arroyo-zarco-b5aa18201",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeronáutica (Especialidad en Vehículos Aeronáuticos)",
+            "field": "Ingeniería Aeronáutica",
+            "university": "Escuela Técnica Superior de Ingeniería de Sevilla",
+            "location": "Sevilla",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Ejército del Aire (Base Aérea Los Llanos)",
+            "position": "Prácticas Curriculares",
+            "description": "Seguimiento del plan de mantenimiento del Eurofighter Typhoon, inspección y mejora del motor Ej200, mantenimiento de los sistemas de supervivencia del piloto y realización de pruebas y reparaciones en los sistemas de defensa del Eurofighter.",
+            "start_date": "07/2019",
+            "end_date": "08/2019",
+            "duration_years": 0.08
+        },
+        {
+            "company": "FADA-CATEC (Escuela Técnica Superior de Ingeniería de Sevilla)",
+            "position": "Trabajador en la Unidad de Materiales y Procesos Avanzados",
+            "description": "Inspecciones no destructivas, diseño de piezas empleando el software Catia V5, estudio de cargas usando el software Ansys.",
+            "start_date": "02/2020",
+            "end_date": "11/2020",
+            "duration_years": 0.75
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "ANSYS",
+            "CATIA V5",
+            "Visual Basic",
+            "OODDA OO"
+        ],
+        "soft_skills": [
+            "observación y continuo aprendizaje",
+            "seriedad",
+            "gran capacidad de trabajo",
+            "trabajo en equipo"
+        ]
+    },
+    "other_interests_normalized": [
+        "Palista en el Club Náutico de Sevilla"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2008-2016",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.83,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

@@ -1,0 +1,129 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Amaya Navarro",
+        "date_of_birth": "26/02/1993",
+        "gender": "female",
+        "age_reference_year": 2018,
+        "age": 25,
+        "email": "amaya-navarro@hotmail.com",
+        "phone": "0034 639510307",
+        "address": "C/Arroyo Fontarron N51, Piso 13b, Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Business Administration (MBA)",
+            "field": "Desarrollo Directivo e Inteligencia Emocional",
+            "university": "EAE Business School, Madrid, Spain",
+            "location": "Madrid",
+            "year": "10/16-10/17",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Team Manager - Gaia Program",
+            "university": "Universidad Alcalá, Madrid, Spain",
+            "location": "Madrid",
+            "year": "06/15-06/16",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Postgraduate in Aerospace Engineering",
+            "field": "",
+            "university": "University of Carlos III de Madrid, Madrid, Spain",
+            "location": "Madrid",
+            "year": "09/11-06/15",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's in Aerospace Engineering",
+            "field": "",
+            "university": "Universidad Carlos III de Madrid, Madrid, Spain",
+            "location": "Madrid",
+            "year": "09/96-06/11",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "E Tag Aviation Spain",
+            "position": "Airworthiness / Planning Engineer for the CAMO Part M",
+            "description": "Responsible for maintenance of Inditex fleet and preparation of technical and airworthiness documentation. Duties include direct communication with customers, analysis of technical documentation, planning tasks, creation of work orders, supervision of scheduled maintenance, periodic edition of aircraft maintenance program (MP), revision of authority directives (AD) and service bulletins (SB), revision and edition of Minimum Equipment List (MEL), coordination of permit to fly, technical staff, preparation of aircraft for delivery/acceptance.",
+            "start_date": "01/16",
+            "end_date": "12/2018",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship / Work",
+            "country": "Spain, France, USA, Germany, South Africa, Italy",
+            "institution_or_company": "Airbus Military, Airbus Getafe, Astra Rocket Company",
+            "start_date": "",
+            "end_date": "",
+            "description": "Various roles including assessment of customization manager for transforming a civil A330 into an MRTT at Airbus and modeling plasma dynamics inside the VASIMR engine. Also involved in coordination with production, engineering, logistics, and customers.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "German",
+            "B2"
+        ],
+        [
+            "Italian",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Windows",
+            "WordPerfect, Microsoft Word, PowerPoint",
+            "Excel",
+            "Matlab",
+            "Abaqus",
+            "SolidEdge",
+            "Fluent",
+            "SAP",
+            "Camp",
+            "CMP",
+            "Vistair",
+            "Smartsheet"
+        ],
+        "soft_skills": [
+            "Strong communication and interpersonal skills",
+            "Leadership",
+            "Analytical thinking",
+            "Problem-solving",
+            "Attention to detail",
+            "Teamwork"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

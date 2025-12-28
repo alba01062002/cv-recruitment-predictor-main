@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sahand Simaei",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2020,
+        "age": null,
+        "email": "sahand.si@gmail.com",
+        "phone": "+44-77-24002626",
+        "address": "110 Queen Street, Sheffield, UK",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Business Marketing",
+            "field": "Marketing Management",
+            "university": "Canadian University of Dubai",
+            "location": "Dubai",
+            "year": "2012-2016",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "N/A",
+            "field": "Database Systems for Software Applications, Group Software Development Project, Networked Software Development",
+            "university": "Sheffield Hallam University",
+            "location": "Sheffield",
+            "year": "(2016 -)",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Pet Mart Store & Salon",
+            "position": "Co-owner, Manager",
+            "description": "Overseeing other employees and guiding them towards the goal needed. Implementing manager orders and fulfilling customer complaints if any. Helping customers with special requests.",
+            "start_date": "2012",
+            "end_date": "2016",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Red Rose Computers",
+            "position": "Hardware Assembly Assistant",
+            "description": "Full knowledge of computer hardware assembly, knowledge of Windows and applications related to it. Learning to be a team player and how-to coordinate with other team members.",
+            "start_date": "2010",
+            "end_date": "2011",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Turkish",
+            "C2"
+        ],
+        [
+            "Persian",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Windows",
+            "Applications related to Windows",
+            "Team player coordination",
+            "Negotiation skills"
+        ],
+        "soft_skills": [
+            "Self-motivated",
+            "Able to work with minimum supervision",
+            "Positive attitude",
+            "Cooperative teamwork",
+            "Adaptability",
+            "Detail-oriented",
+            "Customer service orientation"
+        ]
+    },
+    "other_interests_normalized": [
+        "Outdoor activities such as football, tennis, and ping pong",
+        "Photography",
+        "Keeping up-to-date with the latest technological advancements in software and hardware"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 9.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

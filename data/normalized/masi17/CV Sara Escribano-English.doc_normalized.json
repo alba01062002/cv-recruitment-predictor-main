@@ -1,0 +1,143 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sara Escribano Sancho",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "sara.escribano08@gmail.com",
+        "phone": "+34609477390",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Industrial Mechanical Engineering Degree",
+            "field": "Engineering",
+            "university": "Polytechnic University (Madrid, Spain)",
+            "location": "Madrid",
+            "year": "2006-2012",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Master in Professional Development",
+            "field": "Aerospace Propulsion",
+            "university": "University of Alcalá de Henares (Spain)",
+            "location": "Madrid",
+            "year": "2012-2013",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "French Master's Degree in Aerospace Propulsion",
+            "field": "Aerospace Engineering",
+            "university": "Nanterre, Paris X University (Paris, France)",
+            "location": "Paris",
+            "year": "2012-2014",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space on behalf of Alten (Getafe, Spain)",
+            "position": "Chief Engineering Office Light and Medium Programs Transversal Position",
+            "description": "Technical support and coordination. Technical analysis of issues in different aircraft versions and development of solutions with departments involved. Issues from final assembly line and in-service aircrafts. Coordination of affected areas such as analysis, design, manufacturing engineering, and certification. Preparation of design changes for airworthiness authority.",
+            "start_date": "01/2015",
+            "end_date": "12/2017",
+            "duration_years": 2.92
+        },
+        {
+            "company": "Airbus Defence & Space on behalf of Aertec Solutions (Getafe, Spain)",
+            "position": "Manufacturing Engineering - A330MRTT Program",
+            "description": "Technical support during conversion process. Creation and update of work orders, job cards, and technical instructions. Modification of job cards configuration. Management of non-conformity sheets (NCS) and concessions. Operation with aeronautical manuals and technical publications. Collaborative work with design office, quality, and manufacturing departments.",
+            "start_date": "01/2014",
+            "end_date": "07/2015",
+            "duration_years": 1.5
+        },
+        {
+            "company": "Airbus Defence & Space - Internship (Getafe, Spain)",
+            "position": "Chief Engineer Office, Airbus Derivatives A330MRTT Programs",
+            "description": "Supporting chief engineer in new offers management, conversion phases, and delivery phases.",
+            "start_date": "11/2012",
+            "end_date": "11/2013",
+            "duration_years": 1.0
+        },
+        {
+            "company": "CNES (Centre National d'Etudes Spatiales) - Perseus Platform Internship (Paris, France)",
+            "position": "",
+            "description": "Conception, design, and prototype of an innovative bi-liquid injection system. Analysis of resulting drops diameter in laboratory to achieve effective conclusions.",
+            "start_date": "11/2013",
+            "end_date": "07/2014",
+            "duration_years": 0.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Exchange",
+            "country": "France",
+            "institution_or_company": "Nanterre, Paris X University (Paris, France)",
+            "start_date": "01/2013",
+            "end_date": "12/2014",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Paris",
+            "institution_or_company": "Nanterre, Paris X University (Paris, France)",
+            "start_date": "2012-2014",
+            "end_date": null,
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "SolidWorks",
+            "Inventor",
+            "AutoCAD",
+            "Office",
+            "MATLAB",
+            "Simulink",
+            "SAP",
+            "Sipla",
+            "Sprint"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Au pair in London, United Kingdom",
+        "Teaching children about math, physics, chemistry, and French language by private classes.",
+        "Promoter in supermarkets Adecco company",
+        "Waiter at Santiago Bernabeu Football Stadium and Circus Price - Adecco company",
+        "Shop assistant in Zara Inditex company"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 9.0,
+    "total_work_years": 6.09,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

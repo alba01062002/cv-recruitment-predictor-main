@@ -1,0 +1,108 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alba Olías López",
+        "date_of_birth": "14/08/1986",
+        "gender": "female",
+        "age_reference_year": 2012,
+        "age": 26,
+        "email": "albaolias@hotmail.com",
+        "phone": "+34629573377 / +34918543310",
+        "address": "Paseo de los Tilos, n5 Guadarrama 28440 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Industrial Engineering / Mechanical Engineering",
+            "field": "Speciality in Mechanics",
+            "university": "Escuela Técnica Superior de Ingenieros Industriales. Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2011",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Final Project about Medical Robotics",
+            "university": "Université catholique de Louvain (UCL)",
+            "location": "Belgium",
+            "year": "2010-2011",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Biomechanic Assistant",
+            "description": "Laparoscopic surgery final project internship: creation of a device that rotated the laparoscope in CATIA V5R18, comparison of three laparoscopic holders (Evolap robot, Aesop robot and Viky robot), interface implementation for the displacements of these holders in MATLAB.",
+            "start_date": "2010-11",
+            "end_date": "2011-09",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Practice Teacher",
+            "description": "Vibrations and Sounds subject at the Escuela Técnica Superior de Ingenieros Industriales, calculation of linear systems with buffer balance of rigid engine.",
+            "start_date": "2010-03",
+            "end_date": "2010-07",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Belgium",
+            "institution_or_company": "Université catholique de Louvain (UCL)",
+            "start_date": "2010-09",
+            "end_date": "2011-07",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "German",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "Solid Works",
+            "Moldflow",
+            "MATLAB",
+            "Pascal"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Piano"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Lifeguard and Swimming Monitor",
+            "duration": "2003 onwards, Covered swimming pool in Galapagar, Cobra-opade company, Summer swimming pool of the Universidad Complutense de Madrid.",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI12",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

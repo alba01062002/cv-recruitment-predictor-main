@@ -1,0 +1,138 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Aisling Gallagher",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "aislingg34a@gmail.com",
+        "phone": "+44 7446379802",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "MEng (Master of Engineering)",
+            "field": "Aerospace Engineering",
+            "university": "University of Bristol",
+            "location": "Bristol, UK",
+            "year": "2021-2025",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "University of Bristol Student Union",
+            "position": "Intramural Sports Assistant",
+            "description": "Organising and leading recreational sports leagues for 3,000+ students.",
+            "start_date": "09/2024",
+            "end_date": "05/2025",
+            "duration_years": 0.67
+        },
+        {
+            "company": "Neilson Holiday Resorts, Italy and Greece",
+            "position": "Children's Activity Leader",
+            "description": "Leading sports activities including swimming, water sports, team sports and childcare for up to 30 children.",
+            "start_date": "06/2024",
+            "end_date": "08/2024",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Private Piano Teaching Business",
+            "position": "",
+            "description": "Taught individual piano lessons for 10+ children and adult beginners, learning business marketing, scheduling and customer service.",
+            "start_date": "09/2019",
+            "end_date": "09/2021",
+            "duration_years": 2.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Ireland",
+            "institution_or_company": "Manna Drones, Ireland",
+            "start_date": "06/2022",
+            "end_date": "08/2022",
+            "description": "Full-time summer internship at an exciting drone-delivery start-up in Dublin.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SolidWorks",
+            "Autodesk Fusion360",
+            "GMAT",
+            "MSC Patran/Nastran",
+            "OpenRocket",
+            "NASA GMAT",
+            "Simulink",
+            "XFlR5",
+            "XFOIL",
+            "Ashes",
+            "Python",
+            "MATLAB"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Groupwork",
+            "Organization",
+            "Time Management",
+            "Professional Practice",
+            "Strategic Thinking",
+            "Calming Solutions-Based Approach",
+            "Systems-Level Perspective",
+            "Communication",
+            "Decision Making"
+        ]
+    },
+    "other_interests_normalized": [
+        "Piano Teaching",
+        "Irish Culture Events",
+        "Basketball"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "University of Bristol Basketball Women's Team Committee Member",
+            "role": "Captain and Committee Member",
+            "duration": "2022/2023, 2023/2024, 2024/2025",
+            "description": ""
+        },
+        {
+            "organization": "Spartans Basketball Club",
+            "role": "Committee Member",
+            "duration": "2022/2023, 2023/2024, 2024/2025",
+            "description": ""
+        },
+        {
+            "organization": "Be:Active Volunteer Coach",
+            "role": "Volunteer Student Coach",
+            "duration": "2023-2025",
+            "description": ""
+        },
+        {
+            "organization": "University of Bristol Irish Society Committee Member",
+            "role": "Organiser and Host",
+            "duration": "2024/2025",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 2.84,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

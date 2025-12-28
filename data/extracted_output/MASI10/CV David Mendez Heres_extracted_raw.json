@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "david méndez heres avenida alcalde josé fernandín n 32 3c, piedras blancas. c.p. 33450 asturias. teléfonos: 985530023 635022376. email: davidmendezheres@hotmail.com nd formación académica 2008 universidad de oviedo. ingeniero industrial. especialidad electricidad. 2009 heras prevención. master en prevención de riesgos laborales. especializado en seguridad en el trabajo, higiene industrial y ergonomía y psicosociología aplicada. idiomas inglés: avanzado. 5 escuela oficial de idiomas. informática windows, paquete microsoft office, internet. nivel avanzado. lenguajes de programación c, c++. nivel medio. experiencia laboral 03/2009 actual thyssenkrupp airport systems. departamento de ingeniería. - desarrollo del programa de control de autómata programable de las pasarelas de embarque y desarrollo del programa de gestión y monitorización de las pasarelas de embarque. - desarrollos de esquemas eléctricos en cad see electrical expert. - desarrollo de protocolos de inspección y funcionamiento de las pasarelas de embarque. - elaboración de documentación para apoyo a proyectos. 04/2007 04/2008 saint-gobain sekurit. departamento de ingeniería. - desarrollo de automatismos industriales para líneas de producción. - desarrollo de sistemas de supervisión y control para líneas de producción. - redes de comunicación de datos de proceso y control. - desarrollo del programa de funcionamiento y puesta en marcha de sistemas robotizados. - elaboración de documentación para apoyo a proyectos. - realización de pruebas de funcionamiento y puesta producción de instalaciones. veranos 2004 y 2006 tsk electricidad y electrónica. departamento de mantenimiento. - trabajos de mantenimiento de sistemas eléctricos, electrónicos y automatismos en la factoría de saint-gobain r&d center. otros datos de interes carnet de conducir (b). vehiculo propio. buena disponibilidad para cambio de residencia. buena disponibilidad para viajar.",
+    "text_from_header": "DAVID MÉNDEZ HERES",
+    "detected_language": "es",
+    "master_edition": "MASI10"
+}

@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "andres gonzález antohi o andresgonzalezantohi@gmail.com student o 34) 611 419 313 about me final-year student in the dual degree program of computer engineering and video game development, seeking an internship to expand and apply the acquired knowledge. professional experience partial time internship at solusoft as a junior web developer. (01/10/2024 - 24/12/2024) skills e java, javascript sql, sqlite e r e .net e c, c#, c++ e mongodb e gnu bash e springboot e html/css e cuda e arduino e python e xml e ducker, kubernetes education computer engineering + video game development and design rey juan carlos university (2020-2025) languages e spanish (native) e romanian (native) e english (b2, cambridge) personal achievements e best game of the year by rey juan carlos university (2023-2024) e third prize (23rd position) in the young researchers congress 2018 e student representative and mentor at rey juan carlos university",
+    "text_from_header": "ANDRES GONZÁLEZ ANTOHI",
+    "detected_language": "en",
+    "master_edition": "MASI25"
+}

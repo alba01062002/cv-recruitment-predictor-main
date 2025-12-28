@@ -1,0 +1,165 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Laura Bonacasa Aguinaco",
+        "date_of_birth": "12/12/1990",
+        "gender": "female",
+        "age_reference_year": 2018,
+        "age": 28,
+        "email": "laurabonacasaa@gmail.com",
+        "phone": "+34 653557801",
+        "address": "Calle Alcalde Sainz de Baranda, 55. Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Industrial Engineering - Majoring in Electronics, Computer Science and Automatic Control",
+            "field": "Electronics Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid (Spain)",
+            "year": "2014",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Research Master's in Electronics",
+            "field": "",
+            "university": "Supélec (Ecole Supérieure d'Electricité)",
+            "location": "France",
+            "year": "2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Sogeti High Tech OBO Airbus",
+            "position": "Embedded Software Engineer",
+            "description": "Development and design of software, technical support, certification support, testing using Excel, Matlab, Seas tools. Environment: Ada95, Doors, DO178, UML, Rational Rose, GPS, Gnat, VxWorks, V653, Arinc429, SEAS, V Cycle, Excel & Matlab for tests.",
+            "start_date": "12/2015",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Sogeti High Tech OBO ESSP",
+            "position": "GNSS Engineer Support",
+            "description": "Maintenance and support of EGNOS and EDAS services, software support for GNSS applications, market analysis, technical support. Environment: Android Studio, Google API (HTML), Visual Basic, Linux (Ubuntu), Office.",
+            "start_date": "11/2015",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Sogeti High Tech Toulouse",
+            "position": "Electronic Engineer",
+            "description": "Maintenance and test of flight control systems, DO178B, AFDX, ARINC429, Marcel, V Cycle, modification management. Tests: Unitary tests, validation or integration tests.",
+            "start_date": "06/2012",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Thomson Video Networks",
+            "position": "Embedded Software R&D Internship",
+            "description": "Video processing on FPGA using the Altera OpenCL SDK, video processing algorithms implementation on FPGA and GPU. Performance analysis.",
+            "start_date": "04/2014",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Supélec (Ecole Supérieure d'Electricité)",
+            "position": "Research Projects Internship",
+            "description": "Conception and development of a 2D video game with Nios on FPGA, VHDL programming for the display and hardware control, C programming for interaction and movement with Nios. MIMO system signal reconstruction - System optimization: correct, develop and verify the signal reconstruction for multi-input/multi-output systems using statistic and geometry algorithms in FPGA (Virtex V Xilinx). Sound processing on DSP.",
+            "start_date": "09/2013",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "CEI Centro Electrónica Industrial - UPM",
+            "position": "Electronic Engineer",
+            "description": "Wake-up radio development, encoder controller for data sending in wireless networks. Functionality test, deployment of wireless sensor networks (WSN). DPCM, development of an integrated engineering tool for quick WSN deployment and maintenance. Project Artemis. Development Android application toolkit based on network communications and data management on WSN.",
+            "start_date": "07/2011",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "France",
+            "institution_or_company": "Supélec (Ecole Supérieure d'Electricité)",
+            "start_date": "",
+            "end_date": "",
+            "description": "5th year of industrial engineering realized in Supélec, France.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Ada95",
+            "DOORS",
+            "DO178",
+            "UML",
+            "Rational Rose",
+            "GPS",
+            "GNAT",
+            "VxWorks",
+            "V653",
+            "Arinc429",
+            "SEAS",
+            "V Cycle",
+            "Excel & Matlab for tests",
+            "Android Studio",
+            "Google API (HTML)",
+            "Visual Basic",
+            "Linux (Ubuntu)",
+            "OpenCL SDK of Altera",
+            "Eclipse",
+            "Nios",
+            "IDE",
+            "Modelsim",
+            "Code Composer Studio",
+            "Matlab"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Musical electronics",
+        "Rolling",
+        "Music: Jazz, Rock",
+        "Rugby",
+        "Domotics",
+        "Robotics",
+        "Literature and cinema"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Ingenieros Sin Fronteras",
+            "role": "Project MAMA, Hydro-sanitary project on same district, Tanzania",
+            "duration": "07/2011 - 08/2011",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

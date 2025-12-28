@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "permanent address: c/ lanza en astillero, 2 edif. 5 email: miguel.haro@himperia.com 28906 getafe (madrid) spain nationality: spanish mobile: +34646266160 in es.linkedin.com/in/miguelharo/ miguel haro maldonado professional experience feb'07-present himperia iis madrid (technical consultancy) co-founder = creation, in 2007, of a company for provision of consulting services in telematics engineering and it management fields. = in charge of the technical team, particularly for the products creation, service development and research strategies definition. = business development manager and storage project manager. ene'08-ago'11 himperia iis madrid (technical consultancy) senior consultant engineer = working for telefónica. in charge of all storage systems engineering in 7 datacenters (5 in madrid and 2 in barcelona) = engineering task (planning, deployment and re-engineering) over san networking solutions and midrange/high-end storage servers (ibm, hds, emc and netapp). analysis and implementation of backup and disaster recovery solutions over ibm and emc hardware and symantec software. = it deployment. .e.: manager servers or networking equipment (ethernet and fc) deployment associated to storage projects. isolated operation and support tasks (management and provisioning) abr'07-ene'08 amper madrid (technical consultancy) consultant engineer = planning and deployment of messaging platforms and other vas for telefónica móviles. = primarily developed efforts focused on proper network integration of internal and external services. may'05-mar'07 tecsidel madrid (technical consultancy) integration and support engineer = developing task as telecommunication platforms integration and high level technical support of telefónica móviles added values services. = fulfilment of consulting labours in telefónica i+d company in order to study and integrate a policy access management system for telefónica móviles. sep'03-feb'04 amena coslada (madrid) (gsm/gprs/umts network operator) trainee in technological innovation center = developing activities for open service architecture (osa/parlay) testing and implantation, which amena was integrating in its mobile network. apr'02-apr'03 telefónica móviles espaa madrid (gsm/gprs/umts network operator) trainee in network engineering division = engineering and coordination of network and management activities for the correct integration of hardware/software platforms for mobile services. education languages skills activities hobbies 1998-2001 polytechnic university of madrid, upm (madrid) = bs in telecommunication engineering (specialist telecomms. systems) = final project degree score: a+ 2002-2005 polytechnic university of madrid, upm (madrid) = ms in telecommunications engineering (specialist communications). = final project degree score: a. accomplished in the national institute for applied sciences (insa) in lyon, france. duration: 6 months 2006-2010 polytechnic university of madrid, upm (madrid) \"= reach second academic year of bs in aeronautical engineering. speaking reading writing comprehension spanish native native native native english high high high high french high high high high = highly analytical thinking with demonstrated talent for identifying, scrutinizing, and improving, technical processes. = computer-literate with extensive software knowledge covering wide variety of applications: programming (c, objective c and java) os (ms windows, linux based operative systems and solaris 11), office tools, simulation tools (microwave office, orcad, tango, protel, and matlab), = skilled team player who thrives in complex environments requiring ability to effectively prioritize multiple concurrent projects. = tilv2 course (16h) sunion, august 2009 = hp integrity architecture (basic and advance level) (56h) [subjects: hpuxv5i, logica volume manager and virtualization] hp hq madrid, december 2007 = shell scripting formation over linux server (20h) albora soluciones, february 2007 = f5 big-ip v9 course (basic and advance level) (10h+15h) albora soluciones, julio 2006 = veritas volume manager y veritas cluster course (25h) grupo alma, diciembre 2005 \" security for windows 2003 networks course (52h) business confederation of madrid, july 2005 = unix systems programming course (30h) telecom. engineering school, june 2003 ieee 802.11 seminar (6h) rhode&schwarz, may 2003 \" car driving licence. cinema, travel, music, table tennis, snowboarding, science and technology.",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI14"
+}

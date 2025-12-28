@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "o sisiniodargentdevicentee gmail.com sisinio dargent de vicente mechanical engineering graduate & +352 691 126 707 professional experience aerospace engineer kenya space agency fa 09/2022 - 11/2022 9 nairobi, kenya e designed rocket's nose cone with solidworks e performed aerodynamic simulations with ansys fluent to minimize drag and pressure e assisted in the development of the agencys first cubesat project management assistant asclepios g8) 09/2019 - 04/2020 9 lausanne, switzerland e managed integration of scientific experiments into analog habitat mission e recorded time allocated to projects and ensure proper documenta- tion and training for analog astronauts aerospace engineer epfl rocket team g4 04/2018 - 02/2020 9 lausanne, switzerland e manufactured rocket's automatic air-brake system e automated air-brakes actuation with control theory e designed a vibration-proof avionics' structure with catia v5 and ansys mechanical e developed mission's key performance indicators technical skills solidworks expert catia v5 proficient ansys fluent proficient ansys mechanical experienced abaqus novice programmation skills python3 proficient tensorflow proficient matlab proficient linux (ubuntu) experienced github experienced arduino ide experienced labview novice 9 luxembourg, luxembourg in linkedin.com/in/sisinio-dargent-de-vicente education m.sc. in mechanical engineering eth zúrich é% 09/2021 - present 9 zúrich, switzerland b.sc. in mechanical engineering epfl fa 09/2015 - 08/2020 9 lausanne, switzerland european baccalaureate luxembourg european school é8) 09/2008 - 06/2015 projects 9 luxembourg, luxembourg master semester project e modelled spine curvature during gravity changes e programmed data analysis algorithm in python3 e developed lstm, feedforward and recurrent neural networks with tensorflow and matlab's deep learn- ing toolbox bachelor's thesis e integrated lidar sensors into autonomous drone e programmed mapping and planning algorithms into flight controller languages english fluent french native spanish native soft skills e problem-solving e multicultural teamwork e pressure management interests e level 1 certification in scuba diving with more than 40 hours in dives e member of the amateur university boxing club",
+    "text_from_header": "SISINIO DARGENT DE VICENTE",
+    "detected_language": "en",
+    "master_edition": "MASI23"
+}

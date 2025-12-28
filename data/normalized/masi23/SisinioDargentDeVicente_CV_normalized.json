@@ -1,0 +1,129 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sisinio Dargent de Vicente",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "sisiniodargentdevicentee@gmail.com",
+        "phone": "+352 691 126 707",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/sisinio-dargent-de-vicente/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "M.Sc. in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "ETH Zürich",
+            "location": "Zürich, Switzerland",
+            "year": "09/2021 - present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "B.Sc. in Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "EPFL (École Polytechnique Fédérale de Lausanne)",
+            "location": "Lausanne, Switzerland",
+            "year": "09/2015 - 08/2020",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "European Baccalaureate",
+            "field": "",
+            "university": "Luxembourg European School",
+            "location": "Luxembourg, Luxembourg",
+            "year": "09/2008 - 06/2015",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Kenya Space Agency",
+            "position": "Aerospace Engineer",
+            "description": "Designed rocket's nose cone with SolidWorks; performed aerodynamic simulations with ANSYS Fluent to minimize drag and pressure; assisted in the development of the agency's first cubesat project.",
+            "start_date": "09/2022",
+            "end_date": "11/2022",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Asclepios G8",
+            "position": "Management Assistant",
+            "description": "Managed integration of scientific experiments into analog habitat mission; recorded time allocated to projects and ensured proper documentation and training for analog astronauts.",
+            "start_date": "09/2019",
+            "end_date": "04/2020",
+            "duration_years": 0.58
+        },
+        {
+            "company": "EPFL Rocket Team G4",
+            "position": "Aerospace Engineer",
+            "description": "Manufactured rocket's automatic air-brake system; automated air-brakes actuation with control theory; designed a vibration-proof avionics' structure with CATIA V5 and ANSYS Mechanical; developed mission's key performance indicators.",
+            "start_date": "04/2018",
+            "end_date": "02/2020",
+            "duration_years": 1.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SolidWorks",
+            "CATIA V5",
+            "ANSYS Fluent",
+            "ANSYS Mechanical",
+            "Abaqus",
+            "Python3",
+            "TensorFlow",
+            "Matlab",
+            "Linux (Ubuntu)",
+            "GitHub",
+            "Arduino IDE",
+            "LabView"
+        ],
+        "soft_skills": [
+            "problem-solving",
+            "multicultural teamwork",
+            "pressure management"
+        ]
+    },
+    "other_interests_normalized": [
+        "Member of the amateur university boxing club",
+        "Level 1 certification in scuba diving with more than 40 hours in dives"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 2.58,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

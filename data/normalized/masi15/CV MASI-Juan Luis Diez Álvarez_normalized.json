@@ -1,0 +1,85 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Juan Luis Diez Álvarez",
+        "date_of_birth": "04/06/1992",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 23,
+        "email": "juan.diez.al@gmail.com",
+        "phone": "627049161",
+        "address": "c/el sol 33, 22 a, 24010 León",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeroespacial (Pending TFG)",
+            "field": "Ingeniería Aeroespacial",
+            "university": "Universidad de León, Escuela de Ingenierías Industrial e Informática",
+            "location": "León",
+            "year": "2010-actualidad",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "A1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office a nivel avanzado",
+            "Programación en C, Basic, COBOL, Fortran",
+            "MATLAB, R Commander, Maxima, STK, Ubuntu",
+            "Autocad"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "aeromodelismo",
+        "cine",
+        "ajedrez",
+        "dibujo",
+        "karate"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Centro Nuestra Señora de Lourdes, León",
+            "role": "Voluntariado en centros sociales de acogida de menores",
+            "duration": "2010-actualidad",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.5
+}

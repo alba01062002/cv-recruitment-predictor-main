@@ -1,0 +1,134 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Adrián Gallego-Ceide",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "adriangallegoceide@outlook.com",
+        "phone": "+34 606 337 699",
+        "address": "c/ Velázquez, 15, 12A, San Lorenzo de El Escorial, Madrid (Spain)",
+        "LinkedIn": "https://es.linkedin.com/in/adriangallegoceide/en",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Beng (Hons) in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "University of Hertfordshire, Universidad Europea",
+            "location": "Hatfield (Hertfordshire), United Kingdom; Madrid, Spain",
+            "year": "2015-2016 for University of Hertfordshire, 2012-2016 for Universidad Europea",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Fundación Mau Vara de Rey",
+            "position": "Intern in Air/Flight Operations",
+            "description": "Worked in air/flight operations, repairs and maintenance of general aviation aircraft and gliders. Helped with assembly of two gliders. Responsible for educational training during a summer camp.",
+            "start_date": "Apr 2015",
+            "end_date": "Aug 2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Universidad Europea, Hub Emprende",
+            "position": "Incubation Program Mentor and Specialized Training Participant",
+            "description": "Contributed with mentoring and specialized training to develop a start-up project (Surmain Drone). Developed decision-taking, time management, and communication skills.",
+            "start_date": "Dec 2014",
+            "end_date": "Apr 2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Universidad Europea",
+            "position": "Research Intern",
+            "description": "Conducted research on innovation in engineering education: project-based engineering school. Presented two papers at the 7* International Symposium on Project Approaches in Engineering Education (PAEE'2015).",
+            "start_date": "Jul 2014",
+            "end_date": "Dec 2014",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Fundación Mau Vara de Rey, Universidad Europea",
+            "start_date": "Apr 2015",
+            "end_date": "Aug 2015",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Chinese",
+            "A1"
+        ],
+        [
+            "Galician",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "C#",
+            "MATLAB",
+            "VBA",
+            "Microsoft Office 2013 (Excel, PowerPoint, Word)",
+            "AutoCAD 2012",
+            "SketchUp 8",
+            "Ansys Fluent",
+            "Star-CCM+",
+            "Ansys Mechanical"
+        ],
+        "soft_skills": [
+            "Technical Communication",
+            "Project Management",
+            "Decision-Making",
+            "Time Management",
+            "Verbal and Written Communication",
+            "Leadership"
+        ]
+    },
+    "other_interests_normalized": [
+        "Graphic Design",
+        "Photography",
+        "Drawing"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Universidad Europea",
+            "role": "Mentor for First-Year Aerospace Engineering Student",
+            "duration": "2013-2014",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.5
+}

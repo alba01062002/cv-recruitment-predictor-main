@@ -1,0 +1,115 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Oscar J. Avilés",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "m oscarmtn@hotmail.es",
+        "phone": "+34 722 187 184",
+        "address": "Sevilla, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "University of Seville",
+            "location": "Sevilla, Spain",
+            "year": "2013-2023",
+            "duration_years": 10.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Sofitec UY Sofitec R&D",
+            "position": "Project Engineer (Full-time)",
+            "description": "Successfully participated in the launch of two European and two Spanish R&D projects. This included: project drafting, project budgeting, development of in-house solutions, KPI definition and adherence monitoring, consortium meetings and tracking.",
+            "start_date": "September 2023",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship",
+            "country": "Finland",
+            "institution_or_company": "AEDEE-GEE Sevilla",
+            "start_date": "2018-2019",
+            "end_date": "",
+            "description": "Day-to-day management and strategic planning, supporting the mobility and non-formal education of young Europeans. Exchange of ideas and attendance at numerous international workshops dealing with current challenges in European society.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus / Internship",
+            "country": "Uy",
+            "institution_or_company": "Sofitec UY",
+            "start_date": "2022-present",
+            "end_date": "",
+            "description": "Collaborator in the development of activities aimed at international Erasmus students. Mentoring and assistance for Erasmus students.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Portuguese",
+            "B2"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA V5",
+            "Canva",
+            "Prezi",
+            "PowerPoint"
+        ],
+        "soft_skills": [
+            "Hard-working",
+            "Empathetic",
+            "Adaptable",
+            "Achiever mindset",
+            "Independent",
+            "Teamplayer",
+            "Leadership",
+            "Resilient"
+        ]
+    },
+    "other_interests_normalized": [
+        "Laws of the Game Instructor",
+        "Football Referee"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "AEDEE-GEE Sevilla FIS",
+            "role": "Volunteer and Board Member (2018-2019)",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

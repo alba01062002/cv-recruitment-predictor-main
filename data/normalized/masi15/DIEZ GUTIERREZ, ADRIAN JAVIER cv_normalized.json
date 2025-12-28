@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Adrián J. Díez Gutiérrez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": null,
+        "email": "adrian.jdg@gmail.com",
+        "phone": "+34670446351",
+        "address": "Q 48930 Getxo, Bizkaia (España)",
+        "LinkedIn": "https://www.linkedin.com/in/adrianjdg/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Industrial, Especialidad Diseño Mecánico",
+            "field": "",
+            "university": "Escuela Técnica Superior de Ingeniería de Bilbao, Universidad del País Vasco (UPV/EHU)",
+            "location": "Bilbao (España)",
+            "year": "2007-2013",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Ingeniero Comercial Navacel Construcciones Navales, Celulosas y Siderúrgicas SA",
+            "position": "Asistente de Investigación (Proyecto Fin de Carrera)",
+            "description": "Participante en un proyecto de investigación con el desarrollo de dos herramientas novedosas para el análisis y la optimización de modelos. En el Grupo de Investigación de Diseño Virtual del Departamento de Ingeniería Mecánica.",
+            "start_date": "10/2014",
+            "end_date": "12/2014",
+            "duration_years": 0.17
+        },
+        {
+            "company": "",
+            "position": "",
+            "description": "Seguimiento de ofertas, pre-calculo de ofertas, cálculo de Vors y comunicación con clientes.",
+            "start_date": "01/2014",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Finlandia",
+            "institution_or_company": "Tampere University of Technology",
+            "start_date": "07/2013",
+            "end_date": "09/2014",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Tampere (Finlandia)",
+            "institution_or_company": "Tampere University of Technology",
+            "start_date": "2013-2014",
+            "end_date": null,
+            "description": "Programa Erasmus",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "Euskera",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "SolidWorks",
+            "AutoCAD",
+            "Autodesk Inventor",
+            "Solid Edge",
+            "ANSYS",
+            "LabVIEW",
+            "VBA",
+            "Matlab",
+            "Wolfram Mathematica",
+            "Mathcad",
+            "Microsoft Office (Word, Excel, PowerPoint, Outlook, Access)",
+            "LibreOffice"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Matemáticas",
+        "Informática",
+        "Diseño"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Colegio Oficial de Ingenieros Industriales de Bizkaia (COIIB)",
+            "role": "",
+            "duration": "Disponibilidad para viajar: Internacional",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

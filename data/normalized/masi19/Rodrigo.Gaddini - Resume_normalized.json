@@ -1,0 +1,129 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Rodrigo Gaddini",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "rodrigo.gaddini@outlook.com",
+        "phone": "+55 (12) 99191-9121",
+        "address": "Av. São João 2400, São José dos Campos, SP, Brazil",
+        "LinkedIn": "https://www.linkedin.com/in/rodrigogaddini/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor in Aeronautical Engineering and Space",
+            "field": "Aerospace Engineering",
+            "university": "Vale do Paraíba University",
+            "location": "São José dos Campos, SP, Brazil",
+            "year": "2014-2017",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "STVG (Consultant Assistant)",
+            "position": "Technical and Regulatory Analysis of International Aeronautical Products",
+            "description": "Supporting the Brazilian defense and security organization in technical and regulatory analysis, researching business opportunities for national and international companies, analyzing bidding documents.",
+            "start_date": "01/2018",
+            "end_date": "12/2019",
+            "duration_years": 1.92
+        },
+        {
+            "company": "Aerofleet (Internship)",
+            "position": "Simulation Engineer",
+            "description": "Simulating airflow in trucks using CFD, designing aerodynamic accessories with SpaceClaim.",
+            "start_date": "04/2017",
+            "end_date": "12/2017",
+            "duration_years": 0.67
+        },
+        {
+            "company": "Steadiwear Canada (Internship)",
+            "position": "Prototyping Engineer",
+            "description": "Prototyping dampening mechanisms for tremor-dampening gloves and designing test rigs to evaluate prototype performance.",
+            "start_date": "05/2016",
+            "end_date": "08/2016",
+            "duration_years": 0.25
+        },
+        {
+            "company": "CNPq (Scholarship)",
+            "position": "Materials Engineer Research Scholarship",
+            "description": "Researching properties and aerospace applications of DLC films on NITI60 alloy.",
+            "start_date": "08/2014",
+            "end_date": "06/2015",
+            "duration_years": 0.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Exchange program / Internship / Work",
+            "country": "Canada",
+            "institution_or_company": "University of Toronto Exchange Scholarship Program - Science Without Borders Canada",
+            "start_date": "09/2015",
+            "end_date": "08/2016",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Portuguese",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CAD: SpaceClaim 18, SolidWorks 2015, CATIA V5",
+            "CFD software: ANSYS 18.0, Fluent 16, CFX 18"
+        ],
+        "soft_skills": [
+            "Technical and regulatory analysis",
+            "Research of business opportunities",
+            "Aerodynamic design",
+            "Prototype development",
+            "Leadership and team management",
+            "Problem-solving",
+            "Innovation and strategic methodology"
+        ]
+    },
+    "other_interests_normalized": [
+        "Innovation and strategic methodology",
+        "Leadership",
+        "Design thinking for project management"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "OISE Group Canada",
+            "role": "Volunteer in planning events for the city of Toronto",
+            "duration": "07/2015 - 08/2016",
+            "description": ""
+        },
+        {
+            "organization": "Enactus Canada",
+            "role": "Research and development team member working on projects to improve community and environmental quality",
+            "duration": "10/2015 - 04/2016",
+            "description": ""
+        }
+    ],
+    "degree_years": 3.0,
+    "total_work_years": 3.67,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

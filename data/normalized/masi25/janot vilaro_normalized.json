@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Janot Vilaró Jolis",
+        "date_of_birth": "02/07/2003",
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": 22,
+        "email": "janot.vilaro@gmail.com",
+        "phone": "+34 688 861 589",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Physics Engineering",
+            "field": "Physics and Telecommunication Engineering-related topics",
+            "university": "Universitat Politècnica de Catalunya (UPC)",
+            "location": "Barcelona",
+            "year": "2021-present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Junior Researcher",
+            "description": "Full-time junior researcher on quantum optics for quantum information. Conducted theoretical calculations and computer simulations.",
+            "start_date": "15/01/2025",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Junior Researcher",
+            "description": "Part-time junior researcher on machine learning algorithms for crystal structure prediction. Developed a new code based on machine learning and genetic algorithms.",
+            "start_date": "10/23",
+            "end_date": "12/24",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship / Research",
+            "country": "France",
+            "institution_or_company": "Université Paris-Saclay Centre de Nanosciences et de Nanotechnologie (C2N)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Worked on quantum optics for quantum information with the TONIQ team, directed by Dr. Kamel Bencheikh.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship / Erasmus+",
+            "country": "United States of America (USA)",
+            "institution_or_company": "",
+            "start_date": "2019-2021",
+            "end_date": "",
+            "description": "Studied at Oakland Technical High School, California. Received certificates for academic excellence.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Catalan",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB and numerical optimization",
+            "Python",
+            "Fortran",
+            "C",
+            "Arduino",
+            "OpenMP",
+            "Linux-based environments and terminal interface",
+            "Document processing: LaTeX, Excel, Word"
+        ],
+        "soft_skills": [
+            "Curiosity",
+            "Perseverance",
+            "Creativity",
+            "Social",
+            "Rigorous",
+            "Committed"
+        ]
+    },
+    "other_interests_normalized": [
+        "Music - Classical and Flamenco guitar",
+        "Sports - Soccer, Mountainbiking, Tennis",
+        "Driving license",
+        "Motor boat license PNB",
+        "Sailing"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

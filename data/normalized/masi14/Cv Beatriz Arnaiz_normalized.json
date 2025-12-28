@@ -1,0 +1,114 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Beatriz Arnaiz Rodríguez",
+        "date_of_birth": "21/07/1987",
+        "gender": "female",
+        "age_reference_year": 2014,
+        "age": 27,
+        "email": "bea.arnaiz@gmail.com",
+        "phone": "+34 655 64 62 58",
+        "address": "C/Montfragle 2A, 1%a, 28030 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Engineering for an International Dimension (Ensam) and INSEEC Business School",
+            "field": "Engineering",
+            "university": "ENSAM Burdeos, ENSAM ParisTech - Institut National des Sciences Appliquées de Toulouse",
+            "location": "Burdeos & Paris",
+            "year": "2011/2012",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Industrial Engineering in Electrical Engineering (Specialization: Quality and Maintenance of Industrial Systems)",
+            "field": "Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2005/2010",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Scientific-Technical Bachillerato (Scientific and Technical High School)",
+            "field": "",
+            "university": "Colegio Sagrada Familia, Madrid",
+            "location": "Madrid",
+            "year": "2005",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "IDOM",
+            "position": "Engineering Project Engineer in the Electrical Discipline",
+            "description": "",
+            "start_date": "June 2012",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Laboratoire PIMM, ENSAM ParisTech (Paris)",
+            "position": "Master’s Final Project for Electricité de France (EDF)",
+            "description": "",
+            "start_date": "2010",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "France, Czech Republic, United Kingdom, USA",
+            "institution_or_company": "ENSAM Burdeos & Toulouse, ENSAM ParisTech - Institut National des Sciences Appliquées de Toulouse, Czech Technical University in Prague, Ecole des Mines ParisTech, Oxford Business English School, Universidad Politécnica de Madrid",
+            "start_date": "",
+            "end_date": "",
+            "description": "Study and exchange programs",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Mac OS, Windows and Office at advanced level",
+            "AutoCAD at intermediate level",
+            "Solid Edge at intermediate level",
+            "Smartplan Review at high level",
+            "DIALUX at high level",
+            "Ti PP 'Urbanpascal' at intermediate level",
+            "ETAP at intermediate level",
+            "MATLAB-Simulink at high level",
+            "Statgraphics at medium level"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Not provided in the CV text",
+            "role": "Not provided in the CV text",
+            "duration": "2010-2012",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI14",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.8
+}

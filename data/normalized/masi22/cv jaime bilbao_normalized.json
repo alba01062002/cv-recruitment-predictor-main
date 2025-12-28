@@ -1,0 +1,114 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jaime Bilbao",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": null,
+        "email": "m jaime.bilbao98@gmail.com",
+        "phone": "+34 626 446 838",
+        "address": "5, 28016 Madrid, Spain",
+        "LinkedIn": "linkedin.com/in/jbilbaocierva",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aerospace Engineering (Hons)",
+            "field": "Aerospace Engineering",
+            "university": "University of Bath",
+            "location": "UK",
+            "year": "2016 - 2021",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Azora Capital",
+            "position": "Independent Investment Manager",
+            "description": "Responsible for building a specialized private equity fund aimed towards companies contributing to the sustainable development goals. Research and valuation of different investment opportunities with interest on how sustainable measures will add value in the future.",
+            "start_date": "12/2021",
+            "end_date": "12/2025",
+            "duration_years": 4.0
+        },
+        {
+            "company": "Técnicas Reunidas",
+            "position": "Mechanical Engineer, Duqm Refinery Project",
+            "description": "Quality control of documentation provided by the rotary equipment suppliers. Prepared documentation and attended meetings between clients and suppliers to clarify and modify aspects of the design of some of the equipment being procured.",
+            "start_date": "03/2019",
+            "end_date": "06/2019",
+            "duration_years": 0.25
+        },
+        {
+            "company": "Ferrovial Agroman",
+            "position": "Design Engineer, Northern Line Extension Project",
+            "description": "Evaluated value engineering proposals with the objective of reducing cost of mechanical and electrical infrastructure. As part of quality control of the project was responsible for procuring the necessary documentation and information about the purchased electrical equipment being installed.",
+            "start_date": "06/2018",
+            "end_date": "02/2019",
+            "duration_years": 0.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "Japanese",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CAD (Inventor, Solid Edge)",
+            "CFD (Ansys CFX)",
+            "Matlab",
+            "Python"
+        ],
+        "soft_skills": [
+            "Hardworking",
+            "Eager to learn",
+            "Flexible",
+            "Enthusiastic"
+        ]
+    },
+    "other_interests_normalized": [
+        "Travelling",
+        "Skiing",
+        "Surfing",
+        "Motorsports",
+        "Gaming",
+        "Reading"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 4.92,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.5
+}

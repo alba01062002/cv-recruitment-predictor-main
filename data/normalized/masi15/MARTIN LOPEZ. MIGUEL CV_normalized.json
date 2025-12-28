@@ -1,0 +1,103 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Miguel Martín López",
+        "date_of_birth": "14/08/1990",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 25,
+        "email": "miguelmartinlopez90@gmail.com",
+        "phone": "+34 657466177",
+        "address": "c/Sabadell, 211, 3b, 28034 Madrid, España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Aeronáspacial",
+            "field": "Ciencias y Tecnologías Aeronáspaciales",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, España",
+            "year": "octubre 2013 - actualmente",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Ingeniería Técnica Aeronáutica",
+            "field": "Equipos y Materiales Aeronáuticos",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, España",
+            "year": "septiembre 2008 - marzo 2013",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "SENASA",
+            "position": "Área de Exámenes",
+            "description": "Mantenimiento y actualización de bases de datos de preguntas y exámenes de licencias de técnicos de mantenimiento de aeronaves (parte 66) y pilotos (parte FCL). Colaboración en el desarrollo y edición de la publicación 'Fundamentos de Electrónica' perteneciente a la colección de SENASA sobre EASA parte 66.",
+            "start_date": "mayo 2014",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Pinche Pinche Restaurant",
+            "position": "Camarero",
+            "description": "Trabajo en un restaurante pequeño pero con mucha clientela. El trato con los clientes me ayudó mucho a mejorar mi nivel de inglés.",
+            "start_date": "mayo 2013 - septiembre 2013",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Reino Unido",
+            "institution_or_company": "",
+            "start_date": "junio 2014",
+            "end_date": "febrero 2015",
+            "description": "Seis meses viviendo y trabajando en el Reino Unido.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MS Office (Word, Excel, PowerPoint, Outlook)",
+            "CATIA V5",
+            "Nastran-Patran",
+            "MATLAB",
+            "MS Project"
+        ],
+        "soft_skills": [
+            "Comunicación efectiva",
+            "Trabajo en equipo",
+            "Resolución de problemas",
+            "Adaptabilidad"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2014-2015",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "es",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.0
+}

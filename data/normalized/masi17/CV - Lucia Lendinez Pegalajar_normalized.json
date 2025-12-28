@@ -1,0 +1,140 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Lucía Lendínéz Pegalajar",
+        "date_of_birth": "24/10/1993",
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": 24,
+        "email": "lucialenpe@hotmail.com",
+        "phone": "+34 659022374",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor in Aerospace Engineering",
+            "field": "Aerospace engineering",
+            "university": "Universidad Carlos III de Madrid, RMIT University (Melbourne, Australia)",
+            "location": "Madrid, Melbourne, Australia",
+            "year": "2011-2015",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space Madrid",
+            "position": "Internship at Airbus Defence & Space Madrid",
+            "description": "Support at Airbus Derivatives A330MRTT in Service Support Management Department. Involvement with service bulletins, vendors bulletins and kits management, fleet availability, lean methodology, major in-service issues, A330MRTT and boom configuration projects, interfacing with other engineering departments, planning and follow-up of service documentation at ADS meetings.",
+            "start_date": "26 May 2015",
+            "end_date": "31 April 2016",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Defence & Space Madrid",
+            "position": "Internship at Airbus Defence & Space Madrid",
+            "description": "Support at Transport Services Quality Department. Involvement with management and control of procedural documentation, assessment of activities to contribute to the improvements and excellence, KPIs reporting and analysis.",
+            "start_date": "2 February 2015",
+            "end_date": "31 April 2015",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Australia",
+            "institution_or_company": "RMIT University (Melbourne, Australia)",
+            "start_date": "",
+            "end_date": "",
+            "description": "Minor in Aerospace Vehicles",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Exchange Program",
+            "country": "Finland",
+            "institution_or_company": "University of Oulu",
+            "start_date": "July - August 2011",
+            "end_date": "Gorey, Ireland. Academic Immersion High School",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Exchange Program",
+            "country": "Ireland",
+            "institution_or_company": "Gorey, Ireland. Academic Immersion High School",
+            "start_date": "July - August 2011",
+            "end_date": "Gorey, Ireland. Academic Immersion High School",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Exchange Program",
+            "country": "France",
+            "institution_or_company": "INSA Lyon",
+            "start_date": "18 April 2014",
+            "end_date": "28 April 2014",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus Program",
+            "country": "Spain, Slovakia, France",
+            "institution_or_company": "Universidad Carlos III de Madrid, Technical University of Kosice, INSA Lyon, University of Oulu",
+            "start_date": "1 April 2014 - 31 July 2015",
+            "end_date": "",
+            "description": "Fluids and thermal engineering department. Theoretical and numerical analysis of the effect of soluble surfactants exposed to capillary instability of liquid flows",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Abaqus Cae",
+            "Ansys Fluent",
+            "Catia Gasturb",
+            "Matlab",
+            "Sharepoint",
+            "Simulink",
+            "Solid Edge"
+        ],
+        "soft_skills": [
+            "Proactive and responsible person",
+            "High improvement capacity",
+            "Eager to learn"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Comunidad de Madrid",
+            "role": "Volunteering course participant",
+            "duration": "2014",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

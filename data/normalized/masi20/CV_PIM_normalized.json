@@ -1,0 +1,111 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Patricia Isla Martinez",
+        "date_of_birth": "07/06/1994",
+        "gender": "female",
+        "age_reference_year": 2020,
+        "age": 26,
+        "email": "patriciaisla94@hotmail.com",
+        "phone": "+34 619 81 13 70",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master of Science (MSC) in Industrial Engineering (Mechanics)",
+            "field": "Industrial Engineering (Mechanics)",
+            "university": "Escuela Técnica Superior de Ingenieros Industriales Universidad Politécnica de Madrid",
+            "location": "",
+            "year": "2017-2018",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor of Science (BS) in Industrial Engineering (Mechanics)",
+            "field": "Industrial Engineering (Mechanics)",
+            "university": "Escuela Técnica Superior de Ingenieros Industriales Universidad Politécnica de Madrid",
+            "location": "",
+            "year": "2017",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "INDRA Sistemas",
+            "position": "Pre-sales Engineer in Transport Department",
+            "description": "Developing economic and technical proposals, drafting budgets, cash flows, and technical documentation, leading the proposal realization and managing the involved team. Direct contact with customers and suppliers.",
+            "start_date": "06/2018",
+            "end_date": "12/2025",
+            "duration_years": 7.5
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+ programme",
+            "country": "Budapest, Hungary",
+            "institution_or_company": "Budapest University of Technology and Economics",
+            "start_date": "09/2017",
+            "end_date": "06/2018",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA V5",
+            "NX",
+            "Solid Edge",
+            "Microsoft Office",
+            "VBA",
+            "Microsoft Project",
+            "AutoCAD"
+        ],
+        "soft_skills": [
+            "Automation Studio",
+            "KUKA",
+            "CNC",
+            "Arduino",
+            "Edimpo",
+            "LabVIEW",
+            "Flexim",
+            "FEM"
+        ]
+    },
+    "other_interests_normalized": [
+        "New Technologies",
+        "Travel",
+        "Sports",
+        "Music"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Teaching Children (Mathematics, Chemistry, Physics, Technical Drawing)",
+            "duration": "2018-2023",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 7.5,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI20",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

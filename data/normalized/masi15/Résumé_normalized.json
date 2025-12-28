@@ -1,0 +1,73 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Álvaro Muoz Serrano",
+        "date_of_birth": "15/06/1993",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 22,
+        "email": "alvaromunoz930@gmail.com",
+        "phone": "+34 659 557 391",
+        "address": "c/ Inspector Juan Antonio Bueno, 11, 1 D, 28924 Alcorcón (Madrid)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Grado en Ingeniería Electrónica Industrial y Automática",
+            "field": "Electronics, Automation and Programming",
+            "university": "Universidad Carlos III",
+            "location": "Madrid, Spain",
+            "year": "2011-2023",
+            "duration_years": 10.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Veolia Servicios LeCam S.A.U.",
+            "position": "Prácticas Externas",
+            "description": "",
+            "start_date": "03/2015",
+            "end_date": "05/2015",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "C",
+            "C++",
+            "Java",
+            "Arduino programming",
+            "Ladder (Automation)",
+            "VHDL (Integrated circuits design)",
+            "Rapid (ABB Robotics)",
+            "Assembler language for microchip processors",
+            "3D design using Solid Edge"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.17,
+    "has_master": true,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.4
+}

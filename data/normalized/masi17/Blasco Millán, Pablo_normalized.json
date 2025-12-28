@@ -1,0 +1,105 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Pablo Blasco Millán",
+        "date_of_birth": "15/01/1988",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 29,
+        "email": "pabloblasco88@gmail.com",
+        "phone": "+34 606 167971 / +49 152 57703846",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Industrial Engineering",
+            "field": "Industrial Engineering",
+            "university": "University of Seville, Spain",
+            "location": "Seville, Spain",
+            "year": "2006-2012",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Volkswagen AG",
+            "position": "Project Manager",
+            "description": "Responsible for managing the construction of different pre-series models, mainly DKMS and DEFs, for all VW brands. Coordinating projects for different factories, defining project scope, objectives and milestones, estimating costs and risks, managing internal and external resources, leading technical meetings, and assuring quality through CMM and GOM results.",
+            "start_date": "05/2013",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Seat SA",
+            "position": "Trainee Program",
+            "description": "Trainee program with the aim of learning VW Group internal procedures through different seminaries. Responsibilities included project management of pre-series center products and analysis/optimization of model workshop capacity.",
+            "start_date": "02/2013",
+            "end_date": "05/2013",
+            "duration_years": 0.25
+        },
+        {
+            "company": "Endesa SA",
+            "position": "",
+            "description": "Planning of future energy requirements through analysis of previous periods, optimization of existing databases and benchmarking the obtained results.",
+            "start_date": "10/2012",
+            "end_date": "01/2013",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Exchange Program",
+            "country": "Germany",
+            "institution_or_company": "Ruhr-Universitát Bochum, Germany",
+            "start_date": "09/2010",
+            "end_date": "09/2011",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Erasmus",
+            "country": "Bochum, Germany",
+            "institution_or_company": "Ruhr-Universitát Bochum, Germany",
+            "start_date": "2010-2011",
+            "end_date": null,
+            "description": "Erasmus Exchange Program",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Excel",
+            "PowerPoint and Outlook: proficient user",
+            "ERP (Enterprise Resource Planning) Infor Worktop: proficient user",
+            "Catia V5 and DMU Navigator: intermediate user",
+            "Microsoft Access: basic user",
+            "Visual Basic and Matlab Programming: basic user"
+        ],
+        "soft_skills": [
+            "Project management",
+            "Communication and organizational skills",
+            "Willingness to travel or work abroad"
+        ]
+    },
+    "other_interests_normalized": [
+        "Cinema",
+        "Reading",
+        "Traveling",
+        "Sport (football, kitesurf, snowboard)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 2.5
+}

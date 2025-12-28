@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "rebeca experience jul. 2016 - currently feb. 2015 - mar. 2016 jul. 2014 - jul. 2015 nov. 2012 - jun. 2013 robles fernández rebeca.robles.fernandez@ gmail.com +(34) 655-870-011 http://linkedin.com/n/rebecarobles product development 8 risk control engineer alten on behalf of airbus defence & space planner of the following a400m work packages: energy, utilities & fuel, landing gear. attend high level engineering meetings, keeping planning up to date and identifying schedule conflicts or interdependence issues. responsible of keeping control of the budget (manpower) of these activities and their deviations in relation to the annual operational plan. give support to chief engineering office. aog (aircraft on ground) department support airbus defence & space procedure and performance analysis for developing new standardization and improvement measures within the three aircraft divisions of the department. definition, management and tracking of the results of these measures. participated in lean procedures such as a sqcdp panel, designing and reviewing kpls, ppss and kaizen meetings. also, designed and wrote several brds for the improvement of different systems and tools used in a day-to-day basis by the team. special final major project department of materials and aerospace production - etsia \"designing, modeling and monitoring a bi-stable composite airfoil\" morphing structures can adjust their properties to perform optimally under different operational conditions. specifically, bi-stable composite materials are a good alternative for morphing wing aircrafts. in the project modeled and produced a bistable composite airfoil surface with abaqus, studying both bi-stable shapes, snap-through and snap-back forces. a piezoelectric plate (mfc) was considered to activate the airfoil surface which was monitored with fiber optic sensors (fbgs). artificial vision lead juan de la cierva, fuve in charge of developing a target localization system plus the shape and text identifier, using simplecv/opencv and machine learning decision systems. \"juan de la cierva\" project develops an autonomous autogyro that participated in the 2013 student uas competition organized by auvsi (association for unmanned vehicles systems international). education mar. 2015 - dec. 2015 nov. 2014 2006 - 2014 2006 courses 2014-2015 nov. 2014 2014 2013-2014 2011 skills languages spanish english voluntary 2012-2013 master in professional development, gaia 4.0 universidad de alcala project management, business & finance, competence development, hr, marketing & communication. athens programme paristech - ecole nationale supérieure d'arts et métiers course of polymers and composites. major in aerospace engineering universidad politécnica de madrid - etsia distinction in \"materials resistance and \"environment thermodynamics final major project proposed and pending of honor distinction. technology baccalaureate ies antonio garcia bellido, leon graduated with honors. certification in project management by aeipro nato lecture series structural health monitoring of military vehicles nastran/patran course catia v5 advanced course lean manufacturing seminary by catedra eads fortran, python and matlab. linux ubuntu, office it and latex nastran/patran, abaqus stk, acecal, esacomp, myrtm sap, airnav, stilo, corep, sprint, smart native language full working proficiency c1 level (toefl ibt 102/120) university mentor universidad politécnica de madrid mentor of three first-year students. assisted them in their first year of university, explaining them university policies, helping them planning their studies, warning them about their foibles and tracking their results.",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI17"
+}

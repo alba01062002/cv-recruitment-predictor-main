@@ -1,0 +1,153 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francesco Lani",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": null,
+        "email": "francescolani@gmail.com",
+        "phone": "+39 3294009615",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Aeronautical Engineering",
+            "field": "Aerodynamics, Propulsion and Structure (APS)",
+            "university": "Sapienza University of Rome",
+            "location": "Rome",
+            "year": "2012-2015",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Bachelor's degree in Aerospace Engineering",
+            "field": "",
+            "university": "Sapienza University of Rome",
+            "location": "Rome",
+            "year": "2009-2012",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Scientific High School Degree",
+            "field": "",
+            "university": "G.B. Morgagni Scientific High School, Rome",
+            "location": "Rome",
+            "year": "2004-2009",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Motori360 (online magazine)",
+            "position": "Contributor",
+            "description": "",
+            "start_date": "2011-2012",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Sacro Cuore Center, Rome",
+            "position": "English Teacher for Refugees",
+            "description": "",
+            "start_date": "2012-present",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "International Voluntary Work (VIS), Luena, Angola",
+            "position": "Volunteer",
+            "description": "One-month voluntary experience in Angola with VIS - knowledge of the local culture and sharing of indigenous community values and lifestyle.",
+            "start_date": "2014",
+            "end_date": "12/2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Holiday Home Rental, Rome, Italy",
+            "position": "Waiter",
+            "description": "",
+            "start_date": "2012-2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Ariaperta Club, Pescasseroli, Italy",
+            "position": "Children's Entertainer",
+            "description": "",
+            "start_date": "2011",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Exchange Programme",
+            "country": "Spain",
+            "institution_or_company": "Universidad Politécnica de Madrid",
+            "start_date": "December 2013",
+            "end_date": "May 2014",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Design Build Fly Contest",
+            "country": "United States (Kansas)",
+            "institution_or_company": "American Institute of Aeronautics and Astronautics (AIAA)",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C1"
+        ],
+        [
+            "Portuguese",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB/Simulink",
+            "LaTeX",
+            "CATIA V5",
+            "Matlab (university course in Madrid)",
+            "C++ (programming and numerical methods university course)",
+            "Nastran/Patran"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Organizational Skills",
+            "Teamwork"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Voluntary Group FAI BEI Sogni (FBS)",
+            "role": "Supporting underage migrants in various ways in Rome.",
+            "duration": "2014-present",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ana Gonzalez Sainz",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2016,
+        "age": null,
+        "email": "ana.gonzalez.sainz@gmail.com",
+        "phone": "+34 626047946",
+        "address": "",
+        "LinkedIn": "es.linkedin.com/in/anagonzalezsainz",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería aeronáutica superior (intensificación en vehículos espaciales)",
+            "field": "ingeniería aeronáutica",
+            "university": "Universidad Académica Politécnica de Madrid",
+            "location": "",
+            "year": "2009-2015",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "GMV",
+            "position": "Beca de verano en gmv. optimización y estudio de un algoritmo de profesional robustez para el sistema de navegación por satélite galileo",
+            "description": "",
+            "start_date": "2015-06",
+            "end_date": "2015-08",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Swiftair SA",
+            "position": "Beca de ingeniería en swiftair sa. departamento de control de operaciones de mantenimiento",
+            "description": "",
+            "start_date": "2015-09",
+            "end_date": "2015-12",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Francia",
+            "institution_or_company": "Ecole Centrale Paris",
+            "start_date": "2013-09",
+            "end_date": "2014-05",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab",
+            "Fortran",
+            "Python",
+            "Ansys Fluent",
+            "Patran/Nastran",
+            "CATIA V5 - Dassault Systemes",
+            "STK-Agi",
+            "Esatan"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Monitora de verano en un campamento de la YMCA en Canadá",
+        "Coordinadora de la ong universitaria durante residencia de estudiantes",
+        "Balonmano y baloncesto femeninos",
+        "Diez años de estudios de piano"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "ONG universitaria durante residencia de estudiantes",
+            "role": "",
+            "duration": "2015-2016",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

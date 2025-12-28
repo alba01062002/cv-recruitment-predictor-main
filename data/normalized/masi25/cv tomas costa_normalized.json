@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Tomás Costa",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2025,
+        "age": null,
+        "email": "costto@outlook.com",
+        "phone": "+351 913 420 924",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/tomas-costa3/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BEng (Hons) Mechanical Engineering",
+            "field": "Mechanical Engineering",
+            "university": "Northumbria University",
+            "location": "Newcastle upon Tyne, UK",
+            "year": "2021-present",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus UK Filton",
+            "position": "Fuel Systems Engineering Intern",
+            "description": "Requirements management refined technical writing skills and attention to detail by authoring and editing requirement documents (e.g., equipment specifications) using Rational Doors, ensuring improved organisation of the requirement databases of the A321 and A350 aircraft programmes. Employed problem-solving skills when devising a strategy to deliver updated A350 fuel system requirements documentation ahead of type certification, ensuring timely approval.",
+            "start_date": "August 2023",
+            "end_date": "August 2024",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Portuguese",
+            "C2"
+        ],
+        [
+            "German",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "FEA (ABAQUS)",
+            "CAD (SolidWorks)",
+            "CFD (Star CCM+, ANSYS Fluent)",
+            "Matlab/Simulink",
+            "Rational Doors",
+            "Requirements management",
+            "System technical analysis",
+            "Knowledge management",
+            "Data analysis",
+            "Basic machining",
+            "Report writing"
+        ],
+        "soft_skills": [
+            "Self-motivation",
+            "Teamwork",
+            "Problem-solving",
+            "Leadership",
+            "Organisation"
+        ]
+    },
+    "other_interests_normalized": [
+        "Surfing",
+        "Amateur golfer",
+        "Endurance racing driver in the Citroën C1 Cup Portugal"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "CERAGES, S.A.",
+            "role": "Intern",
+            "duration": "June 2020 - August 2020",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI25",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

@@ -1,0 +1,118 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Andrea Grande de Dios",
+        "date_of_birth": "04/08/1993",
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": 24,
+        "email": "agrandedios@hotmail.com",
+        "phone": "+34 675349126",
+        "address": "c/ Guadamedina 21, 28670 Villaviciosa de Odón, Madrid",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Carlos III de Madrid, Leganés",
+            "location": "Leganés",
+            "year": "2015-2016",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's Degree in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Carlos III de Madrid, Leganés",
+            "location": "Leganés",
+            "year": "2015-2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's Degree in Technological Branch",
+            "field": "",
+            "university": "Everest College 'El Bosque', Villaviciosa de Odón",
+            "location": "Villaviciosa de Odón",
+            "year": "2011-2011",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Group",
+            "position": "Scholarship Holder - Software Developer",
+            "description": "Development and validation of a performance estimation software for the pneumatic system applied in A320, A330, A340, and A380 aircrafts. Participation in the single aisle sdn (system description note) actualization.",
+            "start_date": "05/2015",
+            "end_date": "07/2015",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Universidad Carlos III de Madrid, Leganés",
+            "position": "Research Assistant - Department of Fluid Mechanics",
+            "description": "",
+            "start_date": "02/2015",
+            "end_date": "06/2015",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship / Study",
+            "country": "United Kingdom",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "* English course at Dover College, England * English course at Christ College, Brecon * English Exchange Program course in Seattle, USA * English Exchange Program course in Sacramento, USA",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Solid Edge",
+            "MATLAB",
+            "Fluent",
+            "Abaqus",
+            "Proosis",
+            "Microsoft Office: Word, Excel, PowerPoint"
+        ],
+        "soft_skills": [
+            "Fast learning",
+            "Collaborative person",
+            "Tenacity in solving problems and conflicts",
+            "Ability to organize and plan events",
+            "Good communication skills",
+            "Negotiation efficiently",
+            "Persuasion in presentations and public speaking"
+        ]
+    },
+    "other_interests_normalized": [
+        "Semi-professional volleyball player",
+        "Scuba diver (Open Water Diver - PADI)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Comprehensive Rehabilitation Center (C.A.M.F) - Leganés",
+            "role": "Elderly Companion",
+            "duration": "2015-2016",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.5,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.2
+}

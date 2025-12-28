@@ -1,0 +1,135 @@
+{
+    "personal_information_normalized": {
+        "full_name": "David Simal Ros",
+        "date_of_birth": "31/12/1983",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 35,
+        "email": "davidsimalrosq@gmail.com",
+        "phone": "+34 676 74 90 83",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/davidsimalros/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Industrial Engineering in Energy Technologies (5 year degree)",
+            "field": "Energy, thermodynamic & fluid dynamic and aerospace",
+            "university": "Universidad Carlos III Madrid",
+            "location": "Madrid",
+            "year": "2009-2014",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Enterprise",
+            "position": "Engineer (8 years of experience)",
+            "description": "In transnational projects. Responsibilities include: handover to run mode, risk and schedule management.",
+            "start_date": "2009/01",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Cadtech Ibérica",
+            "position": "Project Manager (2015-Now)",
+            "description": "Service transition for ICT. Infrastructure and design change management.",
+            "start_date": "2015/01",
+            "end_date": "12/2018",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Cadtech Ibérica",
+            "position": "Method and Process Design Engineer (2011-2015)",
+            "description": "Business operational support on design data set, design-configuration, definition dossier scheduling.",
+            "start_date": "2011/01",
+            "end_date": "2015/12",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Sogeclair Aerospace",
+            "position": "A350XWB Program Configuration Engineer (2010-2011)",
+            "description": "Change note and change request implementation control, support on Ho config tasks.",
+            "start_date": "2010/01",
+            "end_date": "2011/12",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Cadtech Ibérica",
+            "position": "Engineering Design Consultant (2015)",
+            "description": "Nissan manufacturing solution, ultramagic solution for 3D aerostatic balloon printing.",
+            "start_date": "2015/01",
+            "end_date": "2015/12",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Gas Natural",
+            "position": "Internship (2009)",
+            "description": "Spain-France interconnection and future commodities markets, front office and system operator monitoring.",
+            "start_date": "2009/01",
+            "end_date": "2009/12",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "French",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA V5",
+            "MATLAB",
+            "Visual Basic .NET",
+            "Python",
+            "CFD Fluent",
+            "Gambit",
+            "MS Excel",
+            "Visual Basic"
+        ],
+        "soft_skills": [
+            "Agile Airbus GPP v6 configuration release process design data set definition dossier scheduling deviations A350XWB methods process CFD Fluent Gambit MATLAB Visual Basic .NET Python CATIA V5 English: fluent Spanish: native speaker French: A1 basic level"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 31,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

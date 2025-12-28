@@ -1,0 +1,101 @@
+{
+    "personal_information_normalized": {
+        "full_name": "David Méndez Heres",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": null,
+        "email": "davidmendezheres@hotmail.com",
+        "phone": "985530023, 635022376",
+        "address": "Avenida Alcalde José Fernandín N 32 3C, Piedras Blancas. C.P. 33450 Asturias",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Industrial",
+            "field": "Especialidad en Electricidad",
+            "university": "Universidad de Oviedo",
+            "location": "",
+            "year": "2008",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master en Prevención de Riesgos Laborales",
+            "field": "Especializado en Seguridad, Higiene Industrial y Ergonomía y Psicosociología Aplicada",
+            "university": "Heras Prevención",
+            "location": "",
+            "year": "2009",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Thyssenkrupp Airport Systems",
+            "position": "Desarrollador de Programas y Proyectos en Ingeniería",
+            "description": "Desarrollo del programa de control de autómata programable de las pasarelas de embarque, desarrollo del programa de gestión y monitorización de las pasarelas de embarque. Desarrollos de esquemas eléctricos, protocolos de inspección y documentación para apoyo a proyectos.",
+            "start_date": "03/2009",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Saint-Gobain Sekurit",
+            "position": "Desarrollador de Automatismos e Sistemas de Supervisión y Control en Ingeniería",
+            "description": "Desarrollo de automatismos industriales, sistemas de supervisión y control para líneas de producción, redes de comunicación de proceso y control, desarrollo del programa de funcionamiento y puesta en marcha de sistemas robotizados. Documentación para apoyo a proyectos, realización de pruebas de funcionamiento y puesta producción.",
+            "start_date": "04/2007",
+            "end_date": "04/2008",
+            "duration_years": 1.0
+        },
+        {
+            "company": "TSK Electricidad y Electrónica",
+            "position": "Trabajos de Mantenimiento en Departamento de Mantenimiento",
+            "description": "Trabajos de mantenimiento de sistemas eléctricos, electrónicos y automatismos en la factoría del Saint-Gobain R&D Center.",
+            "start_date": "Veranos 2004 y 2006",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Informática",
+            "C1"
+        ],
+        [
+            "C, c++",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "AutoCAD",
+            "SolidWorks",
+            "CATIA",
+            "Python"
+        ],
+        "soft_skills": [
+            "Desarrollo de Programas",
+            "Sistemas de Supervisión y Control",
+            "Documentación para Proyectos"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": false,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

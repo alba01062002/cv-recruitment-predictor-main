@@ -1,0 +1,104 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ramzi Bouderrah",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2023,
+        "age": null,
+        "email": "rbouderrah@gmail.com",
+        "phone": "+86 18909209592",
+        "address": "international students apartment, t27, northwestern polytechnical university, no.127, youyi west road, beilin district, xi'an 710072, shaanxi province, china",
+        "LinkedIn": null,
+        "Instagram": "@bouderrah ramzi",
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor in Aeronautical Engineering",
+            "field": "Aerospace engineering",
+            "university": "Northwestern Polytechnical University",
+            "location": "Xi'an, China",
+            "year": "2019-2023",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Royal Aeroclub of Marrakesh",
+            "position": "Intern",
+            "description": "Assisting in maintenance procedures in light aircrafts.",
+            "start_date": "10/2021",
+            "end_date": "01/2022",
+            "duration_years": 0.25
+        },
+        {
+            "company": "Northwestern Polytechnical University, Xi'an",
+            "position": "",
+            "description": "Programming control system of EVTOL aircraft. Dynamic modelling of a hybrid type EVTOL vehicle. Designing the controller of said vehicle. Simulation and certification. Integration of controls into the vehicle's hardware.",
+            "start_date": "02/2023",
+            "end_date": "06/2023",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Morocco",
+            "institution_or_company": "Elaraki Highschool, Marrakesh",
+            "start_date": "2018-2019",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Arabic",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Chinese",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB/Simulink",
+            "CAD softwares",
+            "PX4 development",
+            "Python programming"
+        ],
+        "soft_skills": [
+            "Practical problem solving",
+            "Teamwork",
+            "Leadership",
+            "Accountability"
+        ]
+    },
+    "other_interests_normalized": [
+        "Basketball"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "NPU International College",
+            "role": "Member and president of basketball operations",
+            "duration": "2023",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.58,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI23",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

@@ -1,0 +1,133 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Inés Escolano Andrés",
+        "date_of_birth": null,
+        "gender": "female",
+        "age_reference_year": 2016,
+        "age": null,
+        "email": "ines.escolano@gmail.com",
+        "phone": "+34 654 225 647",
+        "address": "c/ María Pedraza, n32, 1 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Industrial Electronics and Automation Engineering",
+            "field": "Industrial Electronics and Automation",
+            "university": "UNED Madrid",
+            "location": "Madrid, Spain",
+            "year": "2015-currently",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Aerospace Engineering Degree (Specialty in Aerospace Vehicles)",
+            "field": "Aerospace Engineering",
+            "university": "ETSAE Te of Madrid (UPM)",
+            "location": "Madrid, Spain",
+            "year": "2010-2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Scientific and Technical High School Diploma with Honours",
+            "field": "",
+            "university": "IES de Castellar",
+            "location": "Castellar del Vallés, Barcelona",
+            "year": "2008-2010",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Gestair Maintenance",
+            "position": "Production Support Engineer",
+            "description": "Planning, management and control of work orders; general control of production open/closed w.o. during maintenance performance; engineering of maintenance; supervision of files and maintenance records, prepare report and technical documentation; technical manager support on production tasks and maintenance engineering at Barajas Madrid Airport.",
+            "start_date": "09/2015",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Altran Innovation Spain",
+            "position": "Junior Consultant / Engineer (R&D Dept.)",
+            "description": "UAV Supersonic Target Project in cooperation with Altran India.",
+            "start_date": "08/2015",
+            "end_date": "09/2015",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Gestair Maintenance",
+            "position": "Intern Field Engineer",
+            "description": "Aircraft design, modifications, repairs and maintenance supporting tasks, highly related to hangar activities.",
+            "start_date": "03/2015",
+            "end_date": "08/2015",
+            "duration_years": 0.42
+        },
+        {
+            "company": "Airbus Defence & Space",
+            "position": "Programme Management Intern",
+            "description": "",
+            "start_date": "04/2014",
+            "end_date": "07/2014",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus Exchange",
+            "country": "Sweden",
+            "institution_or_company": "Linköping University",
+            "start_date": "08/2014",
+            "end_date": "01/2015",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalan",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Swedish",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "C++",
+            "Fortran",
+            "Visual Basics",
+            "Microsoft Office Package: Advanced Knowledge",
+            "CATIAVSB - 30-hour introducing course",
+            "EKL (Engineering Knowledge Language)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 7.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

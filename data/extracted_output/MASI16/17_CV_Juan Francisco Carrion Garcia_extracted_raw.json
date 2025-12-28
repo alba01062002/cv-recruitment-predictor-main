@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "juan francisco carrion garcia juanfracarrion@yahoo.es 686531804 dirección: calle la seda, n 5, 4 d, 30800 lorca (murcia) carnet de conducir b1 disponibilidad para viajar incorporación inmediata recién titulado en ing. industrial (espaa) y máster en mecatrónica (alemania, beca erasmus), interesado en electrónica y programación matemática. formacion academica 09/2009-03/2015 universidad politécnica de valencia, espaa. ingeniería técnica superior de industriales e especialidad: mecánica. e nota media final: 7.3/10 top 10% de los alumnos graduados en 2015. e proyecto final de carrera: modelado de un vehículo híbrido combinado e implementación de estrategias de control óptimo para su gestión energética. 10/2013-09/2014 universidad técnica de hamburg-harburg, alemania, master in mechatronics e como estudiante erasmus, realización de los dos primeros semestres del máster en mecatrónica, en el que destacan las asignaturas de optimal and robust control, electromechanics and contromechanics y finite and boundary element method. e nota media final: 8.5/10. practicas en proyectos de investigacion 09/2014-03/2015 centro de motores térmicos universidad politécnica de valencia asistente de investigación en el area de control: elaboración de estrategias de control (ejemplo, principio de mínimos de pontryagin) para reducir el consumo y emisiones contaminantes en vehículos híbridos de arquitectura combinada. dichas estrategias se programaban en matlab para su testeo en modelos informáticos, y c++ para bancos de pruebas. conocimientos de it office: ms office, openoffice, latex diseo gráfico: catia, pro/e, autocad programación: matlab, c/c++, python otros: photoshop, ansys idiomas inglés: alto. título eoi. familia estadounidense. espaol: lengua materna alemán: básico. a2 hamburger volkshochschule voluntariado y compromiso universitario 10/2013-09/2014 09/2012-07/2013 actividades y hobbies: miembro del equipo universitario de baloncesto de la tuhh, hamburgo, alemania equipo multicultural que participa en liga universitaria alemana. mentor en el buddy-program para alumnos internacionales, universidad politécnica de valencia, espaa apoyo a alumnos de intercambio erasmus en ámbitos de vivienda, idioma, planes de estudio e integración en la universidad. nadador en la categoria máster del club natación lorca, tomando parte en campeonatos a nivel regional y nacional. aficionado a la carrera a pie, compitiendo en pruebas populares de distancia media maratón o similares.",
+    "text_from_header": "JUAN FRANCISCO CARRION GARCIA",
+    "detected_language": "es",
+    "master_edition": "MASI16"
+}

@@ -1,0 +1,166 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Ricardo Antonio Blázquez Navarro",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": null,
+        "email": "r.blazqueznavarroo@gmail.com",
+        "phone": "+34697788906",
+        "address": "Calle Evaristo San Miguel n°13, Madrid 28008 Comunidad de Madrid (Spain)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in aeronautical engineering",
+            "field": "Aeronautical Engineering",
+            "university": "Universidad Carlos III de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2014-present",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's degree in aerospace engineering",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "year": "2010-2014",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "",
+            "field": "",
+            "university": "International Baccalaureate",
+            "location": "Albacete, Spain",
+            "year": "2008-2010",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "ITP Trent's Engines",
+            "position": "Intern in the Low Pressure Turbine Assembly Department",
+            "description": "Implemented lean processes through tools control and assembly plans reorganization.",
+            "start_date": "Feb 2014",
+            "end_date": "May 2014",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Stay in a host family, enrolled in an English course",
+            "country": "UK",
+            "institution_or_company": "",
+            "start_date": "Jul 2006",
+            "end_date": "Jul 2007",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Stay in a host family, enrolled in an English course",
+            "country": "UK",
+            "institution_or_company": "",
+            "start_date": "Jul 2008",
+            "end_date": "Jul 2008",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "10-day exchange program at home of exchange partner",
+            "country": "Germany",
+            "institution_or_company": "",
+            "start_date": "Mar 2007",
+            "end_date": "May 2008",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "10-day exchange program at home of exchange partner",
+            "country": "Germany",
+            "institution_or_company": "",
+            "start_date": "Jul 2008",
+            "end_date": "Jul 2008",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "10-day exchange program at home of exchange partner",
+            "country": "Germany",
+            "institution_or_company": "",
+            "start_date": "Jun 2009",
+            "end_date": "Jun 2009",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "10-day exchange program at home of exchange partner",
+            "country": "Norway",
+            "institution_or_company": "",
+            "start_date": "Oct 2009",
+            "end_date": "Oct 2009",
+            "description": null,
+            "duration_years": 0.0
+        },
+        {
+            "type": "Interrail through Eastern Europe",
+            "country": "Multiple countries in Eastern Europe",
+            "institution_or_company": "",
+            "start_date": "Jul 2012",
+            "end_date": "Aug 2012",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "CATIA (well versed)",
+            "MATLAB (well versed)",
+            "AMPL (intermediate)",
+            "GASTURB (well versed)",
+            "PROOISIS (well versed)",
+            "Nastran (basic)"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Reading",
+        "Travelling",
+        "Practicing origami",
+        "Practicing sports (tennis, football, judo, ski)"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Part of music, electronics, and sport commissions",
+            "duration": "2014-2015",
+            "description": ""
+        }
+    ],
+    "degree_years": 9.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

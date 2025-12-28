@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "perfil graduado en ingeniería aeroespacial con gran interés en el cálculo de aeronaves, tanto en el ámbito aerodinámico, propulsivo o estructural me gusta el modelado 3d, esencial para poder realizar pruebas con software numérico. espíritu competitivo con la participación en numerosos campeonatos nacionales de piraguismo. el mi trabajo de fin de grado, realicé un estudio en el que simulaba el comportamiento fluido de un ala en condiciones de crucero y su deformación. contacto teléfono: +34-682398984 sitio web: linkedin.com/in/jorge-casadevante/ correo electrónico: jorgefdezde gmail.com aficiones tecnología ciclismo simuladores automovilismo bricolaje jorge a. fernández de casadevante barrio ingeniero técnico aeroespacial educación grado en ingeniería aeroespacial septiembre 2016 - febrero 2021 estudio de grado en la universidad de león, con la especialidad en aeromotores. delegado de clase durante los dos últimos aos y participación en la junta de la escuela. bachillerato septiembre 2014 julio 2016 estudios de bachillerato en el colegio erain lkastetxea en la rama científica. centro en el cual se potenciaba el trilinguismo y el trabajo en equipo. experiencia laboral y cursos ejército del aire / becario en prácticas 1 julio 2019 30 agosto 2019 experiencia laboral dentro del ala 14 en un grupo de supervisión de mantenimiento del eurofighter typhoon. universidad de león / curso en mecánica de fluidos computacional 10 febrero 2020 - 14 febrero 2020 (25 horas) curso de introducción al uso de openfoam y el uso del centro de supercomputación de la universidad de león (scayle). universidad de león / curso en simuladores de vuelo febrero 2019 abril 2019 (150 horas) curso teórico completo de piloto en aviación comercial, con prácticas en simuladores de la universidad de baron 58 y b737. aptitudes visual studio/c#/wpf ansys/openfoam matlab autocad/fusion360 inglés miscrosoft office",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI21"
+}

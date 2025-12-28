@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Smateos Blanco",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": null,
+        "email": "smateos004@gmail.com",
+        "phone": "687598815 e @ 944610508",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's Degree in Telecommunication Technology Engineering",
+            "field": "Electronic Systems Specialization",
+            "university": "Escuela Técnica Superior de Ingeniería, Bilbao",
+            "location": "Bilbao",
+            "year": "",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Master's Degree in Telecommunication Engineering",
+            "field": "Electronic Systems Specialization",
+            "university": "Escuela Técnica Superior de Ingeniería, Bilbao",
+            "location": "Bilbao",
+            "year": "",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "P4Q Electronics S.L.",
+            "position": "Design Engineer",
+            "description": "Electronic system design. Skills: Design specifications reception, schematic design, PCB design, component selection, connection to suppliers, functionality tests, DFT/DFM, EMC.",
+            "start_date": "November 2014 - June 2015",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Aula Tecnalia, Tecnalia Innovation and Research",
+            "position": "Internship in Aula Tecnalia",
+            "description": "Support development of a Cooperative Vehicular Communication System within Intelligent Transportation Systems (ITS). Skills: Standard implementation, IEEE 802.11p, ITS, embedded system programming, CAM/DM.",
+            "start_date": "May 2013 - July 2014",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "Aula Tecnalia, Tecnalia Innovation and Research",
+            "start_date": "May 2013 - July 2014",
+            "end_date": "",
+            "description": "Support development of a Cooperative Vehicular Communication System within Intelligent Transportation Systems (ITS).",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Altium Designer",
+            "OrCAD (Capture, PSpice, PCB Editor)",
+            "Xilinx ISE, Vivado",
+            "PSim",
+            "Agilent ADS",
+            "Solid Edge",
+            "Matlab/Simulink",
+            "Wolfram Mathematica",
+            "C, C++",
+            "Java",
+            "Microsoft Dynamics NAV",
+            "Microsoft Project",
+            "Opnet Modeler",
+            "Latex",
+            "Microsoft Office"
+        ],
+        "soft_skills": [
+            "MATLAB",
+            "Simulink",
+            "Programming",
+            "Management"
+        ]
+    },
+    "other_interests_normalized": [
+        "Not specified",
+        "Driving License (Full)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.6
+}

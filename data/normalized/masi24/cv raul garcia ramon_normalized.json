@@ -1,0 +1,144 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Raúl García Ramón",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2024,
+        "age": null,
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": "https://www.linkedin.com/in/raulgarciaramon/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Industrial Electronics",
+            "field": "Electrical Engineering",
+            "university": "University of Granada",
+            "location": "Granada, Spain",
+            "year": "2020-2021",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's in Elektrotechnik",
+            "field": "Electrical Engineering",
+            "university": "Technical University of Carl von Wilhelmina zu Braunschweig",
+            "location": "Germany",
+            "year": "2018-2019",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor's in Industrial Electronics",
+            "field": "Electrical Engineering",
+            "university": "University of Granada",
+            "location": "Granada, Spain",
+            "year": "2015-2020",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "BayWa r.e.",
+            "position": "Junior Operations and Maintenance Engineer in Solar Parks - South Region",
+            "description": "Responsibilities include preventive and corrective maintenance of solar parks, including electrical part from DC to AC, communication systems, surrounding and land areas of the park, cleaning, supplier and subcontractor contact... Weekly follow-up with clients through performance reports and incidents. Management of a 400 MW portfolio distributed across 10 solar parks in Granada, Málaga, and Murcia.",
+            "start_date": "06/2023",
+            "end_date": "12/2025",
+            "duration_years": 2.5
+        },
+        {
+            "company": "Avanzalia Energía",
+            "position": "Operations and Maintenance Engineer",
+            "description": "Responsible for project implementation and follow-up of autoconsumption photovoltaic projects. Tasks include: Market Operator Ibérico de Energía (OMIE) operations, energy purchase and sale in daily and intraday markets to reduce deviation costs and increase benefits.",
+            "start_date": "04/2022",
+            "end_date": "11/2022",
+            "duration_years": 0.58
+        },
+        {
+            "company": "Capgemini Engineering",
+            "position": "Engineering Technician",
+            "description": "Full member of the Capgemini group, Capgemini engineering is a global leader in engineering and R&D services. Supports key industry players in the development of products and services from concept to industrialization.",
+            "start_date": "12/2021",
+            "end_date": "04/2022",
+            "duration_years": 0.33
+        },
+        {
+            "company": "Greening Ingeniería Civil y Ambiental S.L.",
+            "position": "Electronics Engineer",
+            "description": "Research in renewable energy, batteries, BMS for use in the hyperloop prototype train.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Mega2 Seguridad S.L.",
+            "position": "Security Auxiliary",
+            "description": "Worked as a security auxiliary during my degree studies.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Germany",
+            "institution_or_company": "Technical University of Carl von Wilhelmina zu Braunschweig",
+            "start_date": "04/2019",
+            "end_date": "03/2020",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "PSpice and LTSpice",
+            "C/C++",
+            "Arduino",
+            "Python",
+            "PVSyst",
+            "Eagle/Altium",
+            "VHDL",
+            "Quartus",
+            "AutoCAD"
+        ],
+        "soft_skills": [
+            "Latex",
+            "Word",
+            "Excel",
+            "PowerPoint"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "2019-2021",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 3.41,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI24",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.8
+}

@@ -1,0 +1,104 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Francisco Qener López Rodríguez",
+        "date_of_birth": "25/07/1990",
+        "gender": "male",
+        "age_reference_year": 2016,
+        "age": 26,
+        "email": "fraloprodggmail.com",
+        "phone": "+34 663410969",
+        "address": "C/ Inocentes 21, 41003 Sevilla (España)",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Industrial Engineer Specialized in Electrical Engineering",
+            "field": "Electrical Engineering",
+            "university": "Escuela Técnica Superior de Ingeniería (University of Sevilla)",
+            "location": "Sevilla",
+            "year": "2008-2014",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Group",
+            "position": "Quality Conformance & Improvement Manager at Program A400M Sogeclair Aerospace",
+            "description": "Root cause analysis, definition & follow up of CCAA to be performed in the framework of the quality improvement plan. Support in SP1 to all areas (airframe, ground system test & flight line): administrative incidences, bottle necks, defectology research per area etc. Analysis of non-conformity sheets raised to assess the impact on the line and launch improvement processes aimed at solving repetitive issues. Follow up of EQS, PRS & retrofit PRS in order to check possible blocking operations for different milestones during the aircraft assembly process.",
+            "start_date": "09/2014",
+            "end_date": "03/2015",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Airbus Group",
+            "position": "Product Quality Engineering Trainee at En Airbus Defense & Space Air France",
+            "description": "Tracking of task closure by quality using SAP and internal tools. Periodic analysis of non-conformities, classifying by root cause and origin. Calculate and report the monthly KPI (Key Process Indicator) for the program. Creation and maintenance of the Customer Protection Board (CPD). Definition of KPI for Quality Excellence and implementation of the Quality SQCDP. Coordination and chairing of the PPS sessions (Practical Problem Solving). Revision & update of the skill matrix for blue collars in A400M and corresponding certifications, to determine trainings needed. Documental support in military authority audits & inspections.",
+            "start_date": "03/2015",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "Spain",
+            "institution_or_company": "IDENER S.L.",
+            "start_date": "null",
+            "end_date": "",
+            "description": "Research the state of art of the existing technologies regarding microbial fuel-cells (MFCS). Design of distributed control system (DCS) for the pilot plant (biodigestor and MFC). Report results and generate documentation of innovative solutions for the partners.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Russian",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SAP (SP1, R/3, PAC)",
+            "CATIA V5",
+            "Sipla",
+            "Matlab",
+            "PowerWorld",
+            "Pspice",
+            "Primes",
+            "Citrix"
+        ],
+        "soft_skills": [
+            "Team working",
+            "Fast-learning",
+            "Hard-working",
+            "Problem-solving skills",
+            "Professionalism",
+            "Goal-oriented"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "en",
+    "master_edition": "MASI16",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

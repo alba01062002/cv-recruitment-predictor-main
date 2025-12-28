@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alexandre Dominguez",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2021,
+        "age": null,
+        "email": "alexdominguezmiguezo@gmail.com",
+        "phone": "+58 4242334170",
+        "address": "",
+        "LinkedIn": "in/alexandredm-aeronautica",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería eléctrica",
+            "field": "Ingeniería eléctrica, informática, aeronáutica y de aeropuertos",
+            "university": "Universidad Metropolitana",
+            "location": "Venezuela",
+            "year": "2018-2021",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Pelikan Flight School Venezuela",
+            "position": "Piloto comercial y privado",
+            "description": "",
+            "start_date": "2018",
+            "end_date": "12/2021",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Aerotécnica Venezolana S.A.",
+            "position": "Encargado de operaciones de vuelo",
+            "description": "Recabar y suministrar información a los pilotos relacionada con el vuelo, como planes de vuelo, pronósticos meteorológicos, condiciones de aeropuertos, etc.",
+            "start_date": "2018",
+            "end_date": "2021",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Global Programador de sistemas",
+            "position": "Programador de sistemas",
+            "description": "Diseño e implementación de soluciones digitales. Soporte técnico, gestión de incidencias.",
+            "start_date": "2018",
+            "end_date": "2021",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Transporte Europa Express Venezuela",
+            "position": "Ingeniero eléctrico de mantenimiento industrial",
+            "description": "Definición y puesta en marcha de los planes preventivos y correctivos del sistema eléctrico. A cargo de la instalación y mantenimiento de energías alternativas.",
+            "start_date": "2015",
+            "end_date": "2020",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Portuguese",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Python",
+            "C++",
+            "MATLAB",
+            "Arduino",
+            "Zelio",
+            "MS Office"
+        ],
+        "soft_skills": [
+            "Organizado",
+            "Resolutivo",
+            "Optimización de procesos",
+            "Mejora continua"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 3.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI21",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

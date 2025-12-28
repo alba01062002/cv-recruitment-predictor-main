@@ -1,0 +1,135 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Diego García Requena",
+        "date_of_birth": "30/09/1999",
+        "gender": "male",
+        "age_reference_year": 2022,
+        "age": 23,
+        "email": "dgarciarequena@gmail.com",
+        "phone": "+34 628182348",
+        "address": "CEA Bermudez 16, Madrid 28003, Spain",
+        "LinkedIn": "https://www.linkedin.com/in/dgarciarequena/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BEng Aerospace Systems Engineering with Pilot Studies",
+            "field": "Aerospace Systems Engineering",
+            "university": "University of Hertfordshire",
+            "location": "Hertfordshire, United Kingdom",
+            "year": "2018-2021",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Private Pilot License (PPL)",
+            "field": "",
+            "university": "Northwestern Michigan College",
+            "location": "United States",
+            "year": "June 2017 - July 2018",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Foundation Year in Earth and Environmental Science, Industrial Engineering, Supply Chain Engineering",
+            "field": "",
+            "university": "Jacobs University Bremen",
+            "location": "Bremen, Germany",
+            "year": "2017-2018",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Spanish Bachillerate (High School)",
+            "field": "",
+            "university": "Escola Internacional del Camp",
+            "location": "Salou, Spain",
+            "year": "2015-2017",
+            "duration_years": 2.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "IATA",
+            "position": "Standardization Management Intern",
+            "description": "Standardization of operating procedures and models under business process modeller tool, CRM management with Salesforce, accreditation updates of different markets around the globe. Subject matter expert for one of IATA's own products.",
+            "start_date": "02/2022",
+            "end_date": "12/2022",
+            "duration_years": 0.83
+        },
+        {
+            "company": "Summum Design",
+            "position": "3D Modelling and Render Assistant Intern",
+            "description": "Receiving 3D model architecture drawings from Allplan Nemetschek, producing professional renders for commercial purposes.",
+            "start_date": "07/2020",
+            "end_date": "08/2020",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Team Rota",
+            "position": "Event Recruitment Agency Team Member (Customer Assistant, Hospitality Jobs and Bar Tending)",
+            "description": "Working in a variety of roles including customer assistant, hospitality jobs, and bar tending.",
+            "start_date": "08/2017",
+            "end_date": "07/2018",
+            "duration_years": 0.92
+        },
+        {
+            "company": "Hotel Mas Passamaner",
+            "position": "Event Sales Coordinator",
+            "description": "Organizing and planning events such as weddings, business meetings, and showrooms. Preparing workforce schedules and maintaining contact with clients.",
+            "start_date": "06/2017",
+            "end_date": "08/2017",
+            "duration_years": 0.17
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Germany",
+            "institution_or_company": "Jacobs University Bremen",
+            "start_date": "2017-2018",
+            "end_date": "",
+            "description": "Foundation Year in Earth and Environmental Science, Industrial Engineering, Supply Chain Engineering.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB (Simulink)",
+            "CATIA",
+            "SolidWorks",
+            "Allplan Nemetschek",
+            "AutoCAD",
+            "Allplan Nemetschek",
+            "Google Search",
+            "Social Networks",
+            "Digital Training Portals"
+        ],
+        "soft_skills": [
+            "Project Management",
+            "CRM Management with Salesforce",
+            "Event Coordination",
+            "Customer Service",
+            "Bar Tending",
+            "Team Leadership",
+            "Agile Methodology (Scrum)"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 4.0,
+    "total_work_years": 2.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI22",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

@@ -1,0 +1,132 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Alejandro Cabeza de Vaca",
+        "date_of_birth": "04/12/1991",
+        "gender": "male",
+        "age_reference_year": 2018,
+        "age": 27,
+        "email": "alejandro.cabezadevaca@gmail.com",
+        "phone": "+34 622 25 72 65",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Professional Development",
+            "field": "Not specified",
+            "university": "Universidad de Alcalá de Henares (Spain)",
+            "location": "Spain",
+            "year": "June 2015",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor of Science in Industrial Engineering Technologies, Specialized in Mechanical Engineering and Manufacturing Technologies",
+            "field": "Industrial Engineering",
+            "university": "Universidad de Cádiz (Spain)",
+            "location": "Spain",
+            "year": "September 2014 - September 2018",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Operations, SL (on behalf of ALten)",
+            "position": "Project Management Officer (PMO)",
+            "description": "Successful projects hand-over to plant production and negotiation of financial terms for the arrival of workload. Responsibilities included daily leading a transversal multi-functional team of 16 and project management deliverables.",
+            "start_date": "01/2017",
+            "end_date": "07/2017",
+            "duration_years": 0.5
+        },
+        {
+            "company": "Airbus Operations, SL (on behalf of ALten)",
+            "position": "Project Management Officer (PMO)",
+            "description": "Negotiation of financial terms for the arrival of workload and successful passing of G5 milestone gate. Responsibilities included project management deliverables and cost control.",
+            "start_date": "11/2015",
+            "end_date": "12/2016",
+            "duration_years": 1.08
+        },
+        {
+            "company": "Airbus Operations, SL (on behalf of ALten)",
+            "position": "Programme Manager Trainee",
+            "description": "Supporting the Puerto Real plant programme team in various projects.",
+            "start_date": "11/2014",
+            "end_date": "11/2015",
+            "duration_years": 1.0
+        },
+        {
+            "company": "Carbures, SL",
+            "position": "Manufacturing Engineer Trainee",
+            "description": "Supporting the local enterprise resource planner with parts numbers and manufacturing processes.",
+            "start_date": "05/2014",
+            "end_date": "09/2014",
+            "duration_years": 0.33
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "German",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MS Office",
+            "MS Project",
+            "CATIA V5",
+            "MS Outlook",
+            "AutoCAD"
+        ],
+        "soft_skills": [
+            "Leading",
+            "Steering",
+            "Negotiation",
+            "Communication",
+            "Speech"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 2.91,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 5.0
+}

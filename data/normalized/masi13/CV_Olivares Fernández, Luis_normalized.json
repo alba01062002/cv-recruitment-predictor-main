@@ -1,0 +1,99 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Luis Olivares Fernández",
+        "date_of_birth": "11/09/1986",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 27,
+        "email": "lolivaresfer@gmail.com",
+        "phone": "+34650774031",
+        "address": "Doctor Esquerdo 39, C., Madrid, P.C. 28028, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "BSc/MSc in Telecommunications Engineering",
+            "field": "Telecommunications Technology Management and Bio-engineering Intensification",
+            "university": "Universidad Politécnica, Madrid (Spain)",
+            "location": "Madrid, Spain",
+            "year": "2010-2013",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "AXPE Consulting",
+            "position": "Junior Manager of the Industrial & Energy Business Department",
+            "description": "Management of existing accounts and staff, searching for new customers, cold calls, searching & designing new opportunities and project offers. Proyecto tracking, business partner function between software factory and clients. Technology consulting, big data state of art.",
+            "start_date": "01/2012",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Internship",
+            "country": "France",
+            "institution_or_company": "Accenture",
+            "start_date": "10/2010",
+            "end_date": "08/2011",
+            "description": "Project EV OCC (France Telecom-Orange call center evolution): Working for the largest project of Accenture Spain IT department in 2011. Migration and redesign of the structure of call centers of France Telecom Spain. Maintaining database of internal incidents, web design for universe handling (business intelligence). Using as is analysis, transformation strategies and standards upgrade, to be architecture characterization, operations procedures redesign and effective migration to the new platform. Using ICM and Avaya technologies.",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "France",
+            "institution_or_company": "Accenture",
+            "start_date": "",
+            "end_date": "",
+            "description": "Summer 2010 (4 months): Renewable energies consulting in Ess. Renewable energies consulting. Specializing in biomass, cogeneration and photovoltaic.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Java",
+            "HTML",
+            "C",
+            "Matlab",
+            "SQL",
+            "ODBC",
+            "SAP R3",
+            "Windows, Linux and Microsoft Office"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [
+        "Guitar player for 4 years",
+        "Rugby player since 2000",
+        "Amateur painter",
+        "Monitor in summer camp in Dun Laoghaire, Ireland",
+        "Captain in Under-18 Albacete Rugby Club",
+        "Senior rugby club captain & coach at Covarrubias College, Madrid",
+        "Under 16 Valencia selection (2 caps)"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 3.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 3.1
+}

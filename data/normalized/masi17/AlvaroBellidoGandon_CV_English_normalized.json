@@ -1,0 +1,102 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Álvaro José Bellido Gándón",
+        "date_of_birth": "07/01/1993",
+        "gender": "male",
+        "age_reference_year": 2017,
+        "age": 24,
+        "email": "alvaro.bellidogandon@gmail.com",
+        "phone": "+34 609 43 4827, +34 956 33 58 91",
+        "address": "Hércules, Jerez de la Frontera, Cádiz, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master in Professional Development 4.0",
+            "field": "Professional Development",
+            "university": "University of Alcalá",
+            "location": "Spain",
+            "year": "2014-2015",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Bachelor Degree in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Warsaw University of Technology, Poland and Universidad de Cádiz, Spain (taught in English and Spanish respectively)",
+            "location": "Poland, Spain",
+            "year": "2011-2015",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence and Space",
+            "position": "Internship - A400M Ordering and Deliveries",
+            "description": "Responsible for special parts requested by Fal AOG urgency, leadership and cooperation for internal projects in TOPLS, internal focal point for discrepancies invoices in TOPLS. Detailed achievements: procurement introduction, status of art, synergies analysis, chain value, working processes, KPLs, workshops among different departments to harmonize and improve the way of working, evaluation and communication of results, actions implementation, new flows put in place, registration of hits, new way of working in a procedure, adherence to the new way of working.",
+            "start_date": "02/2016",
+            "end_date": "12/2017",
+            "duration_years": 1.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus+",
+            "country": "Poland",
+            "institution_or_company": "Warsaw University of Technology",
+            "start_date": "2014-2015",
+            "end_date": "",
+            "description": "Lectures and exams received in English",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office",
+            "CATIA V5",
+            "SAP",
+            "SU2",
+            "OpenOffice",
+            "Linux",
+            "XFOIL",
+            "AVL",
+            "Python",
+            "ANSYS",
+            "MATLAB",
+            "AutoCAD Inventor"
+        ],
+        "soft_skills": [
+            "teamwork",
+            "critical and self-critical capacity",
+            "self-learning",
+            "flexibility",
+            "proactivity",
+            "ability to work in a changing environment"
+        ]
+    },
+    "other_interests_normalized": [
+        "animal welfare",
+        "economic empowerment",
+        "science and technology",
+        "environment"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 1.83,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.4
+}

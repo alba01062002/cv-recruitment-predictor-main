@@ -1,0 +1,119 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Andrea Maderi",
+        "date_of_birth": "01/04/1993",
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": 26,
+        "email": "andrea.maderigoicloud.com",
+        "phone": "+34 644 306 976 (+39 348 606 3943)",
+        "address": "Calle Capellanes, 20, 28902 Getafe, Madrid (Spain)",
+        "LinkedIn": "www.linkedin.com/in/andrea-maderi-a2151a150",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Decision Making and Innovation",
+            "field": "Decision Making and Innovation",
+            "university": "Universidad de Alcalá",
+            "location": "Spain",
+            "year": "2018-2023",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Aeronautical Engineering",
+            "field": "Aerospace Engineering",
+            "university": "Politecnico di Milano, Universidad Politécnica de Madrid (Double Degree Program)",
+            "location": "Italy and Spain",
+            "year": "2015-2018",
+            "duration_years": 3.0
+        },
+        {
+            "degree": "Aeronautical Engineering Specialization in Flight Mechanics and Systems",
+            "field": "Aerospace Engineering",
+            "university": "Politecnico di Milano, Universidad Politécnica de Madrid (Double Degree Program)",
+            "location": "Italy and Spain",
+            "year": "2016-2018",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Aeronautical Engineering Specialization in Aeronaves (Aircraft)",
+            "field": "Aerospace Engineering",
+            "university": "ETSIAE-Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio, Universidad Politécnica de Madrid",
+            "location": "Spain",
+            "year": "2012-2015",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Airbus Defence & Space System",
+            "position": "Intern Engineer in GSS & A/C Interfaces Department",
+            "description": "",
+            "start_date": "03/19",
+            "end_date": "12/2019",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study and Internship",
+            "country": "Italy, Spain, and possibly other countries due to international programs",
+            "institution_or_company": "Politecnico di Milano, Universidad Politécnica de Madrid, Universidad de Alcalá",
+            "start_date": "09/2012",
+            "end_date": "Present",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Italian",
+            "C2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Office",
+            "Matlab",
+            "SolidEdge, SolidWorks, Inventor",
+            "Ansys, GMAT, Nastran & Patran"
+        ],
+        "soft_skills": [
+            "Great ability to relate with people",
+            "Good technical communication skills",
+            "Ability to communicate effectively in three languages",
+            "Good team working abilities",
+            "Good organizational skills"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

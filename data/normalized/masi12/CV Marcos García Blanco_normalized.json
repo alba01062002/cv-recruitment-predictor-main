@@ -1,0 +1,111 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Marcos García Blanco",
+        "date_of_birth": "16/09/1987",
+        "gender": "male",
+        "age_reference_year": 2012,
+        "age": 25,
+        "email": "marcosgarci87@gmail.com",
+        "phone": "650-22-80-95, 91-475-43-66",
+        "address": "c/ Antonio López 113 8b, 28026 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería Superior Industrial",
+            "field": "Industrial Engineering",
+            "university": "Escuela Politécnica Superior UEM de Madrid",
+            "location": "Madrid",
+            "year": "2009-2011",
+            "duration_years": 2.0
+        },
+        {
+            "degree": "Ingeniería Técnica Industrial (Electricidad)",
+            "field": "Industrial Engineering (Electrical)",
+            "university": "Escuela Politécnica Superior Universidad Carlos III de Madrid",
+            "location": "Madrid",
+            "year": "2005-2008",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aeroconseil Ibérica",
+            "position": "Generación Eléctrica AC",
+            "description": "Estudio y solución de fallos en sistema de generación principal de aviones en servicio (A310/A320, A330/A340 y A300), reuniones telefónicas semanales con el suministrador americano de equipos para estudio de mejoras en el generador principal (IDG) y elaboración de notas técnicas de los principales equipos de generación eléctrica.",
+            "start_date": "04/2011",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Airbus Military, para la empresa MP",
+            "position": "Departamento de Ingeniería Eléctrica del Avión A330-MRTT",
+            "description": "Elaborando job cards (órdenes de producción) y dando soporte tanto a diseño como producción, apertura y disposición de ERCs (Event Record Card), obteniendo posible solución de las mismas a pie de avión junto con diseño y producción. Manejo de SAP, Sprint, EPD, SIDA, SIPLA, GD, ERS. Interpretación de planos tanto eléctricos como mecánicos e interpretación y explicación de retrabajados en avión al personal de producción.",
+            "start_date": "02/2009",
+            "end_date": "02/2011",
+            "duration_years": 2.0
+        },
+        {
+            "company": "Airbus Military",
+            "position": "Prácticas Académicas Externas",
+            "description": "Elaboración y definición de ensayos para el laboratorio de sistema de generación eléctrica del avión A400M y análisis de resultados (LTRS-Laboratory Test Request y tras-test result analysis). Soporte de ingeniería y logística de dicho laboratorio, trabajando físicamente con todos los equipos de generación eléctrica del avión y viendo problemas que les podían surgir durante las pruebas.",
+            "start_date": "10/2008",
+            "end_date": "09/2008",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Montero Proyectos y Telecomunicaciones S.A.",
+            "position": "Prácticas Académicas Externas",
+            "description": "Responsable de la realización de presupuestos tanto de obra antigua como de nueva construcción, modificación y revisión de proyectos tanto de media tensión (MT) como baja tensión (BT), visita a numerosas obras.",
+            "start_date": "07/2008",
+            "end_date": "09/2008",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Montero Proyectos y Telecomunicaciones S.A.",
+            "position": "Aprendiz",
+            "description": "Formación complementaria en la instalación eléctrica de un edificio.",
+            "start_date": "07/2006",
+            "end_date": "10/2006",
+            "duration_years": 0.25
+        }
+    ],
+    "international_experience_normalized": [],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab-Simulink",
+            "Microsoft Proyect",
+            "Statgraphics",
+            "AutoCAD",
+            "Diamdem",
+            "Catia V5 a nivel de visualización, product view",
+            "SAP"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": false,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI12",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.4
+}

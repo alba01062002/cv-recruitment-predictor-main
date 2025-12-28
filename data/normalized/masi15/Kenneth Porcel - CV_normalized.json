@@ -1,0 +1,138 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Kenneth Porcel",
+        "date_of_birth": "06/07/1983",
+        "gender": "male",
+        "age_reference_year": 2015,
+        "age": 32,
+        "email": "kenneth.porcel@gmail.com",
+        "phone": "+34649035267",
+        "address": "Calle 20th, Samaniego street, Madrid, 28022",
+        "LinkedIn": "https://es.linkedin.com/pub/kenneth-porcel/a/789/bab/",
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's degree in Aeronautical Engineering",
+            "field": "Aerodynamics, Telecommunications, Air Navigation Systems, Design of Procedures",
+            "university": "Universitat Politècnica de Catalunya (UPC) EETAC",
+            "location": "Castelldefels, Spain",
+            "year": "2002-2012",
+            "duration_years": 10.0
+        },
+        {
+            "degree": "Master's degree in Engineering",
+            "field": "Structures Stress and Fatigue Calculation, 3D Design",
+            "university": "Universitat Politècnica de Catalunya (UPC) ETSEIArt",
+            "location": "Terrassa, Spain",
+            "year": "2007-2010",
+            "duration_years": 3.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Aeropuertos Españoles y Navegación Aérea (AENA)",
+            "position": "Planning and Coordination of Technical Exploitation",
+            "description": "Planning and coordination of the technical exploitation of the air navigation service in Spain.",
+            "start_date": "10/2010",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Telstar Technologies",
+            "position": "Design Engineer in R&D Department",
+            "description": "3D design using SolidWorks 2010. Prototype building and implementation of necessary tests to compare calculated results with the obtained.",
+            "start_date": "07/2008",
+            "end_date": "04/2007",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Ingeniería y Sistemas para la Defensa de España (ISDEFE)",
+            "position": "Technical Assistance for Airport Systems Integration at the New Airport Terminal",
+            "description": "Technical assistance for the airport systems integration at the new airport terminal.",
+            "start_date": "10/2007",
+            "end_date": "06/2006",
+            "duration_years": 0.0
+        },
+        {
+            "company": "IMC Toys S.A.",
+            "position": "Product and Design Engineer",
+            "description": "3D design of radio controlled helicopters and airplanes using SolidEdge V20. Prototype building.",
+            "start_date": "10/2007",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Aeropuertos Españoles y Navegación Aérea (AENA)",
+            "position": "Air Navigation Operator",
+            "description": "Development of lost flight plans and establishment of ongoing communication with the Centre Flow Management Unit in Brussels to request improvements for slots or sporadic regulations.",
+            "start_date": "07/2009",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Engineering Transports",
+            "position": "Air Handling Engineering Technician",
+            "description": "Optimization of aircraft ground operations.",
+            "start_date": "06/2006",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Italy",
+            "institution_or_company": "Engineering Transports",
+            "start_date": "10/2007",
+            "end_date": "",
+            "description": "Optimization of aircraft ground operations.",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "Catalan",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "Italian",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "SolidWorks",
+            "SolidEdge",
+            "CATIA V5R18",
+            "Python (Basic knowledge)",
+            "ANSYS (Basic knowledge)"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Continuous Learning"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 29,
+    "detected_language": "en",
+    "master_edition": "MASI15",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}

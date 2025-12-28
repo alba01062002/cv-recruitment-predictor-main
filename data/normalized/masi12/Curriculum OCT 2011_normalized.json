@@ -1,0 +1,112 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Cristian Yuste de Lucas",
+        "date_of_birth": "09/04/1980",
+        "gender": "male",
+        "age_reference_year": 2012,
+        "age": 32,
+        "email": "cristian.y@hotmail.com",
+        "phone": "92 55 22 085, 687 456 382",
+        "address": "C/ Virgen de Lourdes n30 bajo Madrid (Madrid) 28027",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Technical Aeronautical Engineering Degree",
+            "field": "Aero-engines",
+            "university": "Polytechnics University of Madrid",
+            "location": "Madrid",
+            "year": "1998-2003",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "EADS Cassidian Air Systems",
+            "position": "MRO Production Engineer in charge of Engineering & mrb tasks",
+            "description": "In charge of engineering and MRB (Material Review Board) tasks within EADS Cassidian MRO & upgrade programs. Developed activities such as aircraft non-conforming material disposition, engineering studies requested by Cassidian customers, technical support for production department, and technical offers quotations coordinator.",
+            "start_date": "07/2010",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Airbus Military",
+            "position": "Services Contract Monitoring Manager",
+            "description": "Accountable for yearly services invoicing portfolio objective, followed up on services contracts performances and advised in negotiation of new services contracts.",
+            "start_date": "11/2009",
+            "end_date": "07/2010",
+            "duration_years": 0.67
+        },
+        {
+            "company": "Airbus Military",
+            "position": "Team Leader of Material Services Sales Department",
+            "description": "Accountable for yearly material sales portfolio and service satisfaction level improvement. Prepared and attended international follow-up meetings, managed personnel (eight people).",
+            "start_date": "10/2006",
+            "end_date": "11/2009",
+            "duration_years": 3.08
+        },
+        {
+            "company": "European Aeronautical and Defence Systems-Construcciones Aeronáuticas SA (EADS-CASA)",
+            "position": "Logistic Engineer of Material Services Initial Provisioning Department",
+            "description": "Elaborated and analyzed recommended spare part lists for different EADS-CASA products. Prepared and attended provisioning conferences with customers, elaborated and updated contractual documents.",
+            "start_date": "02/2004",
+            "end_date": "10/2006",
+            "duration_years": 2.67
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "French",
+            "A2"
+        ],
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Excel (high level)",
+            "SAP (user level)",
+            "Pelicano + spare parts recommendation tool: Opus 10 versions 5.0, 5.3 and 6.0",
+            "Several operative systems such as Windows 7, Microsoft XP (user level)",
+            "CATIA V5 (programming in C, C++, Java)"
+        ],
+        "soft_skills": [
+            "Flexible",
+            "Hard working",
+            "Responsible",
+            "Good team worker"
+        ]
+    },
+    "other_interests_normalized": [
+        "Cinema",
+        "Travelling",
+        "Riding a bicycle"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 23,
+    "detected_language": "en",
+    "master_edition": "MASI12",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.2
+}

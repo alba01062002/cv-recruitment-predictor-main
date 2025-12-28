@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "miguel calvo lostal zaragoza, spain, 50014 + micalostl14@gmail.com + +34 640250199 education lycee climatique rene billeres argelés-gazost, france lived in a boarding school in france for three years, september 2016 june 2019 completing most of my secondary education, gaining fluency in french and cultural immersion. ies pablo serrano zaragoza, spain bachibac: diplóme du baccalauréat général. mention trés bien. september 2019-june 2021 dual diploma program in spanish and french with high honors, enhancing bilingual communication skills. university of zaragoza zaragoza, spain b.sc. in telecommunications engineering. september 2021 june 2024 relevant coursework: electromagnetism and waves, digital signal processing, digital image processing, transmission lines, digital communications, radiation and propagation, electronics for communications. brno university of technology brno, czech republic b.sc. in telecommunications engineering (erasmus exchange) september 2024 june 2025 bachelor's thesis (starting february 2025): implementation and analysis of spectrum sharing techniques using gnu radio and cognitive radio in satellite communications, as part of esas spectrum sharing makerspace project. relevant coursework: methods of emc analysis, aerospace photonics, machine learning fundamentals, antennas & radio links, mobile communications. experience department of radio electronics brno, czech republic research assistant starting february 2025 e joining a research group focused on 5g technologies, exploring the integration of next-gen communication systems in real world applications. saica group zaragoza, spain it department internship, full-time june 2024 august 2024 e compiled and reviewed firewall rules and policies, delivering reports to optimize it infrastructure. e monitored server performance and cataloged unsupported servers to support it infrastructure migration. bares y detalles sl zaragoza, spain temporary october 2023 e provided bar service during the fiestas del pilar of zaragoza 2023 private math tutor zaragoza, spain e provided one-on-one tutoring to high school students, september 2022 june 2024 supporting exam preparation and academic improvement. leadership and activities taking action for young people bernburg, germany volunteer july 2023 e built and restore community spaces (e.g., daycare playground, youth club), fostering teamwork, leadership and construction skills during a 3-week workcamp. canfranc underground laboratory canfranc, spain visitor april 2022 e visited the canfranc underground laboratory with my high school to explore advanced physics research facilities (e.g. dark matter and neutrino detection). 18 international masterclass in particle physics zaragoza, spain institution: center for astro particles and high energy physics, university of zaragoza march 17,2022 e hands-on analysis with real large hadron collider (lhc) data and lectures with cern and european partner institutes. 24th world scout jamboree west virginia, usa participant july 2019 e engaged in leadership activities, cultural exchanges, and service projects in a global environment of 45,000 participants. e contributed to community service projects and activities as part of a 9-year membership in the scouts, focused on personal development and global citizenship. skills technical: matlab & simulink, javascript, ltspice, gns3, cst studio suite, python (neuronal networks), vhdl, c++ language: spanish: native, french: advanced, english: b2 fce cambridge (studying for c1 cae) laboratory: vector network analyzer, smith diagram, oscilloscope. additional courses e signal processing with matlab mathworks (7 hours) e wireless communications onramp mathworks (1 hour)",
+    "text_from_header": null,
+    "detected_language": "en",
+    "master_edition": "MASI25"
+}

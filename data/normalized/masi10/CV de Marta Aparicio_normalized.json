@@ -1,0 +1,108 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Marta Aparicio Martín de Loeches",
+        "date_of_birth": "24/07/1986",
+        "gender": "female",
+        "age_reference_year": 2010,
+        "age": 24,
+        "email": "martaamdl o gmail.com",
+        "phone": "652072251",
+        "address": "C/Puenteareas 18 8 izq. esc. izq., Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Estudiante de 5 curso de ingenieria de telecomunicación",
+            "field": "Ingeniería de Telecomunicación",
+            "university": "Universidad Politécnica de Madrid: E.T.S.I. Telecomunicación",
+            "location": "Madrid",
+            "year": "2004-2008",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "",
+            "description": "Monitora del laboratorio de electrónica de comunicaciones, ETSI Telecomunicación (2007/08)",
+            "start_date": "10/2007",
+            "end_date": "04/2009",
+            "duration_years": 1.5
+        },
+        {
+            "company": "",
+            "position": "Delegada de alumnos del último curso de la ETSI Telecomunicación",
+            "description": "Responsabilidad y liderazgo en la universidad (2009)",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "sStudy",
+            "country": "Alemania, Francia, Irlanda, Bélgica, Estados Unidos",
+            "institution_or_company": "Various (Studium, Tandem Kóln, Rennert bilingual)",
+            "start_date": "",
+            "end_date": "",
+            "description": "International travel and study abroad",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "B2"
+        ],
+        [
+            "French",
+            "B1"
+        ],
+        [
+            "German",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Matlab (nivel avanzado)",
+            "X-Wizard (nivel avanzado)",
+            "C++, Java (nivel medio)"
+        ],
+        "soft_skills": [
+            "Capacidad de comunicación y liderazgo",
+            "Habilidad para trabajar en equipo",
+            "Responsabilidad",
+            "Espiritu de equipo",
+            "Motivación",
+            "Buena adaptación a ambientes multiculturales"
+        ]
+    },
+    "other_interests_normalized": [
+        "Música",
+        "Leer",
+        "Viajar",
+        "Baloncesto"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Estudiantes sin fronteras",
+            "role": "Trabajo de cooperación social",
+            "duration": "2002-2004",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 1.5,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.9
+}

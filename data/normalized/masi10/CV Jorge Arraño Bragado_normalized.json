@@ -1,0 +1,109 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Jorge Arrao Bragado",
+        "date_of_birth": "11/07/1984",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 26,
+        "email": "arranno@hotmail.com",
+        "phone": "+34651117670 / +34913569175",
+        "address": "50 Peascales St. 4th floor, 28028 Madrid, Spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Telecommunications Engineering (7.16/10)",
+            "field": "Telecommunications Engineering",
+            "university": "University of Alcalá, Madrid",
+            "location": "Madrid",
+            "year": "2002-2009",
+            "duration_years": 7.0
+        },
+        {
+            "degree": "Bachelor of Engineering in Aeronautical and Electronic Engineering (Avionics) (Ord)",
+            "field": "Aerospace and Electronics Engineering",
+            "university": "University of Wales",
+            "location": "",
+            "year": "2007-2008",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "UTPL: Loja Private Technical University in Madrid",
+            "position": "MS Office and Windows Teacher",
+            "description": "Taught MS Office and Windows to students.",
+            "start_date": "10/2006",
+            "end_date": "05/2007",
+            "duration_years": 0.58
+        },
+        {
+            "company": "",
+            "position": "Tutor for a Second Year University Student in Electronics-Related Subjects",
+            "description": "Provided tutoring support to second year university students.",
+            "start_date": "07/2006",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "",
+            "position": "Tutor for High School Students in Mathematics, Physics, Technical Drawing and Basic Electronics",
+            "description": "Taught high school students in various subjects.",
+            "start_date": "09/2004",
+            "end_date": "07/2007",
+            "duration_years": 2.83
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Canada, Wales",
+            "institution_or_company": "Language Studies International Toronto (English), National Open College Network, Wales (English)",
+            "start_date": "06/2008, 07/2005",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "B2"
+        ],
+        [
+            "Mandarin chinese",
+            "A1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB programming",
+            "Adobe Photoshop, Premiere, Acrobat, Director and Lingo",
+            "C, C++, CH and Java programming languages"
+        ],
+        "soft_skills": [
+            "Intermediate English course (C1 level)",
+            "Certificate of continuing education (English for professional purposes intermediate level)",
+            "General French course"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 10.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 25,
+    "detected_language": "en",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.4
+}

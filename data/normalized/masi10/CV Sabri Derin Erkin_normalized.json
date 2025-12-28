@@ -1,0 +1,133 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sabri Derin Erkin",
+        "date_of_birth": "15/07/1984",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 26,
+        "email": "derinerkin2@yahoo.com",
+        "phone": "+34627847526",
+        "address": "calle gladiolo no: 1, piso 1b, getafe, madrid / España",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's in Materials Science and Engineering",
+            "field": "Materials Science and Engineering",
+            "university": "Universidad Carlos III Madrid",
+            "location": "Leganés, Spain",
+            "year": "2008-2009",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "",
+            "field": "Metallurgical and Materials Engineering",
+            "university": "Yildiz Technical University",
+            "location": "İstanbul, Turkey",
+            "year": "2002-2006",
+            "duration_years": 4.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Multiplan Yalitim Sistemleri San. Tic. A.S.",
+            "position": "Production Engineer",
+            "description": "Production of impermeable membranes by PVC extrusion, quality control and R&D of composite panels, thermoplastic membranes.",
+            "start_date": "01/2009",
+            "end_date": "12/2025",
+            "duration_years": 10.0
+        },
+        {
+            "company": "Honda Motor Co., Ltd. Türkiye (HTR)",
+            "position": "Production Assistant",
+            "description": "Production line assistant, production control, quality control of vehicles, vehicle assembly line and delivery pre-inspection.",
+            "start_date": "07/2006",
+            "end_date": "09/2006",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Galsan Plastik ve Kalip San. A.S.",
+            "position": "",
+            "description": "Production of plastic parts by injection molding for the automotive sector.",
+            "start_date": "04/2006",
+            "end_date": "06/2006",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Doker Yat Sanayi ve Ticaret A.S. Doker Industria del Yate, S.A.",
+            "position": "",
+            "description": "Design and construction of masts via welding techniques including MIG, MAG, TIG, installation of navigation lights, transponders, fog lamps, and similar devices on aluminum masts.",
+            "start_date": "02/2006",
+            "end_date": "04/2006",
+            "duration_years": 0.17
+        },
+        {
+            "company": "Asas Altiminyum Sanayi ve Ticaret A.S. Asas Industria del Aluminio, S.A.",
+            "position": "",
+            "description": "Thermal treatments, extrusion, quality control of the aluminum 6xxx series, hardening and cementation of steel pieces, nitriding methods and applications in steel molds.",
+            "start_date": "07/2005",
+            "end_date": "08/2005",
+            "duration_years": 0.08
+        },
+        {
+            "company": "Perfektiip Ambalaj Sanayi ve Ticaret A.S. Perfektúp Industria de Embalaje, S.A.",
+            "position": "",
+            "description": "Aluminum production: thermal treatments and formation of aluminum tubes for packaging.",
+            "start_date": "06/2003",
+            "end_date": "07/2003",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "Spanish",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "AutoCAD",
+            "Origin",
+            "MS Office (Word, Excel, PowerPoint)",
+            "Photoshop"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 10.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.8
+}

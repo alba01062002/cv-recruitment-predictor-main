@@ -1,0 +1,129 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Diego Marqués Grueso",
+        "date_of_birth": "07/08/1988",
+        "gender": "male",
+        "age_reference_year": 2013,
+        "age": 25,
+        "email": "diegomgrueso@gmail.com",
+        "phone": "677250100",
+        "address": "Santa Clara 1, 1% A, 42003, Soria",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniería de Telecomunicaciones",
+            "field": "Telecommunications Engineering",
+            "university": "E.T.S.I. Telecomunicación, Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "Ingeniería de Telecomunicaciones",
+            "field": "Telecommunications Engineering",
+            "university": "Escuela de Ingeniería y Arquitectura, Universidad de Zaragoza",
+            "location": "Zaragoza",
+            "year": "2006-2012",
+            "duration_years": 6.0
+        },
+        {
+            "degree": "Nivel intermedio inglés",
+            "field": "",
+            "university": "Escuela Oficial de Sistemas de Telecomunicación, Zaragoza",
+            "location": "Zaragoza",
+            "year": "2011-2012",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Ceder-Ciemat",
+            "position": "Becario",
+            "description": "Instalación de sistema de detección de intrusiones e instalación de sistema de gestión de red basado en SNMP.",
+            "start_date": "07/2010",
+            "end_date": "08/2010",
+            "duration_years": 0.08
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus",
+            "country": "Denmark",
+            "institution_or_company": "Danmarks Tekniske Universitet",
+            "start_date": "",
+            "end_date": "",
+            "description": "No specific details provided",
+            "duration_years": 0.0
+        },
+        {
+            "type": "Internship",
+            "country": "United States",
+            "institution_or_company": "Seattle",
+            "start_date": "",
+            "end_date": "",
+            "description": "No specific details provided",
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Windows",
+            "Linux",
+            "Microsoft Office",
+            "Wireshark",
+            "Adobe Acrobat",
+            "Adobe Photoshop",
+            "Adobe Premiere",
+            "Rhinoceros",
+            "Mikrotik RouterOS",
+            "Pascal",
+            "C/C++",
+            "Matlab",
+            "VHDL",
+            "Assemble (x86)",
+            "LaTeX",
+            "OpenCV",
+            "OpenGL"
+        ],
+        "soft_skills": [
+            "Work in teams and integration in international environments",
+            "Leadership and organizational abilities"
+        ]
+    },
+    "other_interests_normalized": [
+        "Other personal interests not specified",
+        "Automotive"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "Amigos de Muro",
+            "role": "Presidente (2009) Vocal (2008)",
+            "duration": "2008-2009",
+            "description": ""
+        }
+    ],
+    "degree_years": 7.0,
+    "total_work_years": 0.08,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 7.8
+}

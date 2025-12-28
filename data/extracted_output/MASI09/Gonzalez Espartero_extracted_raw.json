@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "full_name": "",
+        "date_of_birth": "",
+        "age": "",
+        "gender": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "languages": [],
+    "education": [],
+    "work_experience": [],
+    "hard_and_soft_skills": {
+        "hard_skills": [],
+        "soft_skills": []
+    },
+    "other_interests": [],
+    "volunteering": [],
+    "raw_text": "francisco josé gonzález espartero dirección: c/ esgrima, 6 1 madrid 28012 teléfono: 618 16 33 75 correo electrónico: cyberesparg hotmail.com fecha de nacimiento: 18 octubre 1978 dni: 47037919 k formación académica 2005-2009 ingeniero aeronáutico, especialidad vehículos espaciales por la universidad politécnica de madrid 1999-2005 ingeniero técnico aeronáutico, especialidad aeronaves por la universidad politécnica de madrid 1992-1999 técnico especialista en telecomunicaciones formación profesional (2 ciclo) colegio la inmaculada (pp. escolapios) getafe formación extra académica 5 2006 técnico especialista en análisis de estructuras aeroespaciales. método de elementos finitos. confinado por el fondo social europeo duración: 164 horas 2004-2005 becario erasmus. proyecto fin de estudios, en suecia título del proyecto: parameterization of control surfaces in catia duración: 10 meses 2004-2005 finite element method. por linkóping institute of technology duración: 62 horas 2004 curso msc.patran msc.nastram. modelización de estructuras por elementos finitos. por ud aeronaves, misiles y resistencia de materiales 2004 curso catia v5-r13. por ud expresión gráfica. duración: 60 horas 2003 duración y mantenimiento de estructuras aeronáuticas. impartido por personal de iberia duración: 40 horas (aprox.) experiencia laboral 2008 2003-2004 idiomas a 2008 2004-2005 2003 informática a becario del grupo de investigación ucm - cam. desarrollo de códigos en matlab para resolución de problemas mediante el método de los elementos de contorno grupo: modelización y simulación en materiales y nanotecnología duración: 6 meses (25 horas semanales) departamento de control de calidad en aries complex. convenio en prácticas. duración: 2 meses curso de inglés en newcastle (inglaterra) duración: 1 mes (3 horas diarias) estancia en suecia como becario erasmus. cursando clases y realizando el proyecto fin de carrera en ingles, duración: 10 meses curso de inglés en limerick (irlanda) duración: 1 mes (3 horas diarias) e programas de diseo gráfico: catia y autocad e lenguajes de programación: visual basic 6.0, c/c++ y fortran e programas de cálculo de estructuras: patran/nastran e programas de cálculo: matlab, maple y microsoft excel e otros programas: labview, simulink, pspice otros datos de interés g e carné de conducir b e disponibilidad inmediata",
+    "text_from_header": null,
+    "detected_language": "es",
+    "master_edition": "MASI11"
+}

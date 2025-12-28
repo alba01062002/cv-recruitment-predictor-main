@@ -1,0 +1,106 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Sampedro Rodríguez, Fátima María",
+        "date_of_birth": "14/04/1988",
+        "gender": "female",
+        "age_reference_year": 2013,
+        "age": 25,
+        "email": "sampedrorodriguez@hotmail.com",
+        "phone": "+34 619678120",
+        "address": "c/ Joaquín María López, n 44, piso: 3, puerta: 18",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Ingeniero Aeronáutico",
+            "field": "Aerospace Engineering",
+            "university": "Universidad Politécnica de Madrid",
+            "location": "Madrid",
+            "year": "2006-2012",
+            "duration_years": 6.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "PFC: Análisis vibroacústico de satélites y colaboración en proyecto de investigación del satélite SEOSAT",
+            "description": "Estudio de métodos numéricos avanzados para el análisis dinámico de estructuras.",
+            "start_date": "",
+            "end_date": "",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "Ireland, France, United Kingdom",
+            "institution_or_company": "['Travel Ireland Ltd.', 'Alliance Française de Paris', 'Language Study Centres']",
+            "start_date": "December 2010, July 2005, July 2010",
+            "end_date": "December 2010, August 2005, August 2010",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "French",
+            "C1"
+        ],
+        [
+            "Portuguese",
+            "A2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "FORTRAN",
+            "MAPLE",
+            "Solid Edge CAD",
+            "Vaone Structural Analysis Software",
+            "Lean Manufacturing Techniques",
+            "Project Management for Startups",
+            "Technical Drawing"
+        ],
+        "soft_skills": [
+            "Teamwork",
+            "Multicultural and Multidisciplinary Adaptability",
+            "Critical Problem Synthesis and Analysis",
+            "Positive and Proactive Attitude",
+            "Communication and Organization Skills",
+            "Leadership and Planning"
+        ]
+    },
+    "other_interests_normalized": [
+        "Swimming"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "Participation in various artistic and sports competitions.",
+            "duration": "Awards for provincial swimming championships, national plastic arts and writing award (Peace-Solidarity-Tolerance), Friends Without Borders Artistic Contest Award",
+            "description": ""
+        }
+    ],
+    "degree_years": 6.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 24,
+    "detected_language": "es",
+    "master_edition": "MASI13",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 8.5
+}

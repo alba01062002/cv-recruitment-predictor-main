@@ -1,0 +1,105 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Elsa Gómez Martínez",
+        "date_of_birth": "28/11/1994",
+        "gender": "female",
+        "age_reference_year": 2017,
+        "age": 23,
+        "email": "elsagm3@gmail.com",
+        "phone": "(0034) 649147452",
+        "address": "Calle Santa Ana, 4 2b, Pinto, Madrid 28320",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor's in Telematics Engineering",
+            "field": "Engineering (Electronics and Telecommunications)",
+            "university": "Carlos III University of Madrid, School of Engineering",
+            "location": "Leganes",
+            "year": "2016-2012",
+            "duration_years": 5.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Personal Lessons Instructor",
+            "description": "Provided personal lessons on different levels.",
+            "start_date": "October 2016",
+            "end_date": "12/2025",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Airbus Defence and Space",
+            "position": "Intern in Reflector Antennas Area",
+            "description": "Worked for Airbus Defence and Space, specifically in the area of reflector antennas.",
+            "start_date": "July 2016",
+            "end_date": "May 2016",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Accent on You",
+            "position": "Intern at Banco Popular and Accenture S.L.",
+            "description": "Managed balance management tasks, worked part-time for 5 hours/day.",
+            "start_date": "May 2016",
+            "end_date": "January 2016",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Configuring equipment based on IEEE 802.11",
+            "Communications networks and services (protocol architecture, routing, congestion control)",
+            "Wireless networks and mobility in IP networks (specially in IPv6)",
+            "Advanced knowledge in programming techniques, Java, Android, SQL, Visual Basic, C languages, including concurrency management mechanisms",
+            "Management of several programs: Eclipse, Android Studio, SQL Server, among others",
+            "Management of mobile devices with Android OS and iOS",
+            "Employment PCs with Windows OS, Linux, and Mac OS with knowledge in their tools and console",
+            "Advanced knowledge in micro-computing tools (Word, PowerPoint, Pages...), as well as VBA Excel languages"
+        ],
+        "soft_skills": []
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [
+        {
+            "organization": "Invernia",
+            "role": "Training and practice of ice skating",
+            "duration": "April 2010 / September 2008",
+            "description": ""
+        }
+    ],
+    "degree_years": 5.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI17",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.4
+}

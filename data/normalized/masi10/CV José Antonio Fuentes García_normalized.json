@@ -1,0 +1,113 @@
+{
+    "personal_information_normalized": {
+        "full_name": "José Antonio Fuentes García",
+        "date_of_birth": "20/09/1981",
+        "gender": "male",
+        "age_reference_year": 2010,
+        "age": 29,
+        "email": "josea.fuentes@yahoo.es",
+        "phone": "856 21 90 39 / 647 05 52 55",
+        "address": "C/ Galera n8 3a, CP: 11100 San Fernando ( Cádiz )",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Técnico en Informática de Gestión",
+            "field": "",
+            "university": "Escuela Superior de Técnicos en Informática de Gestión, Universidad de Cádiz",
+            "location": "Cádiz",
+            "year": "2002-2009",
+            "duration_years": 7.0
+        },
+        {
+            "degree": "",
+            "field": "Ingeniería Informática",
+            "university": "Facultad de Ingeniería Informática, Universidad de Málaga",
+            "location": "Málaga",
+            "year": "2001-2002",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "Grupo Raxon (Madrid) Cádiz",
+            "position": "Técnico Microinformático",
+            "description": "Pluriempleo entre Raxon e Infasur, compaginando los horarios. Asistencia Helpdesk vía telefónica y in-situ por toda la provincia de Cádiz.",
+            "start_date": "01/07/2003",
+            "end_date": "01/01/2006",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Infasur Aeronáutica S.L. Puerto Real",
+            "position": "Técnico Informático",
+            "description": "Gran experiencia en la materia. Montajes y administrador de red LAN, montaje de servidor de aplicaciones y datos en Windows Server 2003, montaje y administración de servidor de correo, FTP, datos, etc., instalación de todo tipo de hardware y software y mantenimientos de ello.",
+            "start_date": "11/12/2006",
+            "end_date": "29/01/2007",
+            "duration_years": 0.0
+        },
+        {
+            "company": "FUECA",
+            "position": "Profesor, Tutor y Examinador ECDL",
+            "description": "Experiencia en la preparación del colectivo de desempleados de Delphi. Finalización de contrato al finalizar el curso de formación.",
+            "start_date": "15/12/2008",
+            "end_date": "15/01/2009",
+            "duration_years": 0.0
+        },
+        {
+            "company": "El Corte Inglés - Hipercor Cádiz",
+            "position": "Vendedor en Departamento de Informática, Imagen y Sonido",
+            "description": "Aumento de las ventas gracias a nuestra labor. Varios días como centro número uno en ventas en época navideña.",
+            "start_date": "03/01/2006",
+            "end_date": "16/03/2007",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Windows Server 2003",
+            "SAP",
+            "Sprin",
+            "Office (Word, Excel, Access, PowerPoint, FrontPage, Outlook)",
+            "Database Programming",
+            "Maintenance of Hardware and Software"
+        ],
+        "soft_skills": [
+            "Work Ethic",
+            "Responsibility",
+            "Ambition",
+            "Communication Skills"
+        ]
+    },
+    "other_interests_normalized": [],
+    "volunteering_normalized": [],
+    "degree_years": 8.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "es",
+    "master_edition": "MASI10",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 4.0
+}

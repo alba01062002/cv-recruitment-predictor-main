@@ -1,0 +1,135 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Maldren Joyce J",
+        "date_of_birth": "05/06/1996",
+        "gender": "female",
+        "age_reference_year": 2018,
+        "age": 22,
+        "email": "maldrenjoyce.chb@gmail.com",
+        "phone": "+91-9591425903",
+        "address": "#11/a, Mother Teresa Road, Mariyannapalya, H.A. Form Post, Bangalore-560024",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Bachelor of Engineering (Aeronautical)",
+            "field": "Aeronautical Engineering",
+            "university": "Srinivasa Visvesvaraya Institute of Technology",
+            "location": "Bangalore, India",
+            "year": "2013-2017",
+            "duration_years": 4.0
+        },
+        {
+            "degree": "PUC (Pre-University Certificate)",
+            "field": "",
+            "university": "Christel Karnataka",
+            "location": "India",
+            "year": "2012-2013",
+            "duration_years": 1.0
+        },
+        {
+            "degree": "SSLC (Secondary School Leaving Certificate)",
+            "field": "",
+            "university": "House India State Board",
+            "location": "Karnataka, India",
+            "year": "2010-2011",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "HAL (Aircraft Division), Bangalore",
+            "position": "",
+            "description": "",
+            "start_date": "MM/YYYY",
+            "end_date": "MM/YYYY",
+            "duration_years": 0.0
+        },
+        {
+            "company": "Aerotrix, Bangalore",
+            "position": "",
+            "description": "",
+            "start_date": "MM/YYYY",
+            "end_date": "MM/YYYY",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Study",
+            "country": "",
+            "institution_or_company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "English",
+            "C2"
+        ],
+        [
+            "Telugu",
+            "C1"
+        ],
+        [
+            "Kannada",
+            "C2"
+        ],
+        [
+            "Tamil",
+            "B2"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "Microsoft Word",
+            "Microsoft PowerPoint",
+            "Microsoft Excel",
+            "Solid Edge 2D Modelling",
+            "ANSYS",
+            "CFD Acusolve",
+            "MATLAB",
+            "Lathe",
+            "Drilling Machine",
+            "Shaper",
+            "Milling Machine"
+        ],
+        "soft_skills": [
+            "Good Planning Skills",
+            "Good Communication and Presentation Skills",
+            "Good Leadership Skills",
+            "Flexibility and Adaptability",
+            "Good Team Player",
+            "Opportunity Seeker",
+            "Willingness to Accept Challenges"
+        ]
+    },
+    "other_interests_normalized": [
+        "Listening to Music",
+        "Reading Novels"
+    ],
+    "volunteering_normalized": [
+        {
+            "organization": "",
+            "role": "",
+            "duration": "",
+            "description": ""
+        }
+    ],
+    "degree_years": 4.0,
+    "total_work_years": 0.0,
+    "has_master": false,
+    "has_international_experience": true,
+    "age_at_graduation": 21,
+    "detected_language": "en",
+    "master_edition": "MASI18",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 9.0
+}

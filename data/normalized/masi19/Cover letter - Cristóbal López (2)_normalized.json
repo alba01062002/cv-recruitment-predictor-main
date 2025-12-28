@@ -1,0 +1,143 @@
+{
+    "personal_information_normalized": {
+        "full_name": "Cristóbal López Callejón",
+        "date_of_birth": null,
+        "gender": "male",
+        "age_reference_year": 2019,
+        "age": null,
+        "email": "s%cristobalcallejon@hotmail.com",
+        "phone": "+34 648478217",
+        "address": "calle almazara n6, getafe (28903), madrid, spain",
+        "LinkedIn": null,
+        "Instagram": null,
+        "Twitter": null,
+        "website": null
+    },
+    "education_normalized": [
+        {
+            "degree": "Master's degree in Aeronautical Engineering",
+            "field": "Aerospace Engineering",
+            "university": "UC3M (Universidad Carlos III Madrid)",
+            "location": "Madrid, Spain",
+            "year": "Sep. 2017 - Current",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's degree & Bachelor thesis in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "TUB (Technische Universität Berlin)",
+            "location": "Berlin, Germany",
+            "year": "Sep. 2016 - Jul. 2017",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "Bachelor's degree in Aerospace Engineering",
+            "field": "Aerospace Engineering",
+            "university": "UPV (Universidad Politécnica de Valencia)",
+            "location": "Valencia, Spain",
+            "year": "Sep. 2013 - Jul. 2017",
+            "duration_years": 5.0
+        },
+        {
+            "degree": "",
+            "field": "Bachillerato Científico-Técnico",
+            "university": "IES Palmeral Vera, Almería, Spain",
+            "location": "Almería, Spain",
+            "year": "Sep. 2011 - Jun. 2013",
+            "duration_years": 1.0
+        }
+    ],
+    "work_experience_normalized": [
+        {
+            "company": "",
+            "position": "Karate Assistant Teacher",
+            "description": "Taught classes that my main teacher could not due to schedule incompatibility and led the preparation trainings for the championships of team mates.",
+            "start_date": "Sep. 2011",
+            "end_date": "Jun. 2013",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Collegiate Council of the Student Residence Galileo Galilei, Valencia - IT and Internal Affairs Coordinator",
+            "description": "Organized events for more than 250 resident students, resolved computer problems of residents (computer issues & wi-fi), and solved problems between residents and management.",
+            "start_date": "Sep. 2014",
+            "end_date": "Jun. 2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Euroavia Valencia Board Member",
+            "description": "Member of the team that set up the Euroavia branch in Valencia, leading marketing and organizing international events.",
+            "start_date": "Sep. 2014",
+            "end_date": "Jun. 2015",
+            "duration_years": 0.0
+        },
+        {
+            "company": "",
+            "position": "Participant - Estalmat (Estímulo del Talento Matemático)",
+            "description": "Selected group of 25 students in Andalucía by their logic and mathematical skills, attended mathematical classes at the University of Granada almost every Saturday.",
+            "start_date": "Sep. 2008",
+            "end_date": "Jun. 2011",
+            "duration_years": 0.0
+        }
+    ],
+    "international_experience_normalized": [
+        {
+            "type": "Erasmus / Internship / Work / Volunteering / Research / Study",
+            "country": "Germany",
+            "institution_or_company": "TUB (Technische Universität Berlin)",
+            "start_date": "",
+            "end_date": "Jul. 2017",
+            "description": null,
+            "duration_years": 0.0
+        }
+    ],
+    "languages_normalized": [
+        [
+            "Spanish",
+            "C2"
+        ],
+        [
+            "English",
+            "C1"
+        ],
+        [
+            "German",
+            "B1"
+        ]
+    ],
+    "hard_and_soft_skills_normalized": {
+        "hard_skills": [
+            "MATLAB",
+            "CATIA V5-Surfaces",
+            "CATIA V5-Solids",
+            "Python"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Teamwork",
+            "Social Skills",
+            "Public Speaking",
+            "Problem Solving",
+            "Communication",
+            "Organization"
+        ]
+    },
+    "other_interests_normalized": [
+        "Tennis (interprovincial level)",
+        "Piano (self-taught)",
+        "Karate (1st dan black belt)",
+        "Surfing"
+    ],
+    "volunteering_normalized": [],
+    "degree_years": 10.0,
+    "total_work_years": 0.0,
+    "has_master": true,
+    "has_international_experience": true,
+    "age_at_graduation": 22,
+    "detected_language": "en",
+    "master_edition": "MASI19",
+    "refined": true,
+    "processed_and_standardized": true,
+    "fit_score": 10.0
+}
