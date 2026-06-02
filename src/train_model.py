@@ -21,6 +21,12 @@ from sklearn.decomposition import TruncatedSVD
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+from imblearn.over_sampling import RandomOverSampler
+
+try:
+    from catboost import CatBoostClassifier
+except ImportError:
+    pass
 
 logger = logging.getLogger(__name__)
 if not logger.handlers:
@@ -45,7 +51,7 @@ def _load_edition(edition_dir: str):
     names = _read_feature_names(fn_path)
     return X, y, names
 
-def _align_concat(editions: List[str], features_root: str, mode: str, base_union: Optional[List[str]] = None):
+def _align_concat(editions: List[str], features_root: str, mode: str, base_union: Optional[List[str]] = None, allowed_sections: Optional[List[str]] = None):
     mats, labels, name_lists = [], [], []
     for ed in editions:
         ed_dir = os.path.join(features_root, ed, mode)
@@ -54,10 +60,30 @@ def _align_concat(editions: List[str], features_root: str, mode: str, base_union
 
     if base_union is None:
         union, seen = [], set()
+        # Normaliza allowed_sections a lowarcase si existe
+        if allowed_sections is not None:
+            allowed_set = set(s.lower() for s in allowed_sections)
+            
         for names in name_lists:
             for n in names:
-                if n not in seen:
-                    seen.add(n); union.append(n)
+                if n in seen: continue
+                
+                # FIltering Logic
+                if allowed_sections is not None:
+                    # Check prefix "section::"
+                    parts = n.split("::", 1)
+                    if len(parts) == 2:
+                        sec = parts[0].lower()
+                        if sec not in allowed_set:
+                            continue
+                    else:
+                        # No prefix (e.g. global dense features)
+                        # Assume they belong to "Dense Features" section or just "other"
+                        # For strictness, if no prefix, check if "dense features" is allowed
+                        if "dense features" not in allowed_set:
+                            continue
+
+                seen.add(n); union.append(n)
     else:
         union = list(base_union)
 
@@ -123,6 +149,76 @@ def _draw_cm(cm, title: str, hint_box: str, out_png: Optional[str]):
         fig.savefig(out_png, bbox_inches="tight")
     plt.close(fig)
 
+
+def analyze_model_features(model, feature_names: List[str], logs_dir: str, top_n: int = 20):
+    """
+    Identifies and logs the most important features for the model.
+    - LogisticRegression: Coefficients (Positive -> Class 1, Negative -> Class 0).
+    - LightGBM: Feature Importance (Gain/Split).
+    """
+    if hasattr(model, "steps"): # Pipeline (e.g., SVD)
+        # If SVD is present, we cannot easily map back to original features directly 
+        # without reversing the SVD projection, which is complex for interpretation.
+        # We will check if the last step is the classifier.
+        clf = model.steps[-1][1]
+        step0 = model.steps[0][1]
+        if isinstance(step0, TruncatedSVD):
+            logger.info("Feature importance skipped: SVD encoding makes direct feature mapping difficult.")
+            return
+    else:
+        clf = model
+
+    results = []
+    
+    # Logistic Regression / Linear SVM (coef_)
+    if hasattr(clf, "coef_"):
+        coefs = clf.coef_
+        if sp.issparse(coefs):
+            coefs = coefs.toarray()
+        
+        # Binary classification usually has shape (1, n_features)
+        if coefs.ndim > 1:
+            coefs = coefs[0]
+
+        if len(coefs) != len(feature_names):
+            logger.warning(f"Feature dimension mismatch: {len(coefs)} coefs vs {len(feature_names)} names.")
+            return
+
+        indices = np.argsort(coefs)
+        
+        # Top Negative (Class 0)
+        top_neg = indices[:top_n]
+        results.append("\n=== TOP FEATURES FOR CLASS 0 (REJECTED) ===")
+        for i in top_neg:
+            results.append(f"{feature_names[i]}: {coefs[i]:.4f}")
+
+        # Top Positive (Class 1)
+        top_pos = indices[-top_n:][::-1]
+        results.append("\n=== TOP FEATURES FOR CLASS 1 (ADMITTED) ===")
+        for i in top_pos:
+            results.append(f"{feature_names[i]}: {coefs[i]:.4f}")
+
+    # LightGBM/CatBoost (feature_importances_)
+    elif hasattr(clf, "feature_importances_"):
+        imps = clf.feature_importances_
+        if len(imps) != len(feature_names):
+            logger.warning(f"Feature dimension mismatch: {len(imps)} importances vs {len(feature_names)} names.")
+            return
+        indices = np.argsort(imps)[::-1] # Sort in descending order
+        
+        results.append(f"\n=== TOP IMPORTANT FEATURES ({type(clf).__name__}) ===")
+        for i in indices[:top_n]:
+            if imps[i] > 0: # Only include features with positive importance
+                results.append(f"{feature_names[i]}: {imps[i]:.4f}")
+
+    # Log to file
+    if results:
+        out_path = os.path.join(logs_dir, "feature_importance.txt")
+        with open(out_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(results))
+        logger.info(f"Feature importance saved to {out_path}")
+
+
 def train_model_all_editions(
     train_editions: List[str],
     test_editions: Optional[List[str]],
@@ -138,29 +234,33 @@ def train_model_all_editions(
     thr_min: float = 0.33,
     thr_max: float = 0.50,
     thr_step: float = 0.01,
-    svd_components: int = 0
+    svd_components: int = 0,
+    oversampling: bool = False,
+    allowed_sections: Optional[List[str]] = None
 ) -> Dict[str, Any]:
 
-    key = (vectorization_mode, tuple(sorted(train_editions or [])), tuple(sorted(test_editions or [])))
+    # Include allowed_sections in cache key
+    sec_key = tuple(sorted(allowed_sections)) if allowed_sections else None
+    key = (vectorization_mode, tuple(sorted(train_editions or [])), tuple(sorted(test_editions or [])), sec_key)
+    
     if key in _DATASET_CACHE:
         cache = _DATASET_CACHE[key]
         X_train = cache["X_train"]; y_train = cache["y_train"]
         X_test  = cache.get("X_test");  y_test = cache.get("y_test")
         logger.info(f"[{vectorization_mode}] Cached dataset ({len(train_editions)} train, {len(test_editions or [])} test)")
     else:
-        X_train, y_train, names_union = _align_concat(train_editions, features_root, vectorization_mode)
+        X_train, y_train, names_union = _align_concat(train_editions, features_root, vectorization_mode, allowed_sections=allowed_sections)
         if test_editions:
-            X_test, y_test, _ = _align_concat(test_editions, features_root, vectorization_mode, base_union=names_union)
+            X_test, y_test, _ = _align_concat(test_editions, features_root, vectorization_mode, base_union=names_union, allowed_sections=allowed_sections)
         else:
             X_test, y_test = None, None
         _DATASET_CACHE[key] = dict(X_train=X_train, y_train=y_train, X_test=X_test, y_test=y_test, names_union=names_union)
 
     if svd_components > 0 and X_train.shape[1] > svd_components:
-        pipeline = Pipeline([
+        final_estimator = Pipeline([
             ("svd", TruncatedSVD(n_components=svd_components, random_state=42)),
             ("clf", model)
         ])
-        final_estimator = pipeline
         logger.info(f"[{vectorization_mode}] SVD activado: {X_train.shape[1]} -> {svd_components} features.")
     else:
         final_estimator = model
@@ -173,16 +273,16 @@ def train_model_all_editions(
         X_tr, X_va = X_train[tr_idx], X_train[va_idx]
         y_tr, y_va = y_train[tr_idx], y_train[va_idx]
         
-        m_fold = clone(final_estimator)
-        m_fold.fit(X_tr, y_tr)
-        
-        if hasattr(m_fold, "predict_proba"):
-            oof_prob[va_idx] = m_fold.predict_proba(X_va)[:, 1]
-        elif hasattr(m_fold, "destination") and hasattr(m_fold.steps[-1][1], "predict_proba"): 
-             oof_prob[va_idx] = m_fold.predict_proba(X_va)[:, 1]
+        if oversampling:
+            ros = RandomOverSampler(random_state=42)
+            X_tr_res, y_tr_res = ros.fit_resample(X_tr, y_tr)
         else:
-             oof_prob[va_idx] = m_fold.predict_proba(X_va)[:, 1]
+            X_tr_res, y_tr_res = X_tr, y_tr
+            
+        m_fold = clone(final_estimator)
+        m_fold.fit(X_tr_res, y_tr_res)
         
+        oof_prob[va_idx] = m_fold.predict_proba(X_va)[:, 1]
         covered[va_idx] = True
 
     if (decision_threshold is None) or (isinstance(decision_threshold, str) and decision_threshold.lower() == "auto"):
@@ -191,8 +291,14 @@ def train_model_all_editions(
         thr_star = float(decision_threshold)
         ba_cv, tpr_cv, _fpr_cv, f1_cv, cm_cv = _metrics_at_threshold(y_train, oof_prob, thr_star)
 
+    if oversampling:
+        ros = RandomOverSampler(random_state=42)
+        X_train_res, y_train_res = ros.fit_resample(X_train, y_train)
+    else:
+        X_train_res, y_train_res = X_train, y_train
+
     final_model = clone(final_estimator)
-    final_model.fit(X_train, y_train)
+    final_model.fit(X_train_res, y_train_res)
 
     result: Dict[str, Any] = {
         "balanced_accuracy": float(ba_cv),
@@ -222,17 +328,18 @@ def train_model_all_editions(
         
         NAME_MAP = {
             "lgbmclassifier": "LightGBM",
+            "xgbclassifier": "XGBoost",
             "logisticregression": "Logistic Regression",
-            "randomforestclassifier": "Random Forest", 
             "svc": "SVM"
         }
 
-        if isinstance(final_model, Pipeline):
-            raw_name = final_model.steps[-1][1].__class__.__name__.lower()
-            joblib.dump(final_model, os.path.join(model_dir, f"recruitment_model_{raw_name}_svd.pkl"))
-        else:
-            raw_name = final_model.__class__.__name__.lower()
-            joblib.dump(final_model, os.path.join(model_dir, f"recruitment_model_{raw_name}.pkl"))
+        def get_model_name(estimator):
+            while isinstance(estimator, Pipeline):
+                estimator = estimator.steps[-1][1]
+            return estimator.__class__.__name__.lower()
+
+        raw_name = get_model_name(final_model)
+        joblib.dump(final_model, os.path.join(model_dir, f"recruitment_model_{raw_name}.pkl"))
 
         clf_title = NAME_MAP.get(raw_name, raw_name)
         clf_file  = raw_name
@@ -249,5 +356,11 @@ def train_model_all_editions(
              ba, tpr, f1p = result["test_balanced_accuracy"]*100, result["test_recall_pos"]*100, result["test_f1_pos"]*100
              hint = (f"TEST BA: {ba:.1f}%\nREC (1): {tpr:.1f}%\nF1 (1): {f1p:.1f}%\nthr*: {result['test_threshold']:.3f}")
              _draw_cm(result["test_cm"], f"Confusion Matrix (TEST, {vectorization_mode}, {clf_title})", hint, os.path.join(figs_dir, f"cm_test_{clf_file}.png"))
+
+        # Explainability Analysis
+        # Only if NOT using SVD (handled inside function)
+        if svd_components == 0 and "names_union" in _DATASET_CACHE[key]:
+             names = _DATASET_CACHE[key]["names_union"]
+             analyze_model_features(final_model, names, figs_dir)
 
     return result

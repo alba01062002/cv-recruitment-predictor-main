@@ -1,51 +1,41 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 17 10:02:22 2025
-
-@author: fran
-
-Test script to extract raw text from CVs in supported formats (PDF, DOCX, DOC, TXT, XML).
-Saves extracted data as JSONs in data/extracted_output/ for inspection.
-Supports multilingual CVs (Spanish/English) with debug prints for Spyder.
-"""
 import sys
 import os
 import json
 import nltk
 import tempfile
+import re
 import xml.etree.ElementTree as ET
 
-# Ensure sys.path includes the src folder to import extract.py
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), 'src')))
+# Define Project Root
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-# Import the extraction function
-from extract import extract_cv_information  # type: ignore
+# Add to sys.path to allow 'from src.X import Y'
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
 
-# Download NLTK data if not present (common failure point)
+from src.extract import extract_cv_information  # type: ignore
+
 try:
     nltk.data.path.append(os.path.expanduser("~/nltk_data"))
     nltk.download('punkt', download_dir=os.path.expanduser("~/nltk_data"), quiet=True)
 except Exception as e:
-    print(f"Warning: Failed to download NLTK 'punkt' due to {e}. Some text processing might be affected.")
+    print(f"Warning: Failed to download NLTK 'punkt': {e}")
 
-# --- Directory configuration ---
-raw_cv_dir = os.path.join("data", "raw")
-extracted_output_dir = os.path.join("data", "extracted_output")
+RAW_ROOT = os.path.join(PROJECT_ROOT, "data", "raw")
+OUT_ROOT = os.path.join(PROJECT_ROOT, "data", "extracted_output")
+os.makedirs(RAW_ROOT, exist_ok=True)
+os.makedirs(OUT_ROOT, exist_ok=True)
 
-# Create directories if they don't exist
-os.makedirs(raw_cv_dir, exist_ok=True)
-os.makedirs(extracted_output_dir, exist_ok=True)
-
-print(f"--- Running Extraction Test for CVs in '{raw_cv_dir}' ---")
+# acepta "MASI10", "MASI10_Becarios", "algo/MASI11_..." → devuelve "MASI10"/"MASI11"
+_EDITION_FLEX_RE = re.compile(r'(MASI(?P<yy>\d{2}))', re.IGNORECASE)
 
 def _xml_to_plain_text(path: str) -> str:
-    """Extrae texto plano de un XML (sin etiquetas)."""
     try:
         tree = ET.parse(path)
         root = tree.getroot()
         parts = []
-
         def walk(node):
             if node.text and node.text.strip():
                 parts.append(node.text.strip())
@@ -53,93 +43,95 @@ def _xml_to_plain_text(path: str) -> str:
                 walk(child)
             if node.tail and node.tail.strip():
                 parts.append(node.tail.strip())
-
         walk(root)
         return " ".join(parts).replace("  ", " ").strip()
     except Exception:
-        # fallback: abrir como texto por si es XML simple
         with open(path, "r", encoding="utf-8", errors="ignore") as f:
             return " ".join(f.read().split())
 
-# --- Process each CV in raw_cv_dir ---
+def _detect_edition_from_relpath(rel_path: str) -> str:
+    m = _EDITION_FLEX_RE.search(rel_path.replace(os.sep, '/'))
+    if m:
+        return f"MASI{m.group('yy')}"
+    return "UNKNOWN"
+
+print(f"--- Running Extraction Test (recursive) in '{RAW_ROOT}' ---")
+
 processed_count = 0
-for filename in os.listdir(raw_cv_dir):
-    file_path = os.path.join(raw_cv_dir, filename)
-
-    # Skip directories or system/temporary files
-    if not os.path.isfile(file_path) or filename.startswith('.'):
-        continue
-
-    # Filter by supported extensions (add .xml)
-    supported_extensions = ('.pdf', '.docx', '.doc', '.txt', '.xml')
-    if not filename.lower().endswith(supported_extensions):
-        if filename.endswith('.json'):
-            print(f"Skipping output file: {filename}")
+for root, _, files in os.walk(RAW_ROOT):
+    for filename in files:
+        if filename.startswith('.'):
             continue
-        print(f"Skipping unsupported file type: {filename}")
-        continue
+        ext = os.path.splitext(filename)[1].lower()
+        if ext not in ('.pdf', '.docx', '.doc', '.txt', '.xml'):
+            if filename.endswith('.json'):
+                print(f"Skipping output file: {filename}")
+                continue
+            print(f"Skipping unsupported file type: {filename}")
+            continue
 
-    # --- check if already processed ---
-    output_json_filename = os.path.splitext(filename)[0] + "_extracted_raw.json"
-    output_json_path = os.path.join(extracted_output_dir, output_json_filename)
-    if os.path.exists(output_json_path):
-        print(f"\nSkipping already processed file: {filename}")
-        continue
+        abs_path = os.path.join(root, filename)
+        rel_path = os.path.relpath(abs_path, RAW_ROOT)
+        edition = _detect_edition_from_relpath(rel_path)
+        base_name = os.path.splitext(os.path.basename(filename))[0]
 
-    print(f"\nProcessing file: {filename}")
+        out_dir = os.path.join(OUT_ROOT, edition)
+        os.makedirs(out_dir, exist_ok=True)
+        out_json = os.path.join(out_dir, base_name + "_extracted_raw.json")
 
-    temp_txt_path = None
-    try:
-        # Si es XML, conviértelo a texto y pásalo a extract_cv_information como .txt temporal
-        path_for_extractor = file_path
-        if filename.lower().endswith(".xml"):
-            plain = _xml_to_plain_text(file_path)
-            # crear txt temporal
-            with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as tf:
-                tf.write(plain)
-                temp_txt_path = tf.name
-            path_for_extractor = temp_txt_path
+        if os.path.exists(out_json):
+            print(f"\\nSkipping already processed file: {rel_path}")
+            continue
 
-        # Call the extraction function (igual que siempre)
-        extracted_data = extract_cv_information(path_for_extractor)  # type: ignore
-        processed_count += 1
+        print(f"\\nProcessing file: {rel_path}  (edition: {edition})")
 
-        # Print key results for debugging
-        print(f"  RAW TEXT (first 500 chars): {extracted_data.get('raw_text', '')[:500]}...")
-        if extracted_data.get('full_name_from_header'):
-            print(f"  DETECTED NAME FROM HEADER: {extracted_data['full_name_from_header']}")
-        else:
-            print(f"  NO NAME DETECTED FROM HEADER.")
+        temp_txt_path = None
+        try:
+            path_for_extractor = abs_path
+            if ext == ".xml":
+                plain = _xml_to_plain_text(abs_path)
+                with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as tf:
+                    tf.write(plain)
+                    temp_txt_path = tf.name
+                path_for_extractor = temp_txt_path
 
-        # Print detected language for multilingual debugging
-        print(f"  DETECTED LANGUAGE: {extracted_data.get('detected_language', 'unknown')}")
+            extracted = extract_cv_information(path_for_extractor)
 
-        # Print any extraction errors
-        if "error" in extracted_data.get("personal_information", {}) or "error" in extracted_data:
-            print(f"  EXTRACTION WARNING/ERROR: {extracted_data.get('raw_text', 'No specific error message.')}")
+            if not isinstance(extracted, dict):
+                raise ValueError("Extractor returned non-dict (None or invalid).")
 
-        # Save the complete extracted output for inspection
-        with open(output_json_path, 'w', encoding='utf-8') as f:
-            json.dump(extracted_data, f, indent=4, ensure_ascii=False)
+            # fuerza edición desde la ruta original (evita UNKNOWN por temporales)
+            extracted["master_edition"] = edition
 
-        print(f"  Extracted raw data saved to: {output_json_path}")
+            processed_count += 1
 
-    except Exception as e:
-        print(f"  CRITICAL ERROR processing {filename}: {e}")
-        # Save error log for this file
-        error_log_path = os.path.join(extracted_output_dir, os.path.splitext(filename)[0] + "_extraction_error.json")
-        with open(error_log_path, 'w', encoding='utf-8') as f:
-            json.dump({"filename": filename, "status": "failed_extraction", "error_message": str(e)}, f, indent=4, ensure_ascii=False)
-    finally:
-        # limpia el archivo temporal si se creó
-        if temp_txt_path and os.path.exists(temp_txt_path):
-            try:
-                os.remove(temp_txt_path)
-            except Exception:
-                pass
+            print(f"  RAW TEXT (first 500 chars): {extracted.get('raw_text', '')[:500]}...")
+            if extracted.get('full_name_from_header'):
+                print(f"  DETECTED NAME FROM HEADER: {extracted['full_name_from_header']}")
+            else:
+                print(f"  NO NAME DETECTED FROM HEADER.")
+            print(f"  DETECTED LANGUAGE: {extracted.get('detected_language', 'unknown')}")
+
+            with open(out_json, 'w', encoding='utf-8') as f:
+                json.dump(extracted, f, indent=4, ensure_ascii=False)
+            print(f"  Extracted raw data saved to: {out_json}")
+
+        except Exception as e:
+            print(f"  CRITICAL ERROR processing {rel_path}: {e}")
+            err_dir = os.path.join(OUT_ROOT, edition)
+            os.makedirs(err_dir, exist_ok=True)
+            err_path = os.path.join(err_dir, base_name + "_extraction_error.json")
+            with open(err_path, 'w', encoding='utf-8') as f:
+                json.dump({"filename": rel_path, "status": "failed_extraction", "error_message": str(e)}, f, indent=4, ensure_ascii=False)
+        finally:
+            if temp_txt_path and os.path.exists(temp_txt_path):
+                try:
+                    os.remove(temp_txt_path)
+                except Exception:
+                    pass
 
 if processed_count == 0:
-    print(f"\nNo supported CV files found in '{raw_cv_dir}' to process. Please ensure files are in this directory.")
+    print(f"\\nNo supported CV files found in '{RAW_ROOT}'. Put files under MASIxx subfolders (e.g., MASI10_Becarios/...).")
 else:
-    print(f"\n--- Extraction Test Completed. Processed {processed_count} files. ---")
-    print(f"Check '{extracted_output_dir}' for detailed raw extraction outputs.")
+    print(f"\\n--- Extraction Test Completed. Processed {processed_count} files. ---")
+    print(f"Check '{OUT_ROOT}/<EDITION>/' for detailed raw extraction outputs.")

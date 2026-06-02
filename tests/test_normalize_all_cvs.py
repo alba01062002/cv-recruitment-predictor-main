@@ -1,116 +1,161 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Normalizes refined CV JSONs from data/refined and saves normalized JSONs to data/normalized.
-Calculates years of experience, cleans errors, and structures languages as (language, level) tuples.
-
-Created on Thu Sep 18 16:25:20 2025
-@author: fran
+Normalizes refined CV JSONs from data/refined/<edition>/ and saves to data/normalized/<edition>/.
+Validates: CEFR languages only, no Erasmus entries left in education, and logs key summaries.
 """
+
 import os
+import sys
+
+# Define Project Root
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+
+# Add to sys.path to allow 'from src.X import Y'
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
+
+import re
 import json
 import logging
-from typing import Dict
+from typing import Dict, List, Optional
 
-from src.structure import normalize_llm_cv_output, save_to_json
+from src.normalization import normalize_llm_cv_output
 
-# Configure logging
+# ---------------- Logging ---------------- #
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
 )
 logger = logging.getLogger(__name__)
 
-# Define directory constants
-REFINED_DIR = os.path.join("data", "refined")
-NORMALIZED_DIR = os.path.join("data", "normalized")
+# ---------------- Paths ---------------- #
+REFINED_ROOT = os.path.join(PROJECT_ROOT, "data", "refined")
+NORMALIZED_ROOT = os.path.join(PROJECT_ROOT, "data", "normalized")
+os.makedirs(NORMALIZED_ROOT, exist_ok=True)
 
-# Create directories if they don't exist
-os.makedirs(REFINED_DIR, exist_ok=True)
-os.makedirs(NORMALIZED_DIR, exist_ok=True)
+# ---------------- Helpers ---------------- #
+_CEFR = {"A1", "A2", "B1", "B2", "C1", "C2"}
+# acepta "MASI10", "masi10", "MASI10_Becarios", o rutas anidadas ".../masi11/..."
+_EDITION_FLEX_RE = re.compile(r'(MASI(?P<yy>\d{2}))', re.IGNORECASE)
 
-def verify_normalized_cv(normalized_cv: Dict, filename: str) -> None:
+def _edition_from_relpath(rel_path: str) -> str:
     """
-    Logs key fields from normalized CV for debugging.
-
-    Args:
-        normalized_cv (Dict): Normalized CV data.
-        filename (str): Name of the processed file.
+    Devuelve la etiqueta de edición en minúsculas 'masi09', 'masi10', etc.
+    Si no se detecta, devuelve 'unknown'.
     """
-    name = normalized_cv.get("personal_information", {}).get("full_name", "N/A")
-    email = normalized_cv.get("personal_information", {}).get("email", "N/A")
-    education = normalized_cv.get("education", [{}])[0].get("degree", "N/A")
-    experience = normalized_cv.get("work_experience", [{}])[0].get("company", "N/A")
-    total_work_years = normalized_cv.get("total_work_years", 0.0)
-    languages = normalized_cv.get("languages", [])
-    is_refined = normalized_cv.get("refined", False)
+    rel_norm = rel_path.replace(os.sep, '/')
+    m = _EDITION_FLEX_RE.search(rel_norm)
+    if m:
+        return m.group(1).lower()  # 'masi09'
+    # fallback: intenta tomar la carpeta inmediata bajo data/refined
+    parts = rel_norm.split('/')
+    if parts:
+        # busca un componente que parezca masiXX
+        for p in parts:
+            if re.match(r'^MASI\d{2}$', p, flags=re.IGNORECASE):
+                return p.lower()
+    return "unknown"
 
-    logger.info(f"Verification for {filename}:")
-    logger.info(f"  Full Name: {name}")
-    logger.info(f"  Email: {email}")
-    logger.info(f"  First Education (degree): {education}")
-    logger.info(f"  First Experience (company): {experience}")
-    logger.info(f"  Total Work Years: {total_work_years}")
-    logger.info(f"  Languages: {languages}")
-    logger.info(f"  Refined by LLM: {is_refined}")
+def _save(path: str, obj: Dict) -> None:
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=4)
 
-def normalize_all_cvs() -> None:
-    """
-    Processes all JSONs in data/refined, normalizes them, and saves to data/normalized with _normalized.json suffix.
-    """
-    # Verify refined directory exists
-    if not os.path.exists(REFINED_DIR):
-        logger.error(f"Refined directory not found at {REFINED_DIR}")
+def _validate(normalized: Dict, filename: str) -> List[str]:
+    errors: List[str] = []
+
+    # 1) Idiomas en CEFR (languages_normalized debe ser [[lang, CEFR], ...])
+    for pair in normalized.get("languages_normalized", []):
+        if not (isinstance(pair, list) and len(pair) == 2 and str(pair[1]).upper() in _CEFR):
+            errors.append(f"[{filename}] language not CEFR-normalized: {pair}")
+
+    # 2) Erasmus no debe quedar en education_normalized
+    for e in normalized.get("education_normalized", []):
+        blob = " ".join(str(e.get(k, "")) for k in ("degree", "field", "year")).lower()
+        if "erasmus" in blob:
+            errors.append(f"[{filename}] Erasmus entry remained in education_normalized.")
+
+    # 3) degree_years en rango razonable
+    deg = normalized.get("degree_years", 0.0)
+    if not isinstance(deg, (int, float)) or deg < 0 or deg > 10:
+        errors.append(f"[{filename}] degree_years abnormal: {deg}")
+
+    return errors
+
+# ---------------- Main ---------------- #
+def main():
+    if not os.path.isdir(REFINED_ROOT):
+        logger.error(f"Refined root not found: {REFINED_ROOT}")
         return
 
-    processed_count = 0
-    error_count = 0
+    processed = 0
+    issues = 0
+    seen_editions = set()
 
-    logger.info(f"Starting normalization of CVs from '{REFINED_DIR}'...")
+    logger.info(f"Scanning refined CVs under: {REFINED_ROOT}")
 
-    # Process all JSONs in refined_dir
-    for filename in os.listdir(REFINED_DIR):
-        if not filename.endswith("_refined.json"):
-            logger.info(f"Skipping non-refined JSON file: {filename}")
-            continue
+    for root, _, files in os.walk(REFINED_ROOT):
+        for fn in files:
+            if not fn.endswith("_refined.json"):
+                continue
 
-        input_path = os.path.join(REFINED_DIR, filename)
-        base_name = os.path.splitext(filename)[0].replace("_refined", "")
-        output_path = os.path.join(NORMALIZED_DIR, f"{base_name}_normalized.json")
+            in_path = os.path.join(root, fn)
+            rel_path = os.path.relpath(in_path, REFINED_ROOT)  # e.g., "masi10/John_refined.json"
+            edition = _edition_from_relpath(rel_path)          # e.g., "masi10"
+            seen_editions.add(edition)
 
-        # Skip if output already exists
-        if os.path.exists(output_path):
-            logger.info(f"Skipping '{filename}': Normalized output exists at '{output_path}'")
-            processed_count += 1
-            continue
+            out_dir = os.path.join(NORMALIZED_ROOT, edition)
+            os.makedirs(out_dir, exist_ok=True)
 
-        logger.info(f"Processing file: {filename}")
-        try:
-            with open(input_path, "r", encoding="utf-8") as f:
-                llm_output = json.load(f)
+            out_path_ok = os.path.join(out_dir, fn.replace("_refined.json", "_normalized.json"))
+            out_path_err = os.path.join(out_dir, fn.replace("_refined.json", "_normalized_error.json"))
 
-            # Normalize CV data
-            normalized_cv = normalize_llm_cv_output(llm_output)
+            # Carga el refinado
+            try:
+                with open(in_path, "r", encoding="utf-8") as f:
+                    refined = json.load(f)
+            except Exception as e:
+                logger.error(f"Failed to read JSON: {in_path} | {e}")
+                continue
 
-            # Save normalized JSON
-            save_to_json(normalized_cv, output_path)
-            logger.info(f"Normalized and saved to: {output_path}")
+            # Normaliza
+            try:
+                normalized = normalize_llm_cv_output(refined)
+            except Exception as e:
+                logger.error(f"Normalization failed for {rel_path}: {e}")
+                _save(out_path_err, {"error": str(e), "filename": rel_path})
+                issues += 1
+                continue
 
-            # Verify key fields
-            verify_normalized_cv(normalized_cv, filename)
-            processed_count += 1
+            # Si el refinado no llevaba master_edition, la inferimos de la ruta
+            normalized.setdefault("master_edition", edition.upper())
 
-        except json.JSONDecodeError as e:
-            logger.error(f"Invalid JSON in {filename}: {e}")
-            error_count += 1
-        except FileNotFoundError as e:
-            logger.error(f"File not found for {filename}: {e}")
-            error_count += 1
-        except Exception as e:
-            logger.error(f"Error processing {filename}: {e}")
-            error_count += 1
+            # Valida
+            errs = _validate(normalized, rel_path)
 
-    logger.info(f"Normalization completed. Processed {processed_count} CVs, {error_count} errors.")
+            # Guarda segun validación
+            if errs:
+                _save(out_path_err, normalized)
+                logger.warning(f"{rel_path} → validation issues: {errs}")
+                issues += 1
+            else:
+                _save(out_path_ok, normalized)
+                processed += 1
+                logger.info(
+                        f"{rel_path}: degree_years={normalized.get('degree_years')}, "
+                        f"work={normalized.get('total_work_years')}, "
+                        f"intl_has={normalized.get('has_international_experience')}, "
+                        f"age_grad={normalized.get('age_at_graduation')}, "
+                        f"langs={normalized.get('languages_normalized')}"
+                )
 
-# Execute the normalization process
-normalize_all_cvs()
+    if not seen_editions:
+        logger.warning("No refined files found. Ensure you have data/refined/<MASIXX>/*_refined.json")
+    else:
+        logger.info(f"Editions found: {', '.join(sorted(seen_editions))}")
+
+    logger.info(f"Done. OK={processed}, Issues={issues}, Output root={NORMALIZED_ROOT}")
+
+if __name__ == "__main__":
+    main()

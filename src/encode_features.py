@@ -39,6 +39,13 @@ from sklearn.preprocessing import StandardScaler
 import numpy as np
 import joblib
 
+import nltk
+from nltk.corpus import stopwords
+try:
+    STOP_WORDS = list(set(stopwords.words('english') + stopwords.words('spanish')))
+except:
+    STOP_WORDS = 'english'
+
 logger = logging.getLogger(__name__)
 
 # -------------------- helpers de normalización de nombres --------------------
@@ -172,17 +179,9 @@ def _convert_level_to_int(lvl: str) -> int:
     if lvl in ("A1", "BEGINNER"): return 1
     return 0
 
-def _extract_dense_features(cv: Dict) -> List[float]:
+def _extract_dense_features_dict(cv: Dict) -> Dict[str, float]:
     """
-    Extrae vector numérico (dense) ordenado:
-    0: degree_years
-    1: age_at_graduation
-    2: total_work_years
-    3: has_international_experience (0.0/1.0)
-    4: has_master (0.0/1.0)
-    5: n_hard_skills
-    6: n_languages
-    7: max_english_level
+    Extrae variables numéricas (dense) en formato Dict para mapeo flexible.
     """
     # 1. Campos directos del normalizador
     degree_years = float(cv.get("degree_years", 5.0))
@@ -208,27 +207,25 @@ def _extract_dense_features(cv: Dict) -> List[float]:
                 if score > max_eng:
                     max_eng = score
     
-    return [
-        degree_years,
-        age_at_graduation,
-        total_work_years,
-        has_intl,
-        has_mst,
-        float(n_hard),
-        float(n_langs),
-        float(max_eng)
-    ]
+    return {
+        "degree_years": degree_years,
+        "age_at_graduation": age_at_graduation,
+        "total_work_years": total_work_years,
+        "has_international_experience": has_intl,
+        "has_master": has_mst,
+        "n_hard_skills": float(n_hard),
+        "n_languages": float(n_langs),
+        "max_english_level": float(max_eng)
+    }
 
-DENSE_FEATURE_NAMES = [
-    "dense_degree_years",
-    "dense_age_at_graduation",
-    "dense_total_work_years",
-    "dense_has_international_experience",
-    "dense_has_master",
-    "dense_n_hard_skills",
-    "dense_n_languages",
-    "dense_max_english_level"
-]
+# Mapping: Section -> List of dense keys
+DENSE_SECTION_MAPPING = {
+    "education": ["degree_years", "age_at_graduation", "has_master"],
+    "work": ["total_work_years"],
+    "international": ["has_international_experience"],
+    "skills": ["n_hard_skills"],
+    "languages": ["n_languages", "max_english_level"]
+}
 
 # -------------------- carga de labels --------------------
 def _load_labels_map(labels_file: str) -> Dict[str, int]:
@@ -308,43 +305,67 @@ def _get_display_name(cv: Dict, fallback: str) -> str:
 
 # -------------------- construcción de textos --------------------
 def _cv_to_text_combined(cv: Dict) -> str:
-    # Education
-    edu_txts = []
+    """
+    Constructs a 'Clean & Contextual' combined text.
+    1. Removes verbose 'description' fields to reduce noise.
+    2. Adds prefixes (EDU_, JOB_, etc.) to allow the model to distinguish context.
+    """
+    
+    parts = []
+
+    # Helper to prefix tokens
+    def _add_section(prefix: str, text_list: List[str]):
+        # Join, clean, then prefix every token
+        raw = " ".join(text_list)
+        clean = _clean_token_text(raw)
+        if not clean:
+            return
+        # Prefix each word (filtering stopwords first)
+        prefixed = []
+        for w in clean.split():
+            if w in STOP_WORDS:
+                continue
+            prefixed.append(f"{prefix}{w}")
+        parts.extend(prefixed)
+
+    # Education (Exclude description)
     for e in cv.get("education_normalized", []) or cv.get("education", []):
-        edu_txts.append(_join_fields(e, ["degree", "field", "university", "location", "description"])) # Quitamos "year"
+        # Focus on Degree, Field, Uni - highly relevant signals
+        _add_section("education::", _flatten_any(_join_fields(e, ["degree", "field", "university", "location"])))
 
-    # Work
-    work_txts = []
+    # Work (Exclude description)
     for w in cv.get("work_experience_normalized", []) or cv.get("work_experience", []):
-        work_txts.append(_join_fields(w, ["company", "position", "description", "location"]))
+        # Focus on Role/Company
+        _add_section("work::", _flatten_any(_join_fields(w, ["company", "position"])))
 
-    # International
-    intl_txts = []
+    # International (Exclude description)
     for it in cv.get("international_experience_normalized", []) or cv.get("international_experience", []):
-        intl_txts.append(_join_fields(it, ["type", "country", "institution_or_company", "description"]))
+        _add_section("international::", _flatten_any(_join_fields(it, ["type", "country", "institution_or_company"])))
 
-    # Languages
+    # Languages (High Value)
     lang_txts = []
     for l in cv.get("languages_normalized", []) or cv.get("languages", []):
         lang_txts.extend(_flatten_any(l))
+    _add_section("languages::", lang_txts)
 
-    # Skills
+    # Skills (Already extracted, just clean and add)
     skills_txt = _extract_skills_text(cv)
+    _add_section("skills::", [skills_txt])
 
-    # Others / volunteer
-    others = " ".join(_flatten_any(cv.get("other_interests_normalized") or cv.get("other_interests") or []))
-    volun  = " ".join(
-        _join_fields(v, ["organization","role","description"])
-        for v in (cv.get("volunteering_normalized") or cv.get("volunteering") or [])
-    )
-
-    chunks = edu_txts + work_txts + intl_txts + lang_txts
-    base = " ".join([ " ".join(chunks), skills_txt, others, volun ]).strip()
+    # Others / volunteer (Exclude description)
+    others = _flatten_any(cv.get("other_interests_normalized") or cv.get("other_interests") or [])
+    _add_section("other::", others)
     
-    base = _clean_token_text(base) # Limpieza final global
+    for v in (cv.get("volunteering_normalized") or cv.get("volunteering") or []):
+        _add_section("volunteer::", _flatten_any(_join_fields(v, ["organization","role"])))
+
+    base = " ".join(parts).strip()
+    
     if not base:
+        # Fallback to raw if empty
         base = _clean_token_text(cv.get("raw_text") or "")
-    return base if base else "cv"
+        
+    return base
 
 def _cv_to_text_separate(cv: Dict) -> Dict[str, str]:
     sections: Dict[str, str] = {}
@@ -412,7 +433,11 @@ def encode_features(
     name_keys: List[str] = []
     texts_combined: List[str] = []
     texts_sections: Dict[str, List[str]] = {}
-    dense_features_list: List[List[float]] = []
+    
+    # Updated: Store dense as list of dicts for flexible mapping
+    # dense_dicts_list: List[Dict[str, float]] = [] (Not needed for logic change logic)
+    dense_dicts_list: List[Dict[str, float]] = []
+    
     skipped_by_filter = 0
 
     for fn, cv in _iter_normalized_jsons(normalized_dir):
@@ -437,7 +462,7 @@ def encode_features(
                 texts_sections[s].append(secs.get(s, ""))
         
         # DENSE
-        dense_features_list.append(_extract_dense_features(cv))
+        dense_dicts_list.append(_extract_dense_features_dict(cv))
 
     n_docs = len(filenames)
     if n_docs == 0:
@@ -448,63 +473,114 @@ def encode_features(
     # 3) Vectorizar Texto (TF-IDF)
     feature_names_global: List[str] = []
     
-    # Config mejorada: min_df=2 (limpieza ruido), ngram_range=(1,2)
-    tfidf_args = dict(min_df=2, ngram_range=(1, 2), stop_words='english') 
+    # Config mejorada: binary=True (presence), sublinear_tf=True, min_df=2 (limpieza ruido), ngram_range=(1,2), bilingual stopwords
+    base_args = dict(min_df=2, ngram_range=(1, 2), stop_words=STOP_WORDS, binary=True, sublinear_tf=True) 
 
     if vectorization_mode == "combined":
-        vec = TfidfVectorizer(**tfidf_args)
+        # Updated Regex to allow colons '::' in tokens
+        vec = TfidfVectorizer(max_features=10000, 
+                              min_df=2, 
+                              ngram_range=(1, 2), 
+                              binary=True, 
+                              sublinear_tf=True, 
+                              token_pattern=r"(?u)\b[\w:]+\b")
         try:
             X_text = vec.fit_transform(texts_combined)
+            joblib.dump(vec, os.path.join(models_dir, "tfidf_combined.joblib"))
+            try:
+                feature_names_global = list(vec.get_feature_names_out())
+            except:
+                feature_names_global = [f"text_{i}" for i in range(X_text.shape[1])]
         except ValueError:
-            # Fallback si vocab vacío
-            vec = TfidfVectorizer(min_df=1)
-            X_text = vec.fit_transform(texts_combined)
+             vec = TfidfVectorizer(min_df=1)
+             X_text = vec.fit_transform(texts_combined)
+             feature_names_global = list(vec.get_feature_names_out())
+
+        # For combined mode, we DO NOT append dense features (User Request)
+        # X_dense = np.array(X_dense_vals, dtype=float)
+        # scaler = StandardScaler()
+        # X_dense_scaled = scaler.fit_transform(X_dense)
+        # joblib.dump(scaler, os.path.join(models_dir, "dense_scaler_combined.joblib"))
+
+        # X_final = hstack([X_text, csr_matrix(X_dense_scaled)]).tocsr()
+        # feature_names_global.extend([f"dense_{k}" for k in all_dense_keys])
         
-        joblib.dump(vec, os.path.join(models_dir, "tfidf_combined.joblib"))
-        try:
-            feature_names_global = list(vec.get_feature_names_out())
-        except:
-            feature_names_global = [f"text_{i}" for i in range(X_text.shape[1])]
+        X_final = X_text # Just text
+
     else:
+        # SEPARATE MODE: Integrate dense into sections
         mats = []
-        vocab_sizes = []
-        section_order = []
+        
+        # Helper to get dense matrix for a section
+        def _get_section_dense_matrix(section_name: str) -> Optional[Tuple[csr_matrix, List[str], Any]]:
+            if section_name not in DENSE_SECTION_MAPPING:
+                return None
+            
+            keys = DENSE_SECTION_MAPPING[section_name]
+            # Extract values
+            vals = []
+            for d in dense_dicts_list:
+               vals.append([d[k] for k in keys])
+            
+            X_d = np.array(vals, dtype=float)
+            
+            # Scale
+            scl = StandardScaler()
+            X_d_scl = scl.fit_transform(X_d)
+            # joblib.dump(scl, os.path.join(models_dir, f"dense_scaler_{section_name}.joblib")) # Deprecated
+            
+            feat_names = [f"{section_name}::dense_{k}" for k in keys]
+            return csr_matrix(X_d_scl), feat_names, scl
+
         for s, docs in texts_sections.items():
+            # 1. TF-IDF
             if not any(t.strip() for t in docs):
                 docs = ["cv"] * len(docs)
-            vec = TfidfVectorizer(**tfidf_args)
+                
+            vec = TfidfVectorizer(max_features=4000, **base_args)
             try:
                 Xs = vec.fit_transform(docs)
             except ValueError:
                 vec = TfidfVectorizer(min_df=1)
                 Xs = vec.fit_transform(docs)
+            
+            # 2. Append Dense (if any for this section)
+            dense_res = _get_section_dense_matrix(s)
+            scaler_obj = None
+            
+            if dense_res:
+                Xd, fd_names, scaler_obj = dense_res
+                Xs_combined = hstack([Xs, Xd])
                 
-            mats.append(Xs)
-            vocab_sizes.append(Xs.shape[1])
-            section_order.append(s)
-            joblib.dump(vec, os.path.join(models_dir, f"tfidf_{s}.joblib"))
-            try:
-                feats = [f"{s}::{t}" for t in vec.get_feature_names_out()]
-                feature_names_global.extend(feats)
-            except:
-                pass
-        X_text = hstack(mats).tocsr()
+                f_names = []
+                try:
+                    f_names = [f"{s}::{t}" for t in vec.get_feature_names_out()]
+                except:
+                    f_names = [f"{s}::text_{i}" for i in range(Xs.shape[1])]
+                    
+                f_names.extend(fd_names)
+                mats.append(Xs_combined)
+                feature_names_global.extend(f_names)
+            else:
+                mats.append(Xs)
+                f_names = []
+                try:
+                    f_names = [f"{s}::{t}" for t in vec.get_feature_names_out()]
+                except:
+                    f_names = [f"{s}::text_{i}" for i in range(Xs.shape[1])]
+                feature_names_global.extend(f_names)
 
-    # 4) Procesar Dense Features
-    X_dense = np.array(dense_features_list, dtype=float)
-    
-    # Escalar Dense Features (StandardScaler)
-    scaler = StandardScaler()
-    X_dense_scaled = scaler.fit_transform(X_dense)
-    joblib.dump(scaler, os.path.join(models_dir, "dense_scaler.joblib"))
-    
-    # Nombre features dense
-    feature_names_global.extend(DENSE_FEATURE_NAMES)
-    
-    # 5) Concatenar Híbrido
-    X_final = hstack([X_text, csr_matrix(X_dense_scaled)]).tocsr()
+            # SAVE UNIFIED PROCESSOR
+            # processor_{section}.joblib
+            joblib.dump({
+                "section": s,
+                "tfidf": vec,
+                "scaler": scaler_obj
+            }, os.path.join(models_dir, f"processor_{s}.joblib"))
 
-    # 6) Etiquetas
+        X_final = hstack(mats).tocsr()
+
+    # 6) Labels
     y = np.zeros(n_docs, dtype=int)
     for i, k in enumerate(name_keys):
         if k in labels_map:
@@ -522,9 +598,6 @@ def encode_features(
     with open(os.path.join(features_dir, "feature_names.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(feature_names_global))
 
-    logger.info(f"Saved Hybrid features (Text+Dense) to {features_dir} "
+    logger.info(f"Saved Hybrid features (Text+Dense-Integrated) to {features_dir} "
                 f"(X: {X_final.shape}, positives: {int(y.sum())})")
-    
-    # Check rápido
-    logger.info(f"  Dense stats sample (first row): {dense_features_list[0]}")
     return True
